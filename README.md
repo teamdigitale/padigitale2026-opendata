@@ -1,7 +1,7 @@
 <h1 align="center">PA digitale 2026 - Open Data</h1>
 
 <div align="center">
-<img width="256" height="256" src="img/site-logo.png">
+<img width="256" height="256" src="img/site-logo.svg">
 </div>
 
 <br />
