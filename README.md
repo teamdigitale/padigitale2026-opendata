@@ -32,7 +32,7 @@ Nello specifico, i seguenti dati sono aggiornati quotidianamente alle **XXX**:
 - [Licenza](#licenza)
 
 
-# Repository structure
+# Struttura repository
 ```
 padigitale2026-opendata/
 │
