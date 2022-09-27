@@ -1,0 +1,178 @@
+profile: data-package
+description: Dati riguardo le candidature relative a PA digitale 2026 con decreto di finanziamento pubblicato
+title: it-dgc-opendata
+licenses:
+  - name: "CC-BY-4.0"
+    path: "https://creativecommons.org/licenses/by/4.0/"
+    title: "Attribution 4.0 International (CC BY 4.0)"
+homepage: "https://github.com/teamdigitale/padigitale2026-opendata"
+contributors:
+  - title: "Dipartimento per la Trasformazione Digitale"
+    path: "https://innovazione.gov.it/dipartimento/"
+    role: "author"
+resources:
+  - path: data/avvisi.csv
+    name: avvisi
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    stats:
+      hash: 8da8da06d1bba6413cfbb898efe7845f
+      bytes: 3658
+      fields: 8
+      rows: 21
+    encoding: utf-8
+    schema:
+      fields:
+        - type: string
+          name: Titolo
+          description: Titolo descrittivo dell'avviso pubblicato su PA digitale 2026 e riportato nelle candidature
+        - type: string
+          name: Misura
+          description: Misura del PNRR a cui l'avviso appartiene  
+        - type: date
+          name: Data Inizio Bando
+          description: Data di pubblicazione dell'avviso  
+        - type: date
+          name: Data Fine Bando
+          description: Data di scadenza dell'avviso, entro cui è possibile inviare una candidatura  
+        - type: string
+          name: Stato
+          description: Stato attuale dell'avviso  
+        - type: integer
+          name: Totale importo stanziato
+          description: Fondi stanziati per il finanziamento delle candidature dell'avviso 
+          constraints:
+            minimum: 0
+        - type: integer
+          name: Totale Importo Misura
+          description: Fondi totali previsti da PNRR per la singola misura. 
+          constraints:
+            minimum: 0
+        - type: string
+          name: Soggetti Destinatari
+          description: Soggetti destinatari dell'avviso che si possono candidare su PA digitale 2026  
+      primaryKey: Titolo
+    scheme: file
+  - path: data/candidature_comuni_finanziate.csv
+      name: candidature_comuni_finanziate
+      profile: tabular-data-resource
+      scheme: file
+      format: csv
+      hashing: md5
+      stats:
+        hash: 6b517102a9f25565599833774a458a15
+        bytes: 3150
+        fields: 11
+        rows: 20
+      encoding: utf-8
+      schema:
+        fields:
+          - type: string
+            name: Codice IPA
+          - type: string
+            name: Comune
+          - type: string
+            name: Provincia
+          - type: string
+            name: Regione
+          - type: integer
+            name: Importo Finanziamento
+            constraints:
+              minimum: 0
+          - type: string
+            name: Avviso
+          - type: datetime
+            name: Data Invio Candidatura
+          - type: date
+            name: Data Finanziamento
+          - type: string
+            name: Codice CUP
+          - type: integer
+            name: Numero Finestra Temporale
+          - type: integer
+            name: Numero di Protocollo
+            constraints:
+              minimum: 0
+    scheme: file
+  - path: data/candidature_scuole_finanziate.csv
+      name: candidature_comuni_finanziate
+      profile: tabular-data-resource
+      scheme: file
+      format: csv
+      hashing: md5
+      stats:
+        bytes: 3150
+        fields: 11
+        rows: 20
+      encoding: utf-8
+      schema:
+        fields:
+          - type: string
+            name: Codice IPA
+          - type: string
+            name: Comune
+          - type: string
+            name: Provincia
+          - type: string
+            name: Regione
+          - type: integer
+            name: Importo Finanziamento
+            constraints:
+              minimum: 0
+          - type: string
+            name: Avviso
+          - type: datetime
+            name: Data Invio Candidatura
+          - type: date
+            name: Data Finanziamento
+          - type: string
+            name: Codice CUP
+          - type: integer
+            name: Numero Finestra Temporale
+          - type: integer
+            name: Numero di Protocollo
+            constraints:
+              minimum: 0
+    scheme: file
+  - path: data/candidature_altrienti_finanziate.csv
+      name: candidature_comuni_finanziate
+      profile: tabular-data-resource
+      scheme: file
+      format: csv
+      hashing: md5
+      stats:
+        bytes: 3150
+        fields: 11
+        rows: 20
+      encoding: utf-8
+      schema:
+        fields:
+          - type: string
+            name: Codice IPA
+          - type: string
+            name: Comune
+          - type: string
+            name: Provincia
+          - type: string
+            name: Regione
+          - type: integer
+            name: Importo Finanziamento
+            constraints:
+              minimum: 0
+          - type: string
+            name: Avviso
+          - type: datetime
+            name: Data Invio Candidatura
+          - type: date
+            name: Data Finanziamento
+          - type: string
+            name: Codice CUP
+          - type: integer
+            name: Numero Finestra Temporale
+          - type: integer
+            name: Numero di Protocollo
+            constraints:
+              minimum: 0
+    scheme: file
