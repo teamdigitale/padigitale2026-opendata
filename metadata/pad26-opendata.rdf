@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:dcat="http://www.w3.org/ns/dcat#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:ns0="http://www.w3.org/ns/locn#"
+         xmlns:vcard="http://www.w3.org/2006/vcard/ns#">
+
+  <rdf:Description rdf:about="http://sample.org/meta/agent/PCM">
+    <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Agent"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+    <foaf:name>MITD - Dipartimento per la Trasformazione Digitale</foaf:name>
+    <dc:identifier>PCM</dc:identifier>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sample.org/meta/catalog/cat1">
+
+    <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Catalog"/>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Catalog"/>
+    <dc:title xml:lang="en">PA digitale 2026 - Open Data</dc:title>
+    <dc:title xml:lang="it">PA digitale 2026 - Open Data</dc:title>
+    <dc:description xml:lang="en">This repository contains all data related to the funding request by municipalities, schools and other PA related to the public notices on PA digitale 2026.</dc:description>
+    <dc:description xml:lang="it">Questa repository contiene tutti i dati pubblici relativi alle candidature fatte dai comuni, scuole e altre PA relative agli avvisi pubblicati su PA digitale 2026.</dc:description>
+    <dc:publisher rdf:resource="http://sample.org/meta/agent/PCM"/>
+
+    <!-- DATASET: CANDIDATURE FINANZIATE -->
+    <dcat:dataset>
+      <rdf:Description rdf:about="@PLH:URL_DESCRIPTION_DATASET">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dc:identifier>@PLH:DATASET_IDENTIFIER</dc:identifier>
+        <dc:title xml:lang="it">@PLH:TITLE_IT</dc:title>
+        <dc:title xml:lang="en">@PLH:TITLE_EN </dc:title>
+        <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
+        <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
+        <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TECH"/>
+        <dc:rightsHolder rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <dc:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+        <dcat:landingPage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
+
+        <!-- 
+          Componente per singola distribuzione del dataset. 
+          Moltiplicare componente se presenti più distribuzioni.
+        -->
+        <!--
+          DISTRIBUZIONE CSV
+        -->
+        <dcat:distribution>
+          <rdf:Description rdf:about="@PLH:ABOUT">
+            <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
+            <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+            <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dcat:accessURL rdf:resource="@PLH:ACCESSURL"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/@PLH:LICENSE"/>
+            <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
+            <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
+            <dc:title xml:lang="it">@PLH:DESCRIPTION_IT</dc:title>
+            <dc:title xml:lang="en">@PLH:DESCRIPTION_EN</dc:title>
+            <dcat:downloadURL rdf:resource="@PLH:DOWNLOADURL"/>
+            <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+          </rdf:Description>
+        </dcat:distribution>
+
+
+
+        <!--
+          DISTRIBUZIONE JSON
+        -->
+
+        <dcat:distribution>
+          <rdf:Description rdf:about="@PLH:ABOUT">
+            <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
+            <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+            <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+            <dcat:accessURL rdf:resource="@PLH:ACCESSURL"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/@PLH:LICENSE"/>
+            <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
+            <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
+            <dc:title xml:lang="it">@PLH:DESCRIPTION_IT</dc:title>
+            <dc:title xml:lang="en">@PLH:DESCRIPTION_EN</dc:title>
+            <dcat:downloadURL rdf:resource="@PLH:DOWNLOADURL"/>
+            <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+          </rdf:Description>
+        </dcat:distribution>
+
+
+        <dcat:contactPoint rdf:resource="http://sample.org/meta/contact/PCM"/>
+        <dc:publisher rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <dc:creator rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:issued>
+
+        <dc:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+        <dc:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dcat:keyword>PNRR</dcat:keyword>
+        <dcat:keyword>PA digitale 2026</dcat:keyword>
+        <dc:location>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/ns/locn#Geometry"/>
+            <ns0:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#gmlLiteral">&lt;gml:Envelope srsName=&quot;http://www.opengis.net/def/EPSG/0/4326&quot;&gt;&lt;gml:lowerCorner&gt;6.7499552751  36.619987291&lt;/gml:lowerCorner&gt;&lt;gml:upperCorner&gt; 18.4802470232  47.1153931748&lt;/gml:upperCorner&gt;&lt;/gml:Envelope&gt;</ns0:geometry>
+          </rdf:Description>
+        </dc:location>
+
+      </rdf:Description>
+    </dcat:dataset>
+
+    
+    <!-- DATASET: AVVISI-->
+    <dcat:dataset>
+      <rdf:Description rdf:about="@PLH:URL_DESCRIPTION_DATASET">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dc:identifier>@PLH:DATASET_IDENTIFIER</dc:identifier>
+        <dc:title xml:lang="it">@PLH:TITLE_IT</dc:title>
+        <dc:title xml:lang="en">@PLH:TITLE_EN </dc:title>
+        <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
+        <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
+        <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TECH"/>
+        <dc:rightsHolder rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <dc:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+        <dcat:landingPage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
+        <!--
+          DISTRIBUZIONE CSV
+        -->
+        <dcat:distribution>
+          <rdf:Description rdf:about="@PLH:ABOUT">
+            <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
+            <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+            <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dcat:accessURL rdf:resource="@PLH:ACCESSURL"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/@PLH:LICENSE"/>
+            <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
+            <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
+            <dc:title xml:lang="it">@PLH:DESCRIPTION_IT</dc:title>
+            <dc:title xml:lang="en">@PLH:DESCRIPTION_EN</dc:title>
+            <dcat:downloadURL rdf:resource="@PLH:DOWNLOADURL"/>
+            <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+          </rdf:Description>
+        </dcat:distribution>
+
+
+
+        <!--
+          DISTRIBUZIONE JSON
+        -->
+
+        <dcat:distribution>
+          <rdf:Description rdf:about="@PLH:ABOUT">
+            <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
+            <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+            <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+            <dcat:accessURL rdf:resource="@PLH:ACCESSURL"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/@PLH:LICENSE"/>
+            <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
+            <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
+            <dc:title xml:lang="it">@PLH:DESCRIPTION_IT</dc:title>
+            <dc:title xml:lang="en">@PLH:DESCRIPTION_EN</dc:title>
+            <dcat:downloadURL rdf:resource="@PLH:DOWNLOADURL"/>
+            <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+          </rdf:Description>
+        </dcat:distribution>
+
+
+        <dcat:contactPoint rdf:resource="http://sample.org/meta/contact/PCM"/>
+        <dc:publisher rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <dc:creator rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:issued>
+
+        <dc:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+        <dc:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dcat:keyword>PNRR</dcat:keyword>
+        <dcat:keyword>PA digitale 2026</dcat:keyword>
+        <dc:location>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/ns/locn#Geometry"/>
+            <ns0:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#gmlLiteral">&lt;gml:Envelope srsName=&quot;http://www.opengis.net/def/EPSG/0/4326&quot;&gt;&lt;gml:lowerCorner&gt;6.7499552751  36.619987291&lt;/gml:lowerCorner&gt;&lt;gml:upperCorner&gt; 18.4802470232  47.1153931748&lt;/gml:upperCorner&gt;&lt;/gml:Envelope&gt;</ns0:geometry>
+          </rdf:Description>
+        </dc:location>
+
+      </rdf:Description>
+    </dcat:dataset>
+<!-- 
+Componente singola finale
+-->
+    <dcat:themeTaxonomy rdf:resource="http://publications.europa.eu/resource/authority/data-theme"/>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+    <foaf:homepage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
+    <dc:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:issued>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://sample.org/meta/contact/PCM">
+    <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Organization"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
+    <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
+    <vcard:fn>open data</vcard:fn>
+    <!-- <vcard:hasEmail rdf:resource="mailto:@PLH:MAILTO"/>
+    <vcard:hasUrl rdf:resource="@PLH:HASURL8"/>
+  --> 
+  </rdf:Description>
+</rdf:RDF>
