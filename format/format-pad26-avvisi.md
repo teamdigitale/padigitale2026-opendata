@@ -10,13 +10,13 @@
 
 | Campo | Tipo di dati | Descrizione | Formato |
 | --- | --- | --- | --- |
-| Titolo | string | Titolo descrittivo dell'avviso pubblicato su PA digitale 2026 e riportato nelle candidature| |
-| Misura | string | Misura del PNRR a cui l'avviso appartiene | |
-| Data Inizio Bando | datetime | Data di pubblicazione dell'avviso | YYYY-MM-dd|
-| Data Fine Bando | datetime | Data di scadenza dell'avviso, entro cui è possibile inviare una candidatura | YYYY-MM-dd|
-| Stato| string | Stato attuale dell'avviso | |
-| Totale Importo stanziato| integer | Fondi stanziati per il finanziamento delle candidature dell'avviso | |
-| Totale Importo Misura| integer | Fondi totali previsti da PNRR per la singola misura. | |
-| Soggetti Destinatari| string | Soggetti destinatari dell'avviso che si possono candidare su PA digitale 2026 | |
+| titolo | string | Titolo descrittivo dell'avviso pubblicato su PA digitale 2026 e riportato nelle candidature| |
+| misura | string | Misura del PNRR a cui l'avviso appartiene | |
+| data_inizio_bando | datetime | Data di pubblicazione dell'avviso | YYYY-MM-dd|
+| data_fine_bando | datetime | Data di scadenza dell'avviso, entro cui è possibile inviare una candidatura | YYYY-MM-dd|
+| stato| string | Stato attuale dell'avviso | |
+| totale_importo_stanziato | integer | Fondi stanziati per il finanziamento delle candidature dell'avviso | |
+| totale_importo_misura | integer | Fondi totali previsti da PNRR per la singola misura. | |
+| soggetti_destinatari | string | Soggetti destinatari dell'avviso che si possono candidare su PA digitale 2026 | |
 
 Questi dati sono disponibili anche in formato json.

@@ -15,16 +15,16 @@ I file sono tutti strutturati nella seguente maniera:
 
 | Campo | Tipo di dati | Descrizione | Formato |
 | --- | --- | --- | --- |
-| Codice IPA | string | Codice identificativo estratto dall'Indice delle Pubbliche Amministrazioni | |
-| Comune | string | Comune associato alla PA, come riportato in IPA. | |
-| Provincia | string | Provincia associata alla PA, come riportato in IPA. | |
-| Regione | string | Regione associata alla PA, come riportato in IPA. | |
-| Importo Finanziamento | integer | Importo del voucher richiesto dalla PA nella candidatura | |
-| Avviso | string | Avviso a cui l'ente si è candidato | |
-| Data Invio Candidatura | datetime | Data in cui la PA ha trasmetto la sua candidatura al Dipartimento della Trasformazione Digitale.  | yyyy-MM-ddTHH:mm:ss.SSS Z|
-| Data Finanziamento | datetime | Data in cui è stato decretato l'assegnazione del voucher. | yyyy-MM-dd |
-| Codice CUP | string | Codice CUP, trasmesso dalla PA, associato al progetto della candidatura. | |
-| Numero Finestra Temporale | integer | Progessivo numerico indicativo della finestra temporale in cui la PA si è candidata al rispettivo avviso. | |
-| Numero di Protocollo | integer | Progressivo numerico relativo al decreto di finanziamento in cui alla candidatura è stato assegnato il finanziamento.| |
+| codice_ipa | string | Codice identificativo estratto dall'Indice delle Pubbliche Amministrazioni | |
+| comune | string | Comune associato alla PA, come riportato in IPA. | |
+| provincia | string | Provincia associata alla PA, come riportato in IPA. | |
+| regione | string | Regione associata alla PA, come riportato in IPA. | |
+| importo_finanziamento | integer | Importo del voucher richiesto dalla PA nella candidatura | |
+| avviso | string | Avviso a cui l'ente si è candidato | |
+| data_invio_candidatura | datetime | Data in cui la PA ha trasmetto la sua candidatura al Dipartimento della Trasformazione Digitale.  | yyyy-MM-ddTHH:mm:ss.SSS Z|
+| data_finanziamento | datetime | Data in cui è stato decretato l'assegnazione del voucher. | yyyy-MM-dd |
+| codice_cip| string | Codice CUP, trasmesso dalla PA, associato al progetto della candidatura. | |
+| numero finestra temporale | integer | Progessivo numerico indicativo della finestra temporale in cui la PA si è candidata al rispettivo avviso. | |
+| numero di protocollo | integer | Progressivo numerico relativo al decreto di finanziamento in cui alla candidatura è stato assegnato il finanziamento.| |
 
 Questi dati sono disponibili anche in formato json.
