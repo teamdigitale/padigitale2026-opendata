@@ -21,7 +21,7 @@
 
 Questa repository contiene i dati pubblici estratti da [PA digitale 2026](https://padigitale2026.gov.it/).
 
-Nello specifico, i seguenti dati sono aggiornati quotidianamente alle **XXX**: 
+Nello specifico, i seguenti dati sono aggiornati quotidianamente alle 2:00 (UTC): 
 - Candidature a cui è stato assegnato un finanziamento dal relativo decreto. 
 
 # Contenuto
@@ -51,26 +51,23 @@ padigitale2026-opendata/
 ```
 
 # Formato Dati
-- [Avvisi PA digitale 2026](https://github.com/teamdigitale/padigitale2026-opendata/blob/master/format/format-pad26-avvisi.md)
-- [Candidature Finanziate](https://github.com/teamdigitale/padigitale2026-opendata/blob/master/format/format-pad26-candidature-finanziate.md)
+- [Avvisi PA digitale 2026](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-avvisi.md)
+- [Candidature Finanziate](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-finanziate.md)
 
 
 Nella repository si possono trovare le tabelle, in formato .json e .csv, relative alle candidature finanziate e agli avvisi pubblicati su PA digitale 2026. 
 
 
 # Aggiornamento Dati
-Dati Candidature Finanziate: ogni giorno alle **XXX**.
+Dati Candidature Finanziate: ogni giorno alle 2:00 (UTC).
 
 # Licenza
 
-## Authors / Copyright / Maintainers
+## Authors / Copyright
 
-Copyright 2022 (c) **XXX**.
-
-Please check the [AUTHORS](AUTHORS) file for extended reference.
-
-## Third-party component licences
+Copyright 2022 (c) Dipartimento per la trasformazione digitale.
+Far riferimento al file [AUTHORS](AUTHORS) per il corretto riferimento esteso. 
 
 ## Dettagli Licenza
 
-The licence for this repository is a Creative Commons Attribution 4.0 International. Please see the [LICENSE](LICENSE) file for full reference.
+La licenza di questa repository è una CC-BY-4.0 (Creative Commons Attribution 4.0 International). Far riferimento al file [LICENSE](LICENSE) per il dettaglio della licenza.
