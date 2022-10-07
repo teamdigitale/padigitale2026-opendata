@@ -26,14 +26,14 @@
 
     <!-- DATASET: CANDIDATURE FINANZIATE -->
     <dcat:dataset>
-      <rdf:Description rdf:about="@PLH:URL_DESCRIPTION_DATASET">
+      <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-finanziate.md">
         <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
         <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-        <dc:identifier>@PLH:DATASET_IDENTIFIER</dc:identifier>
-        <dc:title xml:lang="it">@PLH:TITLE_IT</dc:title>
-        <dc:title xml:lang="en">@PLH:TITLE_EN </dc:title>
-        <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
-        <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
+        <dc:identifier>PCM:pad26_fin_comuni</dc:identifier>
+        <dc:title xml:lang="it">Candidature Finanziate (Comuni)</dc:title>
+        <dc:title xml:lang="en">Accepted Funding Requests (Municipalities)</dc:title>
+        <dc:description xml:lang="en">List of all funding requests by Municipalities which have been confirmed by financing decree on PA digitale 2026.</dc:description>
+        <dc:description xml:lang="it">Lista di tutte le candidature dai Comuni che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dc:description>
         <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
@@ -51,17 +51,17 @@
           DISTRIBUZIONE CSV
         -->
         <dcat:distribution>
-          <rdf:Description rdf:about="@PLH:ABOUT">
+          <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_comuni_finanziate.csv">
             <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
             <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
             <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
-            <dcat:accessURL rdf:resource="@PLH:ACCESSURL"/>
-            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/@PLH:LICENSE"/>
-            <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
-            <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
-            <dc:title xml:lang="it">@PLH:DESCRIPTION_IT</dc:title>
-            <dc:title xml:lang="en">@PLH:DESCRIPTION_EN</dc:title>
-            <dcat:downloadURL rdf:resource="@PLH:DOWNLOADURL"/>
+            <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_comuni_finanziate.csv"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"/>
+            <dc:description xml:lang="en">List of all funding requests by municipalities which have been confirmed by financing decree on PA digitale 2026.</dc:description>
+            <dc:description xml:lang="it">Lista di tutte le candidature dai Comuni che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dc:description>
+            <dc:title xml:lang="it">Candidature Finanziate (Comuni)</dc:title>
+            <dc:title xml:lang="en">Accepted Funding Requests (Municipalities)</dc:title>
+            <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_comuni_finanziate.csv"/>
             <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
           </rdf:Description>
         </dcat:distribution>
@@ -73,17 +73,17 @@
         -->
 
         <dcat:distribution>
-          <rdf:Description rdf:about="@PLH:ABOUT">
+          <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_comuni_finanziate.json">
             <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
             <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
             <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
-            <dcat:accessURL rdf:resource="@PLH:ACCESSURL"/>
-            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/@PLH:LICENSE"/>
-            <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
-            <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
-            <dc:title xml:lang="it">@PLH:DESCRIPTION_IT</dc:title>
-            <dc:title xml:lang="en">@PLH:DESCRIPTION_EN</dc:title>
-            <dcat:downloadURL rdf:resource="@PLH:DOWNLOADURL"/>
+            <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_comuni_finanziate.json"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"/>
+            <dc:description xml:lang="en">List of all funding requests by municipalities which have been confirmed by financing decree on PA digitale 2026.</dc:description>
+            <dc:description xml:lang="it">Lista di tutte le candidature dai Comuni che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dc:description>
+            <dc:title xml:lang="it">Candidature Finanziate (Comuni)</dc:title>
+            <dc:title xml:lang="en">Accepted Funding Requests (Municipalities)</dc:title>
+            <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_comuni_finanziate.json"/>
             <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
           </rdf:Description>
         </dcat:distribution>
@@ -109,17 +109,187 @@
       </rdf:Description>
     </dcat:dataset>
 
-    
-    <!-- DATASET: AVVISI-->
+    <!-- DATASET: CANDIDATURE FINANZIATE -->
     <dcat:dataset>
-      <rdf:Description rdf:about="@PLH:URL_DESCRIPTION_DATASET">
+      <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-finanziate.md">
         <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
         <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
-        <dc:identifier>@PLH:DATASET_IDENTIFIER</dc:identifier>
-        <dc:title xml:lang="it">@PLH:TITLE_IT</dc:title>
-        <dc:title xml:lang="en">@PLH:TITLE_EN </dc:title>
-        <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
-        <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
+        <dc:identifier>PCM:pad26_fin_scuole</dc:identifier>
+        <dc:title xml:lang="it">Candidature Finanziate (Scuole)</dc:title>
+        <dc:title xml:lang="en">Accepted Funding Requests (Schools)</dc:title>
+        <dc:description xml:lang="en">List of all funding requests by Schools which have been confirmed by financing decree on PA digitale 2026.</dc:description>
+        <dc:description xml:lang="it">Lista di tutte le candidature da istituti scolastici che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dc:description>
+        <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TECH"/>
+        <dc:rightsHolder rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <dc:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+        <dcat:landingPage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
+
+        <!-- 
+          Componente per singola distribuzione del dataset. 
+          Moltiplicare componente se presenti più distribuzioni.
+        -->
+        <!--
+          DISTRIBUZIONE CSV
+        -->
+        <dcat:distribution>
+          <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_scuole_finanziate.csv">
+            <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
+            <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+            <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_scuole_finanziate.csv"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"/>
+            <dc:description xml:lang="en">List of all funding requests by Schools which have been confirmed by financing decree on PA digitale 2026.</dc:description>
+            <dc:description xml:lang="it">Lista di tutte le candidature da istituti scolastici che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dc:description>
+            <dc:title xml:lang="it">Candidature Finanziate (Scuole)</dc:title>
+            <dc:title xml:lang="en">Accepted Funding Requests (Schools)</dc:title>
+            <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_scuole_finanziate.csv"/>
+            <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+          </rdf:Description>
+        </dcat:distribution>
+
+
+
+        <!--
+          DISTRIBUZIONE JSON
+        -->
+
+        <dcat:distribution>
+          <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_scuole_finanziate.json">
+            <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
+            <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+            <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+            <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_scuole_finanziate.json"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"/>
+            <dc:description xml:lang="en">List of all funding requests by Schools which have been confirmed by financing decree on PA digitale 2026.</dc:description>
+            <dc:description xml:lang="it">Lista di tutte le candidature da istituti scolastici che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dc:description>
+            <dc:title xml:lang="it">Candidature Finanziate (Scuole)</dc:title>
+            <dc:title xml:lang="en">Accepted Funding Requests (Schools)</dc:title>
+            <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_scuole_finanziate.json"/>
+            <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+          </rdf:Description>
+        </dcat:distribution>
+
+
+        <dcat:contactPoint rdf:resource="http://sample.org/meta/contact/PCM"/>
+        <dc:publisher rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <dc:creator rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:issued>
+
+        <dc:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+        <dc:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dcat:keyword>PNRR</dcat:keyword>
+        <dcat:keyword>PA digitale 2026</dcat:keyword>
+        <dc:location>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/ns/locn#Geometry"/>
+            <ns0:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#gmlLiteral">&lt;gml:Envelope srsName=&quot;http://www.opengis.net/def/EPSG/0/4326&quot;&gt;&lt;gml:lowerCorner&gt;6.7499552751  36.619987291&lt;/gml:lowerCorner&gt;&lt;gml:upperCorner&gt; 18.4802470232  47.1153931748&lt;/gml:upperCorner&gt;&lt;/gml:Envelope&gt;</ns0:geometry>
+          </rdf:Description>
+        </dc:location>
+
+      </rdf:Description>
+    </dcat:dataset>
+
+    <!-- DATASET: CANDIDATURE FINANZIATE -->
+    <dcat:dataset>
+      <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-finanziate.md">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dc:identifier>PCM:pad26_fin_altrienti</dc:identifier>
+        <dc:title xml:lang="it">Candidature Finanziate (Pubbliche Amministrazioni)</dc:title>
+        <dc:title xml:lang="en">Accepted Funding Requests (Public Administrations)</dc:title>
+        <dc:description xml:lang="en">List of all funding requests which have been confirmed by financing decree on PA digitale 2026. The dataset contains the funding requests related to public administrations which are not munipalities or schools. </dc:description>
+        <dc:description xml:lang="it">Lista di tutte le candidature da istituti scolastici che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026. Il dataset contiene le candidature decretate relative a pubbliche amministrazioni differenti da scuole e comuni.</dc:description>
+        <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+        <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TECH"/>
+        <dc:rightsHolder rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <dc:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+        <dcat:landingPage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
+
+        <!-- 
+          Componente per singola distribuzione del dataset. 
+          Moltiplicare componente se presenti più distribuzioni.
+        -->
+        <!--
+          DISTRIBUZIONE CSV
+        -->
+        <dcat:distribution>
+          <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_altrienti_finanziate.csv">
+            <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
+            <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+            <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
+            <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_altrienti_finanziate.csv"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"/>
+            <dc:description xml:lang="en">List of all funding requests which have been confirmed by financing decree on PA digitale 2026. The dataset contains the funding requests related to public administrations which are not munipalities or schools. </dc:description>
+            <dc:description xml:lang="it">Lista di tutte le candidature da istituti scolastici che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026. Il dataset contiene le candidature decretate relative a pubbliche amministrazioni differenti da scuole e comuni.</dc:description>
+            <dc:title xml:lang="it">Candidature Finanziate (Pubbliche Amministrazioni)</dc:title>
+            <dc:title xml:lang="en">Accepted Funding Requests (Public Administrations)</dc:title>
+            <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_altrienti_finanziate.csv"/>
+            <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+          </rdf:Description>
+        </dcat:distribution>
+
+
+
+        <!--
+          DISTRIBUZIONE JSON
+        -->
+
+        <dcat:distribution>
+          <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_altrienti_finanziate.json">
+            <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
+            <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+            <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
+            <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_altrienti_finanziate.json"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"/>
+            <dc:description xml:lang="en">List of all funding requests which have been confirmed by financing decree on PA digitale 2026. The dataset contains the funding requests related to public administrations which are not munipalities or schools. </dc:description>
+            <dc:description xml:lang="it">Lista di tutte le candidature da istituti scolastici che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026. Il dataset contiene le candidature decretate relative a pubbliche amministrazioni differenti da scuole e comuni.</dc:description>
+            <dc:title xml:lang="it">Candidature Finanziate (Pubbliche Amministrazioni)</dc:title>
+            <dc:title xml:lang="en">Accepted Funding Requests (Public Administrations)</dc:title>
+            <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_altrienti_finanziate.json"/>
+            <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
+          </rdf:Description>
+        </dcat:distribution>
+
+
+        <dcat:contactPoint rdf:resource="http://sample.org/meta/contact/PCM"/>
+        <dc:publisher rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <dc:creator rdf:resource="http://sample.org/meta/agent/PCM"/>
+        <owl:versionInfo>1.0</owl:versionInfo>
+        <dc:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:issued>
+
+        <dc:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+        <dc:language rdf:resource="http://publications.europa.eu/resource/authority/language/ENG"/>
+        <dcat:keyword>PNRR</dcat:keyword>
+        <dcat:keyword>PA digitale 2026</dcat:keyword>
+        <dc:location>
+          <rdf:Description>
+            <rdf:type rdf:resource="http://www.w3.org/ns/locn#Geometry"/>
+            <ns0:geometry rdf:datatype="http://www.opengis.net/ont/geosparql#gmlLiteral">&lt;gml:Envelope srsName=&quot;http://www.opengis.net/def/EPSG/0/4326&quot;&gt;&lt;gml:lowerCorner&gt;6.7499552751  36.619987291&lt;/gml:lowerCorner&gt;&lt;gml:upperCorner&gt; 18.4802470232  47.1153931748&lt;/gml:upperCorner&gt;&lt;/gml:Envelope&gt;</ns0:geometry>
+          </rdf:Description>
+        </dc:location>
+
+      </rdf:Description>
+    </dcat:dataset>
+
+
+    <!-- DATASET: AVVISI-->
+    <dcat:dataset>
+      <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-avvisi.md">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
+        <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+        <dc:identifier>PCM:pad26_avvisi</dc:identifier>
+        <dc:title xml:lang="it">Avvisi - PA digitale 2026</dc:title>
+        <dc:title xml:lang="en">Funding Programs - PA digitale 2026</dc:title>
+        <dc:description xml:lang="en">List of all funding programs on PA digitale 2026</dc:description>
+        <dc:description xml:lang="it">Elenco di tutti gli avvisi su PA digitale 2026</dc:description>
         <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
         <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
@@ -132,17 +302,17 @@
           DISTRIBUZIONE CSV
         -->
         <dcat:distribution>
-          <rdf:Description rdf:about="@PLH:ABOUT">
+          <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.csv">
             <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
             <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
             <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/CSV"/>
-            <dcat:accessURL rdf:resource="@PLH:ACCESSURL"/>
-            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/@PLH:LICENSE"/>
-            <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
-            <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
-            <dc:title xml:lang="it">@PLH:DESCRIPTION_IT</dc:title>
-            <dc:title xml:lang="en">@PLH:DESCRIPTION_EN</dc:title>
-            <dcat:downloadURL rdf:resource="@PLH:DOWNLOADURL"/>
+            <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.csv"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"/>
+            <dc:description xml:lang="en">List of all funding programs on PA digitale 2026</dc:description>
+            <dc:description xml:lang="it">Elenco di tutti gli avvisi su PA digitale 2026</dc:description>
+            <dc:title xml:lang="it">Avvisi - PA digitale 2026</dc:title>
+            <dc:title xml:lang="en">Funding Programs - PA digitale 2026</dc:title>
+            <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/avvisi.csv"/>
             <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
           </rdf:Description>
         </dcat:distribution>
@@ -154,17 +324,17 @@
         -->
 
         <dcat:distribution>
-          <rdf:Description rdf:about="@PLH:ABOUT">
+          <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.json">
             <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Distribution"/>
             <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
             <dc:format rdf:resource="http://publications.europa.eu/resource/authority/file-type/JSON"/>
-            <dcat:accessURL rdf:resource="@PLH:ACCESSURL"/>
-            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/@PLH:LICENSE"/>
-            <dc:description xml:lang="en">@PLH:DESCRIPTION_EN</dc:description>
-            <dc:description xml:lang="it">@PLH:DESCRIPTION_IT</dc:description>
-            <dc:title xml:lang="it">@PLH:DESCRIPTION_IT</dc:title>
-            <dc:title xml:lang="en">@PLH:DESCRIPTION_EN</dc:title>
-            <dcat:downloadURL rdf:resource="@PLH:DOWNLOADURL"/>
+            <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.json"/>
+            <dc:license rdf:resource="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40"/>
+            <dc:description xml:lang="en">List of all funding programs on PA digitale 2026</dc:description>
+            <dc:description xml:lang="it">Elenco di tutti gli avvisi su PA digitale 2026</dc:description>
+            <dc:title xml:lang="it">Avvisi - PA digitale 2026</dc:title>
+            <dc:title xml:lang="en">Funding Programs - PA digitale 2026</dc:title>
+            <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/avvisi.json"/>
             <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-01</dc:modified>
           </rdf:Description>
         </dcat:distribution>
