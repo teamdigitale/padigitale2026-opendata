@@ -22,7 +22,8 @@
 Questa repository contiene i dati pubblici estratti da [PA digitale 2026](https://padigitale2026.gov.it/).
 
 Nello specifico, i seguenti dati sono aggiornati quotidianamente alle 2:00 (UTC): 
-- Candidature a cui è stato assegnato un finanziamento dal relativo decreto. 
+- Candidature a cui è stato assegnato un finanziamento dal relativo decreto
+- Avvisi su PA digitale 2026
 
 # Contenuto
 
