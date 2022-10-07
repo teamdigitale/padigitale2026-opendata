@@ -1,6 +1,6 @@
 profile: data-package
 description: Dati riguardo le candidature relative a PA digitale 2026 con decreto di finanziamento pubblicato
-title: it-dgc-opendata
+title: padigitale2026-opendata
 licenses:
   - name: "CC-BY-4.0"
     path: "https://creativecommons.org/licenses/by/4.0/"
@@ -29,29 +29,29 @@ resources:
           name: Titolo
           description: Titolo descrittivo dell'avviso pubblicato su PA digitale 2026 e riportato nelle candidature
         - type: string
-          name: Misura
+          name: misura
           description: Misura del PNRR a cui l'avviso appartiene  
         - type: date
-          name: Data Inizio Bando
+          name: data_inizio_bando
           description: Data di pubblicazione dell'avviso  
         - type: date
-          name: Data Fine Bando
+          name: data_fine_bando
           description: Data di scadenza dell'avviso, entro cui è possibile inviare una candidatura  
         - type: string
-          name: Stato
+          name: stato
           description: Stato attuale dell'avviso  
         - type: integer
-          name: Totale importo stanziato
+          name: totale_importo_stanziato
           description: Fondi stanziati per il finanziamento delle candidature dell'avviso 
           constraints:
             minimum: 0
         - type: integer
-          name: Totale Importo Misura
+          name: totale_importo_misura
           description: Fondi totali previsti da PNRR per la singola misura. 
           constraints:
             minimum: 0
         - type: string
-          name: Soggetti Destinatari
+          name: soggetti_destinatari
           description: Soggetti destinatari dell'avviso che si possono candidare su PA digitale 2026  
       primaryKey: Titolo
     scheme: file
@@ -70,29 +70,29 @@ resources:
       schema:
         fields:
           - type: string
-            name: Codice IPA
+            name: codice_ipa
           - type: string
-            name: Comune
+            name: comune
           - type: string
-            name: Provincia
+            name: provincia
           - type: string
-            name: Regione
+            name: regione
           - type: integer
-            name: Importo Finanziamento
+            name: importo_finanziamento
             constraints:
               minimum: 0
           - type: string
-            name: Avviso
+            name: avviso
           - type: datetime
-            name: Data Invio Candidatura
+            name: data_invio_candidatura
           - type: date
-            name: Data Finanziamento
+            name: data_finanziamento
           - type: string
-            name: Codice CUP
+            name: codice_cup
           - type: integer
-            name: Numero Finestra Temporale
+            name: numero_finestra_temporale
           - type: integer
-            name: Numero di Protocollo
+            name: numero_di_protocollo
             constraints:
               minimum: 0
     scheme: file
@@ -110,29 +110,29 @@ resources:
       schema:
         fields:
           - type: string
-            name: Codice IPA
+            name: codice_ipa
           - type: string
-            name: Comune
+            name: comune
           - type: string
-            name: Provincia
+            name: provincia
           - type: string
-            name: Regione
+            name: regione
           - type: integer
-            name: Importo Finanziamento
+            name: importo_finanziamento
             constraints:
               minimum: 0
           - type: string
-            name: Avviso
+            name: avviso
           - type: datetime
-            name: Data Invio Candidatura
+            name: data_invio_candidatura
           - type: date
-            name: Data Finanziamento
+            name: data_finanziamento
           - type: string
-            name: Codice CUP
+            name: codice_cup
           - type: integer
-            name: Numero Finestra Temporale
+            name: numero_finestra_temporale
           - type: integer
-            name: Numero di Protocollo
+            name: numero_di_protocollo
             constraints:
               minimum: 0
     scheme: file
@@ -150,29 +150,29 @@ resources:
       schema:
         fields:
           - type: string
-            name: Codice IPA
+            name: codice_ipa
           - type: string
-            name: Comune
+            name: comune
           - type: string
-            name: Provincia
+            name: provincia
           - type: string
-            name: Regione
+            name: regione
           - type: integer
-            name: Importo Finanziamento
+            name: importo_finanziamento
             constraints:
               minimum: 0
           - type: string
-            name: Avviso
+            name: avviso
           - type: datetime
-            name: Data Invio Candidatura
+            name: data_invio_candidatura
           - type: date
-            name: Data Finanziamento
+            name: data_finanziamento
           - type: string
-            name: Codice CUP
+            name: codice_cup
           - type: integer
-            name: Numero Finestra Temporale
+            name: numero_finestra_temporale
           - type: integer
-            name: Numero di Protocollo
+            name: numero_di_protocollo
             constraints:
               minimum: 0
     scheme: file
