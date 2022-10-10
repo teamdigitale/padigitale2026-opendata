@@ -41,7 +41,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "iisac","Anzio","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-02T23:07:01.000+0000","2022-08-19","H51F22000210006",1.0,33.0
 "istsc_batd21000d","Triggiano","BA","Puglia",7742.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-22T12:04:20.000+0000","2022-09-05","H41C22000690006",2.0,31.0
 "istsc_cais01400p","Elmas","CA","Sardegna",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-03T07:39:56.000+0000","2022-08-19","B21F22000550006",1.0,33.0
-"istsc_cais01400p","Elmas","CA","Sardegna",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-23T07:27:11.000+0000","2022-08-19","B21C22000380006",1.0,31.0
 "istsc_cnps02000n","Cuneo","CN","Piemonte",12166.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-18T11:14:57.000+0000","2022-08-19","D21C22000390006",1.0,31.0
 "istsc_csis01800g","Acri","CS","Calabria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-09T09:25:29.000+0000","2022-08-19","I21F22000450006",1.0,33.0
 "istsc_leic8ap00x","Andrano","LE","Puglia",8295.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-20T09:01:21.000+0000","2022-08-19","H51C22000170006",1.0,31.0
@@ -61,7 +60,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_vaic87700a","Gallarate","VA","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-03T13:03:06.000+0000","2022-08-19","B31F22000550006",1.0,33.0
 "istsc_pdic89300l","Este","PD","Veneto",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-09T08:00:38.000+0000","2022-08-19","G41C22000180001",1.0,33.0
 "istsc_rmta070005","Roma","RM","Lazio",12166.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-03T13:45:47.000+0000","2022-08-19","D81C22000620006",1.0,31.0
-"istsc_bgic87700t","Sorisole","BG","Lombardia",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-08T06:36:42.000+0000","2022-09-05","C81C22000310006",2.0,31.0
 "istsc_mnic80300b","Castel Goffredo","MN","Lombardia",1659.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T14:20:21.000+0000","2022-09-05","J91C22000600006",2.0,31.0
 "istsc_vtis01100l","Acquapendente","VT","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-08T07:49:24.000+0000","2022-08-19","G41F22001490006",2.0,33.0
 "istsc_baic804003","Cellamare","BA","Puglia",8848.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-08T08:11:14.000+0000","2022-09-05","F31C22000990006",2.0,31.0
@@ -93,6 +91,8 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_teis00800n","Teramo","TE","Abruzzo",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-08T08:25:19.000+0000","2022-08-19","I41F22001310006",2.0,33.0
 "istsc_vric837002","Castelnuovo del Garda","VR","Veneto",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-08T08:30:27.000+0000","2022-08-19","B61F22001800006",2.0,33.0
 "istsc_agis01700d","Bivona","AG","Sicilia",2212.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T08:08:33.000+0000","2022-09-05","H71C22000770006",2.0,31.0
+"istsc_cais01400p","Elmas","CA","Sardegna",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-23T07:27:11.000+0000","2022-08-19","B21C22000380006",1.0,31.0
+"istsc_bgic87700t","Sorisole","BG","Lombardia",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-08T06:36:42.000+0000","2022-09-05","C81C22000310006",2.0,31.0
 "istsc_tvic816009","Castelfranco Veneto","TV","Veneto",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-11T08:44:33.000+0000","2022-08-19","J21F22000400006",1.0,33.0
 "istsc_leic85000g","Ruffano","LE","Puglia",3318.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T04:56:11.000+0000","2022-09-05","B11C22000720006",2.0,31.0
 "icaac_06","Caiazzo","CE","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T07:26:26.000+0000","2022-08-19","I71F22001420006",2.0,33.0
@@ -210,9 +210,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_tapc070005","Taranto","TA","Puglia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T09:12:19.000+0000","2022-08-19","B51F22001090006",2.0,33.0
 "istsc_bnic82500a","San Bartolomeo in Galdo","BN","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T09:03:51.000+0000","2022-08-19","E31F22001420006",2.0,33.0
 "istsc_leic82700e","Lequile","LE","Puglia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-22T13:11:07.000+0000","2022-08-19","F91F22001520006",2.0,33.0
-"istsc_rmic8g5009","Roma","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-22T06:01:47.000+0000","2022-08-19","G81F22001690006",2.0,33.0
-"istsc_naic8cj00l","Ottaviano","NA","Campania",3871.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T15:00:30.000+0000","2022-09-05","E81C22001170006",2.0,31.0
-"isme","Charvensod","AO","Valle d'Aosta/Vallée d'Aoste",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T14:00:14.000+0000","2022-08-19","C41F22001730006",2.0,33.0
 "iscmm_bv","Nus","AO","Valle d'Aosta/Vallée d'Aoste",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T08:50:09.000+0000","2022-08-19","E31F22001910006",2.0,33.0
 "cpiabl","Belluno","BL","Veneto",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T16:13:23.000+0000","2022-08-19","I31F22002200006",2.0,33.0
 "isilt","Verrès","AO","Valle d'Aosta/Vallée d'Aoste",5530.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T12:12:58.000+0000","2022-09-05","B41C22000920006",2.0,31.0
@@ -252,7 +249,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_aric825009","Bucine","AR","Toscana",4424.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T10:53:07.000+0000","2022-09-05","C91C22000840006",2.0,31.0
 "istsc_psis00700a","Urbania","PU","Marche",1659.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T11:16:57.000+0000","2022-09-05","H21C22000790006",2.0,31.0
 "istsc_aric839007","Arezzo","AR","Toscana",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T10:17:00.000+0000","2022-08-19","B11F22001560006",2.0,33.0
-"Ica_Bz","Appiano sulla strada del vino","BZ","Trentino-Alto Adige/Südtirol",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T12:55:21.000+0000","2022-08-19","C11F22001700006",2.0,33.0
 "istsc_paic820003","Castellana Sicula","PA","Sicilia",10507.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T11:03:00.000+0000","2022-09-05","E51C22000620006",2.0,31.0
 "istsc_rmic8a9001","Pomezia","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T10:40:26.000+0000","2022-08-19","I51F22001280006",2.0,33.0
 "istsc_pric818005","Torrile","PR","Emilia-Romagna",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T13:49:30.000+0000","2022-08-19","J51F22001450006",2.0,33.0
@@ -298,8 +294,11 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_pric82400c","Collecchio","PR","Emilia-Romagna",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T11:30:54.000+0000","2022-09-05","H91C22000850006",2.0,31.0
 "istsc_ssic834004","Arzachena","SS","Sardegna",10507.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T15:32:52.000+0000","2022-09-05","D41C22000860006",2.0,31.0
 "istsc_taic86100x","Martina Franca","TA","Puglia",6083.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T07:56:07.000+0000","2022-09-05","g91c22000810006",2.0,31.0
+"istsc_rmic8g5009","Roma","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-22T06:01:47.000+0000","2022-08-19","G81F22001690006",2.0,33.0
+"istsc_naic8cj00l","Ottaviano","NA","Campania",3871.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T15:00:30.000+0000","2022-09-05","E81C22001170006",2.0,31.0
+"isme","Charvensod","AO","Valle d'Aosta/Vallée d'Aoste",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T14:00:14.000+0000","2022-08-19","C41F22001730006",2.0,33.0
+"Ica_Bz","Appiano sulla strada del vino","BZ","Trentino-Alto Adige/Südtirol",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T12:55:21.000+0000","2022-08-19","C11F22001700006",2.0,33.0
 "isajm_","Saint-Vincent","AO","Valle d'Aosta/Vallée d'Aoste",4977.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T13:16:49.000+0000","2022-09-05","D51C22001130006",2.0,31.0
-"istsc_fric835004","Monte San Giovanni Campano","FR","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T07:29:13.000+0000","2022-08-19","F11F22001230006",2.0,33.0
 "istsc_naps08000b","Napoli","NA","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-18T07:53:18.000+0000","2022-08-19","D61F22000580006",1.0,33.0
 "istsc_tric816004","Montecastrilli","TR","Umbria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-12T09:08:01.000+0000","2022-08-19","I71F22000340006",1.0,33.0
 "istsc_fric81600p","Arce","FR","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-17T11:12:12.000+0000","2022-08-19","B11F22000600006",1.0,33.0
@@ -324,8 +323,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_saic89700n","Teggiano","SA","Campania",4977.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T08:51:45.000+0000","2022-09-05","F81C22000810006",2.0,31.0
 "istsc_naee105003","Afragola","NA","Campania",4424.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T11:10:51.000+0000","2022-09-05","G41C22000970006",2.0,31.0
 "istsc_miic8et00x","Cesano Boscone","MI","Lombardia",10507.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T08:59:10.000+0000","2022-09-05","J41C22000860006",2.0,31.0
-"istsc_rmic8f000g","Roma","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T10:32:48.000+0000","2022-08-19","B88H22000740006",2.0,33.0
-"istsc_rcic81500e","Ardore","RC","Calabria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T11:40:18.000+0000","2022-08-19","G81F22001840006",2.0,33.0
 "istsc_naic8d2003","Boscoreale","NA","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T09:24:41.000+0000","2022-08-19","B11F22001460007",2.0,33.0
 "istsc_naic8d2003","Boscoreale","NA","Campania",3318.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T12:11:18.000+0000","2022-09-05","B11C22000730007",2.0,31.0
 "istsc_ctsl01000a","Catania","CT","Sicilia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T10:08:07.000+0000","2022-08-19","E61F22001370006",2.0,33.0
@@ -390,7 +387,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_miic8eh003","Cologno Monzese","MI","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T08:51:57.000+0000","2022-08-19","I21F22001230006",2.0,33.0
 "isle","Aosta","AO","Valle d'Aosta/Vallée d'Aoste",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T13:51:13.000+0000","2022-08-19","F61F22001500006",2.0,33.0
 "cpiafc","Forlì","FC","Emilia-Romagna",3871.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T08:44:58.000+0000","2022-09-05","G61C22000820006",2.0,31.0
-"istsc_pgri24000t","Foligno","PG","Umbria",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-16T08:00:34.000+0000","2022-08-19","B61C22000280006",1.0,31.0
 "istsc_naic83000r","Napoli","NA","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T09:46:57.000+0000","2022-08-19","B61F22001460006",2.0,33.0
 "iisgp","Torino","TO","Piemonte",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T09:33:33.000+0000","2022-09-05","H11C22000780006",2.0,31.0
 "istsc_geic854002","Genova","GE","Liguria",10507.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T09:09:29.000+0000","2022-09-05","J31C22000340006",2.0,31.0
@@ -494,6 +490,10 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_miic8cs002","Milano","MI","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-21T13:45:00.000+0000","2022-08-19","I41F22000330006",1.0,33.0
 "istsc_cnic846008","Dogliani","CN","Piemonte",5530.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-20T12:05:30.000+0000","2022-08-19","F51C22000230006",1.0,31.0
 "istsc_aric81700a","Castelfranco Piandiscò","AR","Toscana",9954.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-18T09:00:54.000+0000","2022-08-19","J31C22000250006",1.0,31.0
+"istsc_fric835004","Monte San Giovanni Campano","FR","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T07:29:13.000+0000","2022-08-19","F11F22001230006",2.0,33.0
+"istsc_rmic8f000g","Roma","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T10:32:48.000+0000","2022-08-19","B88H22000740006",2.0,33.0
+"istsc_rcic81500e","Ardore","RC","Calabria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T11:40:18.000+0000","2022-08-19","G81F22001840006",2.0,33.0
+"istsc_pgri24000t","Foligno","PG","Umbria",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-16T08:00:34.000+0000","2022-08-19","B61C22000280006",1.0,31.0
 "istsc_MIIC89700N","Melegnano","MI","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-18T08:48:53.000+0000","2022-08-19","I71F22000470006",1.0,33.0
 "istsc_lotd010003","Lodi","LO","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T15:10:05.000+0000","2022-08-19","h11f22001540006",2.0,33.0
 "istsc_rmic8b800q","Roma","RM","Lazio",7189.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T09:03:29.000+0000","2022-09-05","C81C22000900006",2.0,31.0
@@ -515,7 +515,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_naee12800q","Castellammare di Stabia","NA","Campania",9401.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T10:58:37.000+0000","2022-09-05","E81C22001230006",2.0,31.0
 "icp_083","Messina","ME","Sicilia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T11:26:37.000+0000","2022-08-19","C41F22001570006",2.0,33.0
 "isar_089","Siracusa","SR","Sicilia",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T10:51:42.000+0000","2022-09-05","B31C22000890006",2.0,31.0
-"istsc_taic85400r","Statte","TA","Puglia",4977.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-22T11:19:35.000+0000","2022-09-05","E71C22000810006",2.0,31.0
 "istsc_fois00400d","Cesenatico","FC","Emilia-Romagna",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T11:12:08.000+0000","2022-08-19","B21F22001320006",2.0,33.0
 "istsc_feis004001","Codigoro","FE","Emilia-Romagna",3871.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-22T08:39:15.000+0000","2022-09-05","J41C22000650006",2.0,31.0
 "istsc_rmic8gh00r","Roma","RM","Lazio",8295.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T11:19:14.000+0000","2022-09-05","G81C22001090006",2.0,31.0
@@ -4575,6 +4574,7 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "icsdc","Codogno","LO","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-10T11:12:03.000+0000","2022-08-19","I71F22001020006",2.0,33.0
 "istsc_fgic80800p","Mattinata","FG","Puglia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-14T09:48:16.000+0000","2022-08-19","j51f22001310006",2.0,33.0
 "istsc_taic86300g","Martina Franca","TA","Puglia",11613.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-10T10:53:08.000+0000","2022-09-05","F91C22000710006",2.0,31.0
+"istsc_taic85400r","Statte","TA","Puglia",4977.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-22T11:19:35.000+0000","2022-09-05","E71C22000810006",2.0,31.0
 "icavo","Taranto","TA","Puglia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-11T15:53:31.000+0000","2022-08-19","E51F22001330006",2.0,33.0
 "istsc_rnmm01900x","Santarcangelo di Romagna","RN","Emilia-Romagna",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-10T11:36:23.000+0000","2022-08-19","C41F22001780006",2.0,33.0
 "istsc_agis01200a","Sciacca","AG","Sicilia",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-10T11:22:59.000+0000","2022-09-05","B81C22001710006",2.0,31.0
@@ -4908,7 +4908,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_czrh04000q","Soverato","CZ","Calabria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-14T18:54:33.000+0000","2022-08-19","I31F22001990006",2.0,33.0
 "istsc_meic87400n","Saponara","ME","Sicilia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-15T07:46:29.000+0000","2022-08-19","D61F22001720006",2.0,33.0
 "istsc_krps02000q","Petilia Policastro","KR","Calabria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-14T22:07:06.000+0000","2022-08-19","E81F22001660006",2.0,33.0
-"istsc_krps02000q","Petilia Policastro","KR","Calabria",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-14T22:25:22.000+0000","2022-09-05","E81C22000860006",2.0,31.0
 "ivadg","Palombara Sabina","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-15T15:20:12.000+0000","2022-08-19","G11F22001480006",2.0,33.0
 "istsc_tvic85600q","Carbonera","TV","Veneto",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-15T07:55:17.000+0000","2022-08-19","G71F22001410006",2.0,33.0
 "istsc_pdic84700v","Noventa Padovana","PD","Veneto",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-15T11:07:32.000+0000","2022-08-19","F71F22001700006",2.0,33.0
@@ -4992,7 +4991,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_bsic87400v","Gavardo","BS","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-15T11:12:49.000+0000","2022-08-19","F21F22001510006",2.0,33.0
 "istsc_udic85700x","Udine","UD","Friuli-Venezia Giulia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-15T10:00:43.000+0000","2022-08-19","G21F22001400006",2.0,33.0
 "istsc_topm120004","Torino","TO","Piemonte",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-15T10:52:06.000+0000","2022-08-19","I11F22001680006",2.0,33.0
-"istsc_mctd030004","Camerino","MC","Marche",2212.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T08:38:51.000+0000","2022-09-05","B11C22000820006",2.0,31.0
 "istsc_bnic842004","Airola","BN","Campania",11613.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-15T10:20:39.000+0000","2022-09-05","C11C22000750002",2.0,31.0
 "isttsa","Salerno","SA","Campania",11613.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-15T11:39:53.000+0000","2022-09-05","E51C22000780006",2.0,31.0
 "istsc_CEIC83800D","Santa Maria Capua Vetere","CE","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-15T10:46:26.000+0000","2022-08-19","J91F22001320006",2.0,33.0
@@ -5178,7 +5176,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_paic86500l","Bagheria","PA","Sicilia",8848.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T11:03:09.000+0000","2022-09-05","G51C22000550006",2.0,31.0
 "istsc_bais05200l","Noci","BA","Puglia",3871.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-17T11:57:36.000+0000","2022-09-05","C71C22000740006",2.0,31.0
 "istsc_fric84700a","Frosinone","FR","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-17T07:03:06.000+0000","2022-08-19","G41F22001790006",2.0,33.0
-"icscsna","Pomigliano d'Arco","NA","Campania",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-16T08:22:58.000+0000","2022-09-05","E51C22000760006",2.0,31.0
 "istsc_caic888004","Iglesias","SU","Sardegna",4424.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T14:01:57.000+0000","2022-09-05","E31C22001640007",2.0,31.0
 "istsc_rcis019002","Palmi","RC","Calabria",12166.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-16T10:27:45.000+0000","2022-09-05","I61C22000760006",2.0,31.0
 "istsc_lcis007008","Monticello Brianza","LC","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-16T09:53:17.000+0000","2022-08-19","C41F22001770006",2.0,33.0
@@ -5244,7 +5241,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_cepm010008","Caserta","CE","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-16T13:02:16.000+0000","2022-08-19","H21C22000760006",2.0,33.0
 "istsc_psic81700r","Pesaro","PU","Marche",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T10:49:12.000+0000","2022-08-19","D71F22001490006",2.0,33.0
 "istsc_bsps03000p","Breno","BS","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-16T10:46:22.000+0000","2022-08-19","C71F22001040006",2.0,33.0
-"istsc_sric807008","Siracusa","SR","Sicilia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-17T09:28:06.000+0000","2022-08-19","E31F22001610006",2.0,33.0
 "istsc_pgis00300e","Marsciano","PG","Umbria",2212.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-16T10:50:25.000+0000","2022-09-05","I61C22000680006",2.0,31.0
 "istsc_luic81700n","Forte dei Marmi","LU","Toscana",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-16T11:43:17.000+0000","2022-08-19","B21F22001500006",2.0,33.0
 "istsc_mcic833006","Macerata","MC","Marche",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-16T10:59:25.000+0000","2022-08-19","F81F22001530006",2.0,33.0
@@ -5362,7 +5358,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_agps02000p","Sciacca","AG","Sicilia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T14:16:38.000+0000","2022-08-19","F81F22002060006",2.0,33.0
 "istsc_pdis02700t","Padova","PD","Veneto",5530.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-22T09:54:20.000+0000","2022-09-05","H91C22000780006",2.0,31.0
 "istsc_imis00400l","Taggia","IM","Liguria",4977.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-23T07:35:07.000+0000","2022-09-05","H61C22000790006",2.0,31.0
-"istsc_taic853001","Sava","TA","Puglia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T13:12:29.000+0000","2022-08-19","I41F22001440006",2.0,33.0
 "istsc_miic84100n","Inveruno","MI","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T08:36:20.000+0000","2022-08-19","I71F22001430006",2.0,33.0
 "istsc_rmic8e0001","Roma","RM","Lazio",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T08:10:14.000+0000","2022-09-05","I81C22000710006",2.0,31.0
 "istsc_imic80900g","Imperia","IM","Liguria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T13:29:56.000+0000","2022-08-19","C51F22001480006",2.0,33.0
@@ -5500,6 +5495,11 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_BAPM05000B","Acquaviva delle Fonti","BA","Puglia",9954.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-22T08:53:13.000+0000","2022-09-05","G41C22000820006",2.0,31.0
 "istsc_naic8dn00e","Casoria","NA","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-22T10:42:38.000+0000","2022-08-19","B71F22001700006",2.0,33.0
 "istsc_avic843004","Manocalzati","AV","Campania",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-22T09:09:24.000+0000","2022-09-05","C51C22000760006",2.0,31.0
+"istsc_krps02000q","Petilia Policastro","KR","Calabria",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-14T22:25:22.000+0000","2022-09-05","E81C22000860006",2.0,31.0
+"istsc_mctd030004","Camerino","MC","Marche",2212.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T08:38:51.000+0000","2022-09-05","B11C22000820006",2.0,31.0
+"icscsna","Pomigliano d'Arco","NA","Campania",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-16T08:22:58.000+0000","2022-09-05","E51C22000760006",2.0,31.0
+"istsc_sric807008","Siracusa","SR","Sicilia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-17T09:28:06.000+0000","2022-08-19","E31F22001610006",2.0,33.0
+"istsc_taic853001","Sava","TA","Puglia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-21T13:12:29.000+0000","2022-08-19","I41F22001440006",2.0,33.0
 "istsc_veic846005","Venezia","VE","Veneto",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-23T06:34:21.000+0000","2022-09-05","D71C22000630006",2.0,31.0
 "iiseb","Sora","FR","Lazio",7742.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-22T09:09:58.000+0000","2022-09-05","D41C22000800006",2.0,31.0
 "istsc_rcic832008","Oppido Mamertina","RC","Calabria",11613.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-22T09:05:49.000+0000","2022-09-05","D41F22001700006",2.0,31.0
@@ -5655,7 +5655,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_vrtl01000t","Verona","VR","Veneto",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-23T07:05:39.000+0000","2022-08-19","I31F22002320006",2.0,33.0
 "icgpc","Colliano","SA","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-22T11:41:37.000+0000","2022-08-19","D41F22001580006",2.0,33.0
 "istsc_geic810008","Casarza Ligure","GE","Liguria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-22T11:44:03.000+0000","2022-08-19","F71F22001730006",2.0,33.0
-"istsc_vaic80500c","Fagnano Olona","VA","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-22T12:16:25.000+0000","2022-08-19","E91f22001500006",2.0,33.0
 "istsc_naic8cs00c","Torre del Greco","NA","Campania",2212.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-22T13:18:40.000+0000","2022-09-05","G51C22000660006",2.0,31.0
 "istsc_rmic871002","Trevignano Romano","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T09:15:52.000+0000","2022-08-19","D61F22001650006",2.0,33.0
 "istsc_apic83400v","San Benedetto del Tronto","AP","Marche",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-23T10:45:03.000+0000","2022-09-05","J81C22000960006",2.0,31.0
@@ -5784,7 +5783,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_pdtl010004","Padova","PD","Veneto",11613.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T09:31:55.000+0000","2022-09-05","D91C22000880006",2.0,31.0
 "istsc_geic83600c","Genova","GE","Liguria",6636.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-23T11:38:04.000+0000","2022-09-05","F31C22001000006",2.0,31.0
 "icfa","Fossano","CN","Piemonte",7742.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T09:04:56.000+0000","2022-09-05","I41J22000110001",2.0,31.0
-"istsc_ctis024002","Caltagirone","CT","Sicilia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T07:43:32.000+0000","2022-08-19","G21F22001750006",2.0,33.0
 "istsc_paic8aq003","Palermo","PA","Sicilia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-23T07:42:54.000+0000","2022-08-19","H71F22001240006",2.0,33.0
 "istsc_rmpm160003","Roma","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-23T08:12:26.000+0000","2022-08-19","D81C22001520006",2.0,33.0
 "istsc_veic841002","Venezia","VE","Veneto",1659.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-23T08:03:15.000+0000","2022-09-05","I71C22000640006",2.0,31.0
@@ -5996,6 +5994,8 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_aqic81700q","Pratola Peligna","AQ","Abruzzo",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T07:07:42.000+0000","2022-08-19","C91F22001520006",2.0,33.0
 "istsc_peic806007","Spoltore","PE","Abruzzo",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-23T11:16:16.000+0000","2022-08-19","B61F22001970006",2.0,33.0
 "istsc_geic808008","Genova","GE","Liguria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T07:36:45.000+0000","2022-08-19","E31F22001850006",2.0,33.0
+"istsc_vaic80500c","Fagnano Olona","VA","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-22T12:16:25.000+0000","2022-08-19","E91f22001500006",2.0,33.0
+"istsc_ctis024002","Caltagirone","CT","Sicilia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T07:43:32.000+0000","2022-08-19","G21F22001750006",2.0,33.0
 "istsc_toic88300q","Torino","TO","Piemonte",1659.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-23T11:15:23.000+0000","2022-09-05","D11C22000850006",2.0,31.0
 "icsmm","Mignano Monte Lungo","CE","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-23T10:28:59.000+0000","2022-08-19","D41F22001780006",2.0,33.0
 "idisedcl","Matera","MT","Basilicata",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-23T10:37:42.000+0000","2022-08-19","B11F22001380006",2.0,33.0
@@ -6088,7 +6088,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_geic80600l","Santa Margherita Ligure","GE","Liguria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-23T13:34:28.000+0000","2022-08-19","I51F22001350006",2.0,33.0
 "istsc_geic824006","Genova","GE","Liguria",3318.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T09:32:58.000+0000","2022-09-05","D31C22000970006",2.0,31.0
 "istsc_foee018009","Cesena","FC","Emilia-Romagna",6636.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-23T15:07:21.000+0000","2022-09-05","H11C22000770007",2.0,31.0
-"iccls","Casoria","NA","Campania",4977.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T09:21:20.000+0000","2022-09-05","H71C22000870006",2.0,31.0
 "istsc_siic814003","Asciano","SI","Toscana",1659.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-23T15:14:40.000+0000","2022-09-05","D31C22000800006",2.0,31.0
 "icsvm_bz","Marebbe","BZ","Trentino-Alto Adige/Südtirol",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-23T15:42:39.000+0000","2022-08-19","B81F22001410006",2.0,33.0
 "ssig_072","Terlizzi","BA","Puglia",11613.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-23T14:00:23.000+0000","2022-09-05","C11C22000840006",2.0,31.0
@@ -6377,7 +6376,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_tois003003","Torino","TO","Piemonte",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T09:34:40.000+0000","2022-09-05","I11C22000760006",2.0,31.0
 "istsc_rmic8gp001","Civitavecchia","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T10:21:24.000+0000","2022-08-19","H31F22001630006",2.0,33.0
 "istsc_gerh01000g","Genova","GE","Liguria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T10:01:15.000+0000","2022-08-19","G31F22001200006",2.0,33.0
-"istsc_miic81200n","Vedano al Lambro","MB","Lombardia",11060.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T10:01:55.000+0000","2022-09-05","J91C22000560006",2.0,31.0
 "istsc_prps05000e","Parma","PR","Emilia-Romagna",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T09:27:00.000+0000","2022-08-19","G91F22001230006",2.0,33.0
 "istsc_gris00900x","Monte Argentario","GR","Toscana",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T09:54:02.000+0000","2022-08-19","B11F22001610006",2.0,33.0
 "istsc_ceic869005","San Felice a Cancello","CE","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T09:49:23.000+0000","2022-08-19","J11F22001350006",2.0,33.0
@@ -6524,7 +6522,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_czic856002","Catanzaro","CZ","Calabria",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T16:03:52.000+0000","2022-09-05","H61C22000770006",2.0,31.0
 "istsc_reps03000b","Reggio nell'Emilia","RE","Emilia-Romagna",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T15:47:22.000+0000","2022-08-19","D81F22001420006",2.0,33.0
 "istsc_lcic823002","Calolziocorte","LC","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T15:14:14.000+0000","2022-08-19","I81F22001480006",2.0,33.0
-"istsc_pzis022008","Potenza","PZ","Basilicata",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T15:49:06.000+0000","2022-08-19","C31F22001480006",2.0,33.0
 "iisao","Ascoli Piceno","AP","Marche",6083.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T15:42:51.000+0000","2022-09-05","G31C22000880006",2.0,31.0
 "istsc_czic856002","Catanzaro","CZ","Calabria",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T16:05:26.000+0000","2022-08-19","H61F22001390006",2.0,33.0
 "icvvsm","Milano","MI","Lombardia",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T15:07:44.000+0000","2022-09-05","J41C22000910006",2.0,31.0
@@ -6564,7 +6561,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_tpic82400t","Partanna","TP","Sicilia",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T10:36:57.000+0000","2022-09-05","E31C22001400006",2.0,31.0
 "istsc_vtic80300d","Bagnoregio","VT","Lazio",4424.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-17T12:34:26.000+0000","2022-09-05","F61C22000770006",2.0,31.0
 "istsc_fiic809007","Gambassi Terme","FI","Toscana",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T14:11:55.000+0000","2022-09-05","D41C22000650006",2.0,31.0
-"istsc_ceee043003","Mondragone","CE","Campania",10507.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-18T10:46:55.000+0000","2022-08-19","B51C22000340006",1.0,31.0
 "istsc_naic8dg006","Napoli","NA","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-26T10:39:35.000+0000","2022-08-19","E61F22001280006",2.0,33.0
 "istsc_fgis01100p","Cerignola","FG","Puglia",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-11T09:53:55.000+0000","2022-08-19","F31C22000250006",1.0,31.0
 "istsc_tvic83100b","Istrana","TV","Veneto",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-23T14:12:55.000+0000","2022-09-05","B71C22000740006",2.0,31.0
@@ -6890,6 +6886,10 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_pais01700b","Gangi","PA","Sicilia",9954.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-17T10:41:24.000+0000","2022-09-05","c81c22000910006",2.0,31.0
 "isc_061","Cellole","CE","Campania",11060.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T10:07:37.000+0000","2022-09-05","C11C22000730006",2.0,31.0
 "istsc_pgic82900e","Gualdo Cattaneo","PG","Umbria",9401.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-21T12:14:16.000+0000","2022-09-05","J11C22000850006",2.0,31.0
+"iccls","Casoria","NA","Campania",4977.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T09:21:20.000+0000","2022-09-05","H71C22000870006",2.0,31.0
+"istsc_miic81200n","Vedano al Lambro","MB","Lombardia",11060.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-24T10:01:55.000+0000","2022-09-05","J91C22000560006",2.0,31.0
+"istsc_pzis022008","Potenza","PZ","Basilicata",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-24T15:49:06.000+0000","2022-08-19","C31F22001480006",2.0,33.0
+"istsc_ceee043003","Mondragone","CE","Campania",10507.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-18T10:46:55.000+0000","2022-08-19","B51C22000340006",1.0,31.0
 "istsc_miis07200d","Milano","MI","Lombardia",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-10T14:30:38.000+0000","2022-08-19","B41C22000240006",1.0,31.0
 "istsc_miis07200d","Milano","MI","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-16T08:00:34.000+0000","2022-08-19","B41F22000090006",1.0,33.0
 "istsc_miic8a200n","Paullo","MI","Lombardia",3318.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-25T11:16:34.000+0000","2022-08-19","I91C22000260006",1.0,31.0
@@ -6949,7 +6949,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "iteilgrg","Gallarate","VA","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-19T07:19:22.000+0000","2022-08-19","G31F22000320007",1.0,33.0
 "istsc_pops02000g","Prato","PO","Toscana",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-13T06:23:42.000+0000","2022-08-19","J31F22001730006",2.0,33.0
 "istsc_viic877004","Montecchio Maggiore","VI","Veneto",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-17T10:07:14.000+0000","2022-08-19","F21F22000300006",1.0,33.0
-"istsc_czic82400e","Cropani","CZ","Calabria",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-11T06:44:14.000+0000","2022-08-19","H11C22000300006",1.0,31.0
 "istsc_miic8bj003","Carugate","MI","Lombardia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-23T09:23:09.000+0000","2022-08-19","C81F22000240006",1.0,33.0
 "istsc_bnic826006","San Marco dei Cavoti","BN","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-26T08:12:25.000+0000","2022-08-19","B11F22001430006",2.0,33.0
 "istsc_nais04100b","Torre Annunziata","NA","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-26T07:35:47.000+0000","2022-08-19","D41F22001730006",2.0,33.0
@@ -7026,7 +7025,6 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_namm41400b","Pozzuoli","NA","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-17T08:12:10.000+0000","2022-08-19","D81F22000300006",1.0,33.0
 "istsc_tvps04000q","Mogliano Veneto","TV","Veneto",11060.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-26T06:30:36.000+0000","2022-09-05","G61C22000780006",2.0,31.0
 "icras","Vieste","FG","Puglia",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-19T16:04:42.000+0000","2022-08-19","B71F22000270006",1.0,33.0
-"istsc_rmic8e5004","Roma","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-09T08:00:38.000+0000","2022-08-19","H85E22000330001",1.0,33.0
 "istsc_ceic80800n","Caserta","CE","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-02T08:43:11.000+0000","2022-08-19","E21F22000230006",1.0,33.0
 "istsc_ceic80800n","Caserta","CE","Campania",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-10T14:05:01.000+0000","2022-08-19","E21C22000200006",1.0,31.0
 "istsc_nuic871007","Dorgali","NU","Sardegna",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-21T19:40:16.000+0000","2022-08-19","H81F22000440006",1.0,33.0
@@ -7036,3 +7034,5 @@ codice_ipa,comune,provincia,regione,importo_finanziamento,avviso,data_invio_cand
 "istsc_naic81100b","Napoli","NA","Campania",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-26T11:45:52.000+0000","2022-08-19","B61F22001650006",2.0,33.0
 "istsc_rmic876005","Riano","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-24T10:24:39.000+0000","2022-08-19","F71F22000240006",1.0,33.0
 "icbrig","Termoli","CB","Molise",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-18T09:19:48.000+0000","2022-08-19","I31C22000290006",1.0,31.0
+"istsc_czic82400e","Cropani","CZ","Calabria",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-11T06:44:14.000+0000","2022-08-19","H11C22000300006",1.0,31.0
+"istsc_rmic8e5004","Roma","RM","Lazio",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-09T08:00:38.000+0000","2022-08-19","H85E22000330001",1.0,33.0
