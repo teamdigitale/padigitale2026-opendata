@@ -1,7 +1,7 @@
 # PA digitale 2026 format "Candidature Finanziate"
 
 ## Aggiornamento dati
-- Quotidiano, alle TBD. 
+- Quotidiano, alle 2:00 (UTC). 
 
 ## Formato dati
 
