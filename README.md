@@ -34,6 +34,8 @@ Nello specifico, i seguenti dati sono aggiornati quotidianamente alle 2:00 (UTC)
 
 
 # Struttura repository
+La repository è strutturata in principalmente in 4 cartelle, secondo lo schema seguente:
+
 ```
 padigitale2026-opendata/
 │
@@ -49,7 +51,13 @@ padigitale2026-opendata/
 ├── format/
 │   ├── format-pad26-avvisi.md
 │   ├── format-pad26-candidature-finanziate.md
+├── img/
+├── metadata/
+│   ├── pad26-opendata.rdf
 ```
+Nella cartella data sono raccolti tutti i dataset che costituiscono la repository. 
+
+Le specifiche dei dati sono riassunte nei file nella cartella format. Infine, nella cartella metadata è possibile trovare il file .rdf per l'integrazione della repository nel catalogo [dati.gov.it](https://dati.gov.it/).
 
 # Formato Dati
 - [Avvisi PA digitale 2026](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-avvisi.md)
@@ -67,8 +75,11 @@ Dati Candidature Finanziate: ogni giorno alle 2:00 (UTC).
 ## Authors / Copyright
 
 Copyright 2022 (c) Dipartimento per la trasformazione digitale.
+
 Far riferimento al file [AUTHORS](AUTHORS) per il corretto riferimento esteso. 
 
 ## Dettagli Licenza
 
-La licenza di questa repository è una CC-BY-4.0 (Creative Commons Attribution 4.0 International). Far riferimento al file [LICENSE](LICENSE) per il dettaglio della licenza.
+La licenza di questa repository è una CC-BY-4.0 (Creative Commons Attribution 4.0 International). 
+
+Far riferimento al file [LICENSE](LICENSE) per il dettaglio della licenza.
