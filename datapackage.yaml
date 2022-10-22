@@ -76,11 +76,15 @@ resources:
           - type: string
             name: provincia
           - type: string
+            name: cod_provincia
+          - type: string
             name: regione
-          - type: integer
+          - type: string
+            name: cod_regione
+          - type: float
             name: importo_finanziamento
             constraints:
-              minimum: 0
+              minimum: 0.0
           - type: string
             name: avviso
           - type: datetime
@@ -116,11 +120,15 @@ resources:
           - type: string
             name: provincia
           - type: string
+            name: cod_provincia
+          - type: string
             name: regione
-          - type: integer
+          - type: string
+            name: cod_regione
+          - type: float
             name: importo_finanziamento
             constraints:
-              minimum: 0
+              minimum: 0.0
           - type: string
             name: avviso
           - type: datetime
@@ -156,11 +164,15 @@ resources:
           - type: string
             name: provincia
           - type: string
+            name: cod_provincia
+          - type: string
             name: regione
-          - type: integer
+          - type: string
+            name: cod_regione
+          - type: float
             name: importo_finanziamento
             constraints:
-              minimum: 0
+              minimum: 0.0
           - type: string
             name: avviso
           - type: datetime
