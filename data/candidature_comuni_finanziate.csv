@@ -379,7 +379,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_a429","Arona","NO","003","Piemonte","01",85826.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-18T10:38:20.000+0000","2022-08-08","H21C22000010006",1.0,28.0
 "c_l744","Verano Brianza","MB","108","Lombardia","03",57419.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-05T14:13:23.000+0000","2022-08-02","F21F22000770006",2.0,23.0
 "c_f122","Menconico","PV","018","Lombardia","03",47427.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-04T14:55:57.000+0000","2022-08-08","F71C22000120006",1.0,28.0
-"c_f382","Monselice","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-03T08:21:31.000+0000","2022-08-02","None",1.0,25.0
+"c_f382","Monselice","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-03T08:21:31.000+0000","2022-08-02","B41F22000050006",1.0,25.0
 "c_f122","Menconico","PV","018","Lombardia","03",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-04T13:37:40.000+0000","2022-08-19","F71F22000340006",1.0,32.0
 "c_g115","Ormelle","TV","026","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-03T07:19:57.000+0000","2022-08-02","E61F22000130006",1.0,25.0
 "c_f382","Monselice","PD","028","Veneto","05",121992.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-03T08:22:40.000+0000","2022-08-08","B41C22000070006",1.0,28.0
@@ -586,7 +586,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_f990","Nuvolera","BS","017","Lombardia","03",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-11T13:42:42.000+0000","2022-08-19","G91F22000520006",1.0,32.0
 "c_e974","Marsala","TP","081","Sicilia","19",419124.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-09T11:20:51.000+0000","2022-08-08","B81C22000220006",1.0,28.0
 "c_e788","Macomer","NU","091","Sardegna","20",79701.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-05T09:01:14.000+0000","2022-08-02","F81F22000990006",2.0,23.0
-"c_m199","Zugliano","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-05T09:55:43.000+0000","2022-08-02","None",2.0,25.0
+"c_m199","Zugliano","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-05T09:55:43.000+0000","2022-08-02","H91F22000400006",2.0,25.0
 "c_f913","Nocera Superiore","SA","065","Campania","15",252118.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-19T09:30:45.000+0000","2022-09-05","H41C22000100006",2.0,28.0
 "c_e788","Macomer","NU","091","Sardegna","20",155234.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-04T08:02:37.000+0000","2022-08-19","F81F22000510006",1.0,32.0
 "c_e788","Macomer","NU","091","Sardegna","20",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-04T08:03:25.000+0000","2022-08-02","F81F22001070006",2.0,25.0
@@ -2203,7 +2203,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_a259","Ambivere","BG","016","Lombardia","03",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-05T11:03:38.000+0000","2022-08-19","G41F22000600006",1.0,32.0
 "c_i590","Sellia Marina","CZ","079","Calabria","18",17150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-06-01T07:47:58.000+0000","2022-08-12","D21F22001190006",2.0,24.0
 "c_a077","Agnana Calabra","RC","080","Calabria","18",3888.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-05T14:21:20.000+0000","2022-08-12","B51F22001030006",2.0,24.0
-"c_a714","Battaglia Terme","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-10T08:24:27.000+0000","2022-08-02","None",2.0,25.0
+"c_a714","Battaglia Terme","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-10T08:24:27.000+0000","2022-08-02","H51F22000980006",2.0,25.0
 "c_g206","Ozzero","MI","015","Lombardia","03",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-05T11:15:56.000+0000","2022-08-19","C51F22000480006",1.0,32.0
 "c_c675","Cicciano","NA","063","Campania","15",47135.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-05T11:26:51.000+0000","2022-08-02","D21F22000620006",2.0,23.0
 "c_l583","Valguarnera Caropepe","EN","086","Sicilia","19",12005.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-09T14:41:33.000+0000","2022-08-12","E81F22001260006",2.0,24.0
@@ -2920,7 +2920,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_h608","Roverè Veronese","VR","023","Veneto","05",11664.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-09T08:56:12.000+0000","2022-08-12","B61F22001450006",2.0,24.0
 "c_f148","Merlara","PD","028","Veneto","05",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-09T08:19:29.000+0000","2022-08-19","F21F22000380006",1.0,32.0
 "c_e372","Vasto","CH","069","Abruzzo","13",252118.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-09T10:08:30.000+0000","2022-08-08","I31C22000100006",1.0,28.0
-"c_a220","Alonte","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-09T09:25:27.000+0000","2022-08-02","None",2.0,25.0
+"c_a220","Alonte","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-09T09:25:27.000+0000","2022-08-02","H71F22000940006",2.0,25.0
 "c_a288","Anfo","BS","017","Lombardia","03",3888.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-12T13:44:34.000+0000","2022-08-12","I21F22000330006",2.0,24.0
 "c_g815","Pompiano","BS","017","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-09T07:53:33.000+0000","2022-08-02","E81F22001180006",2.0,25.0
 "c_e974","Marsala","TP","081","Sicilia","19",101976.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-13T08:43:41.000+0000","2022-08-02","B81F22000790006",2.0,23.0
@@ -3921,7 +3921,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_d746","Montebello Jonico","RC","080","Calabria","18",17150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-31T12:05:36.000+0000","2022-08-12","G21F22001070006",2.0,24.0
 "c_h426","Roccanova","PZ","076","Basilicata","17",12150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-10T15:59:50.000+0000","2022-08-12","F91F22000990006",2.0,24.0
 "c_f092","Megliadino San Vitale","PD","028","Veneto","05",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-15T10:06:22.000+0000","2022-08-19","I11F22000810006",1.0,32.0
-"c_f092","Megliadino San Vitale","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-15T10:03:29.000+0000","2022-08-02","None",2.0,25.0
+"c_f092","Megliadino San Vitale","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-15T10:03:29.000+0000","2022-08-02","I11F22001280006",2.0,25.0
 "c_e940","Mareno di Piave","TV","026","Veneto","05",108136.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-12T13:10:05.000+0000","2022-08-08","B11C22000150006",1.0,28.0
 "c_f975","Nughedu San Nicolò","SS","090","Sardegna","20",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-31T09:48:16.000+0000","2022-09-19","I61F22001100006",2.0,32.0
 "c_e061","Giurdignano","LE","075","Puglia","16",9477.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-31T11:06:11.000+0000","2022-08-12","B61F22001130006",2.0,24.0
@@ -3956,7 +3956,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_a593","Balestrino","SV","009","Liguria","07",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-31T09:45:17.000+0000","2022-08-02","J21F22001030006",2.0,25.0
 "c_h070","Prizzi","PA","082","Sicilia","19",77897.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-11T09:17:32.000+0000","2022-08-08","I51C22000030006",1.0,28.0
 "c_e880","Mandello Vitta","NO","003","Piemonte","01",19752.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-10T15:06:22.000+0000","2022-08-08","F31C22000070006",1.0,28.0
-"c_a539","Badia Polesine","RO","029","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-06-10T08:20:07.000+0000","2022-08-02","None",3.0,25.0
+"c_a539","Badia Polesine","RO","029","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-06-10T08:20:07.000+0000","2022-08-02","C91F22002170006",3.0,25.0
 "c_l572","Valera Fratta","LO","098","Lombardia","03",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-31T12:45:58.000+0000","2022-09-19","H21F22001510006",2.0,32.0
 "c_f930","Nonantola","MO","036","Emilia-Romagna","08",83044.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-06-30T12:23:34.000+0000","2022-09-05","J41C22001020006",3.0,28.0
 "c_c128","Castellalto","TE","067","Abruzzo","13",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-31T10:50:30.000+0000","2022-08-02","I11F22001070006",2.0,25.0
@@ -4092,7 +4092,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_a878","Bione","BS","017","Lombardia","03",47427.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-06-13T07:09:42.000+0000","2022-09-05","F71C22000280006",2.0,28.0
 "c_a874","Binetto","BA","072","Puglia","16",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-11T15:59:42.000+0000","2022-08-02","I21F22000740006",2.0,25.0
 "c_b440","Calvello","PZ","076","Basilicata","17",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-16T08:00:34.000+0000","2022-08-19","F91F22000610006",1.0,32.0
-"c_a613","Baone","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-11T06:32:47.000+0000","2022-08-02","None",2.0,25.0
+"c_a613","Baone","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-11T06:32:47.000+0000","2022-08-02","F31F22000750006",2.0,25.0
 "c_h253","Revine Lago","TV","026","Veneto","05",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-11T11:43:37.000+0000","2022-08-19","F31F22000730006",1.0,32.0
 "c_h574","Rosolini","SR","089","Sicilia","19",252118.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-11T10:19:57.000+0000","2022-08-08","J21C22000220006",1.0,28.0
 "c_h785","San Calogero","VV","102","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-13T10:35:55.000+0000","2022-08-02","D71F22000970006",2.0,25.0
@@ -4117,7 +4117,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_i192","Sant'Agata di Esaro","CS","078","Calabria","18",3402.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-12T08:23:27.000+0000","2022-08-12","j41f22001060006",2.0,24.0
 "c_i408","San Vittore del Lazio","FR","060","Lazio","12",47427.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-18T11:54:38.000+0000","2022-08-08","E91C22000010006",1.0,28.0
 "c_h574","Rosolini","SR","089","Sicilia","19",280932.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-11T11:20:23.000+0000","2022-08-19","J21F22000570006",1.0,32.0
-"c_a444","Arsiero","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-12T14:44:29.000+0000","2022-08-02","None",2.0,25.0
+"c_a444","Arsiero","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-12T14:44:29.000+0000","2022-08-02","G21F22000110006",2.0,25.0
 "c_a958","Bompietro","PA","082","Sicilia","19",47427.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-11T10:53:29.000+0000","2022-08-08","F21C22000190006",1.0,28.0
 "c_c813","Codevilla","PV","018","Lombardia","03",8991.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-06-01T10:32:37.000+0000","2022-08-12","F51F22001020006",2.0,24.0
 "c_h589","Rotello","CB","070","Molise","14",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-11T10:05:39.000+0000","2022-08-02","H41F22001040006",2.0,25.0
@@ -4662,7 +4662,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_c394","Cavenago d'Adda","LO","098","Lombardia","03",3402.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-12T13:00:28.000+0000","2022-08-12","D51F22001440006",2.0,24.0
 "c_h841","San Fili","CS","078","Calabria","18",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-12T11:38:08.000+0000","2022-08-19","J71F22000500006",1.0,32.0
 "c_l843","Vico nel Lazio","FR","060","Lazio","12",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-06-23T12:06:47.000+0000","2022-08-02","I81F22001830006",3.0,25.0
-"c_e709","Lozzo Atestino","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-12T12:06:51.000+0000","2022-08-02","None",2.0,25.0
+"c_e709","Lozzo Atestino","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-12T12:06:51.000+0000","2022-08-02","J51F22000200006",2.0,25.0
 "c_m082","Viterbo","VT","056","Lazio","12",328160.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-16T08:54:07.000+0000","2022-08-19","D81F22000640006",1.0,32.0
 "c_d742","Fossano","CN","004","Piemonte","01",223244.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-06-10T08:24:41.000+0000","2022-09-05","D41C22000500006",2.0,28.0
 "c_b959","Caselle in Pittari","SA","065","Campania","15",47427.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-12T12:01:30.000+0000","2022-08-08","C81C22000080006",1.0,28.0
@@ -5455,7 +5455,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_i628","Seriate","BG","016","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-20T09:05:53.000+0000","2022-08-02","E41F22000820006",2.0,25.0
 "c_e180","Grimaldi","CS","078","Calabria","18",47427.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-16T08:50:14.000+0000","2022-08-08","H41C22000070007",1.0,28.0
 "c_a569","Bagnolo Mella","BS","017","Lombardia","03",59990.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-16T09:28:33.000+0000","2022-08-02","H61F22000860006",2.0,23.0
-"c_d879","Galliera Veneta","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-16T10:06:55.000+0000","2022-08-02","None",2.0,25.0
+"c_d879","Galliera Veneta","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-16T10:06:55.000+0000","2022-08-02","G61F22000340006",2.0,25.0
 "c_l432","Trisobbio","AL","006","Piemonte","01",19752.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-18T12:34:49.000+0000","2022-08-08","B51C22000250006",1.0,28.0
 "c_h842","San Filippo del Mela","ME","083","Sicilia","19",121992.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-16T09:25:10.000+0000","2022-08-08","D61C22000100006",1.0,28.0
 "c_g267","Palazzolo Acreide","SR","089","Sicilia","19",155234.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-17T08:50:42.000+0000","2022-08-19","I11F22000530006",1.0,32.0
@@ -6858,7 +6858,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_d711","Formigine","MO","036","Emilia-Romagna","08",252118.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-31T06:10:26.000+0000","2022-09-05","E11C22000570006",2.0,28.0
 "c_h743","Sambuca di Sicilia","AG","084","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-19T11:24:34.000+0000","2022-08-02","I11F22000850006",2.0,25.0
 "c_i375","Sant'Urbano","PD","028","Veneto","05",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-23T07:56:49.000+0000","2022-08-19","D61F22000540006",1.0,32.0
-"c_h893","San Giorgio delle Pertiche","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-23T11:15:08.000+0000","2022-08-02","None",2.0,25.0
+"c_h893","San Giorgio delle Pertiche","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-23T11:15:08.000+0000","2022-08-02","J61F22001200006",2.0,25.0
 "c_d783","Frassinoro","MO","036","Emilia-Romagna","08",47427.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-27T10:39:44.000+0000","2022-09-05","F21C22000540006",2.0,28.0
 "c_e904","Maranello","MO","036","Emilia-Romagna","08",121992.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-27T09:12:44.000+0000","2022-09-05","F51C22000380006",2.0,28.0
 "c_b195","Broccostella","FR","060","Lazio","12",12150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-20T06:55:41.000+0000","2022-08-12","E81F22001410006",2.0,24.0
@@ -7268,7 +7268,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_l287","Torri del Benaco","VR","023","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-20T08:37:38.000+0000","2022-08-02","D71F22000990006",2.0,25.0
 "c_a572","Bagnolo del Salento","LE","075","Puglia","16",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-20T08:21:46.000+0000","2022-08-19","G81F22000440006",1.0,32.0
 "c_a310","Fiuggi","FR","060","Lazio","12",155234.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-20T09:33:00.000+0000","2022-08-19","C11F22000610006",1.0,32.0
-"c_f033","Massanzago","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-20T10:28:59.000+0000","2022-08-02","None",2.0,25.0
+"c_f033","Massanzago","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-20T10:28:59.000+0000","2022-08-02","B81F22000840006",2.0,25.0
 "c_i214","Sant'Alessio in Aspromonte","RC","080","Calabria","18",32778.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-20T09:32:07.000+0000","2022-08-02","J21F22000850006",2.0,23.0
 "c_a290","Angera","VA","012","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-24T09:33:33.000+0000","2022-08-02","F81F22001200006",2.0,25.0
 "c_h783","San Bonifacio","VR","023","Veneto","05",280932.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-23T13:57:20.000+0000","2022-08-19","C81F22000450006",1.0,32.0
@@ -16865,7 +16865,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_l016","Sutera","CL","085","Sicilia","19",4374.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-11T09:58:54.000+0000","2022-08-12","E71F22001200006",2.0,24.0
 "c_b989","Casorezzo","MI","015","Lombardia","03",83044.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-06-15T16:41:08.000+0000","2022-09-05","I61C22000370006",2.0,28.0
 "c_i494","Scandale","KR","101","Calabria","18",62690.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-06-15T16:39:03.000+0000","2022-09-05","J61C22000670006",2.0,28.0
-"c_l805","Vescovana","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-20T09:01:14.000+0000","2022-08-02","None",2.0,25.0
+"c_l805","Vescovana","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-20T09:01:14.000+0000","2022-08-02","C11F22001240006",2.0,25.0
 "c_b658","Capitignano","AQ","066","Abruzzo","13",79922.0,"1.4.1 Esperienza del Cittadino - Comuni - Aprile 2022","2022-05-18T09:42:21.000+0000","2022-08-19","G91F22000550006",1.0,32.0
 "c_h097","Quadrelle","AV","064","Campania","15",47427.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-06-09T08:12:41.000+0000","2022-09-05","F81C22000580006",2.0,28.0
 "c_h426","Roccanova","PZ","076","Basilicata","17",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-05T09:40:25.000+0000","2022-08-02","F91F22000960006",2.0,25.0
@@ -17177,7 +17177,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_e839","Maiori","SA","065","Campania","15",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-21T12:27:46.000+0000","2022-08-02","F91F22000130006",1.0,25.0
 "c_a239","Altofonte","PA","082","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-13T09:13:42.000+0000","2022-08-02","J41F22000150006",1.0,25.0
 "c_b924","Casamicciola Terme","NA","063","Campania","15",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-07T10:00:34.000+0000","2022-08-02","G31F22000160006",1.0,25.0
-"c_d902","Gambugliano","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-07T10:12:22.000+0000","2022-08-02","None",1.0,25.0
+"c_d902","Gambugliano","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-07T10:12:22.000+0000","2022-08-02","F31F22000160006",1.0,25.0
 "c_g874","Ponzano Romano","RM","058","Lazio","12",26101.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-24T08:26:14.000+0000","2022-08-02","C61F22000700006",2.0,23.0
 "c_c878","Colli a Volturno","IS","094","Molise","14",9477.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-13T11:04:48.000+0000","2022-08-12","I81F22000040006",1.0,24.0
 "c_b724","Carapelle","FG","071","Puglia","16",53991.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-07T10:33:24.000+0000","2022-07-13","E21F22000170006",1.0,23.0
@@ -17253,7 +17253,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_c448","Cellino San Marco","BR","074","Puglia","16",11141.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-06-07T11:34:36.000+0000","2022-09-21","C21F22001900006",3.0,23.0
 "c_d872","Galliate","NO","003","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T08:12:18.000+0000","2022-08-02","D81F22000230006",1.0,25.0
 "c_d379","Dueville","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T08:44:00.000+0000","2022-08-02","C61F22000190006",1.0,25.0
-"c_m170","Zermeghedo","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T07:55:08.000+0000","2022-08-02","None",1.0,25.0
+"c_m170","Zermeghedo","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T07:55:08.000+0000","2022-08-02","F71F22000190006",1.0,25.0
 "c_g624","Pietraperzia","EN","086","Sicilia","19",10284.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-08T08:48:26.000+0000","2022-07-13","J41F22000050006",1.0,23.0
 "c_l725","Venafro","IS","094","Molise","14",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T06:39:03.000+0000","2022-08-02","G71F22000070001",1.0,25.0
 "c_c911","Comabbio","VA","012","Lombardia","03",11907.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-03T16:26:48.000+0000","2022-08-12","E51F22000040006",1.0,24.0
@@ -17272,7 +17272,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_m103","Vo'","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T08:23:25.000+0000","2022-08-02","D91F22000160006",1.0,25.0
 "c_g957","Pozzoleone","VI","024","Veneto","05",7290.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-08T08:36:51.000+0000","2022-08-12","C51F22000020006",1.0,24.0
 "c_l439","Trivigno","PZ","076","Basilicata","17",11421.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-29T09:22:27.000+0000","2022-08-12","J61F22000200006",1.0,24.0
-"c_i418","Saonara","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-12T07:13:36.000+0000","2022-08-02","None",1.0,25.0
+"c_i418","Saonara","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-12T07:13:36.000+0000","2022-08-02","D71F22000260006",1.0,25.0
 "c_d872","Galliate","NO","003","Piemonte","01",33423.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-02T14:39:44.000+0000","2022-07-13","D81F22000240006",1.0,23.0
 "c_c911","Comabbio","VA","012","Lombardia","03",15782.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-04T10:17:33.000+0000","2022-08-02","E51F22000540006",2.0,23.0
 "c_i595","Selvazzano Dentro","PD","028","Veneto","05",32760.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-20T14:18:56.000+0000","2022-08-12","E81F22000130006",1.0,24.0
@@ -17300,12 +17300,12 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_l519","Pollina","PA","082","Sicilia","19",8262.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-06-28T13:09:36.000+0000","2022-08-12","G41F22001970006",3.0,24.0
 "c_h641","Ruoti","PZ","076","Basilicata","17",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-11T15:00:02.000+0000","2022-08-02","C21F22000000006",1.0,25.0
 "c_c058","Castel Baronia","AV","064","Campania","15",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-10T07:30:22.000+0000","2022-08-02","I81F22000810006",2.0,25.0
-"c_f013","Masi","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T09:13:05.000+0000","2022-08-02","None",1.0,25.0
+"c_f013","Masi","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T09:13:05.000+0000","2022-08-02","G71F22000120006",1.0,25.0
 "c_l519","Pollina","PA","082","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-24T13:55:11.000+0000","2022-08-02","G41F22001030006",2.0,25.0
 "c_c937","Comun Nuovo","BG","016","Lombardia","03",41883.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-24T08:27:17.000+0000","2022-08-02","J41F22000730006",2.0,23.0
 "c_e783","Macerata","MC","043","Marche","11",13104.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-15T09:06:05.000+0000","2022-08-12","I81F22000170006",1.0,24.0
 "c_b674","Caposele","AV","064","Campania","15",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T05:15:16.000+0000","2022-08-02","J31F22000130006",1.0,25.0
-"c_f922","Nogarole Vicentino","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T09:35:41.000+0000","2022-08-02","None",1.0,25.0
+"c_f922","Nogarole Vicentino","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T09:35:41.000+0000","2022-08-02","B41F22000070006",1.0,25.0
 "c_f922","Nogarole Vicentino","VI","024","Veneto","05",5832.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-08T09:58:45.000+0000","2022-08-12","B41F22000060006",1.0,24.0
 "c_B094","Bottidda","SS","090","Sardegna","20",12140.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-11T08:15:15.000+0000","2022-07-13","I51H21000010001",1.0,23.0
 "c_e883","Manerba del Garda","BS","017","Lombardia","03",6860.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-08T10:22:04.000+0000","2022-08-12","E91F22000150006",1.0,24.0
@@ -17321,7 +17321,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_a561","Montecatini-Terme","PT","047","Toscana","09",87408.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-09T07:02:29.000+0000","2022-08-02","B21F22000730006",2.0,23.0
 "c_g039","Oliveto Citra","SA","065","Campania","15",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-13T07:25:09.000+0000","2022-08-02","D81F22000260006",1.0,25.0
 "c_d886","Galluccio","CE","061","Campania","15",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-21T08:42:56.000+0000","2022-08-02","I11F22000090006",1.0,25.0
-"c_d156","Crespadoro","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T10:49:59.000+0000","2022-08-02","None",1.0,25.0
+"c_d156","Crespadoro","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T10:49:59.000+0000","2022-08-02","J51F22000150006",1.0,25.0
 "c_m300","Due Carrare","PD","028","Veneto","05",16807.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-28T20:12:53.000+0000","2022-08-12","I11F22000280006",1.0,24.0
 "c_b235","Bubbiano","MI","015","Lombardia","03",2430.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-06-20T17:04:29.000+0000","2022-08-12","E11F22001990006",3.0,24.0
 "c_a561","Montecatini-Terme","PT","047","Toscana","09",7280.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-28T10:06:35.000+0000","2022-08-12","B21F22000190006",1.0,24.0
@@ -17347,7 +17347,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_d665","Fonni","NU","091","Sardegna","20",12140.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-06-17T09:57:47.000+0000","2022-09-21","I61F22001520006",3.0,23.0
 "c_c424","Ceglie Messapica","BR","074","Puglia","16",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-22T13:04:23.000+0000","2022-08-02","J11F22000040006",1.0,25.0
 "c_d690","San Giovanni Teatino","CH","069","Abruzzo","13",28281.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-06-01T08:28:08.000+0000","2022-08-02","J31F22000800006",2.0,23.0
-"c_a093","Agugliaro","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T13:35:05.000+0000","2022-08-02","None",1.0,25.0
+"c_a093","Agugliaro","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-08T13:35:05.000+0000","2022-08-02","D51F22000070006",1.0,25.0
 "c_h228","Reitano","ME","083","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-24T16:11:30.000+0000","2022-08-02","G81F22000000006",1.0,25.0
 "c_i905","Spilinga","VV","102","Calabria","18",12150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-08T15:07:29.000+0000","2022-08-12","D81F22000180006",1.0,24.0
 "c_F793","Muccia","MC","043","Marche","11",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-24T08:44:28.000+0000","2022-08-02","E11F22001290006",2.0,25.0
@@ -17389,9 +17389,9 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_i319","Sant'Elena","PD","028","Veneto","05",8991.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-11T07:23:55.000+0000","2022-08-12","C51F22000150006",1.0,24.0
 "c_i373","San Stino di Livenza","VE","027","Veneto","05",53134.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-21T11:11:58.000+0000","2022-07-13","F11F22000280006",1.0,23.0
 "c_i240","Santa Maria di Licodia","CT","087","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-11T07:40:26.000+0000","2022-08-02","E21F22000070006",1.0,25.0
-"c_i319","Sant'Elena","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-11T07:24:38.000+0000","2022-08-02","None",1.0,25.0
+"c_i319","Sant'Elena","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-11T07:24:38.000+0000","2022-08-02","C51F22000130006",1.0,25.0
 "c_im325","Sissa Trecasali","PR","034","Emilia-Romagna","08",36851.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-11T08:38:19.000+0000","2022-07-13","I41F22000090006",1.0,23.0
-"c_l947","Villafranca Padovana","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-13T06:49:07.000+0000","2022-08-02","None",1.0,25.0
+"c_l947","Villafranca Padovana","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-13T06:49:07.000+0000","2022-08-02","J71F22000210006",1.0,25.0
 "c_e493","Lavello","PZ","076","Basilicata","17",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-11T11:23:36.000+0000","2022-08-02","I11F22000210006",1.0,25.0
 "c_c556","Cervignano del Friuli","UD","030","Friuli-Venezia Giulia","06",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-12T08:22:19.000+0000","2022-08-02","F41F22000060006",1.0,25.0
 "c_e599","Limosano","CB","070","Molise","14",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-12T11:45:48.000+0000","2022-08-02","F21F22000060006",1.0,25.0
@@ -17402,11 +17402,11 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_a612","Banzi","PZ","076","Basilicata","17",7891.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-11T10:48:49.000+0000","2022-07-13","B31F22000100006",1.0,23.0
 "c_d505","Farra di Soligo","TV","026","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T13:57:04.000+0000","2022-08-02","G71F22000020006",1.0,25.0
 "c_l307","Tortoreto","TE","067","Abruzzo","13",17150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-06-01T09:28:23.000+0000","2022-08-12","G71F22001030006",2.0,24.0
-"c_a465","Asiago","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-12T09:53:32.000+0000","2022-08-02","None",1.0,25.0
+"c_a465","Asiago","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-12T09:53:32.000+0000","2022-08-02","D41F22000080006",1.0,25.0
 "c_a271","Ancona","AN","042","Marche","11",63735.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-03T14:27:38.000+0000","2022-07-13","E31F22000170006",1.0,23.0
 "c_a970","Bonea","BN","062","Campania","15",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-03T08:12:04.000+0000","2022-08-02","E91F22000010006",1.0,25.0
 "c_e599","Limosano","CB","070","Molise","14",23066.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-12T11:46:11.000+0000","2022-07-13","F21F22000070006",1.0,23.0
-"c_h361","Roana","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T07:55:45.000+0000","2022-08-02","None",1.0,25.0
+"c_h361","Roana","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T07:55:45.000+0000","2022-08-02","F81F22000140006",1.0,25.0
 "c_a612","Banzi","PZ","076","Basilicata","17",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-11T10:48:00.000+0000","2022-08-02","B31F22000090006",1.0,25.0
 "c_f011","Maserà di Padova","PD","028","Veneto","05",16121.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-11T11:04:31.000+0000","2022-08-12","F61F22000100006",1.0,24.0
 "c_g387","Pavarolo","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-06-10T16:07:24.000+0000","2022-08-02","E81F22002330006",3.0,25.0
@@ -17714,7 +17714,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_h929","San Giuliano di Puglia","CB","070","Molise","14",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-31T06:58:01.000+0000","2022-08-02","F21F22001030006",2.0,25.0
 "c_m167","Zerbolò","PV","018","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-13T09:09:10.000+0000","2022-08-02","I81F22000060006",1.0,25.0
 "c_h267","Riano","RM","058","Lazio","12",5142.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-13T09:45:21.000+0000","2022-07-13","D71F22000240006",1.0,23.0
-"c_b485","Camisano Vicentino","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T06:43:01.000+0000","2022-08-02","None",1.0,25.0
+"c_b485","Camisano Vicentino","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T06:43:01.000+0000","2022-08-02","H71F22000150006",1.0,25.0
 "c_e879","Mandello del Lario","LC","097","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T08:21:04.000+0000","2022-08-02","F51F22000200006",1.0,25.0
 "c_e879","Mandello del Lario","LC","097","Lombardia","03",7713.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-14T08:22:40.000+0000","2022-07-13","F51F22000170006",1.0,23.0
 "c_c665","Chivasso","TO","001","Piemonte","01",36400.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-28T08:17:47.000+0000","2022-08-12","E91F22000170006",1.0,24.0
@@ -17744,7 +17744,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_b297","Bussoleno","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-13T11:25:49.000+0000","2022-08-02","B71F22000080006",1.0,25.0
 "c_f515","Montegaldella","VI","024","Veneto","05",4131.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-14T09:09:27.000+0000","2022-08-12","I61F22000120006",1.0,24.0
 "c_c116","Castel Gandolfo","RM","058","Lazio","12",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-10T13:33:37.000+0000","2022-08-02","H21F22001040006",2.0,25.0
-"c_f515","Montegaldella","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T09:08:59.000+0000","2022-08-02","None",1.0,25.0
+"c_f515","Montegaldella","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T09:08:59.000+0000","2022-08-02","I61F22000130006",1.0,25.0
 "c_b173","Brienza","PZ","076","Basilicata","17",12150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-21T08:14:13.000+0000","2022-08-12","H71F22000250006",1.0,24.0
 "c_d798","Frigento","AV","064","Campania","15",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T11:29:12.000+0000","2022-08-02","D37H22001820001",1.0,25.0
 "c_c897","Colognola ai Colli","VR","023","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T16:17:56.000+0000","2022-08-02","I31F22000130006",1.0,25.0
@@ -17753,7 +17753,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_b297","Bussoleno","TO","001","Piemonte","01",3428.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-13T11:34:54.000+0000","2022-07-13","B71F22000090006",1.0,23.0
 "c_d334","Domusnovas","SU","111","Sardegna","20",13034.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-06-01T15:45:39.000+0000","2022-08-12","F21F22001350006",2.0,24.0
 "c_c897","Colognola ai Colli","VR","023","Veneto","05",16121.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-14T16:18:45.000+0000","2022-08-12","I31F22000140006",1.0,24.0
-"c_l433","Trissino","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-04T17:05:39.000+0000","2022-08-02","None",2.0,25.0
+"c_l433","Trissino","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-04T17:05:39.000+0000","2022-08-02","J61F22001100006",2.0,25.0
 "c_i255","Santa Marinella","RM","058","Lazio","12",23139.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-13T13:16:56.000+0000","2022-07-13","D51F22000190006",1.0,23.0
 "c_i417","San Zenone degli Ezzelini","TV","026","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-13T13:00:55.000+0000","2022-08-02","C41F22000240006",1.0,25.0
 "c_b247","Budoia","PN","093","Friuli-Venezia Giulia","06",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-13T14:42:41.000+0000","2022-08-02","C71F22000000006",1.0,25.0
@@ -17831,7 +17831,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_i615","Senorbì","SU","111","Sardegna","20",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-06-17T09:51:46.000+0000","2022-08-02","C71F22001450006",3.0,25.0
 "c_h580","Rossano Veneto","VI","024","Veneto","05",12005.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-14T08:48:44.000+0000","2022-08-12","C21F22000040006",1.0,24.0
 "c_h646","Ruvo del Monte","PZ","076","Basilicata","17",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-03T09:02:11.000+0000","2022-08-02","D31F22000220006",1.0,25.0
-"c_h580","Rossano Veneto","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T08:49:21.000+0000","2022-08-02","None",1.0,25.0
+"c_h580","Rossano Veneto","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T08:49:21.000+0000","2022-08-02","C21F22000030006",1.0,25.0
 "c_l297","Torri di Quartesolo","VI","024","Veneto","05",16807.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-15T10:33:36.000+0000","2022-08-12","I41F22000070006",1.0,24.0
 "c_a110","Airola","BN","062","Campania","15",42850.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-03T18:31:44.000+0000","2022-07-13","F11F22000240006",1.0,23.0
 "c_e522","Lendinara","RO","029","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-19T11:00:03.000+0000","2022-08-02","I71F22000140006",1.0,25.0
@@ -17899,7 +17899,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_f770","Motta di Livenza","TV","026","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-29T10:37:34.000+0000","2022-08-02","D31F22000120006",1.0,25.0
 "c_a051","Acquaviva d'Isernia","IS","094","Molise","14",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-21T09:37:01.000+0000","2022-08-02","I11F22000040006",1.0,25.0
 "c_a488","Atri","TE","067","Abruzzo","13",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-06-21T10:41:02.000+0000","2022-08-02","B31F22001990006",3.0,25.0
-"c_b143","Brendola","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T09:59:09.000+0000","2022-08-02","None",1.0,25.0
+"c_b143","Brendola","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T09:59:09.000+0000","2022-08-02","E11F22000150006",1.0,25.0
 "c_b877","Casale di Scodosia","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-14T14:31:43.000+0000","2022-08-02","J31F22000200006",1.0,25.0
 "c_e372","Vasto","CH","069","Abruzzo","13",45525.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-20T14:19:22.000+0000","2022-07-13","I31F22000160006",1.0,23.0
 "c_a051","Acquaviva d'Isernia","IS","094","Molise","14",27315.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-21T09:37:23.000+0000","2022-07-13","I11F22000050006",1.0,23.0
@@ -17955,11 +17955,11 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_b313","Cabiate","CO","013","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-20T08:19:51.000+0000","2022-08-02","B61F22000100006",1.0,25.0
 "c_l401","Trevignano Romano","RM","058","Lazio","12",15778.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-23T11:41:32.000+0000","2022-08-12","F61F22001200006",2.0,24.0
 "c_l704","Vedano al Lambro","MB","108","Lombardia","03",3087.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-13T10:09:14.000+0000","2022-08-12","D91F22001160006",2.0,24.0
-"c_d496","Fara Vicentino","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T09:36:35.000+0000","2022-08-02","None",1.0,25.0
+"c_d496","Fara Vicentino","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T09:36:35.000+0000","2022-08-02","C81F22000190006",1.0,25.0
 "c_i375","Sant'Urbano","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T11:11:38.000+0000","2022-08-02","D61F22000140006",1.0,25.0
 "c_a448","Artegna","UD","030","Friuli-Venezia Giulia","06",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T08:39:33.000+0000","2022-08-02","F51F22000000006",1.0,25.0
 "c_l704","Vedano al Lambro","MB","108","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-13T10:16:19.000+0000","2022-08-02","D91F22000960006",2.0,25.0
-"c_g923","Porto Tolle","RO","029","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T08:26:29.000+0000","2022-08-02","None",1.0,25.0
+"c_g923","Porto Tolle","RO","029","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T08:26:29.000+0000","2022-08-02","I81F22000120006",1.0,25.0
 "c_l860","Vietri sul Mare","SA","065","Campania","15",40279.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-19T10:49:38.000+0000","2022-07-13","F11F22000230006",1.0,23.0
 "c_e953","Marianopoli","CL","085","Sicilia","19",25494.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-06-14T10:39:18.000+0000","2022-09-21","E41F22002100006",3.0,23.0
 "c_h337","Riva presso Chieri","TO","001","Piemonte","01",34599.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-06-01T08:09:43.000+0000","2022-08-02","D71F22000820006",2.0,23.0
@@ -17970,7 +17970,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_c404","Cavour","TO","001","Piemonte","01",27424.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-06-03T09:17:02.000+0000","2022-08-02","E61F22000730006",2.0,23.0
 "c_d171","Crispiano","TA","073","Puglia","16",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T10:09:31.000+0000","2022-08-02","I91F22000190006",1.0,25.0
 "c_h807","San Costantino Calabro","VV","102","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T11:29:47.000+0000","2022-08-02","E81J22000060006",1.0,25.0
-"c_l026","Taglio di Po","RO","029","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T10:27:36.000+0000","2022-08-02","None",1.0,25.0
+"c_l026","Taglio di Po","RO","029","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T10:27:36.000+0000","2022-08-02","F61F22000050006",1.0,25.0
 "c_f127","Mentana","RM","058","Lazio","12",94692.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-28T14:24:06.000+0000","2022-07-13","J31F22000160006",1.0,23.0
 "c_a271","Ancona","AN","042","Marche","11",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-29T09:22:27.000+0000","2022-08-02","E31F22000190006",1.0,25.0
 "c_b903","Villapiana","CS","078","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-06-09T15:37:21.000+0000","2022-08-02","B91F22002130006",3.0,25.0
@@ -17997,7 +17997,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_i176","Santa Cristina d'Aspromonte","RC","080","Calabria","18",12140.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-02T16:01:36.000+0000","2022-07-13","H91F22000130006",1.0,23.0
 "c_c784","Civitella San Paolo","RM","058","Lazio","12",1701.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-15T10:55:00.000+0000","2022-08-12","F41F22000120006",1.0,24.0
 "c_i176","Santa Cristina d'Aspromonte","RC","080","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-15T11:16:38.000+0000","2022-08-02","H91F22000120006",1.0,25.0
-"c_c824","Cogollo del Cengio","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-22T10:54:48.000+0000","2022-08-02","None",1.0,25.0
+"c_c824","Cogollo del Cengio","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-22T10:54:48.000+0000","2022-08-02","G91F22000110006",1.0,25.0
 "c_h807","San Costantino Calabro","VV","102","Calabria","18",35206.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-18T10:15:26.000+0000","2022-08-02","E81C22000440006",2.0,23.0
 "c_l026","Taglio di Po","RO","029","Veneto","05",8918.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-19T09:57:46.000+0000","2022-08-12","F61F22000040006",1.0,24.0
 "c_e016","Giarratana","RG","088","Sicilia","19",72463.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-05-16T14:18:49.000+0000","2022-08-08","G61C22000110006",1.0,28.0
@@ -18069,7 +18069,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_l967","Villamarzana","RO","029","Veneto","05",7533.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-10T12:02:56.000+0000","2022-08-12","I91F22000980006",2.0,24.0
 "c_c713","Cinto Euganeo","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-26T08:47:15.000+0000","2022-08-02","J71F22000170006",1.0,25.0
 "c_e671","Longare","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-29T12:25:40.000+0000","2022-08-02","C11F22000210006",1.0,25.0
-"c_g943","Pove del Grappa","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-19T08:35:57.000+0000","2022-08-02","None",1.0,25.0
+"c_g943","Pove del Grappa","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-19T08:35:57.000+0000","2022-08-02","B41F22000020006",1.0,25.0
 "c_m271","Mazzarrone","CT","087","Sicilia","19",3888.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-19T08:30:42.000+0000","2022-08-12","D21F22000090006",1.0,24.0
 "c_i029","San Mauro Forte","MT","077","Basilicata","17",12150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-30T16:30:00.000+0000","2022-08-12","G41F22000280006",2.0,24.0
 "c_d683","Fontegreca","CE","061","Campania","15",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-13T12:23:37.000+0000","2022-08-02","D51F22001320006",2.0,25.0
@@ -18106,7 +18106,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_c173","Castellinaldo d'Alba","CN","004","Piemonte","01",2428.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-04-19T10:44:45.000+0000","2022-07-13","H21F22000050006",1.0,23.0
 "c_h645","Ruvo di Puglia","BA","072","Puglia","16",36400.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-02T11:40:35.000+0000","2022-08-12","I51F22000070006",1.0,24.0
 "c_g736","Taipana","UD","030","Friuli-Venezia Giulia","06",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-20T08:02:34.000+0000","2022-08-02","G41F22000000006",1.0,25.0
-"c_i783","Solagna","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-19T09:32:17.000+0000","2022-08-02","None",1.0,25.0
+"c_i783","Solagna","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-19T09:32:17.000+0000","2022-08-02","F61F22000320006",1.0,25.0
 "c_h356","Rivoli Veronese","VR","023","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-19T10:01:23.000+0000","2022-08-02","F11F22000180006",1.0,25.0
 "c_f977","Nulvi","SS","090","Sardegna","20",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-19T11:06:46.000+0000","2022-08-02","B81F22000060006",1.0,25.0
 "c_a154","Albettone","VI","024","Veneto","05",8748.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-20T13:53:18.000+0000","2022-08-12","D61F22000110006",1.0,24.0
@@ -18127,12 +18127,12 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_a064","Afragola","NA","063","Campania","15",36400.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-25T08:33:27.000+0000","2022-08-12","B41F22000830006",2.0,24.0
 "c_a661","Barghe","BS","017","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-20T10:07:35.000+0000","2022-08-02","J91F22000100006",1.0,25.0
 "c_c895","Cologno Monzese","MI","015","Lombardia","03",36400.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-29T10:08:33.000+0000","2022-08-12","D21F22000010006",1.0,24.0
-"c_a296","Anguillara Veneta","PD","028","Veneto","05",12150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-02T12:09:09.000+0000","2022-08-12","None",1.0,24.0
+"c_a296","Anguillara Veneta","PD","028","Veneto","05",12150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-02T12:09:09.000+0000","2022-08-12","E71F22000150006",1.0,24.0
 "c_e522","Lendinara","RO","029","Veneto","05",10976.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-19T14:09:39.000+0000","2022-08-12","I71F22000150006",1.0,24.0
 "c_d940","Gavardo","BS","017","Lombardia","03",67703.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-18T14:52:51.000+0000","2022-08-02","E21F22000250006",2.0,23.0
 "c_d650","Foiano di Val Fortore","BN","062","Campania","15",9720.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-06-14T12:17:54.000+0000","2022-08-12","B41F22001990006",3.0,24.0
 "c_l406","Casto","BS","017","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-26T11:40:41.000+0000","2022-08-02","D51F22000010006",1.0,25.0
-"c_m384","Val Liona","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-19T14:26:33.000+0000","2022-08-02","None",1.0,25.0
+"c_m384","Val Liona","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-19T14:26:33.000+0000","2022-08-02","H11F22000150006",1.0,25.0
 "c_a878","Bione","BS","017","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-21T07:53:19.000+0000","2022-08-02","F71F22000020006",1.0,25.0
 "c_a389","Arese","MI","015","Lombardia","03",10633.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-05-26T13:26:37.000+0000","2022-08-12","E21F22000900006",2.0,24.0
 "c_g248","Paitone","BS","017","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-21T07:34:54.000+0000","2022-08-02","H31F22000080006",1.0,25.0
@@ -18267,7 +18267,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_h623","Rozzano","MI","015","Lombardia","03",178002.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-04-21T09:13:46.000+0000","2022-08-08","B21C22000210006",1.0,28.0
 "c_h014","Precenicco","UD","030","Friuli-Venezia Giulia","06",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-29T09:22:27.000+0000","2022-08-02","D91H22000030006",1.0,25.0
 "c_a729","Bedizzole","BS","017","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-21T11:59:29.000+0000","2022-08-02","B21F22000020006",1.0,25.0
-"c_g406","Pedemonte","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-21T08:01:51.000+0000","2022-08-02","None",1.0,25.0
+"c_g406","Pedemonte","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-21T08:01:51.000+0000","2022-08-02","F81F22000130006",1.0,25.0
 "c_e050","Girifalco","CZ","079","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-06T11:18:59.000+0000","2022-08-02","J61F22000990006",2.0,25.0
 "c_b181","Brindisi Montagna","PZ","076","Basilicata","17",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-21T07:23:16.000+0000","2022-08-02","E81F22000180006",1.0,25.0
 "c_i906","Spinadesco","CR","019","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-22T08:19:29.000+0000","2022-08-02","E21F22000120007",1.0,25.0
@@ -18338,7 +18338,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_l156","Tezze sul Brenta","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-22T08:06:54.000+0000","2022-08-02","H91F22000010006",1.0,25.0
 "c_i202","Sant'Agata li Battiati","CT","087","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-21T11:02:27.000+0000","2022-08-02","C91F22000080006",1.0,25.0
 "c_g791","Polistena","RC","080","Calabria","18",83044.0,"1.2 Abilitazione al cloud - Comuni - Aprile 2022","2022-04-21T11:44:03.000+0000","2022-08-08","I11C22000100006",1.0,28.0
-"c_d717","Tonezza del Cimone","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-03T10:18:02.000+0000","2022-08-02","None",1.0,25.0
+"c_d717","Tonezza del Cimone","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-03T10:18:02.000+0000","2022-08-02","C21F22000210006",1.0,25.0
 "c_d789","Frattamaggiore","NA","063","Campania","15",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-27T08:35:57.000+0000","2022-08-02","F71F22000090006",1.0,25.0
 "C_H078","Provaglio d'Iseo","BS","017","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-05-17T13:45:51.000+0000","2022-08-02","C91F22000950006",2.0,25.0
 "c_h943","San Gregorio Magno","SA","065","Campania","15",17603.0,"1.4.3 - pagoPA - Comuni - Aprile 2022","2022-05-02T11:02:50.000+0000","2022-07-13","I91F22000220006",1.0,23.0
@@ -18398,7 +18398,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "c_a484","Atena Lucana","SA","065","Campania","15",12150.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-06-01T12:34:55.000+0000","2022-08-12","B71F22001200006",2.0,24.0
 "c_c715","Cinzano","TO","001","Piemonte","01",729.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-06-24T14:25:53.000+0000","2022-08-12","F31F22001150006",3.0,24.0
 "c_b537","Campofranco","CL","085","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-27T11:12:11.000+0000","2022-08-02","B11F22000190006",1.0,25.0
-"c_a954","Bolzano Vicentino","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-22T07:26:59.000+0000","2022-08-02","None",1.0,25.0
+"c_a954","Bolzano Vicentino","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-04-22T07:26:59.000+0000","2022-08-02","J81F22000070006",1.0,25.0
 "c_d107","Costabissara","VI","024","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-07-01T09:39:26.000+0000","2022-08-02","I31F22002590006",3.0,25.0
 "c_a449","Artena","RM","058","Lazio","12",14000.0,"1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022","2022-06-07T08:01:13.000+0000","2022-08-02","F91F22001870006",3.0,25.0
 "c_g628","Pietrasanta","LU","046","Toscana","09",36400.0,"1.4.3 - app IO - Comuni - Aprile 2022","2022-04-22T11:05:41.000+0000","2022-08-12","G41F22000160006",1.0,24.0
