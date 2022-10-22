@@ -31,6 +31,7 @@ Nello specifico, i seguenti dati sono aggiornati quotidianamente alle 2:00 (UTC)
 - [Formato Dati](#formato-dati)
 - [Aggiornamento Dati](#aggiornamento-dati)
 - [Licenza](#licenza)
+- [Changelog](#changelog)
 
 
 # Struttura repository
@@ -83,3 +84,7 @@ Far riferimento al file [AUTHORS](AUTHORS) per il corretto riferimento esteso.
 La licenza di questa repository è una CC-BY-4.0 (Creative Commons Attribution 4.0 International). 
 
 Far riferimento al file [LICENSE](LICENSE) per il dettaglio della licenza.
+
+# Changelog
+
+Nel file di Changelog sono raccolte tutte le modifiche ai file pubblicati e la roadmap prevista.
