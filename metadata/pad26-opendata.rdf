@@ -10,7 +10,7 @@
   <rdf:Description rdf:about="http://sample.org/meta/agent/PCM">
     <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Agent"/>
     <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-    <foaf:name>MITD - Dipartimento per la Trasformazione Digitale</foaf:name>
+    <foaf:name>DTD - Dipartimento per la Trasformazione Digitale</foaf:name>
     <dc:identifier>PCM</dc:identifier>
   </rdf:Description>
 

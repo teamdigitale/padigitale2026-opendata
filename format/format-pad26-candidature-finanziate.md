@@ -1,7 +1,7 @@
 # PA digitale 2026 format "Candidature Finanziate"
 
 ## Aggiornamento dati
-- Quotidiano, alle TBD. 
+- Quotidiano, alle 2:00 (UTC). 
 
 ## Formato dati
 
@@ -18,7 +18,9 @@ I file sono tutti strutturati nella seguente maniera:
 | codice_ipa | string | Codice identificativo estratto dall'Indice delle Pubbliche Amministrazioni | |
 | comune | string | Comune associato alla PA, come riportato in IPA. | |
 | provincia | string | Provincia associata alla PA, come riportato in IPA. | |
+| cod_provincia | string | Codice ISTAT della provincia associata alla PA | |
 | regione | string | Regione associata alla PA, come riportato in IPA. | |
+| cod_regione | string | Codice ISTAT della regione associata alla PA | |
 | importo_finanziamento | float | Importo del voucher richiesto dalla PA nella candidatura | |
 | avviso | string | Avviso a cui l'ente si è candidato | |
 | data_invio_candidatura | datetime | Data in cui la PA ha trasmetto la sua candidatura al Dipartimento della Trasformazione Digitale.  | yyyy-MM-ddTHH:mm:ss.SSS Z|
