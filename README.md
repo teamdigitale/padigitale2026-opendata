@@ -51,7 +51,9 @@ padigitale2026-opendata/
 │   ├── candidature_altrienti_finanziate.json
 ├── format/
 │   ├── format-pad26-avvisi.md
-│   ├── format-pad26-candidature-finanziate.md
+│   ├── format-pad26-candidature-comuni-finanziate.md
+│   ├── format-pad26-candidature-altrienti-finanziate.md
+│   ├── format-pad26-candidature-scuole-finanziate.md
 ├── img/
 ├── metadata/
 │   ├── pad26-opendata.rdf
