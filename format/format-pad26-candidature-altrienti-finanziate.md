@@ -7,10 +7,8 @@
 
 **Reference file:** 
 * candidature_comuni_finanziate.csv<br>
-* candidature_scuole_finanziate.csv<br>
-* candidature_altrienti_finanziate.csv<br>
 
-Le candidature sono state separate in un file distinto per ogni cluster di pubbliche amministrazioni: Comuni, Scuole e altri enti. 
+Le candidature sono state separate in un file distinto per ogni cluster di pubbliche amministrazioni: Comuni, Scuole e altri enti.
 I file sono tutti strutturati nella seguente maniera:
 
 | Campo | Tipo di dati | Descrizione | Formato |

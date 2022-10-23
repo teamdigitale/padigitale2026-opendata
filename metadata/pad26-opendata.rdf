@@ -26,7 +26,7 @@
 
     <!-- DATASET: CANDIDATURE FINANZIATE -->
     <dcat:dataset>
-      <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-finanziate.md">
+      <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-comuni-finanziate.md">
         <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
         <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
         <dc:identifier>PCM:pad26_fin_comuni</dc:identifier>
@@ -111,7 +111,7 @@
 
     <!-- DATASET: CANDIDATURE FINANZIATE -->
     <dcat:dataset>
-      <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-finanziate.md">
+      <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-scuole-finanziate.md">
         <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
         <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
         <dc:identifier>PCM:pad26_fin_scuole</dc:identifier>
@@ -196,7 +196,7 @@
 
     <!-- DATASET: CANDIDATURE FINANZIATE -->
     <dcat:dataset>
-      <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-finanziate.md">
+      <rdf:Description rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-altrienti-finanziate.md">
         <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
         <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
         <dc:identifier>PCM:pad26_fin_altrienti</dc:identifier>
@@ -374,8 +374,7 @@ Componente singola finale
     <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
     <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
     <vcard:fn>open data</vcard:fn>
-    <!-- <vcard:hasEmail rdf:resource="mailto:@PLH:MAILTO"/>
-    <vcard:hasUrl rdf:resource="@PLH:HASURL8"/>
-  --> 
+    <vcard:hasEmail rdf:resource="mailto:"/>
+    <vcard:hasUrl rdf:resource="https://padigitale2026.gov.it/"/>
   </rdf:Description>
 </rdf:RDF>
