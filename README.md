@@ -64,13 +64,18 @@ Le specifiche dei dati sono riassunte nei file nella cartella format. Infine, ne
 
 # Formato Dati
 - [Avvisi PA digitale 2026](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-avvisi.md)
-- [Candidature Comuni Finanziate](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-comuni-finanziate.md)
-- [Candidature Scuole Finanziate](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-scuole-finanziate.md)
-- [Candidature Altri Enti Finanziate](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-altrienti-finanziate.md)
+- [Candidature Finanziate](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-finanziate.md)
 
 
 Nella repository si possono trovare le tabelle, in formato .json e .csv, relative alle candidature finanziate e agli avvisi pubblicati su PA digitale 2026. 
 
+## Nota sui codici CUP e portale OpenCUP
+
+Per ciascuna candidatura è indicato il [Codice Unico Progetto](https://www.programmazioneeconomica.gov.it/sistema-mipcup/che-cose-il-cup/).
+
+Il portale OpenCUP (https://opencup.gov.it/) è un utile strumento di trasparenza e monitoraggio che permette di ottenere le informazioni relative a ciascun codice CUP, direttamente o attraverso strumenti di ricerca.
+
+Al momento su OpenCUP non sono pubblicate tutte le nature progettuali. In particolare, la natura "acquisto/realizzazione di servizi" che riguarda il tipo di progetti di PA Digitale 2026. Si rimanda perciò a future evoluzioni del portale.
 
 # Aggiornamento Dati
 Dati Candidature Finanziate: ogni giorno alle 2:00 (UTC).
@@ -88,10 +93,6 @@ Far riferimento al file [AUTHORS](AUTHORS) per il corretto riferimento esteso.
 La licenza di questa repository è una CC-BY-4.0 (Creative Commons Attribution 4.0 International). 
 
 Far riferimento al file [LICENSE](LICENSE) per il dettaglio della licenza.
-
-### Come attribuire
-
-A titolo d'esempio, è sufficiente indicare, ove opportuno, "Dati PNRR PADigitale2026 Copyright (c) Dipartimento per la trasformazione digitale".
 
 # Changelog
 
