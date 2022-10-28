@@ -30,8 +30,9 @@ Nello specifico, i seguenti dati sono aggiornati quotidianamente alle 2:00 (UTC)
 - [Struttura Repository](#struttura-repository)
 - [Formato Dati](#formato-dati)
 - [Aggiornamento Dati](#aggiornamento-dati)
-- [Licenza](#licenza)
 - [Changelog](#changelog)
+- [Licenza](#licenza)
+
 
 
 # Struttura repository
@@ -75,6 +76,10 @@ Nella repository si possono trovare le tabelle, in formato .json e .csv, relativ
 # Aggiornamento Dati
 Dati Candidature Finanziate: ogni giorno alle 2:00 (UTC).
 
+# Changelog
+
+Le modifiche alla repository saranno tracciate in dettaglio nel file di changelog al fine di essere trasparenti riguardo l'evoluzione del contenuto e della struttura della repository. Per completezza, nel file è specificata anche la lista delle integrazioni future pianificate. 
+ 
 # Licenza
 
 ## Authors / Copyright
@@ -93,6 +98,4 @@ Far riferimento al file [LICENSE](LICENSE) per il dettaglio della licenza.
 
 A titolo d'esempio, è sufficiente indicare, ove opportuno, "Dati PNRR PADigitale2026 Copyright (c) Dipartimento per la trasformazione digitale".
 
-# Changelog
 
-Nel file di Changelog sono raccolte tutte le modifiche ai file pubblicati e la roadmap prevista.
