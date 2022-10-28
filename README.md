@@ -72,6 +72,13 @@ Le specifiche dei dati sono riassunte nei file nella cartella format. Infine, ne
 
 Nella repository si possono trovare le tabelle, in formato .json e .csv, relative alle candidature finanziate e agli avvisi pubblicati su PA digitale 2026. 
 
+## Nota sui codici CUP e portale OpenCUP
+
+Per ciascuna candidatura è indicato il [Codice Unico Progetto](https://www.programmazioneeconomica.gov.it/sistema-mipcup/che-cose-il-cup/).
+
+Il portale OpenCUP (https://opencup.gov.it/) è un utile strumento di trasparenza e monitoraggio civico che permette di ottenere le informazioni relative a ciascun codice CUP, direttamente o attraverso strumenti di ricerca.
+
+Al momento su OpenCUP non sono pubblicate tutte le nature progettuali, ma soltanto quelle relativi ai progetti di investimento pubblico (Lavori Pubblici, Incentivi alle imprese e Contributi per calamità naturali)[[1]](https://opencup.gov.it/opendata). La natura "acquisto/realizzazione di servizi", che riguarda il tipo di progetti di PA Digitale 2026, non è quindi attualmente inclusa. Si rimanda per questo a future evoluzioni del portale.
 
 # Aggiornamento Dati
 Dati Candidature Finanziate: ogni giorno alle 2:00 (UTC).
