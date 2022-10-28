@@ -87,6 +87,10 @@ La licenza di questa repository è una CC-BY-4.0 (Creative Commons Attribution 4
 
 Far riferimento al file [LICENSE](LICENSE) per il dettaglio della licenza.
 
+### Come attribuire
+
+A titolo d'esempio, è sufficiente indicare, ove opportuno, "Dati PNRR PADigitale2026 Copyright (c) Dipartimento per la trasformazione digitale".
+
 # Changelog
 
 Nel file di Changelog sono raccolte tutte le modifiche ai file pubblicati e la roadmap prevista.
