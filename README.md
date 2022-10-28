@@ -65,7 +65,9 @@ Le specifiche dei dati sono riassunte nei file nella cartella format. Infine, ne
 
 # Formato Dati
 - [Avvisi PA digitale 2026](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-avvisi.md)
-- [Candidature Finanziate](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-finanziate.md)
+- [Candidature Comuni Finanziate](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-comuni-finanziate.md)
+- [Candidature Scuole Finanziate](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-scuole-finanziate.md)
+- [Candidature Altri Enti Finanziate](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-altrienti-finanziate.md)
 
 
 Nella repository si possono trovare le tabelle, in formato .json e .csv, relative alle candidature finanziate e agli avvisi pubblicati su PA digitale 2026. 
