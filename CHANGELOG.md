@@ -8,6 +8,7 @@ Il file di Changelog raccoglie tutte le modifiche ai file pubblicati e la roadma
 - Integrazione codici ISTAT per comuni
 - Normalizzazione dataset
 - Integrazione dataset "candidature finanziate" distinti per bando o misura
+- Pubblicazione dataset in formato linked data (RDF)
 
 ## Aggiornamenti passati
 
