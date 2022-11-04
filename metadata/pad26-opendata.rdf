@@ -373,7 +373,7 @@
     <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Organization"/>
     <rdf:type rdf:resource="vcard:Kind"/>
     <vcard:fn>PCM - Dipartimento per la Trasformazione Digitale</vcard:fn>
-    <vcard:hasEmail rdf:resource="mailto:info@padigitale2026.gov.it"/>
+    <vcard:hasEmail rdf:resource="info@padigitale2026.gov.it"/>
     <vcard:hasURL rdf:resource="https://padigitale2026.gov.it/opendata"/>
 </dcatapit:Organization>
 </rdf:RDF>
