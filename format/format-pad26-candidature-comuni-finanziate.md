@@ -26,7 +26,7 @@ I file sono tutti strutturati nella seguente maniera:
 | avviso | string | Avviso a cui l'ente si è candidato | |
 | data_invio_candidatura | datetime | Data in cui la PA ha trasmetto la sua candidatura al Dipartimento della Trasformazione Digitale.  | yyyy-MM-ddTHH:mm:ss.SSS Z|
 | data_finanziamento | datetime | Data in cui è stato decretato l'assegnazione del voucher. | yyyy-MM-dd |
-| codice_cip| string | Codice CUP, trasmesso dalla PA, associato al progetto della candidatura. | |
+| codice_cup| string | Codice CUP, trasmesso dalla PA, associato al progetto della candidatura. | |
 | numero_finestra_temporale | integer | Progessivo numerico indicativo della finestra temporale in cui la PA si è candidata al rispettivo avviso. | |
 | numero_di_protocollo | integer | Progressivo numerico relativo al decreto di finanziamento in cui alla candidatura è stato assegnato il finanziamento.| |
 
