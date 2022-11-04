@@ -4,6 +4,7 @@ Il file di Changelog raccoglie tutte le modifiche ai file pubblicati e la roadma
 
 ## Roadmap
 ### Novembre / Dicembre 2022
+- Integrazione dataset su 'candidature non finanziate'
 - Integrazione campo 'numero_decreto' per candidature
 - Integrazione campo per specifiche candidature per cui è stata decretata la rinuncia
 - Integrazione codici ISTAT per comuni
@@ -13,6 +14,9 @@ Il file di Changelog raccoglie tutte le modifiche ai file pubblicati e la roadma
 - Rimozione file superflui dalla repository (cartella dati + data/test_batch_01.json)
 
 ## Aggiornamenti passati
+
+- *04/11/2022*
+	* Aggiornamenti minori a CHANGELOG.md e file format
 
 - *Ottobre 2022* 
 	* Go Live
