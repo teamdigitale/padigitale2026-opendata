@@ -9,6 +9,8 @@
 * candidature_altrienti_finanziate.csv<br>
 * candidature_altrienti_finanziate.json<br>
 
+Il dataset contiene la lista delle proposte di finanziamento, richieste da enti diversi da Comuni o Scuole, che hanno superato i controlli di ricevibilità e ammissibilità e per le quali gli enti hanno provveduto alla comunicazione del codice CUP. 
+
 Le candidature sono state separate in un file distinto per ogni cluster di pubbliche amministrazioni: Comuni, Scuole e altri enti.
 I file sono tutti strutturati nella seguente maniera:
 

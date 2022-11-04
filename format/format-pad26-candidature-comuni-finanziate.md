@@ -1,4 +1,4 @@
-# PA digitale 2026 format "Candidature Finanziate"
+# PA digitale 2026 format "Candidature Comuni Finanziate"
 
 ## Aggiornamento dati
 - Quotidiano, alle 2:00 (UTC). 
@@ -8,6 +8,8 @@
 **Reference file:** 
 * candidature_comuni_finanziate.csv<br>
 * candidature_comuni_finanziate.json<br>
+
+Il dataset contiene la lista delle proposte di finanziamento, richieste dai Comuni, che hanno superato i controlli di ricevibilità e ammissibilità e per le quali gli enti hanno provveduto alla comunicazione del codice CUP. 
 
 Le candidature sono state separate in un file distinto per ogni cluster di pubbliche amministrazioni: Comuni, Scuole e altri enti.
 I file sono tutti strutturati nella seguente maniera:
