@@ -1,5 +1,6 @@
 codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziamento,avviso,data_invio_candidatura,data_finanziamento,codice_cup,numero_finestra_temporale,numero_di_protocollo
 "inrca_rm","Ancona","AN","042","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T13:39:58.000+0000","2022-11-02","F31F22002830006",3.0,47.0
+"a_sr","Siracusa","SR","089","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-17T14:04:37.000+0000","2022-11-04","J31F22001660006",1.0,47.0
 "a_sr","Siracusa","SR","089","Sicilia","19",590440.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-17T14:00:54.000+0000","2022-09-06","J31F22001670006",1.0,48.0
 "r_piemon","Torino","TO","001","Piemonte","01",297320.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T11:05:32.000+0000","2022-11-02","J61F22002850006",3.0,47.0
 "azos_sga","Roma","RM","058","Lazio","12",236176.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T09:56:02.000+0000","2022-11-02","I81F22002440006",3.0,48.0
@@ -96,15 +97,19 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "USSan","Benevento","BN","062","Campania","15",98244.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T13:10:28.000+0000","2022-08-16","F81F22002740006",2.0,48.0
 "cmas_081","Trapani","TP","081","Sicilia","19",30012.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-19T15:24:37.000+0000","2022-08-16","I97H22002260006",2.0,48.0
 "asl_fg","Foggia","FG","071","Puglia","16",369025.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-17T10:50:20.000+0000","2022-09-06","G21F22001490006",1.0,48.0
+"asl_fg","Foggia","FG","071","Puglia","16",29520.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-17T10:50:57.000+0000","2022-11-04","G21F22001480006",1.0,47.0
+"csm_038","Ferrara","FE","038","Emilia-Romagna","08",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-10T12:44:01.000+0000","2022-11-04","C71F22000740006",1.0,47.0
 "csm_038","Ferrara","FE","038","Emilia-Romagna","08",15006.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-11T08:43:57.000+0000","2022-08-16","C71F22001920006",2.0,48.0
 "r_marche","Ancona","AN","042","Marche","11",302043.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-22T11:00:10.000+0000","2022-08-16","B31F22002540001",2.0,48.0
 "issmtr","Ribera","AG","084","Sicilia","19",60024.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-16T13:00:00.000+0000","2022-09-06","D97H22001840005",1.0,48.0
 "cm_013","Como","CO","013","Lombardia","03",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-21T06:24:40.000+0000","2022-08-16","D17H22002430005",2.0,48.0
 "esu_pd","Padova","PD","028","Veneto","05",30015.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T09:37:08.000+0000","2022-11-02","E51F22002530006",3.0,47.0
 "csmfabtn","Trento","TN","022","Trentino-Alto Adige/Südtirol","04",50020.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-18T07:32:23.000+0000","2022-08-16","H61F22002230006",2.0,48.0
+"uni_na","Napoli","NA","063","Campania","15",32750.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-28T11:37:51.000+0000","2022-11-04","E61F22001490006",1.0,47.0
 "csmgv_to","Torino","TO","001","Piemonte","01",65026.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-21T09:28:56.000+0000","2022-09-06","E11F22001850006",1.0,48.0
 "aba_090","Sassari","SS","090","Sardegna","20",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T12:43:08.000+0000","2022-11-02","I81F22002510006",3.0,48.0
 "a_088","Ragusa","RG","088","Sicilia","19",546157.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-27T14:12:03.000+0000","2022-09-06","I21F22001390006",1.0,48.0
+"a_088","Ragusa","RG","088","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-27T14:15:09.000+0000","2022-11-04","I21F22001400006",1.0,47.0
 "uni_na","Napoli","NA","063","Campania","15",81870.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-28T13:33:04.000+0000","2022-09-06","E61F22001480006",1.0,48.0
 "r_liguri","Genova","GE","010","Liguria","07",143830.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-11T07:45:33.000+0000","2022-11-02","G31F22002720006",3.0,48.0
 "asp_cs","Cosenza","CS","078","Calabria","18",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T17:24:12.000+0000","2022-11-02","B81F22002870006",3.0,47.0
