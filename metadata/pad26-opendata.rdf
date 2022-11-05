@@ -290,6 +290,46 @@
     <dcat:distribution rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_altrienti_finanziate.json"/>
 </dcatapit:Dataset>
 
+<!-- Distribution: avvisi -->
+<dcatapit:Distribution rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.csv">
+    <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.csv"/>
+    <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/avvisi.csv"/>
+    <dct:license>
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+            <rdf:type rdf:resource="dct:LicenseDocument"/>
+            <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+            <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+        </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+
+    <dct:description xml:lang="en">List of all funding programs on PA digitale 2026.</dct:description>
+    <dct:description xml:lang="it">Elenco di tutti gli avvisi su PA digitale 2026.</dct:description>
+
+    <dct:title xml:lang="it">Avvisi - PA digitale 2026</dct:title>
+    <dct:title xml:lang="en">Funding Programs - PA digitale 2026</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+<dcatapit:Distribution rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.json">
+    <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.json"/>
+    <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/avvisi.json"/>
+    <dct:license>
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+            <rdf:type rdf:resource="dct:LicenseDocument"/>
+            <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+            <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+        </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="JSON"/>
+
+    <dct:description xml:lang="en">List of all funding programs on PA digitale 2026.</dct:description>
+    <dct:description xml:lang="it">Elenco di tutti gli avvisi su PA digitale 2026.</dct:description>
+
+    <dct:title xml:lang="it">Avvisi - PA digitale 2026</dct:title>
+    <dct:title xml:lang="en">Funding Programs - PA digitale 2026</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
 <!-- Distribution: candidature comuni finanziate -->
 <dcatapit:Distribution rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_comuni_finanziate.csv">
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_comuni_finanziate.csv"/>
