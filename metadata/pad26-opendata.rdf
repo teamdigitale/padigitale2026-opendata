@@ -53,10 +53,69 @@
 
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
 
+    <dcat:dataset rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-avvisi.md"/>
     <dcat:dataset rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-comuni-finanziate.md"/>
     <dcat:dataset rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-scuole-finanziate.md"/>
     <dcat:dataset rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-altrienti-finanziate.md"/>
 </dcatapit:Catalog>
+
+<!-- Dataset: avvisi su PA digitale 2026 -->
+<dcatapit:Dataset rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-avvisi.md">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+
+    <dct:title xml:lang="it">Avvisi - PA digitale 2026</dct:title>
+    <dct:title xml:lang="en">Funding Programs - PA digitale 2026</dct:title>
+
+    <dct:description xml:lang="en">List of all funding programs on PA digitale 2026.</dct:description>
+    <dct:description xml:lang="it">Elenco di tutti gli avvisi su PA digitale 2026.</dct:description>
+
+    <dct:identifier>PCM:pad26_avvisi</dct:identifier>
+
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TECH"/>
+
+    <dct:license/>
+
+    <dct:landingPage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+
+    <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/"/>
+
+    <dct:rightsHolder>
+        <dcatapit:Agent rdf:about="pcm">
+            <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+            <dct:identifier>PCM</dct:identifier>
+            <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
+        </dcatapit:Agent>
+    </dct:rightsHolder>
+
+    <dct:publisher>
+        <dcatapit:Agent rdf:about="pcm">
+            <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+            <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+            <dct:identifier>PCM</dct:identifier>
+            <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
+        </dcatapit:Agent>
+    </dct:publisher>
+
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/5856"/>
+
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-16</dct:modified>
+    <dct:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-19</dct:issue>
+
+    <dcat:keyword>PNRR</dcat:keyword>
+    <dcat:keyword>PA Digitale 2026</dcat:keyword>
+    <dcat:keyword>Avvisi</dcat:keyword>
+    <dcat:keyword>Finanziamenti</dcat:keyword>
+
+    <dcat:distribution rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.csv"/>
+    <dcat:distribution rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.json"/>
+</dcatapit:Dataset>
 
 <!-- Dataset: candidature comuni finanziate -->
 <dcatapit:Dataset rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-comuni-finanziate.md">
