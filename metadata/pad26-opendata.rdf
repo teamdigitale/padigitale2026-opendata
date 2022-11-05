@@ -32,10 +32,10 @@
     <dct:description xml:lang="it">Questa repository contiene tutti i dati pubblici relativi alle candidature fatte dai comuni, scuole e altre PA relative agli avvisi pubblicati su PA digitale 2026.</dct:description>
 
     <dct:publisher>
-        <dcatapit:Agent rdf:about="DTD">
+        <dcatapit:Agent rdf:about="pcm">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>pcm</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:publisher>
@@ -83,18 +83,18 @@
     <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/"/>
 
     <dct:rightsHolder>
-        <dcatapit:Agent rdf:about="DTD">
+        <dcatapit:Agent rdf:about="pcm">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:rightsHolder>
 
     <dct:publisher>
-        <dcatapit:Agent rdf:about="DTD">
+        <dcatapit:Agent rdf:about="pcm">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:publisher>
@@ -141,18 +141,18 @@
     <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/"/>
 
     <dct:rightsHolder>
-        <dcatapit:Agent rdf:about="DTD">
+        <dcatapit:Agent rdf:about="pcm">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:rightsHolder>
 
     <dct:publisher>
-        <dcatapit:Agent rdf:about="DTD">
+        <dcatapit:Agent rdf:about="pcm">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>PCM</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:publisher>
@@ -201,7 +201,7 @@
     <dct:rightsHolder>
         <dcatapit:Agent rdf:about="PCM">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>pcm</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:rightsHolder>
@@ -210,7 +210,7 @@
         <dcatapit:Agent rdf:about="PCM">
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
             <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
-            <dct:identifier>DTD</dct:identifier>
+            <dct:identifier>pcm</dct:identifier>
             <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
         </dcatapit:Agent>
     </dct:publisher>
