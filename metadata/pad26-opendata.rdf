@@ -81,7 +81,7 @@
     <dct:landingPage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
 
-    <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/"/>
+    <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/opendata"/>
 
     <dct:rightsHolder>
         <dcatapit:Agent rdf:about="pcm">
@@ -139,7 +139,7 @@
     <dct:landingPage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
 
-    <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/"/>
+    <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/opendata"/>
 
     <dct:rightsHolder>
         <dcatapit:Agent rdf:about="pcm">
@@ -197,7 +197,7 @@
     <dct:landingPage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
 
-    <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/"/>
+    <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/opendata"/>
 
     <dct:rightsHolder>
         <dcatapit:Agent rdf:about="pcm">
@@ -255,7 +255,7 @@
     <dct:landingPage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
 
-    <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/"/>
+    <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/opendata"/>
 
     <dct:rightsHolder>
         <dcatapit:Agent rdf:about="pcm">
