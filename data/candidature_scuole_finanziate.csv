@@ -231,6 +231,7 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "istsc_pdis01300x","Cittadella","PD","028","Veneto","05",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-04T11:19:18.000+0000","2022-08-19","D81F22001770006",2.0,33.0
 "istsc_anis00900q","Osimo","AN","042","Marche","11",11613.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-21T10:20:21.000+0000","2022-08-19","D81C22000560006",1.0,31.0
 "iisrst","Trapani","TP","081","Sicilia","19",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-20T08:50:30.000+0000","2022-08-19","G91F22000240006",1.0,33.0
+"istsc_pcic80700t","Ponte dell'Olio","PC","033","Emilia-Romagna","08",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-13T09:52:48.000+0000","2022-09-05","F71C22000910006",2.0,31.0
 "istsc_agic85900b","Favara","AG","084","Sicilia","19",3871.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T10:36:00.000+0000","2022-09-05","D21C22000960006",2.0,31.0
 "istsc_tpis008004","Castellammare del Golfo","TP","081","Sicilia","19",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-06-20T10:22:19.000+0000","2022-08-19","J21F22001670006",2.0,33.0
 "itr","Aosta","AO","007","Valle d'Aosta/Vallée d'Aoste","02",5530.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-20T14:22:32.000+0000","2022-09-05","G61C22000930006",2.0,31.0
@@ -7035,4 +7036,3 @@ codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziame
 "istsc_naic81100b","Napoli","NA","063","Campania","15",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-26T11:45:52.000+0000","2022-08-19","B61F22001650006",2.0,33.0
 "istsc_rmic876005","Riano","RM","058","Lazio","12",7301.0,"1.4.1 Esperienza del Cittadino - Scuole - Aprile 2022","2022-05-24T10:24:39.000+0000","2022-08-19","F71F22000240006",1.0,33.0
 "icbrig","Termoli","CB","070","Molise","14",12719.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-05-18T09:19:48.000+0000","2022-08-19","I31C22000290006",1.0,31.0
-"istsc_pcic80700t","Ponte dell'Olio","PC","033","Emilia-Romagna","08",2765.0,"1.2 Abilitazione al Cloud - Scuole - Aprile 2022","2022-06-13T09:52:48.000+0000","2022-09-05","F71C22000910006",2.0,31.0
