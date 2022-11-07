@@ -100,7 +100,7 @@
         </dcatapit:Agent>
     </dct:publisher>
 
-    <dct:subject rdf:resource="http://eurovoc.europa.eu/5856"/>
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100204"/>
 
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
@@ -158,7 +158,7 @@
         </dcatapit:Agent>
     </dct:publisher>
 
-    <dct:subject rdf:resource="http://eurovoc.europa.eu/5856"/>
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100204"/>
 
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
@@ -216,7 +216,7 @@
         </dcatapit:Agent>
     </dct:publisher>
 
-    <dct:subject rdf:resource="http://eurovoc.europa.eu/5856"/>
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100204"/>
 
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
@@ -274,7 +274,7 @@
         </dcatapit:Agent>
     </dct:publisher>
 
-    <dct:subject rdf:resource="http://eurovoc.europa.eu/5856"/>
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100204"/>
 
     <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
@@ -461,8 +461,8 @@
 <skos:Concept rdf:about="http://publications.europa.eu/resource/authority/data-theme/GOVE">
     <skos:prefLabel>Governo e settore pubblico</skos:prefLabel>
 </skos:Concept>
-<skos:Concept rdf:about="http://eurovoc.europa.eu/5856">
-    <skos:prefLabel xml:lang="it">ripartizione del finanziamento dell'UE</skos:prefLabel>
+<skos:Concept rdf:about="http://eurovoc.europa.eu/100204">
+    <skos:prefLabel xml:lang="it">2436 finanze pubbliche e politica di bilancioE</skos:prefLabel>
 </skos:Concept>
 
 <dcatapit:Organization rdf:about="https://padigitale2026.gov.it/opendata">
