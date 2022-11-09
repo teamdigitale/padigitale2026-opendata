@@ -241,7 +241,7 @@
     <dct:title xml:lang="en">Accepted Funding Requests (Public Administrations) - PA Digitale 2026 pNRR</dct:title>
 
     <dct:description xml:lang="en">List of all funding requests which have been confirmed by financing decree on PA digitale 2026. The dataset contains the funding requests related to public administrations which are not municipalities or schools.</dct:description>
-    <dct:description xml:lang="it">Lista di tutte le candidature da istituti scolastici che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026. Il dataset contiene le candidature decretate relative a pubbliche amministrazioni differenti da scuole e comuni.</dct:description>
+    <dct:description xml:lang="it">Lista di tutte le candidature che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026. Il dataset contiene le candidature decretate relative a pubbliche amministrazioni differenti da scuole e comuni.</dct:description>
 
     <dct:identifier>PCM:pad26_fin_altrienti</dct:identifier>
 
