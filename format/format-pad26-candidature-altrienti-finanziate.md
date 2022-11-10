@@ -18,6 +18,7 @@ I file sono tutti strutturati nella seguente maniera:
 | --- | --- | --- | --- |
 | codice_ipa | string | Codice identificativo estratto dall'Indice delle Pubbliche Amministrazioni | |
 | comune | string | Comune associato alla PA, come riportato in IPA. | |
+| cod_comune | string | Codice ISTAT del comune associata alla PA | |
 | provincia | string | Provincia associata alla PA, come riportato in IPA. | |
 | cod_provincia | string | Codice ISTAT della provincia associata alla PA | |
 | regione | string | Regione associata alla PA, come riportato in IPA. | |
