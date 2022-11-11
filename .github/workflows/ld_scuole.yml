@@ -1,0 +1,38 @@
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/*.csv'
+
+concurrency: 
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+    compile:
+        name: Compile site assets
+        runs-on: ubuntu-latest
+        container:
+          image: rmlio/rmlmapper-java
+          volumes:
+            - ${{ github.workspace }}:/data
+        steps:
+          - name: Checkout
+            uses: actions/checkout@v2
+          - name: Prepare
+            run: |
+              ln -s assets/ld/*.ttl .
+              ln -s data/*.csv .
+          - name: Run the build process with Docker
+            run: |
+              cd /data
+              java -jar /rmlmapper.jar -m MappingRMLOrgLocation.ttl -m RMLMappingProjectCall.ttl  -s turtle > candidature_scuole_finanziate.ttl
+          - name: Tidy up
+            run: |
+              mkdir ld || true 
+              mv -f candidature_scuole_finanziate.ttl ld/
+          - name: Commit
+            uses: EndBug/add-and-commit@v9
+            with:
+              message: 'Candidature Scuole PNRR LD'
+              add: 'ld/candidature_scuole_finanziate.ttl'
