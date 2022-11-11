@@ -18,6 +18,7 @@ I file sono tutti strutturati nella seguente maniera:
 | --- | --- | --- | --- |
 | codice_ipa | string | Codice identificativo estratto dall'Indice delle Pubbliche Amministrazioni | |
 | comune | string | Comune associato alla PA, come riportato in IPA. | |
+| cod_comune | string | Codice ISTAT del comune associata alla PA | |
 | provincia | string | Provincia associata alla PA, come riportato in IPA. | |
 | cod_provincia | string | Codice ISTAT della provincia associata alla PA | |
 | regione | string | Regione associata alla PA, come riportato in IPA. | |
@@ -29,5 +30,6 @@ I file sono tutti strutturati nella seguente maniera:
 | codice_cup| string | Codice CUP, trasmesso dalla PA, associato al progetto della candidatura. | |
 | numero_finestra_temporale | integer | Progessivo numerico indicativo della finestra temporale in cui la PA si è candidata al rispettivo avviso. | |
 | numero_di_protocollo | integer | Progressivo numerico relativo al decreto di finanziamento in cui alla candidatura è stato assegnato il finanziamento.| |
+| stato_candidatura | string | Stato aggiornato della candidatura. Al momento può assumere i seguenti valori: 'A', se la candidatura risulta assegnataria di un finanziamento; 'R', se è stata decretata la richiesta di rinuncia fatta dell'ente.  | |
 
 Questi dati sono disponibili anche in formato json.
