@@ -1,248 +1,248 @@
-codice_ipa,comune,provincia,cod_provincia,regione,cod_regione,importo_finanziamento,avviso,data_invio_candidatura,data_finanziamento,codice_cup,numero_finestra_temporale,numero_di_protocollo
-"iacpcac","Acireale","CT","087","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-15T09:32:07.000+0000","2022-11-08","C41F22001750006",1.0,49.0
-"ucloa","Corte Palasio","LO","098","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-12T19:34:36.000+0000","2022-11-08","I31F22001920006",1.0,49.0
-"inrca_rm","Ancona","AN","042","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T13:39:58.000+0000","2022-11-02","F31F22002830006",3.0,47.0
-"a_sr","Siracusa","SR","089","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-17T14:04:37.000+0000","2022-11-04","J31F22001660006",1.0,47.0
-"a_sr","Siracusa","SR","089","Sicilia","19",590440.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-17T14:00:54.000+0000","2022-09-06","J31F22001670006",1.0,48.0
-"a_sr","Siracusa","SR","089","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T14:03:07.000+0000","2022-11-08","J31F22001680006",1.0,49.0
-"r_piemon","Torino","TO","001","Piemonte","01",297320.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T11:05:32.000+0000","2022-11-02","J61F22002850006",3.0,47.0
-"p_pd","Padova","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-21T14:08:40.000+0000","2022-11-08","G91F22001370006",1.0,49.0
-"azos_sga","Roma","RM","058","Lazio","12",236176.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T09:56:02.000+0000","2022-11-02","I81F22002440006",3.0,48.0
-"p_rn","Rimini","RN","099","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T08:46:59.000+0000","2022-11-08","E91F22001570009",1.0,49.0
-"esuv","Verona","VR","023","Veneto","05",30015.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-27T12:00:21.000+0000","2022-11-08","D31F22002420006",2.0,47.0
-"esuv","Verona","VR","023","Veneto","05",60024.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T11:57:54.000+0000","2022-08-16","D31F22002410006",2.0,48.0
-"aouora","Ancona","AN","042","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T08:32:31.000+0000","2022-11-02","F31F22002850006",3.0,47.0
-"ss_sanna","Pisa","PI","050","Toscana","09",32748.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-28T08:32:35.000+0000","2022-08-16","J51F21000000006",2.0,48.0
-"a_101","Crotone","KR","101","Calabria","18",442830.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-28T14:00:00.000+0000","2022-08-16","E11F22002280006",2.0,48.0
-"asp_pa","Palermo","PA","082","Sicilia","19",590440.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-06T08:06:13.000+0000","2022-11-02","F71F22003120006",3.0,48.0
-"asp_pa","Palermo","PA","082","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-06T08:09:20.000+0000","2022-11-02","F71F22003110006",3.0,47.0
-"islia_0","Firenze","FI","048","Toscana","09",130052.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-26T12:35:44.000+0000","2022-08-16","E11F22002310006",2.0,48.0
-"a_101","Crotone","KR","101","Calabria","18",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-28T14:00:00.000+0000","2022-11-08","E11F22002290006",2.0,47.0
-"islia_0","Firenze","FI","048","Toscana","09",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-27T08:54:12.000+0000","2022-11-08","E11F22002320006",2.0,47.0
-"cmerd_mt","Matera","MT","077","Basilicata","17",40016.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-11T09:30:27.000+0000","2022-11-02","B11F22002170006",3.0,48.0
-"r_puglia","Bari","BA","072","Puglia","16",222996.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T21:18:36.000+0000","2022-11-02","B31F22002980006",3.0,48.0
-"r_puglia","Bari","BA","072","Puglia","16",282454.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T21:19:15.000+0000","2022-11-02","B31F22003060006",3.0,47.0
-"ASSL10VE","San Donà di Piave","VE","027","Veneto","05",103327.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T10:22:20.000+0000","2022-11-02","I71F22002950006",3.0,48.0
-"eo_ginrc","Castellana Grotte","BA","072","Puglia","16",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-29T10:16:36.000+0000","2022-11-02","G21F22002660006",3.0,47.0
-"sissa","Trieste","TS","032","Friuli-Venezia Giulia","06",9825.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-24T13:21:15.000+0000","2022-11-02","G93C22000970006",3.0,47.0
-"aslrm","Roma","RM","058","Lazio","12",118088.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T10:31:19.000+0000","2022-11-02","J81F22003130006",3.0,48.0
-"r_toscan","Firenze","FI","048","Toscana","09",260162.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T09:30:00.000+0000","2022-11-02","D11F22002560006",3.0,48.0
-"r_toscan","Firenze","FI","048","Toscana","09",297320.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T09:30:00.000+0000","2022-11-02","D11F22002540006",3.0,47.0
-"csm_ro","Rovigo","RO","029","Veneto","05",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-01T10:27:58.000+0000","2022-11-02","E11F22002930006",3.0,47.0
-"csmpg","Genova","GE","010","Liguria","07",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-02T07:26:54.000+0000","2022-11-02","C31F22002280006",3.0,48.0
-"cm_076","Potenza","PZ","076","Basilicata","17",15006.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-01T10:53:36.000+0000","2022-11-02","E39I22000890006",3.0,48.0
-"cmgp_011","La Spezia","SP","011","Liguria","07",40016.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-01T10:04:19.000+0000","2022-11-02","B41F22002920006",3.0,48.0
-"cmgp_011","La Spezia","SP","011","Liguria","07",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-01T09:27:16.000+0000","2022-11-02","B41F22002940006",3.0,47.0
-"csmpg","Genova","GE","010","Liguria","07",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-02T07:27:33.000+0000","2022-11-02","C31F22002270006",3.0,47.0
-"cm_076","Potenza","PZ","076","Basilicata","17",10005.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-01T11:05:08.000+0000","2022-11-02","E39I22000880006",3.0,47.0
-"unite","Teramo","TE","067","Abruzzo","13",9825.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T13:01:52.000+0000","2022-11-02","C41F22003060006",3.0,47.0
-"unical","Rende","CS","078","Calabria","18",39300.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T14:58:29.000+0000","2022-11-02","H21F22002790006",3.0,47.0
-"unical","Rende","CS","078","Calabria","18",81870.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T14:35:45.000+0000","2022-11-02","H21F22002800006",3.0,48.0
-"as_marc","Ancona","AN","042","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:11:46.000+0000","2022-11-02","F31F22002810006",3.0,47.0
-"r_lazio","Roma","RM","058","Lazio","12",668988.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T12:49:28.000+0000","2022-11-02","F81F22003770006",3.0,48.0
-"r_piemon","Torino","TO","001","Piemonte","01",297328.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T11:02:04.000+0000","2022-11-02","J61F22002840006",3.0,48.0
-"csmlc","Mantova","MN","020","Lombardia","03",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-02T08:47:27.000+0000","2022-11-02","E61F22002640006",3.0,47.0
-"r_friuve","Trieste","TS","032","Friuli-Venezia Giulia","06",57532.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T11:54:12.000+0000","2022-11-02","D21F22002450006",3.0,48.0
-"isia_039","Faenza","RA","039","Emilia-Romagna","08",80032.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-06T15:35:27.000+0000","2022-11-02","J21F22003020006",3.0,48.0
-"a1_025","Belluno","BL","025","Veneto","05",44283.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:32:31.000+0000","2022-11-02","B31F22002990006",3.0,48.0
-"P65P3X9X","Selargius","CA","092","Sardegna","20",221415.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:20:34.000+0000","2022-11-02","D71F22002620006",3.0,48.0
-"abaf_048","Firenze","FI","048","Toscana","09",45018.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T13:17:52.000+0000","2022-11-02","J11F22002660006",3.0,48.0
-"cmvv_vv","Vibo Valentia","VV","102","Calabria","18",26013.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T07:39:05.000+0000","2022-11-02","J41F22002990006",3.0,47.0
-"isia_039","Faenza","RA","039","Emilia-Romagna","08",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-06T15:35:56.000+0000","2022-11-02","J21F22003050006",3.0,47.0
-"issmrf","Siena","SI","052","Toscana","09",75030.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T11:06:17.000+0000","2022-11-02","F61F22002580006",3.0,48.0
-"au12ve","Venezia","VE","027","Veneto","05",59044.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T13:54:17.000+0000","2022-11-02","J91F22002260006",3.0,48.0
-"asp_ag","Agrigento","AG","084","Sicilia","19",369025.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T09:48:46.000+0000","2022-11-02","C41F22003000006",3.0,48.0
-"r_friuve","Trieste","TS","032","Friuli-Venezia Giulia","06",115060.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T11:57:43.000+0000","2022-11-02","D21F22002440006",3.0,47.0
-"AU1P","Padova","PD","028","Veneto","05",88566.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:38:33.000+0000","2022-11-02","I91F22002500006",3.0,48.0
-"asp_ag","Agrigento","AG","084","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T09:49:06.000+0000","2022-11-02","C41F22003010006",3.0,47.0
-"aouora","Ancona","AN","042","Marche","11",309981.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:33:08.000+0000","2022-11-02","F31F22002870006",3.0,48.0
-"USUCB","Urbino","PU","041","Marche","11",16375.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T10:49:59.000+0000","2022-11-02","H31F22002610006",3.0,47.0
-"080","Reggio di Calabria","RC","080","Calabria","18",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T14:36:42.000+0000","2022-11-02","G31F22002680006",3.0,47.0
-"080","Reggio di Calabria","RC","080","Calabria","18",383786.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T14:35:30.000+0000","2022-11-02","G31F22002670006",3.0,48.0
-"unite","Teramo","TE","067","Abruzzo","13",90057.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T13:07:34.000+0000","2022-11-02","C41F22003070006",3.0,48.0
-"P65P3X9X","Selargius","CA","092","Sardegna","20",23616.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T08:21:24.000+0000","2022-11-02","D71F22002630006",3.0,47.0
-"iove_pd","Padova","PD","028","Veneto","05",44283.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:29:42.000+0000","2022-11-02","J91F22002280006",3.0,48.0
-"aulss_ro","Rovigo","RO","029","Veneto","05",44283.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T10:38:26.000+0000","2022-11-02","B11F22002400006",3.0,48.0
-"as3_vi","Bassano del Grappa","VI","024","Veneto","05",88566.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T10:40:51.000+0000","2022-11-02","H51F22002650006",3.0,48.0
-"a9_tv","Treviso","TV","026","Veneto","05",103327.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T13:56:33.000+0000","2022-11-02","I91F22002530006",3.0,48.0
-"csm_058","Roma","RM","058","Lazio","12",26013.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T16:54:57.000+0000","2022-11-02","H81F22002790001",3.0,47.0
-"csm_058","Roma","RM","058","Lazio","12",95038.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T16:53:56.000+0000","2022-11-02","H81F22002780001",3.0,48.0
-"AUV","Vicenza","VI","024","Veneto","05",73805.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T13:43:40.000+0000","2022-11-02","I31F22003210006",3.0,48.0
-"csmns_bn","Benevento","BN","062","Campania","15",70028.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T11:31:52.000+0000","2022-11-02","C81F22002730006",3.0,48.0
-"PT","Torino","TO","001","Piemonte","01",29475.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:07:06.000+0000","2022-11-02","E11F22003000001",3.0,47.0
-"islia","Pescara","PE","068","Abruzzo","13",22011.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T11:31:26.000+0000","2022-11-02","G21F22002700006",3.0,47.0
-"aoui_ve","Verona","VR","023","Veneto","05",88566.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T14:00:29.000+0000","2022-11-02","E31F22003220006",3.0,48.0
-"islia","Pescara","PE","068","Abruzzo","13",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T11:32:25.000+0000","2022-11-02","G21F22002680006",3.0,48.0
-"isl_058","Roma","RM","058","Lazio","12",30015.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T19:33:47.000+0000","2022-11-02","C81F22002790006",3.0,47.0
-"cmv_027","Venezia","VE","027","Veneto","05",10005.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T09:47:19.000+0000","2022-11-02","J71F22002980006",3.0,47.0
-"csmlc","Mantova","MN","020","Lombardia","03",75030.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T06:55:37.000+0000","2022-11-02","E61F22002630006",3.0,48.0
-"csm_ro","Rovigo","RO","029","Veneto","05",80032.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T08:09:15.000+0000","2022-11-02","E11F22002940006",3.0,48.0
-"azosp_PD","Padova","PD","028","Veneto","05",59044.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:49:05.000+0000","2022-11-02","I91F22002560006",3.0,48.0
-"unimib","Milano","MI","015","Lombardia","03",9825.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T11:24:45.000+0000","2022-11-02","H41F22002560006",3.0,47.0
-"isl_058","Roma","RM","058","Lazio","12",55022.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T19:33:04.000+0000","2022-11-02","C81F22002800006",3.0,48.0
-"egpapie","Pietraroja","BN","062","Campania","15",16008.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T08:46:24.000+0000","2022-11-02","B61F22003040006",3.0,47.0
-"aba_090","Sassari","SS","090","Sardegna","20",14007.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T12:45:01.000+0000","2022-11-02","I81F22002520006",3.0,47.0
-"egpapie","Pietraroja","BN","062","Campania","15",85034.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:51:51.000+0000","2022-11-02","B61F22003030006",3.0,48.0
-"asl_vvta","Taranto","TA","073","Puglia","16",59044.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T09:39:50.000+0000","2022-11-02","E51F22002470006",3.0,48.0
-"cmdc_av","Avellino","AV","064","Campania","15",165066.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T13:03:22.000+0000","2022-11-02","B31C22001360006",3.0,48.0
-"isli_041","Urbino","PU","041","Marche","11",12006.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T11:51:18.000+0000","2022-11-02","B31F22003090006",3.0,47.0
-"cmdc_av","Avellino","AV","064","Campania","15",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T13:24:15.000+0000","2022-11-02","B31C22001370006",3.0,47.0
-"abala_aq","L'Aquila","AQ","066","Abruzzo","13",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T13:17:00.000+0000","2022-11-02","H11F22003150006",3.0,47.0
-"isli_041","Urbino","PU","041","Marche","11",40016.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T11:51:45.000+0000","2022-11-02","B31F22003080006",3.0,48.0
-"oddcdni","Nocera Inferiore","SA","065","Campania","15",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T16:20:05.000+0000","2022-11-08","D31F22001440006",1.0,49.0
-"csmgv_to","Torino","TO","001","Piemonte","01",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-02T13:07:05.000+0000","2022-11-02","E11F22002980006",3.0,47.0
-"cmvv_vv","Vibo Valentia","VV","102","Calabria","18",80032.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T07:36:38.000+0000","2022-11-02","J41F22002970006",3.0,48.0
-"oasrl_mi","Milano","MI","015","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T12:25:39.000+0000","2022-11-08","C41F22001800006",1.0,49.0
-"unive","Venezia","VE","027","Veneto","05",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-06T14:37:56.000+0000","2022-11-08","H71F22001920006",2.0,47.0
-"ucv_109","Altidona","FM","109","Marche","11",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T06:16:38.000+0000","2022-11-08","D11F22001440006",1.0,49.0
-"cpoclcz","Catanzaro","CZ","079","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T08:00:45.000+0000","2022-11-08","J61F22001370006",1.0,49.0
-"issmtr","Ribera","AG","084","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-16T11:45:00.000+0000","2022-11-08","D97H22001850005",1.0,49.0
-"aoorv_pa","Palermo","PA","082","Sicilia","19",280459.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T10:57:20.000+0000","2022-11-02","H71F22002370006",3.0,48.0
-"CSMV","Verona","VR","023","Veneto","05",22011.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-28T12:11:58.000+0000","2022-11-08","E35E22000400006",2.0,47.0
-"issmg","Cuneo","CN","004","Piemonte","01",25010.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-04T09:54:59.000+0000","2022-11-02","G21F22002630007",3.0,48.0
-"issmg","Cuneo","CN","004","Piemonte","01",16008.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-04T09:45:18.000+0000","2022-11-02","G21F22002620007",3.0,47.0
-"aoorv_pa","Palermo","PA","082","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T10:57:43.000+0000","2022-11-02","H71F22002380006",3.0,47.0
-"impgbt","Teramo","TE","067","Abruzzo","13",26013.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-13T08:23:06.000+0000","2022-11-08","E41F22002170006",2.0,47.0
-"UNCOBARO","Lugo","RA","039","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T08:29:13.000+0000","2022-11-08","J41F22001390006",1.0,49.0
-"udsa_","L'Aquila","AQ","066","Abruzzo","13",106431.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-26T08:46:33.000+0000","2022-08-16","E11F22002250006",2.0,48.0
-"cmct","Catania","CT","087","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T16:01:01.000+0000","2022-11-08","D61F22001750006",1.0,49.0
-"aoorm_pu","Pesaro","PU","041","Marche","11",295220.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T14:05:57.000+0000","2022-11-02","G11F22002610006",3.0,48.0
-"aoorm_pu","Pesaro","PU","041","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:07:11.000+0000","2022-11-02","G11F22002600006",3.0,47.0
-"inrca_rm","Ancona","AN","042","Marche","11",265698.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T13:38:08.000+0000","2022-11-02","F31F22002840006",3.0,48.0
-"impgbt","Teramo","TE","067","Abruzzo","13",90036.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-15T06:38:08.000+0000","2022-08-16","E41F22002180006",2.0,48.0
-"ul_090","Ozieri","SS","090","Sardegna","20",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-11T08:26:01.000+0000","2022-11-08","D51F22002140006",1.0,49.0
-"aitplbb","Bergamo","BG","016","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T14:33:08.000+0000","2022-11-08","H11F22001580006",1.0,49.0
-"p_ap","Ascoli Piceno","AP","044","Marche","11",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T08:27:53.000+0000","2022-11-08","I31F22002250006",1.0,49.0
-"uf_","Genola","CN","004","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-15T09:07:27.000+0000","2022-11-08","G81F22001400006",1.0,49.0
-"udctc","Serradifalco","CL","085","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-10T16:04:32.000+0000","2022-11-08","F51F22001700006",1.0,49.0
-"and","Roma","RM","058","Lazio","12",30015.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-12T12:01:01.000+0000","2022-11-02","D81F22003000006",3.0,47.0
-"asaese","Angri","SA","065","Campania","15",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-10T16:50:42.000+0000","2022-11-08","I41F22001050006",1.0,49.0
-"egdpd_","Asti","AT","005","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-20T10:27:29.000+0000","2022-11-08","F31F22001190006",1.0,49.0
-"and","Roma","RM","058","Lazio","12",75030.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-12T12:00:42.000+0000","2022-11-02","D81F22002990006",3.0,48.0
-"USSan","Benevento","BN","062","Campania","15",98244.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T13:10:28.000+0000","2022-08-16","F81F22002740006",2.0,48.0
-"co_pami","Sesto San Giovanni","MI","015","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T08:15:31.000+0000","2022-11-08","E41F22001490006",1.0,49.0
-"cit","Torino","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T11:10:46.000+0000","2022-11-08","G11F22001180006",1.0,49.0
-"cidsp","Rivoli","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T14:06:54.000+0000","2022-11-08","F21F22001720006",1.0,49.0
-"csm_038","Ferrara","FE","038","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T06:37:51.000+0000","2022-11-08","C71F22000750006",1.0,49.0
-"csmgv_to","Torino","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-21T09:27:19.000+0000","2022-11-08","E11F22001840006",1.0,49.0
-"cm_clz","Longarone","BL","025","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-12T18:12:46.000+0000","2022-11-08","E51F22000820006",1.0,49.0
-"CMS","Vilminore di Scalve","BG","016","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T11:39:34.000+0000","2022-11-08","H41F22001230006",1.0,49.0
-"p_CN","Cuneo","CN","004","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T15:25:48.000+0000","2022-11-08","I21F22001210009",1.0,49.0
-"umvst","Demonte","CN","004","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T07:17:23.000+0000","2022-11-08","C31F22001320006",1.0,49.0
-"asoom_to","Torino","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T14:03:58.000+0000","2022-11-08","G17H22001810006",1.0,49.0
-"uc_basre","Guastalla","RE","035","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T07:45:21.000+0000","2022-11-08","F81F22001780006",1.0,49.0
-"cmas_081","Trapani","TP","081","Sicilia","19",28014.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-19T15:23:57.000+0000","2022-11-08","197H22002270006",2.0,47.0
-"cmas_081","Trapani","TP","081","Sicilia","19",30012.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-19T15:24:37.000+0000","2022-08-16","I97H22002260006",2.0,48.0
-"p_TE","Teramo","TE","067","Abruzzo","13",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T08:09:08.000+0000","2022-11-08","E41F22001770006",1.0,49.0
-"asl_fg","Foggia","FG","071","Puglia","16",369025.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-17T10:50:20.000+0000","2022-09-06","G21F22001490006",1.0,48.0
-"p_at","Asti","AT","005","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-21T09:08:29.000+0000","2022-11-08","J31F22001450006",1.0,49.0
-"asl_fg","Foggia","FG","071","Puglia","16",29520.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-17T10:50:57.000+0000","2022-11-04","G21F22001480006",1.0,47.0
-"cm_valte","Sondrio","SO","014","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T14:06:22.000+0000","2022-11-08","F71F22001760006",1.0,49.0
-"arlpa_ge","Genova","GE","010","Liguria","07",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T13:33:15.000+0000","2022-11-08","B31F22001680006",1.0,49.0
-"csm_038","Ferrara","FE","038","Emilia-Romagna","08",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-10T12:44:01.000+0000","2022-11-04","C71F22000740006",1.0,47.0
-"csm_038","Ferrara","FE","038","Emilia-Romagna","08",15006.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-11T08:43:57.000+0000","2022-08-16","C71F22001920006",2.0,48.0
-"r_marche","Ancona","AN","042","Marche","11",115060.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-26T14:06:08.000+0000","2022-11-08","B31C22001350001",2.0,47.0
-"r_marche","Ancona","AN","042","Marche","11",302043.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-22T11:00:10.000+0000","2022-08-16","B31F22002540001",2.0,48.0
-"p_vv","Vibo Valentia","VV","102","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T10:49:19.000+0000","2022-11-08","E41F22001340006",1.0,49.0
-"p_KR","Crotone","KR","101","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T11:34:02.000+0000","2022-11-08","H11F22001720006",1.0,49.0
-"cmmaot","Monti","SS","090","Sardegna","20",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T09:26:04.000+0000","2022-11-08","I31F22002120006",1.0,49.0
-"issmtr","Ribera","AG","084","Sicilia","19",60024.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-16T13:00:00.000+0000","2022-09-06","D97H22001840005",1.0,48.0
-"epdn","Caronia","ME","083","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-21T10:36:31.000+0000","2022-11-08","G31F22001600006",1.0,49.0
-"cissac_c","Caluso","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T15:24:54.000+0000","2022-11-08","J91F22001010006",1.0,49.0
-"cm_013","Como","CO","013","Lombardia","03",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-21T06:24:40.000+0000","2022-08-16","D17H22002430005",2.0,48.0
-"esu_pd","Padova","PD","028","Veneto","05",30015.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T09:37:08.000+0000","2022-11-02","E51F22002530006",3.0,47.0
-"cm_013","Como","CO","013","Lombardia","03",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-21T06:20:18.000+0000","2022-11-08","D17H22002410005",2.0,47.0
-"uc_vigno","Vignola","MO","036","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T09:57:53.000+0000","2022-11-08","B21F22001190006",1.0,49.0
-"csmfabtn","Trento","TN","022","Trentino-Alto Adige/Südtirol","04",50020.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-18T07:32:23.000+0000","2022-08-16","H61F22002230006",2.0,48.0
-"udcs","Guilmi","CH","069","Abruzzo","13",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T18:25:24.000+0000","2022-11-08","B21F22001450006",1.0,49.0
-"iacpp_0","Lecce","LE","075","Puglia","16",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-15T12:25:33.000+0000","2022-11-08","I81F22001350006",1.0,49.0
-"cm_valtetir","Tirano","SO","014","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-20T13:00:29.000+0000","2022-11-08","E31F22001350006",1.0,49.0
-"uni_na","Napoli","NA","063","Campania","15",32750.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-28T11:37:51.000+0000","2022-11-04","E61F22001490006",1.0,47.0
-"c_i462a","Sassuolo","MO","036","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T08:23:53.000+0000","2022-11-08","J81F22001630006",1.0,49.0
-"csmgv_to","Torino","TO","001","Piemonte","01",65026.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-21T09:28:56.000+0000","2022-09-06","E11F22001850006",1.0,48.0
-"asssrl","Sora","FR","060","Lazio","12",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T07:55:43.000+0000","2022-11-08","H41F22001570006",1.0,49.0
-"USC","Camerino","MC","043","Marche","11",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-15T07:50:35.000+0000","2022-11-08","J11F22001960006",2.0,47.0
-"aba_090","Sassari","SS","090","Sardegna","20",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T12:43:08.000+0000","2022-11-02","I81F22002510006",3.0,48.0
-"odmcoi","Imperia","IM","008","Liguria","07",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-21T14:43:31.000+0000","2022-11-08","F51F22001410006",1.0,49.0
-"opdmc_ve","Venezia","VE","027","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T08:46:52.000+0000","2022-11-08","J71F22001430006",1.0,49.0
-"LOG8RSTT","Nepi","VT","056","Lazio","12",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-22T06:12:10.000+0000","2022-11-08","J81F22001790006",1.0,49.0
-"odmc_050","Pisa","PI","050","Toscana","09",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-22T09:50:39.000+0000","2022-11-08","E51F22000970006",1.0,49.0
-"opmcolc","Lecco","LC","097","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T09:38:28.000+0000","2022-11-08","B11F22001310006",1.0,49.0
-"a_088","Ragusa","RG","088","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T14:08:05.000+0000","2022-11-08","I21F22001380006",1.0,49.0
-"opdmct","Treviso","TV","026","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T14:15:31.000+0000","2022-11-08","B41F22001410006",1.0,49.0
-"odmc_075","Lecce","LE","075","Puglia","16",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-24T08:30:01.000+0000","2022-11-08","H81F22001310006",1.0,49.0
-"odmc_052","Siena","SI","052","Toscana","09",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-24T11:26:46.000+0000","2022-11-08","D61F22001400006",1.0,49.0
-"a_088","Ragusa","RG","088","Sicilia","19",546157.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-27T14:12:03.000+0000","2022-09-06","I21F22001390006",1.0,48.0
-"cis_001","Susa","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-24T12:24:21.000+0000","2022-11-08","H81F22001700006",1.0,49.0
-"a_088","Ragusa","RG","088","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-27T14:15:09.000+0000","2022-11-04","I21F22001400006",1.0,47.0
-"omco_031","Gorizia","GO","031","Friuli-Venezia Giulia","06",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T07:45:55.000+0000","2022-11-08","F81F22001490006",1.0,49.0
-"opdmcp","Perugia","PG","054","Umbria","10",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T08:44:58.000+0000","2022-11-08","G91F22000980006",1.0,49.0
-"odmcov","Verona","VR","023","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T10:10:37.000+0000","2022-11-08","I31F22002110006",1.0,49.0
-"cisac_al","Tortona","AL","006","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T12:49:39.000+0000","2022-11-08","C31F22001180006",1.0,49.0
-"rsgda","Caravaggio","BG","016","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T10:43:05.000+0000","2022-11-08","E71F22001480006",1.0,49.0
-"oprm","Ancona","AN","042","Marche","11",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T14:10:35.000+0000","2022-11-08","B31F22001600006",1.0,49.0
-"uni_na","Napoli","NA","063","Campania","15",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T10:25:25.000+0000","2022-11-08","E61F22001470006",1.0,49.0
-"omco_fc","Forlì","FC","040","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T07:11:12.000+0000","2022-11-08","C61F22001320006",1.0,49.0
-"uni_sa","Fisciano","SA","065","Campania","15",22925.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-28T10:51:12.000+0000","2022-11-08","D55E22000520001",2.0,47.0
-"p_tv","Treviso","TV","026","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T09:03:49.000+0000","2022-11-08","B41F22001440006",1.0,49.0
-"USSan","Benevento","BN","062","Campania","15",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-27T13:11:18.000+0000","2022-11-08","F81F22002750006",2.0,47.0
-"p_or","Oristano","OR","095","Sardegna","20",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T11:48:59.000+0000","2022-11-08","F17H22002340006",1.0,49.0
-"uni_na","Napoli","NA","063","Campania","15",81870.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-28T13:33:04.000+0000","2022-09-06","E61F22001480006",1.0,48.0
-"mcad","Pieve di Cadore","BL","025","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T13:25:06.000+0000","2022-11-08","J91F22001000006",1.0,49.0
-"r_liguri","Genova","GE","010","Liguria","07",143830.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-11T07:45:33.000+0000","2022-11-02","G31F22002720006",3.0,48.0
-"asp_cs","Cosenza","CS","078","Calabria","18",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T17:24:12.000+0000","2022-11-02","B81F22002870006",3.0,47.0
-"PM","Milano","MI","015","Lombardia","03",32750.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:47:17.000+0000","2022-11-02","D51F22003260006",3.0,47.0
-"uni_pr","Parma","PR","034","Emilia-Romagna","08",106431.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T18:55:24.000+0000","2022-08-16","D91F22002170006",2.0,48.0
-"uni_pr","Parma","PR","034","Emilia-Romagna","08",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-27T18:54:55.000+0000","2022-11-08","D91F22002190006",2.0,47.0
-"r_lombar","Milano","MI","015","Lombardia","03",260162.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-12T15:15:00.000+0000","2022-08-16","E81F22002460006",2.0,48.0
-"uni_pd","Padova","PD","028","Veneto","05",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:19:11.000+0000","2022-11-02","C91F22002880006",3.0,47.0
-"usc_fr","Cassino","FR","060","Lazio","12",29475.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-23T06:18:49.000+0000","2022-11-08","H31F22002150006",2.0,47.0
-"udsg_ge","Genova","GE","010","Liguria","07",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T13:49:52.000+0000","2022-11-02","D31F22003160006",3.0,47.0
-"uni_napa","Napoli","NA","063","Campania","15",81870.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-28T11:41:25.000+0000","2022-08-16","I61F22001960006",2.0,48.0
-"oring_tv","Treviso","TV","026","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T07:47:59.000+0000","2022-11-08","H41F22001420006",1.0,49.0
-"AU2V","Verona","VR","023","Veneto","05",103327.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T13:37:44.000+0000","2022-11-02","F61F22002590006",3.0,48.0
-"p_TN","Trento","TN","022","Trentino-Alto Adige/Südtirol","04",97920.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T13:45:00.000+0000","2022-08-16","C61F22002160006",2.0,48.0
-"p_TN","Trento","TN","022","Trentino-Alto Adige/Südtirol","04",48960.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-25T14:30:00.000+0000","2022-11-08","C61F22002150006",2.0,47.0
-"uni_moli","Campobasso","CB","070","Molise","14",130992.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-21T10:16:15.000+0000","2022-08-16","H31F22002120006",2.0,48.0
-"csmab_ro","Adria","RO","029","Veneto","05",16008.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-19T11:07:26.000+0000","2022-11-08","E61F22002010006",2.0,47.0
-"r_lombar","Milano","MI","015","Lombardia","03",297320.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-20T14:15:00.000+0000","2022-11-08","E81F22002450006",2.0,47.0
-"erdsu_to","Torino","TO","001","Piemonte","01",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-06T08:41:34.000+0000","2022-11-02","H19I22000740001",3.0,48.0
-"asl_bat","Andria","BT","110","Puglia","16",17712.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T19:00:37.000+0000","2022-11-02","C85F22001370006",3.0,47.0
-"aslrm","Roma","RM","058","Lazio","12",82656.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T10:32:12.000+0000","2022-11-02","J81F22003150006",3.0,47.0
-"csm_acaq","L'Aquila","AQ","066","Abruzzo","13",26013.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-06T10:25:58.000+0000","2022-11-02","D11F22002530006",3.0,47.0
-"CSMV","Verona","VR","023","Veneto","05",65026.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-28T12:07:45.000+0000","2022-08-16","E35E22000390006",2.0,48.0
-"udcas","Poggio Moiano","RI","057","Lazio","12",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T09:53:30.000+0000","2022-11-08","B51F22001530006",1.0,49.0
-"USUCB","Urbino","PU","041","Marche","11",114618.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T10:48:12.000+0000","2022-11-02","H31F22002630006",3.0,48.0
-"issmgb","Terni","TR","055","Umbria","10",90036.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T10:25:32.000+0000","2022-11-02","B41F22002960006",3.0,48.0
-"csm_acaq","L'Aquila","AQ","066","Abruzzo","13",105042.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-06T10:28:59.000+0000","2022-11-02","D11F22002520006",3.0,48.0
-"asp_cs","Cosenza","CS","078","Calabria","18",442830.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T17:21:15.000+0000","2022-11-02","B81F22002850006",3.0,48.0
-"r_emiro","Bologna","BO","037","Emilia-Romagna","08",178392.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T15:00:54.000+0000","2022-11-02","E41F22002900006",3.0,47.0
-"issmgb","Terni","TR","055","Umbria","10",18009.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T08:30:28.000+0000","2022-11-02","B41F22002980006",3.0,47.0
-"issmv_mo","Modena","MO","036","Emilia-Romagna","08",55022.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T09:39:54.000+0000","2022-11-02","B91F22002880006",3.0,48.0
-"asl_bat","Andria","BT","110","Puglia","16",73805.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T19:01:00.000+0000","2022-11-02","C85F22001360006",3.0,48.0
-"CPC","Primiero San Martino di Castrozza","TN","022","Trentino-Alto Adige/Südtirol","04",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-20T16:06:24.000+0000","2022-11-08","C11F22001720006",1.0,49.0
-"cdgdgt","Taranto","TA","073","Puglia","16",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T09:55:36.000+0000","2022-11-08","G51F22001190006",1.0,49.0
-"csmcl","Sassari","SS","090","Sardegna","20",26013.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-29T09:23:58.000+0000","2022-11-02","F81F22003740006",3.0,47.0
-"csmcl","Sassari","SS","090","Sardegna","20",75030.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-29T09:33:37.000+0000","2022-11-02","F81F22003760006",3.0,48.0
-"r_veneto","Venezia","VE","027","Veneto","05",371660.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-19T13:52:18.000+0000","2022-11-02","H71B21005480002",3.0,48.0
-"cava_006","Alessandria","AL","006","Piemonte","01",28014.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T10:40:48.000+0000","2022-11-02","F31F22002750006",3.0,47.0
-"cava_006","Alessandria","AL","006","Piemonte","01",55022.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-02T12:36:02.000+0000","2022-11-02","F31F22002740006",3.0,48.0
-"aba_80","Reggio di Calabria","RC","080","Calabria","18",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-27T11:36:52.000+0000","2022-11-08","E37H22002570001",2.0,47.0
-"aba_80","Reggio di Calabria","RC","080","Calabria","18",60024.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T11:26:07.000+0000","2022-08-16","E37H22002540001",2.0,48.0
-"issr_035","Reggio nell'Emilia","RE","035","Emilia-Romagna","08",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T09:03:03.000+0000","2022-11-02","I81F22002470006",3.0,47.0
-"issr_035","Reggio nell'Emilia","RE","035","Emilia-Romagna","08",15006.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T08:58:19.000+0000","2022-11-02","I81F22002460006",3.0,48.0
-"aoup_082","Palermo","PA","082","Sicilia","19",575679.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-03T07:58:35.000+0000","2022-11-02","I71F22002890006",3.0,48.0
-"aoup_082","Palermo","PA","082","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-03T07:59:03.000+0000","2022-11-02","I71F22002870006",3.0,47.0
-"UNSTU_MC","Macerata","MC","043","Marche","11",29475.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T14:15:25.000+0000","2022-11-02","D81F22003050006",3.0,47.0
-"a_077","Matera","MT","077","Basilicata","17",17712.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T11:00:45.000+0000","2022-11-02","D11C22001200001",3.0,47.0
-"as_marc","Ancona","AN","042","Marche","11",221415.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T14:14:39.000+0000","2022-11-02","F31F22002800006",3.0,48.0
-"aol_087","Catania","CT","087","Sicilia","19",369025.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-04T12:08:59.000+0000","2022-11-02","B61F22002990006",3.0,48.0
-"csm_068","Pescara","PE","068","Abruzzo","13",25010.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-08T08:31:03.000+0000","2022-11-02","B21F22002670006",3.0,48.0
-"csm_068","Pescara","PE","068","Abruzzo","13",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-08T08:15:18.000+0000","2022-11-02","B21F22002690006",3.0,47.0
-"aol_087","Catania","CT","087","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-04T12:09:28.000+0000","2022-11-02","B61F22002970006",3.0,47.0
-"cm_tsle","Lecce","LE","075","Puglia","16",20010.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-08T10:15:30.000+0000","2022-11-02","J81F22003160006",3.0,47.0
-"cm_tsle","Lecce","LE","075","Puglia","16",45018.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-08T09:58:02.000+0000","2022-11-02","J81F22003180006",3.0,48.0
-"r_veneto","Venezia","VE","027","Veneto","05",297320.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-19T13:16:02.000+0000","2022-11-02","H77H22002430001",3.0,47.0
-"cmerd_mt","Matera","MT","077","Basilicata","17",18009.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-11T09:11:55.000+0000","2022-11-02","B11F22002150006",3.0,47.0
-"r_basili","Potenza","PZ","076","Basilicata","17",48960.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-04T08:15:47.000+0000","2022-11-02","G41F22002270008",3.0,47.0
-"r_basili","Potenza","PZ","076","Basilicata","17",116280.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-04T08:16:10.000+0000","2022-11-02","G41F22002290008",3.0,48.0
+codice_ipa,comune,cod_comune,provincia,cod_provincia,regione,cod_regione,importo_finanziamento,avviso,data_invio_candidatura,data_finanziamento,codice_cup,numero_finestra_temporale,numero_di_protocollo,stato_candidatura
+"iacpcac","Acireale","087004","CT","087","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-15T09:32:07.000+0000","2022-11-08","C41F22001750006",1.0,49.0,"A"
+"ucloa","Corte Palasio","098024","LO","098","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-12T19:34:36.000+0000","2022-11-08","I31F22001920006",1.0,49.0,"A"
+"inrca_rm","Ancona","042002","AN","042","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T13:39:58.000+0000","2022-11-02","F31F22002830006",3.0,47.0,"A"
+"a_sr","Siracusa","089017","SR","089","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-17T14:04:37.000+0000","2022-11-04","J31F22001660006",1.0,47.0,"A"
+"a_sr","Siracusa","089017","SR","089","Sicilia","19",590440.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-17T14:00:54.000+0000","2022-09-06","J31F22001670006",1.0,48.0,"A"
+"a_sr","Siracusa","089017","SR","089","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T14:03:07.000+0000","2022-11-08","J31F22001680006",1.0,49.0,"A"
+"r_piemon","Torino","001272","TO","001","Piemonte","01",297320.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T11:05:32.000+0000","2022-11-02","J61F22002850006",3.0,47.0,"A"
+"p_pd","Padova","028060","PD","028","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-21T14:08:40.000+0000","2022-11-08","G91F22001370006",1.0,49.0,"A"
+"azos_sga","Roma","058091","RM","058","Lazio","12",236176.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T09:56:02.000+0000","2022-11-02","I81F22002440006",3.0,48.0,"A"
+"p_rn","Rimini","099014","RN","099","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T08:46:59.000+0000","2022-11-08","E91F22001570009",1.0,49.0,"A"
+"esuv","Verona","023091","VR","023","Veneto","05",30015.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-27T12:00:21.000+0000","2022-11-08","D31F22002420006",2.0,47.0,"A"
+"esuv","Verona","023091","VR","023","Veneto","05",60024.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T11:57:54.000+0000","2022-08-16","D31F22002410006",2.0,48.0,"A"
+"aouora","Ancona","042002","AN","042","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T08:32:31.000+0000","2022-11-02","F31F22002850006",3.0,47.0,"A"
+"ss_sanna","Pisa","050026","PI","050","Toscana","09",32748.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-28T08:32:35.000+0000","2022-08-16","J51F21000000006",2.0,48.0,"A"
+"a_101","Crotone","101010","KR","101","Calabria","18",442830.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-28T14:00:00.000+0000","2022-08-16","E11F22002280006",2.0,48.0,"A"
+"asp_pa","Palermo","082053","PA","082","Sicilia","19",590440.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-06T08:06:13.000+0000","2022-11-02","F71F22003120006",3.0,48.0,"A"
+"asp_pa","Palermo","082053","PA","082","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-06T08:09:20.000+0000","2022-11-02","F71F22003110006",3.0,47.0,"A"
+"islia_0","Firenze","048017","FI","048","Toscana","09",130052.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-26T12:35:44.000+0000","2022-08-16","E11F22002310006",2.0,48.0,"A"
+"a_101","Crotone","101010","KR","101","Calabria","18",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-28T14:00:00.000+0000","2022-11-08","E11F22002290006",2.0,47.0,"A"
+"islia_0","Firenze","048017","FI","048","Toscana","09",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-27T08:54:12.000+0000","2022-11-08","E11F22002320006",2.0,47.0,"A"
+"cmerd_mt","Matera","077014","MT","077","Basilicata","17",40016.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-11T09:30:27.000+0000","2022-11-02","B11F22002170006",3.0,48.0,"A"
+"r_puglia","Bari","072006","BA","072","Puglia","16",222996.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T21:18:36.000+0000","2022-11-02","B31F22002980006",3.0,48.0,"A"
+"r_puglia","Bari","072006","BA","072","Puglia","16",282454.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T21:19:15.000+0000","2022-11-02","B31F22003060006",3.0,47.0,"A"
+"ASSL10VE","San Donà di Piave","027033","VE","027","Veneto","05",103327.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T10:22:20.000+0000","2022-11-02","I71F22002950006",3.0,48.0,"A"
+"eo_ginrc","Castellana Grotte","072017","BA","072","Puglia","16",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-29T10:16:36.000+0000","2022-11-02","G21F22002660006",3.0,47.0,"A"
+"sissa","Trieste","032006","TS","032","Friuli-Venezia Giulia","06",9825.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-24T13:21:15.000+0000","2022-11-02","G93C22000970006",3.0,47.0,"A"
+"aslrm","Roma","058091","RM","058","Lazio","12",118088.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T10:31:19.000+0000","2022-11-02","J81F22003130006",3.0,48.0,"A"
+"r_toscan","Firenze","048017","FI","048","Toscana","09",260162.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T09:30:00.000+0000","2022-11-02","D11F22002560006",3.0,48.0,"A"
+"r_toscan","Firenze","048017","FI","048","Toscana","09",297320.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T09:30:00.000+0000","2022-11-02","D11F22002540006",3.0,47.0,"A"
+"csm_ro","Rovigo","029041","RO","029","Veneto","05",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-01T10:27:58.000+0000","2022-11-02","E11F22002930006",3.0,47.0,"A"
+"csmpg","Genova","010025","GE","010","Liguria","07",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-02T07:26:54.000+0000","2022-11-02","C31F22002280006",3.0,48.0,"A"
+"cm_076","Potenza","076063","PZ","076","Basilicata","17",15006.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-01T10:53:36.000+0000","2022-11-02","E39I22000890006",3.0,48.0,"A"
+"cmgp_011","La Spezia","011015","SP","011","Liguria","07",40016.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-01T10:04:19.000+0000","2022-11-02","B41F22002920006",3.0,48.0,"A"
+"cmgp_011","La Spezia","011015","SP","011","Liguria","07",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-01T09:27:16.000+0000","2022-11-02","B41F22002940006",3.0,47.0,"A"
+"csmpg","Genova","010025","GE","010","Liguria","07",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-02T07:27:33.000+0000","2022-11-02","C31F22002270006",3.0,47.0,"A"
+"cm_076","Potenza","076063","PZ","076","Basilicata","17",10005.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-01T11:05:08.000+0000","2022-11-02","E39I22000880006",3.0,47.0,"A"
+"unite","Teramo","067041","TE","067","Abruzzo","13",9825.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T13:01:52.000+0000","2022-11-02","C41F22003060006",3.0,47.0,"A"
+"unical","Rende","078102","CS","078","Calabria","18",39300.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T14:58:29.000+0000","2022-11-02","H21F22002790006",3.0,47.0,"A"
+"unical","Rende","078102","CS","078","Calabria","18",81870.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T14:35:45.000+0000","2022-11-02","H21F22002800006",3.0,48.0,"A"
+"as_marc","Ancona","042002","AN","042","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:11:46.000+0000","2022-11-02","F31F22002810006",3.0,47.0,"A"
+"r_lazio","Roma","058091","RM","058","Lazio","12",668988.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T12:49:28.000+0000","2022-11-02","F81F22003770006",3.0,48.0,"A"
+"r_piemon","Torino","001272","TO","001","Piemonte","01",297328.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T11:02:04.000+0000","2022-11-02","J61F22002840006",3.0,48.0,"A"
+"csmlc","Mantova","020030","MN","020","Lombardia","03",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-02T08:47:27.000+0000","2022-11-02","E61F22002640006",3.0,47.0,"A"
+"r_friuve","Trieste","032006","TS","032","Friuli-Venezia Giulia","06",57532.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T11:54:12.000+0000","2022-11-02","D21F22002450006",3.0,48.0,"A"
+"isia_039","Faenza","039010","RA","039","Emilia-Romagna","08",80032.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-06T15:35:27.000+0000","2022-11-02","J21F22003020006",3.0,48.0,"A"
+"a1_025","Belluno","025006","BL","025","Veneto","05",44283.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:32:31.000+0000","2022-11-02","B31F22002990006",3.0,48.0,"A"
+"P65P3X9X","Selargius","092068","CA","092","Sardegna","20",221415.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:20:34.000+0000","2022-11-02","D71F22002620006",3.0,48.0,"A"
+"abaf_048","Firenze","048017","FI","048","Toscana","09",45018.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T13:17:52.000+0000","2022-11-02","J11F22002660006",3.0,48.0,"A"
+"cmvv_vv","Vibo Valentia","102047","VV","102","Calabria","18",26013.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T07:39:05.000+0000","2022-11-02","J41F22002990006",3.0,47.0,"A"
+"isia_039","Faenza","039010","RA","039","Emilia-Romagna","08",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-06T15:35:56.000+0000","2022-11-02","J21F22003050006",3.0,47.0,"A"
+"issmrf","Siena","052032","SI","052","Toscana","09",75030.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T11:06:17.000+0000","2022-11-02","F61F22002580006",3.0,48.0,"A"
+"au12ve","Venezia","027042","VE","027","Veneto","05",59044.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T13:54:17.000+0000","2022-11-02","J91F22002260006",3.0,48.0,"A"
+"asp_ag","Agrigento","084001","AG","084","Sicilia","19",369025.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T09:48:46.000+0000","2022-11-02","C41F22003000006",3.0,48.0,"A"
+"r_friuve","Trieste","032006","TS","032","Friuli-Venezia Giulia","06",115060.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T11:57:43.000+0000","2022-11-02","D21F22002440006",3.0,47.0,"A"
+"AU1P","Padova","028060","PD","028","Veneto","05",88566.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:38:33.000+0000","2022-11-02","I91F22002500006",3.0,48.0,"A"
+"asp_ag","Agrigento","084001","AG","084","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T09:49:06.000+0000","2022-11-02","C41F22003010006",3.0,47.0,"A"
+"aouora","Ancona","042002","AN","042","Marche","11",309981.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:33:08.000+0000","2022-11-02","F31F22002870006",3.0,48.0,"A"
+"USUCB","Urbino","041067","PU","041","Marche","11",16375.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T10:49:59.000+0000","2022-11-02","H31F22002610006",3.0,47.0,"A"
+"080","Reggio di Calabria","080063","RC","080","Calabria","18",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T14:36:42.000+0000","2022-11-02","G31F22002680006",3.0,47.0,"A"
+"080","Reggio di Calabria","080063","RC","080","Calabria","18",383786.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T14:35:30.000+0000","2022-11-02","G31F22002670006",3.0,48.0,"A"
+"unite","Teramo","067041","TE","067","Abruzzo","13",90057.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T13:07:34.000+0000","2022-11-02","C41F22003070006",3.0,48.0,"A"
+"P65P3X9X","Selargius","092068","CA","092","Sardegna","20",23616.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T08:21:24.000+0000","2022-11-02","D71F22002630006",3.0,47.0,"A"
+"iove_pd","Padova","028060","PD","028","Veneto","05",44283.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:29:42.000+0000","2022-11-02","J91F22002280006",3.0,48.0,"A"
+"aulss_ro","Rovigo","029041","RO","029","Veneto","05",44283.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T10:38:26.000+0000","2022-11-02","B11F22002400006",3.0,48.0,"A"
+"as3_vi","Bassano del Grappa","024012","VI","024","Veneto","05",88566.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T10:40:51.000+0000","2022-11-02","H51F22002650006",3.0,48.0,"A"
+"a9_tv","Treviso","026086","TV","026","Veneto","05",103327.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T13:56:33.000+0000","2022-11-02","I91F22002530006",3.0,48.0,"A"
+"csm_058","Roma","058091","RM","058","Lazio","12",26013.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T16:54:57.000+0000","2022-11-02","H81F22002790001",3.0,47.0,"A"
+"csm_058","Roma","058091","RM","058","Lazio","12",95038.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T16:53:56.000+0000","2022-11-02","H81F22002780001",3.0,48.0,"A"
+"AUV","Vicenza","024116","VI","024","Veneto","05",73805.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T13:43:40.000+0000","2022-11-02","I31F22003210006",3.0,48.0,"A"
+"csmns_bn","Benevento","062008","BN","062","Campania","15",70028.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T11:31:52.000+0000","2022-11-02","C81F22002730006",3.0,48.0,"A"
+"PT","Torino","001272","TO","001","Piemonte","01",29475.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:07:06.000+0000","2022-11-02","E11F22003000001",3.0,47.0,"A"
+"islia","Pescara","068028","PE","068","Abruzzo","13",22011.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T11:31:26.000+0000","2022-11-02","G21F22002700006",3.0,47.0,"A"
+"aoui_ve","Verona","023091","VR","023","Veneto","05",88566.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T14:00:29.000+0000","2022-11-02","E31F22003220006",3.0,48.0,"A"
+"islia","Pescara","068028","PE","068","Abruzzo","13",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T11:32:25.000+0000","2022-11-02","G21F22002680006",3.0,48.0,"A"
+"isl_058","Roma","058091","RM","058","Lazio","12",30015.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T19:33:47.000+0000","2022-11-02","C81F22002790006",3.0,47.0,"A"
+"cmv_027","Venezia","027042","VE","027","Veneto","05",10005.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T09:47:19.000+0000","2022-11-02","J71F22002980006",3.0,47.0,"A"
+"csmlc","Mantova","020030","MN","020","Lombardia","03",75030.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T06:55:37.000+0000","2022-11-02","E61F22002630006",3.0,48.0,"A"
+"csm_ro","Rovigo","029041","RO","029","Veneto","05",80032.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T08:09:15.000+0000","2022-11-02","E11F22002940006",3.0,48.0,"A"
+"azosp_PD","Padova","028060","PD","028","Veneto","05",59044.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:49:05.000+0000","2022-11-02","I91F22002560006",3.0,48.0,"A"
+"unimib","Milano","015146","MI","015","Lombardia","03",9825.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T11:24:45.000+0000","2022-11-02","H41F22002560006",3.0,47.0,"A"
+"isl_058","Roma","058091","RM","058","Lazio","12",55022.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T19:33:04.000+0000","2022-11-02","C81F22002800006",3.0,48.0,"A"
+"egpapie","Pietraroja","062051","BN","062","Campania","15",16008.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T08:46:24.000+0000","2022-11-02","B61F22003040006",3.0,47.0,"A"
+"aba_090","Sassari","090064","SS","090","Sardegna","20",14007.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T12:45:01.000+0000","2022-11-02","I81F22002520006",3.0,47.0,"A"
+"egpapie","Pietraroja","062051","BN","062","Campania","15",85034.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T08:51:51.000+0000","2022-11-02","B61F22003030006",3.0,48.0,"A"
+"asl_vvta","Taranto","073027","TA","073","Puglia","16",59044.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T09:39:50.000+0000","2022-11-02","E51F22002470006",3.0,48.0,"A"
+"cmdc_av","Avellino","064008","AV","064","Campania","15",165066.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T13:03:22.000+0000","2022-11-02","B31C22001360006",3.0,48.0,"A"
+"isli_041","Urbino","041067","PU","041","Marche","11",12006.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T11:51:18.000+0000","2022-11-02","B31F22003090006",3.0,47.0,"A"
+"cmdc_av","Avellino","064008","AV","064","Campania","15",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T13:24:15.000+0000","2022-11-02","B31C22001370006",3.0,47.0,"A"
+"abala_aq","L'Aquila","066049","AQ","066","Abruzzo","13",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T13:17:00.000+0000","2022-11-02","H11F22003150006",3.0,47.0,"A"
+"isli_041","Urbino","041067","PU","041","Marche","11",40016.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T11:51:45.000+0000","2022-11-02","B31F22003080006",3.0,48.0,"A"
+"oddcdni","Nocera Inferiore","065078","SA","065","Campania","15",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T16:20:05.000+0000","2022-11-08","D31F22001440006",1.0,49.0,"A"
+"csmgv_to","Torino","001272","TO","001","Piemonte","01",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-02T13:07:05.000+0000","2022-11-02","E11F22002980006",3.0,47.0,"A"
+"cmvv_vv","Vibo Valentia","102047","VV","102","Calabria","18",80032.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T07:36:38.000+0000","2022-11-02","J41F22002970006",3.0,48.0,"A"
+"oasrl_mi","Milano","015146","MI","015","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T12:25:39.000+0000","2022-11-08","C41F22001800006",1.0,49.0,"A"
+"unive","Venezia","027042","VE","027","Veneto","05",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-06T14:37:56.000+0000","2022-11-08","H71F22001920006",2.0,47.0,"A"
+"ucv_109","Altidona","109001","FM","109","Marche","11",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T06:16:38.000+0000","2022-11-08","D11F22001440006",1.0,49.0,"A"
+"cpoclcz","Catanzaro","079023","CZ","079","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T08:00:45.000+0000","2022-11-08","J61F22001370006",1.0,49.0,"A"
+"issmtr","Ribera","084033","AG","084","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-16T11:45:00.000+0000","2022-11-08","D97H22001850005",1.0,49.0,"A"
+"aoorv_pa","Palermo","082053","PA","082","Sicilia","19",280459.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T10:57:20.000+0000","2022-11-02","H71F22002370006",3.0,48.0,"A"
+"CSMV","Verona","023091","VR","023","Veneto","05",22011.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-28T12:11:58.000+0000","2022-11-08","E35E22000400006",2.0,47.0,"A"
+"issmg","Cuneo","004078","CN","004","Piemonte","01",25010.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-04T09:54:59.000+0000","2022-11-02","G21F22002630007",3.0,48.0,"A"
+"issmg","Cuneo","004078","CN","004","Piemonte","01",16008.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-04T09:45:18.000+0000","2022-11-02","G21F22002620007",3.0,47.0,"A"
+"aoorv_pa","Palermo","082053","PA","082","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T10:57:43.000+0000","2022-11-02","H71F22002380006",3.0,47.0,"A"
+"impgbt","Teramo","067041","TE","067","Abruzzo","13",26013.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-13T08:23:06.000+0000","2022-11-08","E41F22002170006",2.0,47.0,"A"
+"UNCOBARO","Lugo","039012","RA","039","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T08:29:13.000+0000","2022-11-08","J41F22001390006",1.0,49.0,"A"
+"udsa_","L'Aquila","066049","AQ","066","Abruzzo","13",106431.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-26T08:46:33.000+0000","2022-08-16","E11F22002250006",2.0,48.0,"A"
+"cmct","Catania","087015","CT","087","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T16:01:01.000+0000","2022-11-08","D61F22001750006",1.0,49.0,"A"
+"aoorm_pu","Pesaro","041044","PU","041","Marche","11",295220.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T14:05:57.000+0000","2022-11-02","G11F22002610006",3.0,48.0,"A"
+"aoorm_pu","Pesaro","041044","PU","041","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:07:11.000+0000","2022-11-02","G11F22002600006",3.0,47.0,"A"
+"inrca_rm","Ancona","042002","AN","042","Marche","11",265698.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T13:38:08.000+0000","2022-11-02","F31F22002840006",3.0,48.0,"A"
+"impgbt","Teramo","067041","TE","067","Abruzzo","13",90036.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-15T06:38:08.000+0000","2022-08-16","E41F22002180006",2.0,48.0,"A"
+"ul_090","Ozieri","090052","SS","090","Sardegna","20",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-11T08:26:01.000+0000","2022-11-08","D51F22002140006",1.0,49.0,"A"
+"aitplbb","Bergamo","016024","BG","016","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T14:33:08.000+0000","2022-11-08","H11F22001580006",1.0,49.0,"A"
+"p_ap","Ascoli Piceno","044007","AP","044","Marche","11",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T08:27:53.000+0000","2022-11-08","I31F22002250006",1.0,49.0,"A"
+"uf_","Genola","004096","CN","004","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-15T09:07:27.000+0000","2022-11-08","G81F22001400006",1.0,49.0,"A"
+"udctc","Serradifalco","085018","CL","085","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-10T16:04:32.000+0000","2022-11-08","F51F22001700006",1.0,49.0,"A"
+"and","Roma","058091","RM","058","Lazio","12",30015.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-12T12:01:01.000+0000","2022-11-02","D81F22003000006",3.0,47.0,"A"
+"asaese","Angri","065007","SA","065","Campania","15",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-10T16:50:42.000+0000","2022-11-08","I41F22001050006",1.0,49.0,"A"
+"egdpd_","Asti","005005","AT","005","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-20T10:27:29.000+0000","2022-11-08","F31F22001190006",1.0,49.0,"A"
+"and","Roma","058091","RM","058","Lazio","12",75030.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-12T12:00:42.000+0000","2022-11-02","D81F22002990006",3.0,48.0,"A"
+"USSan","Benevento","062008","BN","062","Campania","15",98244.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T13:10:28.000+0000","2022-08-16","F81F22002740006",2.0,48.0,"A"
+"co_pami","Sesto San Giovanni","015209","MI","015","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T08:15:31.000+0000","2022-11-08","E41F22001490006",1.0,49.0,"A"
+"cit","Torino","001272","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T11:10:46.000+0000","2022-11-08","G11F22001180006",1.0,49.0,"A"
+"cidsp","Rivoli","001219","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T14:06:54.000+0000","2022-11-08","F21F22001720006",1.0,49.0,"A"
+"csm_038","Ferrara","038008","FE","038","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T06:37:51.000+0000","2022-11-08","C71F22000750006",1.0,49.0,"A"
+"csmgv_to","Torino","001272","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-21T09:27:19.000+0000","2022-11-08","E11F22001840006",1.0,49.0,"A"
+"cm_clz","Longarone","025071","BL","025","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-12T18:12:46.000+0000","2022-11-08","E51F22000820006",1.0,49.0,"A"
+"CMS","Vilminore di Scalve","016243","BG","016","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T11:39:34.000+0000","2022-11-08","H41F22001230006",1.0,49.0,"A"
+"p_CN","Cuneo","004078","CN","004","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T15:25:48.000+0000","2022-11-08","I21F22001210009",1.0,49.0,"A"
+"umvst","Demonte","004079","CN","004","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T07:17:23.000+0000","2022-11-08","C31F22001320006",1.0,49.0,"A"
+"asoom_to","Torino","001272","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T14:03:58.000+0000","2022-11-08","G17H22001810006",1.0,49.0,"A"
+"uc_basre","Guastalla","035024","RE","035","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T07:45:21.000+0000","2022-11-08","F81F22001780006",1.0,49.0,"A"
+"cmas_081","Trapani","081021","TP","081","Sicilia","19",28014.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-19T15:23:57.000+0000","2022-11-08","197H22002270006",2.0,47.0,"A"
+"cmas_081","Trapani","081021","TP","081","Sicilia","19",30012.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-19T15:24:37.000+0000","2022-08-16","I97H22002260006",2.0,48.0,"A"
+"p_TE","Teramo","067041","TE","067","Abruzzo","13",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T08:09:08.000+0000","2022-11-08","E41F22001770006",1.0,49.0,"A"
+"asl_fg","Foggia","071024","FG","071","Puglia","16",369025.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-17T10:50:20.000+0000","2022-09-06","G21F22001490006",1.0,48.0,"A"
+"p_at","Asti","005005","AT","005","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-21T09:08:29.000+0000","2022-11-08","J31F22001450006",1.0,49.0,"A"
+"asl_fg","Foggia","071024","FG","071","Puglia","16",29520.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-17T10:50:57.000+0000","2022-11-04","G21F22001480006",1.0,47.0,"A"
+"cm_valte","Sondrio","014061","SO","014","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T14:06:22.000+0000","2022-11-08","F71F22001760006",1.0,49.0,"A"
+"arlpa_ge","Genova","010025","GE","010","Liguria","07",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T13:33:15.000+0000","2022-11-08","B31F22001680006",1.0,49.0,"A"
+"csm_038","Ferrara","038008","FE","038","Emilia-Romagna","08",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-10T12:44:01.000+0000","2022-11-04","C71F22000740006",1.0,47.0,"A"
+"csm_038","Ferrara","038008","FE","038","Emilia-Romagna","08",15006.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-11T08:43:57.000+0000","2022-08-16","C71F22001920006",2.0,48.0,"A"
+"r_marche","Ancona","042002","AN","042","Marche","11",115060.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-26T14:06:08.000+0000","2022-11-08","B31C22001350001",2.0,47.0,"A"
+"r_marche","Ancona","042002","AN","042","Marche","11",302043.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-22T11:00:10.000+0000","2022-08-16","B31F22002540001",2.0,48.0,"A"
+"p_vv","Vibo Valentia","102047","VV","102","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T10:49:19.000+0000","2022-11-08","E41F22001340006",1.0,49.0,"A"
+"p_KR","Crotone","101010","KR","101","Calabria","18",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T11:34:02.000+0000","2022-11-08","H11F22001720006",1.0,49.0,"A"
+"cmmaot","Monti","090041","SS","090","Sardegna","20",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T09:26:04.000+0000","2022-11-08","I31F22002120006",1.0,49.0,"A"
+"issmtr","Ribera","084033","AG","084","Sicilia","19",60024.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-16T13:00:00.000+0000","2022-09-06","D97H22001840005",1.0,48.0,"A"
+"epdn","Caronia","083011","ME","083","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-21T10:36:31.000+0000","2022-11-08","G31F22001600006",1.0,49.0,"A"
+"cissac_c","Caluso","001047","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T15:24:54.000+0000","2022-11-08","J91F22001010006",1.0,49.0,"A"
+"cm_013","Como","013075","CO","013","Lombardia","03",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-21T06:24:40.000+0000","2022-08-16","D17H22002430005",2.0,48.0,"A"
+"esu_pd","Padova","028060","PD","028","Veneto","05",30015.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T09:37:08.000+0000","2022-11-02","E51F22002530006",3.0,47.0,"A"
+"cm_013","Como","013075","CO","013","Lombardia","03",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-21T06:20:18.000+0000","2022-11-08","D17H22002410005",2.0,47.0,"A"
+"uc_vigno","Vignola","036046","MO","036","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T09:57:53.000+0000","2022-11-08","B21F22001190006",1.0,49.0,"A"
+"csmfabtn","Trento","022205","TN","022","Trentino-Alto Adige/Südtirol","04",50020.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-18T07:32:23.000+0000","2022-08-16","H61F22002230006",2.0,48.0,"A"
+"udcs","Guilmi","069044","CH","069","Abruzzo","13",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T18:25:24.000+0000","2022-11-08","B21F22001450006",1.0,49.0,"A"
+"iacpp_0","Lecce","075035","LE","075","Puglia","16",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-15T12:25:33.000+0000","2022-11-08","I81F22001350006",1.0,49.0,"A"
+"cm_valtetir","Tirano","014066","SO","014","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-20T13:00:29.000+0000","2022-11-08","E31F22001350006",1.0,49.0,"A"
+"uni_na","Napoli","063049","NA","063","Campania","15",32750.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-28T11:37:51.000+0000","2022-11-04","E61F22001490006",1.0,47.0,"A"
+"c_i462a","Sassuolo","036040","MO","036","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T08:23:53.000+0000","2022-11-08","J81F22001630006",1.0,49.0,"A"
+"csmgv_to","Torino","001272","TO","001","Piemonte","01",65026.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-21T09:28:56.000+0000","2022-09-06","E11F22001850006",1.0,48.0,"A"
+"asssrl","Sora","060074","FR","060","Lazio","12",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T07:55:43.000+0000","2022-11-08","H41F22001570006",1.0,49.0,"A"
+"USC","Camerino","043007","MC","043","Marche","11",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-15T07:50:35.000+0000","2022-11-08","J11F22001960006",2.0,47.0,"A"
+"aba_090","Sassari","090064","SS","090","Sardegna","20",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T12:43:08.000+0000","2022-11-02","I81F22002510006",3.0,48.0,"A"
+"odmcoi","Imperia","008031","IM","008","Liguria","07",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-21T14:43:31.000+0000","2022-11-08","F51F22001410006",1.0,49.0,"A"
+"opdmc_ve","Venezia","027042","VE","027","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T08:46:52.000+0000","2022-11-08","J71F22001430006",1.0,49.0,"A"
+"LOG8RSTT","Nepi","056039","VT","056","Lazio","12",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-22T06:12:10.000+0000","2022-11-08","J81F22001790006",1.0,49.0,"A"
+"odmc_050","Pisa","050026","PI","050","Toscana","09",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-22T09:50:39.000+0000","2022-11-08","E51F22000970006",1.0,49.0,"A"
+"opmcolc","Lecco","097042","LC","097","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T09:38:28.000+0000","2022-11-08","B11F22001310006",1.0,49.0,"A"
+"a_088","Ragusa","088009","RG","088","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T14:08:05.000+0000","2022-11-08","I21F22001380006",1.0,49.0,"A"
+"opdmct","Treviso","026086","TV","026","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T14:15:31.000+0000","2022-11-08","B41F22001410006",1.0,49.0,"A"
+"odmc_075","Lecce","075035","LE","075","Puglia","16",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-24T08:30:01.000+0000","2022-11-08","H81F22001310006",1.0,49.0,"A"
+"odmc_052","Siena","052032","SI","052","Toscana","09",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-24T11:26:46.000+0000","2022-11-08","D61F22001400006",1.0,49.0,"A"
+"a_088","Ragusa","088009","RG","088","Sicilia","19",546157.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-27T14:12:03.000+0000","2022-09-06","I21F22001390006",1.0,48.0,"A"
+"cis_001","Susa","001270","TO","001","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-24T12:24:21.000+0000","2022-11-08","H81F22001700006",1.0,49.0,"A"
+"a_088","Ragusa","088009","RG","088","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-06-27T14:15:09.000+0000","2022-11-04","I21F22001400006",1.0,47.0,"A"
+"omco_031","Gorizia","031007","GO","031","Friuli-Venezia Giulia","06",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T07:45:55.000+0000","2022-11-08","F81F22001490006",1.0,49.0,"A"
+"opdmcp","Perugia","054039","PG","054","Umbria","10",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T08:44:58.000+0000","2022-11-08","G91F22000980006",1.0,49.0,"A"
+"odmcov","Verona","023091","VR","023","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T10:10:37.000+0000","2022-11-08","I31F22002110006",1.0,49.0,"A"
+"cisac_al","Tortona","006174","AL","006","Piemonte","01",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T12:49:39.000+0000","2022-11-08","C31F22001180006",1.0,49.0,"A"
+"rsgda","Caravaggio","016053","BG","016","Lombardia","03",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T10:43:05.000+0000","2022-11-08","E71F22001480006",1.0,49.0,"A"
+"oprm","Ancona","042002","AN","042","Marche","11",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-27T14:10:35.000+0000","2022-11-08","B31F22001600006",1.0,49.0,"A"
+"uni_na","Napoli","063049","NA","063","Campania","15",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T10:25:25.000+0000","2022-11-08","E61F22001470006",1.0,49.0,"A"
+"omco_fc","Forlì","040012","FC","040","Emilia-Romagna","08",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T07:11:12.000+0000","2022-11-08","C61F22001320006",1.0,49.0,"A"
+"uni_sa","Fisciano","065052","SA","065","Campania","15",22925.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-28T10:51:12.000+0000","2022-11-08","D55E22000520001",2.0,47.0,"A"
+"p_tv","Treviso","026086","TV","026","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T09:03:49.000+0000","2022-11-08","B41F22001440006",1.0,49.0,"A"
+"USSan","Benevento","062008","BN","062","Campania","15",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-27T13:11:18.000+0000","2022-11-08","F81F22002750006",2.0,47.0,"A"
+"p_or","Oristano","095038","OR","095","Sardegna","20",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T11:48:59.000+0000","2022-11-08","F17H22002340006",1.0,49.0,"A"
+"uni_na","Napoli","063049","NA","063","Campania","15",81870.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-06-28T13:33:04.000+0000","2022-09-06","E61F22001480006",1.0,48.0,"A"
+"mcad","Pieve di Cadore","025039","BL","025","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-28T13:25:06.000+0000","2022-11-08","J91F22001000006",1.0,49.0,"A"
+"r_liguri","Genova","010025","GE","010","Liguria","07",143830.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-11T07:45:33.000+0000","2022-11-02","G31F22002720006",3.0,48.0,"A"
+"asp_cs","Cosenza","078045","CS","078","Calabria","18",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T17:24:12.000+0000","2022-11-02","B81F22002870006",3.0,47.0,"A"
+"PM","Milano","015146","MI","015","Lombardia","03",32750.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:47:17.000+0000","2022-11-02","D51F22003260006",3.0,47.0,"A"
+"uni_pr","Parma","034027","PR","034","Emilia-Romagna","08",106431.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T18:55:24.000+0000","2022-08-16","D91F22002170006",2.0,48.0,"A"
+"uni_pr","Parma","034027","PR","034","Emilia-Romagna","08",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-27T18:54:55.000+0000","2022-11-08","D91F22002190006",2.0,47.0,"A"
+"r_lombar","Milano","015146","MI","015","Lombardia","03",260162.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-12T15:15:00.000+0000","2022-08-16","E81F22002460006",2.0,48.0,"A"
+"uni_pd","Padova","028060","PD","028","Veneto","05",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:19:11.000+0000","2022-11-02","C91F22002880006",3.0,47.0,"A"
+"usc_fr","Cassino","060019","FR","060","Lazio","12",29475.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-23T06:18:49.000+0000","2022-11-08","H31F22002150006",2.0,47.0,"A"
+"udsg_ge","Genova","010025","GE","010","Liguria","07",49125.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T13:49:52.000+0000","2022-11-02","D31F22003160006",3.0,47.0,"A"
+"uni_napa","Napoli","063049","NA","063","Campania","15",81870.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-28T11:41:25.000+0000","2022-08-16","I61F22001960006",2.0,48.0,"A"
+"oring_tv","Treviso","026086","TV","026","Veneto","05",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-23T07:47:59.000+0000","2022-11-08","H41F22001420006",1.0,49.0,"A"
+"AU2V","Verona","023091","VR","023","Veneto","05",103327.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T13:37:44.000+0000","2022-11-02","F61F22002590006",3.0,48.0,"A"
+"p_TN","Trento","022205","TN","022","Trentino-Alto Adige/Südtirol","04",97920.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T13:45:00.000+0000","2022-08-16","C61F22002160006",2.0,48.0,"A"
+"p_TN","Trento","022205","TN","022","Trentino-Alto Adige/Südtirol","04",48960.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-25T14:30:00.000+0000","2022-11-08","C61F22002150006",2.0,47.0,"A"
+"uni_moli","Campobasso","070006","CB","070","Molise","14",130992.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-21T10:16:15.000+0000","2022-08-16","H31F22002120006",2.0,48.0,"A"
+"csmab_ro","Adria","029001","RO","029","Veneto","05",16008.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-19T11:07:26.000+0000","2022-11-08","E61F22002010006",2.0,47.0,"A"
+"r_lombar","Milano","015146","MI","015","Lombardia","03",297320.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-20T14:15:00.000+0000","2022-11-08","E81F22002450006",2.0,47.0,"A"
+"erdsu_to","Torino","001272","TO","001","Piemonte","01",35014.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-06T08:41:34.000+0000","2022-11-02","H19I22000740001",3.0,48.0,"A"
+"asl_bat","Andria","110001","BT","110","Puglia","16",17712.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T19:00:37.000+0000","2022-11-02","C85F22001370006",3.0,47.0,"A"
+"aslrm","Roma","058091","RM","058","Lazio","12",82656.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T10:32:12.000+0000","2022-11-02","J81F22003150006",3.0,47.0,"A"
+"csm_acaq","L'Aquila","066049","AQ","066","Abruzzo","13",26013.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-06T10:25:58.000+0000","2022-11-02","D11F22002530006",3.0,47.0,"A"
+"CSMV","Verona","023091","VR","023","Veneto","05",65026.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-28T12:07:45.000+0000","2022-08-16","E35E22000390006",2.0,48.0,"A"
+"udcas","Poggio Moiano","057054","RI","057","Lazio","12",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-13T09:53:30.000+0000","2022-11-08","B51F22001530006",1.0,49.0,"A"
+"USUCB","Urbino","041067","PU","041","Marche","11",114618.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T10:48:12.000+0000","2022-11-02","H31F22002630006",3.0,48.0,"A"
+"issmgb","Terni","055032","TR","055","Umbria","10",90036.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T10:25:32.000+0000","2022-11-02","B41F22002960006",3.0,48.0,"A"
+"csm_acaq","L'Aquila","066049","AQ","066","Abruzzo","13",105042.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-06T10:28:59.000+0000","2022-11-02","D11F22002520006",3.0,48.0,"A"
+"asp_cs","Cosenza","078045","CS","078","Calabria","18",442830.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T17:21:15.000+0000","2022-11-02","B81F22002850006",3.0,48.0,"A"
+"r_emiro","Bologna","037006","BO","037","Emilia-Romagna","08",178392.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T15:00:54.000+0000","2022-11-02","E41F22002900006",3.0,47.0,"A"
+"issmgb","Terni","055032","TR","055","Umbria","10",18009.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T08:30:28.000+0000","2022-11-02","B41F22002980006",3.0,47.0,"A"
+"issmv_mo","Modena","036023","MO","036","Emilia-Romagna","08",55022.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T09:39:54.000+0000","2022-11-02","B91F22002880006",3.0,48.0,"A"
+"asl_bat","Andria","110001","BT","110","Puglia","16",73805.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-09T19:01:00.000+0000","2022-11-02","C85F22001360006",3.0,48.0,"A"
+"CPC","Primiero San Martino di Castrozza","022245","TN","022","Trentino-Alto Adige/Südtirol","04",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-20T16:06:24.000+0000","2022-11-08","C11F22001720006",1.0,49.0,"A"
+"cdgdgt","Taranto","073027","TA","073","Puglia","16",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-17T09:55:36.000+0000","2022-11-08","G51F22001190006",1.0,49.0,"A"
+"csmcl","Sassari","090064","SS","090","Sardegna","20",26013.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-29T09:23:58.000+0000","2022-11-02","F81F22003740006",3.0,47.0,"A"
+"csmcl","Sassari","090064","SS","090","Sardegna","20",75030.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-29T09:33:37.000+0000","2022-11-02","F81F22003760006",3.0,48.0,"A"
+"r_veneto","Venezia","027042","VE","027","Veneto","05",371660.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-19T13:52:18.000+0000","2022-11-02","H71B21005480002",3.0,48.0,"A"
+"cava_006","Alessandria","006003","AL","006","Piemonte","01",28014.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T10:40:48.000+0000","2022-11-02","F31F22002750006",3.0,47.0,"A"
+"cava_006","Alessandria","006003","AL","006","Piemonte","01",55022.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-02T12:36:02.000+0000","2022-11-02","F31F22002740006",3.0,48.0,"A"
+"aba_80","Reggio di Calabria","080063","RC","080","Calabria","18",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-07-27T11:36:52.000+0000","2022-11-08","E37H22002570001",2.0,47.0,"A"
+"aba_80","Reggio di Calabria","080063","RC","080","Calabria","18",60024.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-07-27T11:26:07.000+0000","2022-08-16","E37H22002540001",2.0,48.0,"A"
+"issr_035","Reggio nell'Emilia","035033","RE","035","Emilia-Romagna","08",6003.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-07T09:03:03.000+0000","2022-11-02","I81F22002470006",3.0,47.0,"A"
+"issr_035","Reggio nell'Emilia","035033","RE","035","Emilia-Romagna","08",15006.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-07T08:58:19.000+0000","2022-11-02","I81F22002460006",3.0,48.0,"A"
+"aoup_082","Palermo","082053","PA","082","Sicilia","19",575679.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-03T07:58:35.000+0000","2022-11-02","I71F22002890006",3.0,48.0,"A"
+"aoup_082","Palermo","082053","PA","082","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-03T07:59:03.000+0000","2022-11-02","I71F22002870006",3.0,47.0,"A"
+"UNSTU_MC","Macerata","043023","MC","043","Marche","11",29475.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T14:15:25.000+0000","2022-11-02","D81F22003050006",3.0,47.0,"A"
+"a_077","Matera","077014","MT","077","Basilicata","17",17712.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-09T11:00:45.000+0000","2022-11-02","D11C22001200001",3.0,47.0,"A"
+"as_marc","Ancona","042002","AN","042","Marche","11",221415.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T14:14:39.000+0000","2022-11-02","F31F22002800006",3.0,48.0,"A"
+"aol_087","Catania","087015","CT","087","Sicilia","19",369025.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-04T12:08:59.000+0000","2022-11-02","B61F22002990006",3.0,48.0,"A"
+"csm_068","Pescara","068028","PE","068","Abruzzo","13",25010.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-08T08:31:03.000+0000","2022-11-02","B21F22002670006",3.0,48.0,"A"
+"csm_068","Pescara","068028","PE","068","Abruzzo","13",8004.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-08T08:15:18.000+0000","2022-11-02","B21F22002690006",3.0,47.0,"A"
+"aol_087","Catania","087015","CT","087","Sicilia","19",118080.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-04T12:09:28.000+0000","2022-11-02","B61F22002970006",3.0,47.0,"A"
+"cm_tsle","Lecce","075035","LE","075","Puglia","16",20010.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-08T10:15:30.000+0000","2022-11-02","J81F22003160006",3.0,47.0,"A"
+"cm_tsle","Lecce","075035","LE","075","Puglia","16",45018.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-08T09:58:02.000+0000","2022-11-02","J81F22003180006",3.0,48.0,"A"
+"r_veneto","Venezia","027042","VE","027","Veneto","05",297320.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-19T13:16:02.000+0000","2022-11-02","H77H22002430001",3.0,47.0,"A"
+"cmerd_mt","Matera","077014","MT","077","Basilicata","17",18009.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-11T09:11:55.000+0000","2022-11-02","B11F22002150006",3.0,47.0,"A"
+"r_basili","Potenza","076063","PZ","076","Basilicata","17",48960.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-08-04T08:15:47.000+0000","2022-11-02","G41F22002270008",3.0,47.0,"A"
+"r_basili","Potenza","076063","PZ","076","Basilicata","17",116280.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-08-04T08:16:10.000+0000","2022-11-02","G41F22002290008",3.0,48.0,"A"
