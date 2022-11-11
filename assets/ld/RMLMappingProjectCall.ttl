@@ -1,0 +1,219 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix prjapit: <https://w3id.org/italia/onto/Project/> .
+@prefix tiapit: <https://w3id.org/italia/onto/TI/> .
+@prefix l0: <https://w3id.org/italia/onto/l0/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
+@prefix fnml: <http://semweb.mmlab.be/ns/fnml#> .
+@prefix grel: <http://users.ugent.be/~bjdmeest/function/grel.ttl#> .
+@prefix fno: <https://w3id.org/function/ontology#> .
+@prefix idlab-fn: <http://example.com/idlab/function/> .
+@prefix rmls: <http://semweb.mmlab.be/ns/rmls#> .
+@base <https://w3id.org/italia/mapping/rml/projectFundedSchools> .
+
+##########################################################
+## LOGICAL SOURCES TO BE USED
+##########################################################
+
+##LogicalSourceFundedSchools
+<#LogicalSourceFundedSchools> a rml:BaseSource ;
+  rml:source "candidature_scuole_finanziate.csv";
+  rml:referenceFormulation ql:CSV .
+
+
+
+###########################################################
+##                  MAPPING RULES
+##########################################################
+
+
+############################################
+# Organisation linking project Mapping
+############################################
+<#OrganisationMapping> a rr:TriplesMap ;
+  rml:logicalSource <#LogicalSourceFundedSchools> ;
+  rr:subjectMap [
+    rr:template "https://w3id.org/italia/data/public-organisation/{codice_ipa}" ;
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate prjapit:isInvolvedInProject;
+    rr:objectMap [ rr:template "https://w3id.org/italia/data/public-investment-project/{codice_cup}" ; rr:termType rr:IRI ]
+  ] .
+
+
+############################################
+# Project Mapping
+############################################
+<#ProjectMapping> a rr:TriplesMap ;
+  rml:logicalSource <#LogicalSourceFundedSchools> ;
+  rr:subjectMap [
+    rr:template "https://w3id.org/italia/data/public-investment-project/{codice_cup}" ;
+    rr:class prjapit:PublicInvestmentProject
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate rdfs:label;
+    rr:objectMap [ rr:template "Progetto di Investimento Pubblico nell'ambito del PNRR - codice CUP: {codice_cup}" ; rr:language "it" ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate prjapit:uniqueProjectCodeValue;
+    rr:objectMap [ rml:reference "codice_cup" ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate prjapit:projectTotalCost;
+    rr:objectMap [ rml:reference "importo_finanziamento" ; rr:datatype xsd:float ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate l0:identifier;
+    rr:objectMap [ rml:reference "numero_di_protocollo" ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate prjapit:projectTitle;
+    rr:objectMap [ rr:template "Progetto {codice_cup} per la scuola {codice_ipa} relativo all'avviso {avviso}" ; rr:language "it" ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate prjapit:hasCall;
+    rr:objectMap <#NoticeURI>
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate tiapit:issued;
+    rr:objectMap [ rml:reference "data_invio_candidatura" ; rr:datatype xsd:dateTime ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate tiapit:hasTemporalCoverage;
+    rr:objectMap [ rr:template "https://w3id.org/italia/data/time-interval/{data_finanziamento}-{numero_finestra_temporale}" ; rr:termType rr:IRI ]
+  ] .
+
+
+<#NoticeURI>
+rr:termType rr:IRI ;
+fnml:functionValue [
+   rr:predicateObjectMap [
+     rr:predicate fno:executes ;
+     rr:objectMap [ rr:constant grel:array_join ]
+   ];
+
+    rr:predicateObjectMap [
+      rr:predicate grel:p_array_a ;
+      rr:objectMap [ rr:constant "https://w3id.org/italia/data/call"]
+    ] ;
+
+    rr:predicateObjectMap [
+      rr:predicate grel:p_array_a ;
+      rr:objectMap <#Md5ForNotice>
+    ];
+    rr:predicateObjectMap [
+      rr:predicate grel:p_string_sep ;
+      rr:objectMap [ rr:constant "/" ]
+    ]
+] .
+
+
+<#Md5ForNotice>
+rr:termType rr:IRI ;
+fnml:functionValue [
+    rr:predicateObjectMap [
+      rr:predicate fno:executes ;
+      rr:objectMap [ rr:constant grel:string_md5 ]
+    ] ;
+    rr:predicateObjectMap [
+      rr:predicate grel:valueParameter ;
+      rr:objectMap  [ rml:reference "avviso"]
+    ]
+  ].
+
+############################################
+# Call object Mapping
+############################################
+<#CallMapping> a rr:TriplesMap ;
+  rml:logicalSource <#LogicalSourceFundedSchools> ;
+  rr:subjectMap [
+    fnml:functionValue [
+      rr:predicateObjectMap [
+        rr:predicate fno:executes ;
+        rr:objectMap [ rr:constant grel:array_join ]
+      ];
+       rr:predicateObjectMap [
+         rr:predicate grel:p_array_a ;
+         rr:objectMap [ rr:constant "https://w3id.org/italia/data/call"]
+       ] ;
+       rr:predicateObjectMap [
+         rr:predicate grel:p_array_a ;
+         rr:objectMap <#Md5ForNotice>
+       ];
+       rr:predicateObjectMap [
+         rr:predicate grel:p_string_sep ;
+         rr:objectMap [ rr:constant "/" ]
+       ]
+    ] ; rr:class prjapit:Call , l0:Object
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate l0:description;
+    rr:objectMap [ rml:reference "avviso" ; rr:language "it" ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate l0:name;
+    rr:objectMap [ rml:reference "avviso" ; rr:language "it" ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate l0:identifier;
+    rr:objectMap <#substringMapping>
+  ] .
+
+
+############################################
+# Temporal Coverage Mapping
+############################################
+<#TemporalCoverageMapping> a rr:TriplesMap ;
+  rml:logicalSource <#LogicalSourceFundedSchools> ;
+  rr:subjectMap [
+    rr:template  "https://w3id.org/italia/data/time-interval/{data_finanziamento}-{numero_finestra_temporale}" ;
+    rr:class tiapit:TimeInterval , tiapit:TemporalEntity , l0:Entity
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate l0:identifier;
+    rr:objectMap [ rml:reference "numero_finestra_temporale" ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate tiapit:date;
+    rr:objectMap [ rml:reference "data_finanziamento" ; rr:datatype xsd:date ]
+  ] .
+
+<#substringMapping>
+fnml:functionValue [
+  rr:predicateObjectMap [
+    rr:predicate fno:executes ;
+    rr:objectMap [ rr:constant grel:string_substring ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate grel:valueParameter ;
+    rr:objectMap [ rml:reference "avviso" ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate grel:param_int_i_from ;
+    rr:objectMap [ rr:constant 0 ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate grel:param_int_i_opt_to ;
+    rr:objectMap <#indexOfMapping>
+  ]
+] .
+
+<#indexOfMapping>
+fnml:functionValue [
+  rr:predicateObjectMap [
+    rr:predicate fno:executes ;
+    rr:objectMap [ rr:constant grel:string_indexOf ]
+  ] ;
+  rr:predicateObjectMap [
+    rr:predicate grel:valueParameter ;
+    rr:objectMap [ rml:reference "avviso" ]
+  ];
+  rr:predicateObjectMap [
+    rr:predicate grel:string_sub;
+    rr:objectMap [ rr:constant " " ]
+  ]
+] .
