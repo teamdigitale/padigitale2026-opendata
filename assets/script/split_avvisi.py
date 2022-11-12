@@ -10,7 +10,7 @@ def main():
     print(files)
 
     df = pd.concat(
-        [pd.read_csv(os.path.join(DATA_DIR, file), dtype=TYPE_DICT, nrows = 10 ) for file in files], 
+        [pd.read_csv(os.path.join(DATA_DIR, file), dtype=TYPE_DICT ) for file in files], 
         axis = 0, ignore_index = True 
     )
 
