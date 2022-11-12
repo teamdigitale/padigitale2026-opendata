@@ -103,7 +103,7 @@ Dati Candidature Finanziate: ogni giorno alle 2:00 (UTC).
 
 # Linked data
 
-In modo per ora sperimentale, con il supporto di @giorgialiodi, viene generata una distribuzione linked data di alcune tabelle.
+In modo per ora sperimentale, con il supporto di @giorgialodi, viene generata una distribuzione linked data di alcune tabelle.
 
 Il tool utilizzato è rmlmapper (https://rml.io) che viene eseguito tramite una GitHub Action.
 
