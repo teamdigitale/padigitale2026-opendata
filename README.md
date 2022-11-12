@@ -42,6 +42,8 @@ La repository è strutturata in principalmente in 6 cartelle, secondo lo schema 
 padigitale2026-opendata/
 ├── assets
 │   └── ld
+│   └──── MappingRMLOrgLocation.ttl
+│   └──── RMLMappingProjectCall.ttl
 ├── AUTHORS
 ├── CHANGELOG.md
 ├── data
@@ -53,14 +55,9 @@ padigitale2026-opendata/
 │   ├── candidature_comuni_finanziate.json
 │   ├── candidature_scuole_finanziate.csv
 │   ├── candidature_scuole_finanziate.json
-│   ├── MappingRMLOrgLocation.ttl
-│   ├── RMLMappingProjectCall.ttl
-│   ├── sample.rdf.gz
-│   ├── scuole_pnrr.ttl
-│   └── test_batch_01.json
 ├── datapackage.yaml
-├── dati
-│   └── avvisi-latest.json
+├── ld
+│   └── scuole_pnrr.ttl
 ├── format
 │   ├── format-pad26-avvisi.md
 │   ├── format-pad26-candidature-altrienti-finanziate.md
