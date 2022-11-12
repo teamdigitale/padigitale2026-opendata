@@ -36,32 +36,52 @@ Nello specifico, i seguenti dati sono aggiornati quotidianamente alle 2:00 (UTC)
 
 
 # Struttura repository
-La repository è strutturata in principalmente in 4 cartelle, secondo lo schema seguente:
+La repository è strutturata in principalmente in 6 cartelle, secondo lo schema seguente:
 
 ```
 padigitale2026-opendata/
-│
-├── data/
-│   ├── avvisi.csv
-│   ├── avvisi.json
-│   ├── candidature_comuni_finanziate.csv
-│   ├── candidature_comuni_finanziate.json
-│   ├── candidature_scuole_finanziate.csv
-│   ├── candidature_scuole_finanziate.json
-│   ├── candidature_altrienti_finanziate.csv
-│   ├── candidature_altrienti_finanziate.json
-├── format/
-│   ├── format-pad26-avvisi.md
-│   ├── format-pad26-candidature-comuni-finanziate.md
-│   ├── format-pad26-candidature-altrienti-finanziate.md
-│   ├── format-pad26-candidature-scuole-finanziate.md
-├── img/
-├── metadata/
-│   ├── pad26-opendata.rdf
+├── assets
+│   └── ld
+├── AUTHORS
+├── CHANGELOG.md
+├── data
+│   ├── avvisi.csv
+│   ├── avvisi.json
+│   ├── candidature_altrienti_finanziate.csv
+│   ├── candidature_altrienti_finanziate.json
+│   ├── candidature_comuni_finanziate.csv
+│   ├── candidature_comuni_finanziate.json
+│   ├── candidature_scuole_finanziate.csv
+│   ├── candidature_scuole_finanziate.json
+│   ├── MappingRMLOrgLocation.ttl
+│   ├── RMLMappingProjectCall.ttl
+│   ├── sample.rdf.gz
+│   ├── scuole_pnrr.ttl
+│   └── test_batch_01.json
+├── datapackage.yaml
+├── dati
+│   └── avvisi-latest.json
+├── format
+│   ├── format-pad26-avvisi.md
+│   ├── format-pad26-candidature-altrienti-finanziate.md
+│   ├── format-pad26-candidature-comuni-finanziate.md
+│   └── format-pad26-candidature-scuole-finanziate.md
+├── img
+│   └── site-logo.svg
+├── ld
+├── LICENSE
+├── metadata
+│   ├── pad26-opendata.rdf
+│   └── README.md
+└── README.md
 ```
-Nella cartella data sono raccolti tutti i dataset che costituiscono la repository. 
+Nella cartella /data sono raccolti tutti i dataset che costituiscono la repository. 
 
-Le specifiche dei dati sono riassunte nei file nella cartella format. Infine, nella cartella metadata è possibile trovare il file .rdf per l'integrazione della repository nel catalogo [dati.gov.it](https://dati.gov.it/).
+Nella cartella /ld sono raccolte le distribuzioni linked data dei dati in /data.
+
+Nella cartella /assets sono raccolti file di supporto, come gli script utilizzati per la generazione delle distribuzioni linked data.
+
+Le specifiche dei dati sono riassunte nei file nella cartella /format. Infine, nella cartella /metadata è possibile trovare il file .rdf per l'integrazione della repository nel catalogo [dati.gov.it](https://dati.gov.it/).
 
 # Formato Dati
 - [Avvisi PA digitale 2026](https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-avvisi.md)
@@ -81,7 +101,16 @@ Il portale OpenCUP (https://opencup.gov.it/) è un utile strumento di trasparenz
 Al momento su OpenCUP non sono pubblicate tutte le nature progettuali, ma soltanto quelle relativi ai progetti di investimento pubblico (Lavori Pubblici, Incentivi alle imprese e Contributi per calamità naturali)[[1]](https://opencup.gov.it/opendata). La natura "acquisto/realizzazione di servizi", che riguarda il tipo di progetti di PA Digitale 2026, non è quindi attualmente inclusa. Si rimanda per questo a future evoluzioni del portale.
 
 # Aggiornamento Dati
+
 Dati Candidature Finanziate: ogni giorno alle 2:00 (UTC).
+
+# Linked data
+
+In modo per ora sperimentale, con il supporto di @giorgialiodi, viene generata una distribuzione linked data di alcune tabelle.
+
+Il tool utilizzato è rmlmapper (https://rml.io) che viene eseguito tramite una GitHub Action.
+
+I file di configurazione impiegati si possono trovare nella cartella /assets/ld
 
 # Changelog
 
