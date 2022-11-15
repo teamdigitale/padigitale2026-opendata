@@ -17,35 +17,44 @@ resources:
     scheme: file
     format: csv
     hashing: md5
-    stats:
-      hash: 8da8da06d1bba6413cfbb898efe7845f
-      bytes: 3658
-      fields: 8
-      rows: 21
     encoding: utf-8
     schema:
       fields:
         - type: string
-          name: Titolo
+          name: titolo
           description: Titolo descrittivo dell'avviso pubblicato su PA digitale 2026 e riportato nelle candidature
         - type: string
           name: misura
           description: Misura del PNRR a cui l'avviso appartiene  
+          constraints:
+            enum:
+              - "1.2 Abilitazione e facilitazione migrazione al Cloud"
+              - "1.3.1 Piattaforma Digitale Nazionale Dati"
+              - "1.4.1 Esperienza del cittadino nei servizi pubblici"
+              - "1.4.3 Adozione PagoPA e AppIO"
+              - "1.4.4 Adozione identità digitale"
+              - "1.4.5 Digitalizzazione degli avvisi pubblici"
         - type: date
           name: data_inizio_bando
           description: Data di pubblicazione dell'avviso  
+          format: "%Y-%m-%d"
         - type: date
           name: data_fine_bando
           description: Data di scadenza dell'avviso, entro cui è possibile inviare una candidatura  
+          format: "%Y-%m-%d"
         - type: string
           name: stato
           description: Stato attuale dell'avviso  
-        - type: integer
+          constraints:
+            enum:
+              - "PUBBLICATO"
+              - "TERMINATO"
+        - type: number
           name: totale_importo_stanziato
           description: Fondi stanziati per il finanziamento delle candidature dell'avviso 
           constraints:
             minimum: 0
-        - type: integer
+        - type: number
           name: totale_importo_misura
           description: Fondi totali previsti da PNRR per la singola misura. 
           constraints:
@@ -53,138 +62,243 @@ resources:
         - type: string
           name: soggetti_destinatari
           description: Soggetti destinatari dell'avviso che si possono candidare su PA digitale 2026  
-      primaryKey: Titolo
+      primaryKey: 
+        - titolo
     scheme: file
   - path: data/candidature_comuni_finanziate.csv
-      name: candidature_comuni_finanziate
-      profile: tabular-data-resource
-      scheme: file
-      format: csv
-      hashing: md5
-      stats:
-        hash: 6b517102a9f25565599833774a458a15
-        bytes: 3150
-        fields: 11
-        rows: 20
-      encoding: utf-8
-      schema:
-        fields:
-          - type: string
-            name: codice_ipa
-          - type: string
-            name: comune
-          - type: string
-            name: provincia
-          - type: string
-            name: cod_provincia
-          - type: string
-            name: regione
-          - type: string
-            name: cod_regione
-          - type: float
-            name: importo_finanziamento
-            constraints:
-              minimum: 0.0
-          - type: string
-            name: avviso
-          - type: datetime
-            name: data_invio_candidatura
-          - type: date
-            name: data_finanziamento
-          - type: string
-            name: codice_cup
-          - type: integer
-            name: numero_finestra_temporale
-          - type: integer
-            name: numero_di_protocollo
-            constraints:
-              minimum: 0
+    name: candidature_comuni_finanziate
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    encoding: utf-8
+    schema:
+      fields:
+        - name: codice_ipa
+          type: string
+        - name: comune
+          type: string
+        - name: cod_comune
+          type: integer
+        - name: provincia
+          type: string
+          constraints:
+            minLength: 2
+            maxLength: 2
+        - name: cod_provincia
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 111
+        - name: regione
+          type: string
+          enum:
+            - 'Abruzzo'
+            - 'Basilicata'
+            - 'Calabria'
+            - 'Campania'
+            - 'Emilia-Romagna'
+            - 'Friuli-Venezia Giulia'
+            - 'Lazio'
+            - 'Liguria'
+            - 'Lombardia'
+            - 'Marche'
+            - 'Molise'
+            - 'Piemonte'
+            - 'Puglia'
+            - 'Sardegna'
+            - 'Sicilia'
+            - 'Toscana'
+            - 'Trentino-Alto Adige/Südtirol'
+            - 'Umbria'
+            - "Valle d'Aosta/Vallée d'Aoste"
+            - 'Veneto'
+        - name: cod_regione
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 21
+        - name: importo_finanziamento
+          type: number
+          constraints:
+            minimum: 0.0
+        - name: avviso
+          type: string
+        - name: data_invio_candidatura
+          type: datetime
+        - name: data_finanziamento
+          type: date
+        - name: codice_cup
+          type: string
+          constraints:
+            minLength: 15
+            maxLength: 15
+        - name: numero_finestra_temporale
+          type: number
+        - name: numero_di_protocollo
+          type: number
+        - name: stato_candidatura
+          type: string
+          enum:
+            - A
+            - R
     scheme: file
   - path: data/candidature_scuole_finanziate.csv
-      name: candidature_comuni_finanziate
-      profile: tabular-data-resource
-      scheme: file
-      format: csv
-      hashing: md5
-      stats:
-        bytes: 3150
-        fields: 11
-        rows: 20
-      encoding: utf-8
-      schema:
-        fields:
-          - type: string
-            name: codice_ipa
-          - type: string
-            name: comune
-          - type: string
-            name: provincia
-          - type: string
-            name: cod_provincia
-          - type: string
-            name: regione
-          - type: string
-            name: cod_regione
-          - type: float
-            name: importo_finanziamento
-            constraints:
-              minimum: 0.0
-          - type: string
-            name: avviso
-          - type: datetime
-            name: data_invio_candidatura
-          - type: date
-            name: data_finanziamento
-          - type: string
-            name: codice_cup
-          - type: integer
-            name: numero_finestra_temporale
-          - type: integer
-            name: numero_di_protocollo
-            constraints:
-              minimum: 0
+    encoding: utf-8
+    format: csv
+    hashing: md5
+    name: candidature_scuole_finanziate
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: codice_ipa
+          type: string
+        - name: comune
+          type: string
+        - name: cod_comune
+          type: integer
+        - name: provincia
+          type: string
+          constraints:
+            minLength: 2
+            maxLength: 2
+        - name: cod_provincia
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 111
+        - name: regione
+          type: string
+          enum:
+            - 'Abruzzo'
+            - 'Basilicata'
+            - 'Calabria'
+            - 'Campania'
+            - 'Emilia-Romagna'
+            - 'Friuli-Venezia Giulia'
+            - 'Lazio'
+            - 'Liguria'
+            - 'Lombardia'
+            - 'Marche'
+            - 'Molise'
+            - 'Piemonte'
+            - 'Puglia'
+            - 'Sardegna'
+            - 'Sicilia'
+            - 'Toscana'
+            - 'Trentino-Alto Adige/Südtirol'
+            - 'Umbria'
+            - "Valle d'Aosta/Vallée d'Aoste"
+            - 'Veneto'
+        - name: cod_regione
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 21
+        - name: importo_finanziamento
+          type: number
+          constraint:
+            minimum: 0.0
+        - name: avviso
+          type: string
+        - name: data_invio_candidatura
+          type: datetime
+        - name: data_finanziamento
+          type: date
+        - name: codice_cup
+          type: string
+          constraints:
+            minLength: 15
+            maxLength: 15
+        - name: numero_finestra_temporale
+          type: number
+        - name: numero_di_protocollo
+          type: number
+          constraint:
+            minimum: 0
+        - name: stato_candidatura
+          type: string
+          enum:
+            - A
+            - R
     scheme: file
   - path: data/candidature_altrienti_finanziate.csv
-      name: candidature_comuni_finanziate
-      profile: tabular-data-resource
-      scheme: file
-      format: csv
-      hashing: md5
-      stats:
-        bytes: 3150
-        fields: 11
-        rows: 20
-      encoding: utf-8
-      schema:
-        fields:
-          - type: string
-            name: codice_ipa
-          - type: string
-            name: comune
-          - type: string
-            name: provincia
-          - type: string
-            name: cod_provincia
-          - type: string
-            name: regione
-          - type: string
-            name: cod_regione
-          - type: float
-            name: importo_finanziamento
-            constraints:
-              minimum: 0.0
-          - type: string
-            name: avviso
-          - type: datetime
-            name: data_invio_candidatura
-          - type: date
-            name: data_finanziamento
-          - type: string
-            name: codice_cup
-          - type: integer
-            name: numero_finestra_temporale
-          - type: integer
-            name: numero_di_protocollo
-            constraints:
-              minimum: 0
+    encoding: utf-8
+    format: csv
+    hashing: md5
+    name: candidature_altrienti_finanziate
+    path: data/candidature_altrienti_finanziate.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: codice_ipa
+          type: string
+        - name: comune
+          type: string
+        - name: cod_comune
+          type: integer
+        - name: provincia
+          type: string
+          constraints:
+            minLength: 2
+            maxLength: 2
+        - name: cod_provincia
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 111
+        - name: regione
+          type: string
+          enum:
+            - 'Abruzzo'
+            - 'Basilicata'
+            - 'Calabria'
+            - 'Campania'
+            - 'Emilia-Romagna'
+            - 'Friuli-Venezia Giulia'
+            - 'Lazio'
+            - 'Liguria'
+            - 'Lombardia'
+            - 'Marche'
+            - 'Molise'
+            - 'Piemonte'
+            - 'Puglia'
+            - 'Sardegna'
+            - 'Sicilia'
+            - 'Toscana'
+            - 'Trentino-Alto Adige/Südtirol'
+            - 'Umbria'
+            - "Valle d'Aosta/Vallée d'Aoste"
+            - 'Veneto'
+        - name: cod_regione
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 21
+        - name: importo_finanziamento
+          type: number
+          constraints:
+            minimum: 0.0
+        - name: avviso
+          type: string
+        - name: data_invio_candidatura
+          type: datetime
+        - name: data_finanziamento
+          type: date
+        - name: codice_cup
+          type: string
+          constraints:
+            minLength: 15
+            maxLength: 15
+        - name: numero_finestra_temporale
+          type: number
+        - name: numero_di_protocollo
+          type: number
+          constraint:
+            minimum: 0
+        - name: stato_candidatura
+          type: string
+          enum:
+            - A
+            - R
     scheme: file
