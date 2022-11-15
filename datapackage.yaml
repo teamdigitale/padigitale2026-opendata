@@ -26,15 +26,29 @@ resources:
         - type: string
           name: misura
           description: Misura del PNRR a cui l'avviso appartiene  
+          constraints:
+            enum:
+              - "1.2 Abilitazione e facilitazione migrazione al Cloud"
+              - "1.3.1 Piattaforma Digitale Nazionale Dati"
+              - "1.4.1 Esperienza del cittadino nei servizi pubblici"
+              - "1.4.3 Adozione PagoPA e AppIO"
+              - "1.4.4 Adozione identità digitale"
+              - "1.4.5 Digitalizzazione degli avvisi pubblici"
         - type: date
           name: data_inizio_bando
           description: Data di pubblicazione dell'avviso  
+          format: "%Y-%m-%d"
         - type: date
           name: data_fine_bando
           description: Data di scadenza dell'avviso, entro cui è possibile inviare una candidatura  
+          format: "%Y-%m-%d"
         - type: string
           name: stato
           description: Stato attuale dell'avviso  
+          constraints:
+            enum:
+              - "PUBBLICATO"
+              - "TERMINATO"
         - type: number
           name: totale_importo_stanziato
           description: Fondi stanziati per il finanziamento delle candidature dell'avviso 
@@ -68,12 +82,42 @@ resources:
           type: integer
         - name: provincia
           type: string
+          constraints:
+            minLength: 2
+            maxLength: 2
         - name: cod_provincia
           type: integer
+          constraints:
+            minimum: 1
+            maximum: 111
         - name: regione
           type: string
+          enum:
+            - 'Abruzzo'
+            - 'Basilicata'
+            - 'Calabria'
+            - 'Campania'
+            - 'Emilia-Romagna'
+            - 'Friuli-Venezia Giulia'
+            - 'Lazio'
+            - 'Liguria'
+            - 'Lombardia'
+            - 'Marche'
+            - 'Molise'
+            - 'Piemonte'
+            - 'Puglia'
+            - 'Sardegna'
+            - 'Sicilia'
+            - 'Toscana'
+            - 'Trentino-Alto Adige/Südtirol'
+            - 'Umbria'
+            - "Valle d'Aosta/Vallée d'Aoste"
+            - 'Veneto'
         - name: cod_regione
           type: integer
+          constraints:
+            minimum: 1
+            maximum: 21
         - name: importo_finanziamento
           type: number
           constraints:
@@ -86,12 +130,18 @@ resources:
           type: date
         - name: codice_cup
           type: string
+          constraints:
+            minLength: 15
+            maxLength: 15
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
           type: number
         - name: stato_candidatura
           type: string
+          enum:
+            - A
+            - R
     scheme: file
   - path: data/candidature_scuole_finanziate.csv
     encoding: utf-8
@@ -109,12 +159,42 @@ resources:
           type: integer
         - name: provincia
           type: string
+          constraints:
+            minLength: 2
+            maxLength: 2
         - name: cod_provincia
           type: integer
+          constraints:
+            minimum: 1
+            maximum: 111
         - name: regione
           type: string
+          enum:
+            - 'Abruzzo'
+            - 'Basilicata'
+            - 'Calabria'
+            - 'Campania'
+            - 'Emilia-Romagna'
+            - 'Friuli-Venezia Giulia'
+            - 'Lazio'
+            - 'Liguria'
+            - 'Lombardia'
+            - 'Marche'
+            - 'Molise'
+            - 'Piemonte'
+            - 'Puglia'
+            - 'Sardegna'
+            - 'Sicilia'
+            - 'Toscana'
+            - 'Trentino-Alto Adige/Südtirol'
+            - 'Umbria'
+            - "Valle d'Aosta/Vallée d'Aoste"
+            - 'Veneto'
         - name: cod_regione
           type: integer
+          constraints:
+            minimum: 1
+            maximum: 21
         - name: importo_finanziamento
           type: number
           constraint:
@@ -127,6 +207,9 @@ resources:
           type: date
         - name: codice_cup
           type: string
+          constraints:
+            minLength: 15
+            maxLength: 15
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
@@ -135,6 +218,9 @@ resources:
             minimum: 0
         - name: stato_candidatura
           type: string
+          enum:
+            - A
+            - R
     scheme: file
   - path: data/candidature_altrienti_finanziate.csv
     encoding: utf-8
@@ -153,12 +239,42 @@ resources:
           type: integer
         - name: provincia
           type: string
+          constraints:
+            minLength: 2
+            maxLength: 2
         - name: cod_provincia
           type: integer
+          constraints:
+            minimum: 1
+            maximum: 111
         - name: regione
           type: string
+          enum:
+            - 'Abruzzo'
+            - 'Basilicata'
+            - 'Calabria'
+            - 'Campania'
+            - 'Emilia-Romagna'
+            - 'Friuli-Venezia Giulia'
+            - 'Lazio'
+            - 'Liguria'
+            - 'Lombardia'
+            - 'Marche'
+            - 'Molise'
+            - 'Piemonte'
+            - 'Puglia'
+            - 'Sardegna'
+            - 'Sicilia'
+            - 'Toscana'
+            - 'Trentino-Alto Adige/Südtirol'
+            - 'Umbria'
+            - "Valle d'Aosta/Vallée d'Aoste"
+            - 'Veneto'
         - name: cod_regione
           type: integer
+          constraints:
+            minimum: 1
+            maximum: 21
         - name: importo_finanziamento
           type: number
           constraints:
@@ -171,10 +287,18 @@ resources:
           type: date
         - name: codice_cup
           type: string
+          constraints:
+            minLength: 15
+            maxLength: 15
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
           type: number
+          constraint:
+            minimum: 0
         - name: stato_candidatura
           type: string
+          enum:
+            - A
+            - R
     scheme: file
