@@ -40,12 +40,12 @@ resources:
         - type: string
           name: stato
           description: Stato attuale dell'avviso  
-        - type: integer
+        - type: number
           name: totale_importo_stanziato
           description: Fondi stanziati per il finanziamento delle candidature dell'avviso 
           constraints:
             minimum: 0
-        - type: integer
+        - type: number
           name: totale_importo_misura
           description: Fondi totali previsti da PNRR per la singola misura. 
           constraints:
@@ -53,138 +53,139 @@ resources:
         - type: string
           name: soggetti_destinatari
           description: Soggetti destinatari dell'avviso che si possono candidare su PA digitale 2026  
-      primaryKey: Titolo
+      primaryKey: 
+        - Titolo
     scheme: file
   - path: data/candidature_comuni_finanziate.csv
-      name: candidature_comuni_finanziate
-      profile: tabular-data-resource
-      scheme: file
-      format: csv
-      hashing: md5
-      stats:
-        hash: 6b517102a9f25565599833774a458a15
-        bytes: 3150
-        fields: 11
-        rows: 20
-      encoding: utf-8
-      schema:
-        fields:
-          - type: string
-            name: codice_ipa
-          - type: string
-            name: comune
-          - type: string
-            name: provincia
-          - type: string
-            name: cod_provincia
-          - type: string
-            name: regione
-          - type: string
-            name: cod_regione
-          - type: float
-            name: importo_finanziamento
-            constraints:
-              minimum: 0.0
-          - type: string
-            name: avviso
-          - type: datetime
-            name: data_invio_candidatura
-          - type: date
-            name: data_finanziamento
-          - type: string
-            name: codice_cup
-          - type: integer
-            name: numero_finestra_temporale
-          - type: integer
-            name: numero_di_protocollo
-            constraints:
-              minimum: 0
+    name: candidature_comuni_finanziate
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    stats:
+      hash: 6b517102a9f25565599833774a458a15
+      bytes: 3150
+      fields: 11
+      rows: 20
+    encoding: utf-8
+    schema:
+      fields:
+        - type: string
+          name: codice_ipa
+        - type: string
+          name: comune
+        - type: string
+          name: provincia
+        - type: string
+          name: cod_provincia
+        - type: string
+          name: regione
+        - type: string
+          name: cod_regione
+        - type: number
+          name: importo_finanziamento
+          constraints:
+            minimum: 0.0
+        - type: string
+          name: avviso
+        - type: datetime
+          name: data_invio_candidatura
+        - type: date
+          name: data_finanziamento
+        - type: string
+          name: codice_cup
+        - type: integer
+          name: numero_finestra_temporale
+        - type: integer
+          name: numero_di_protocollo
+          constraints:
+            minimum: 0
     scheme: file
   - path: data/candidature_scuole_finanziate.csv
-      name: candidature_comuni_finanziate
-      profile: tabular-data-resource
-      scheme: file
-      format: csv
-      hashing: md5
-      stats:
-        bytes: 3150
-        fields: 11
-        rows: 20
-      encoding: utf-8
-      schema:
-        fields:
-          - type: string
-            name: codice_ipa
-          - type: string
-            name: comune
-          - type: string
-            name: provincia
-          - type: string
-            name: cod_provincia
-          - type: string
-            name: regione
-          - type: string
-            name: cod_regione
-          - type: float
-            name: importo_finanziamento
-            constraints:
-              minimum: 0.0
-          - type: string
-            name: avviso
-          - type: datetime
-            name: data_invio_candidatura
-          - type: date
-            name: data_finanziamento
-          - type: string
-            name: codice_cup
-          - type: integer
-            name: numero_finestra_temporale
-          - type: integer
-            name: numero_di_protocollo
-            constraints:
-              minimum: 0
+    name: candidature_comuni_finanziate
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    stats:
+      bytes: 3150
+      fields: 11
+      rows: 20
+    encoding: utf-8
+    schema:
+      fields:
+        - type: string
+          name: codice_ipa
+        - type: string
+          name: comune
+        - type: string
+          name: provincia
+        - type: string
+          name: cod_provincia
+        - type: string
+          name: regione
+        - type: string
+          name: cod_regione
+        - type: number
+          name: importo_finanziamento
+          constraints:
+            minimum: 0.0
+        - type: string
+          name: avviso
+        - type: datetime
+          name: data_invio_candidatura
+        - type: date
+          name: data_finanziamento
+        - type: string
+          name: codice_cup
+        - type: integer
+          name: numero_finestra_temporale
+        - type: integer
+          name: numero_di_protocollo
+          constraints:
+            minimum: 0
     scheme: file
   - path: data/candidature_altrienti_finanziate.csv
-      name: candidature_comuni_finanziate
-      profile: tabular-data-resource
-      scheme: file
-      format: csv
-      hashing: md5
-      stats:
-        bytes: 3150
-        fields: 11
-        rows: 20
-      encoding: utf-8
-      schema:
-        fields:
-          - type: string
-            name: codice_ipa
-          - type: string
-            name: comune
-          - type: string
-            name: provincia
-          - type: string
-            name: cod_provincia
-          - type: string
-            name: regione
-          - type: string
-            name: cod_regione
-          - type: float
-            name: importo_finanziamento
-            constraints:
-              minimum: 0.0
-          - type: string
-            name: avviso
-          - type: datetime
-            name: data_invio_candidatura
-          - type: date
-            name: data_finanziamento
-          - type: string
-            name: codice_cup
-          - type: integer
-            name: numero_finestra_temporale
-          - type: integer
-            name: numero_di_protocollo
-            constraints:
-              minimum: 0
+    name: candidature_comuni_finanziate
+    profile: tabular-data-resource
+    scheme: file
+    format: csv
+    hashing: md5
+    stats:
+      bytes: 3150
+      fields: 11
+      rows: 20
+    encoding: utf-8
+    schema:
+      fields:
+        - type: string
+          name: codice_ipa
+        - type: string
+          name: comune
+        - type: string
+          name: provincia
+        - type: string
+          name: cod_provincia
+        - type: string
+          name: regione
+        - type: string
+          name: cod_regione
+        - type: number
+          name: importo_finanziamento
+          constraints:
+            minimum: 0.0
+        - type: string
+          name: avviso
+        - type: datetime
+          name: data_invio_candidatura
+        - type: date
+          name: data_finanziamento
+        - type: string
+          name: codice_cup
+        - type: integer
+          name: numero_finestra_temporale
+        - type: integer
+          name: numero_di_protocollo
+          constraints:
+            minimum: 0
     scheme: file
