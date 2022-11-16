@@ -14,7 +14,9 @@
     <a href="https://github.com/teamdigitale/padigitale2026-opendata/commits/main">
       <img src="https://img.shields.io/github/last-commit/teamdigitale/padigitale2026-opendata" />
     </a>
-
+    <a href="https://repository.frictionlessdata.io/pages/dashboard.html?user=teamdigitale&repo=padigitale2026-opendata&flow=frictionless">
+        <img src="https://github.com/teamdigitale/padigitale2026-opendata/actions/workflows/frictionless.yaml/badge.svg" />
+    </a>
 </div>
 
 # Descrizione
