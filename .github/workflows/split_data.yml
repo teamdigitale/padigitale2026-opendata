@@ -1,0 +1,35 @@
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/candidature_finanziate_*.csv'
+
+concurrency: 
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+    build:
+      runs-on: ubuntu-latest
+
+      steps:
+        - uses: actions/checkout@v3
+        - name: Set up Python 3.x
+          uses: actions/setup-python@v4
+          with:
+            python-version: "3.10"
+            architecture: "x64"
+        - name: Install deps
+          working-directory: .
+          run: pip install -r assets/requirements.txt
+        - name: Execute script
+          working-directory: .
+          run: python assets/script/split_avvisi.py
+        - name: Commit
+          uses: EndBug/add-and-commit@v9
+          with:
+            message: 'Aggiunti dataset con split per avviso'
+            add: './data'
+            cwd: '.'
+            push: false
+
