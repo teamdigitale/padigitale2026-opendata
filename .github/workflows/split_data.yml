@@ -6,7 +6,6 @@ on:
 
 concurrency: 
   group: ${{ github.ref }}
-  cancel-in-progress: true
 
 jobs:
     build:
@@ -30,6 +29,4 @@ jobs:
           with:
             message: 'Aggiunti dataset con split per avviso'
             add: './data'
-            cwd: '.'
-            push: false
 
