@@ -18,6 +18,16 @@ def main():
     mapping_dict = dict(zip(df_avvisi.titolo, df_avvisi.misura))
 
     df['misura'] = df['avviso'].replace('"',"'").replace('“',"'").map(mapping_dict)
+    
+    def extract_tipologia(funding_program):
+        if 'Comuni' in funding_program:
+            return 'Comune'
+        elif 'Scuole' in funding_program:
+            return 'Scuole'
+        else:
+            return 'Altri Enti'
+    
+    df['tipologia_ente'] = df['avviso'].map(lambda x: extract_tipologia(x))
 
     for misura in set(mapping_dict.values()):
         tmp_df = df[df['misura']==misura]
