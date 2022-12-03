@@ -302,3 +302,355 @@ resources:
             - A
             - R
     scheme: file
+  - path: data/candidature_finanziate_12.csv
+    encoding: utf-8
+    format: csv
+    hashing: md5
+    name: candidature_finanziate_12
+    path: data/candidature_finanziate_12.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: codice_ipa
+          type: string
+        - name: comune
+          type: string
+        - name: cod_comune
+          type: integer
+        - name: provincia
+          type: string
+          constraints:
+            minLength: 2
+            maxLength: 2
+        - name: cod_provincia
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 111
+        - name: regione
+          type: string
+          enum:
+            - 'Abruzzo'
+            - 'Basilicata'
+            - 'Calabria'
+            - 'Campania'
+            - 'Emilia-Romagna'
+            - 'Friuli-Venezia Giulia'
+            - 'Lazio'
+            - 'Liguria'
+            - 'Lombardia'
+            - 'Marche'
+            - 'Molise'
+            - 'Piemonte'
+            - 'Puglia'
+            - 'Sardegna'
+            - 'Sicilia'
+            - 'Toscana'
+            - 'Trentino-Alto Adige/Südtirol'
+            - 'Umbria'
+            - "Valle d'Aosta/Vallée d'Aoste"
+            - 'Veneto'
+        - name: cod_regione
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 21
+        - name: importo_finanziamento
+          type: number
+          constraints:
+            minimum: 0.0
+        - name: avviso
+          type: string
+        - name: data_invio_candidatura
+          type: datetime
+        - name: data_finanziamento
+          type: date
+        - name: codice_cup
+          type: string
+          constraints:
+            minLength: 15
+            maxLength: 15
+        - name: numero_finestra_temporale
+          type: number
+        - name: numero_di_protocollo
+          type: number
+          constraint:
+            minimum: 0
+        - name: stato_candidatura
+          type: string
+          enum:
+            - A
+            - R
+        - name: misura
+          type: string
+        - name: tipologia_ente
+          type: string
+          enum:
+            - 'Comune'
+            - 'Scuole'
+            - 'Altri Enti'
+    scheme: file
+  - path: data/candidature_finanziate_141.csv
+    encoding: utf-8
+    format: csv
+    hashing: md5
+    name: candidature_finanziate_141
+    path: data/candidature_finanziate_141.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: codice_ipa
+          type: string
+        - name: comune
+          type: string
+        - name: cod_comune
+          type: integer
+        - name: provincia
+          type: string
+          constraints:
+            minLength: 2
+            maxLength: 2
+        - name: cod_provincia
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 111
+        - name: regione
+          type: string
+          enum:
+            - 'Abruzzo'
+            - 'Basilicata'
+            - 'Calabria'
+            - 'Campania'
+            - 'Emilia-Romagna'
+            - 'Friuli-Venezia Giulia'
+            - 'Lazio'
+            - 'Liguria'
+            - 'Lombardia'
+            - 'Marche'
+            - 'Molise'
+            - 'Piemonte'
+            - 'Puglia'
+            - 'Sardegna'
+            - 'Sicilia'
+            - 'Toscana'
+            - 'Trentino-Alto Adige/Südtirol'
+            - 'Umbria'
+            - "Valle d'Aosta/Vallée d'Aoste"
+            - 'Veneto'
+        - name: cod_regione
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 21
+        - name: importo_finanziamento
+          type: number
+          constraints:
+            minimum: 0.0
+        - name: avviso
+          type: string
+        - name: data_invio_candidatura
+          type: datetime
+        - name: data_finanziamento
+          type: date
+        - name: codice_cup
+          type: string
+          constraints:
+            minLength: 15
+            maxLength: 15
+        - name: numero_finestra_temporale
+          type: number
+        - name: numero_di_protocollo
+          type: number
+          constraint:
+            minimum: 0
+        - name: stato_candidatura
+          type: string
+          enum:
+            - A
+            - R
+        - name: misura
+          type: string
+        - name: tipologia_ente
+          type: string
+          enum:
+            - 'Comune'
+            - 'Scuole'
+            - 'Altri Enti'
+    scheme: file
+  - path: data/candidature_finanziate_143.csv
+    encoding: utf-8
+    format: csv
+    hashing: md5
+    name: candidature_finanziate_143
+    path: data/candidature_finanziate_143.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: codice_ipa
+          type: string
+        - name: comune
+          type: string
+        - name: cod_comune
+          type: integer
+        - name: provincia
+          type: string
+          constraints:
+            minLength: 2
+            maxLength: 2
+        - name: cod_provincia
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 111
+        - name: regione
+          type: string
+          enum:
+            - 'Abruzzo'
+            - 'Basilicata'
+            - 'Calabria'
+            - 'Campania'
+            - 'Emilia-Romagna'
+            - 'Friuli-Venezia Giulia'
+            - 'Lazio'
+            - 'Liguria'
+            - 'Lombardia'
+            - 'Marche'
+            - 'Molise'
+            - 'Piemonte'
+            - 'Puglia'
+            - 'Sardegna'
+            - 'Sicilia'
+            - 'Toscana'
+            - 'Trentino-Alto Adige/Südtirol'
+            - 'Umbria'
+            - "Valle d'Aosta/Vallée d'Aoste"
+            - 'Veneto'
+        - name: cod_regione
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 21
+        - name: importo_finanziamento
+          type: number
+          constraints:
+            minimum: 0.0
+        - name: avviso
+          type: string
+        - name: data_invio_candidatura
+          type: datetime
+        - name: data_finanziamento
+          type: date
+        - name: codice_cup
+          type: string
+          constraints:
+            minLength: 15
+            maxLength: 15
+        - name: numero_finestra_temporale
+          type: number
+        - name: numero_di_protocollo
+          type: number
+          constraint:
+            minimum: 0
+        - name: stato_candidatura
+          type: string
+          enum:
+            - A
+            - R
+        - name: misura
+          type: string
+        - name: tipologia_ente
+          type: string
+          enum:
+            - 'Comune'
+            - 'Scuole'
+            - 'Altri Enti'
+    scheme: file
+  - path: data/candidature_finanziate_144.csv
+    encoding: utf-8
+    format: csv
+    hashing: md5
+    name: candidature_finanziate_144
+    path: data/candidature_finanziate_144.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: codice_ipa
+          type: string
+        - name: comune
+          type: string
+        - name: cod_comune
+          type: integer
+        - name: provincia
+          type: string
+          constraints:
+            minLength: 2
+            maxLength: 2
+        - name: cod_provincia
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 111
+        - name: regione
+          type: string
+          enum:
+            - 'Abruzzo'
+            - 'Basilicata'
+            - 'Calabria'
+            - 'Campania'
+            - 'Emilia-Romagna'
+            - 'Friuli-Venezia Giulia'
+            - 'Lazio'
+            - 'Liguria'
+            - 'Lombardia'
+            - 'Marche'
+            - 'Molise'
+            - 'Piemonte'
+            - 'Puglia'
+            - 'Sardegna'
+            - 'Sicilia'
+            - 'Toscana'
+            - 'Trentino-Alto Adige/Südtirol'
+            - 'Umbria'
+            - "Valle d'Aosta/Vallée d'Aoste"
+            - 'Veneto'
+        - name: cod_regione
+          type: integer
+          constraints:
+            minimum: 1
+            maximum: 21
+        - name: importo_finanziamento
+          type: number
+          constraints:
+            minimum: 0.0
+        - name: avviso
+          type: string
+        - name: data_invio_candidatura
+          type: datetime
+        - name: data_finanziamento
+          type: date
+        - name: codice_cup
+          type: string
+          constraints:
+            minLength: 15
+            maxLength: 15
+        - name: numero_finestra_temporale
+          type: number
+        - name: numero_di_protocollo
+          type: number
+          constraint:
+            minimum: 0
+        - name: stato_candidatura
+          type: string
+          enum:
+            - A
+            - R
+        - name: misura
+          type: string
+        - name: tipologia_ente
+          type: string
+          enum:
+            - 'Comune'
+            - 'Scuole'
+            - 'Altri Enti'
+    scheme: file
