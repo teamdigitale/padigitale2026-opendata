@@ -129,7 +129,7 @@ Le modifiche alla repository saranno tracciate in dettaglio nel file di changelo
 
 ## Ultimo aggiornamento (03/12/2022)
 
-* Integrazione dataset "candidature finanziate" distinti misura
+* Integrazione dataset "candidature finanziate" distinti per misura
  
 # Licenza
 
