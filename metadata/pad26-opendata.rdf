@@ -828,7 +828,7 @@
     <dct:format rdf:resource="CSV"/>
 
     <dct:description xml:lang="en">List of all funding request, related to 1.4.4 Digital Identity Adoption, which have been confirmed by financing decree on PA digitale 2026.</dct:description>
-    <dct:description xml:lang="it">Lista di tutte le candidature, relative alla misura 1.4.3 Adozione Identità Digitale, che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dct:description>
+    <dct:description xml:lang="it">Lista di tutte le candidature, relative alla misura 1.4.4 Adozione Identità Digitale, che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dct:description>
 
     <dct:title xml:lang="it">Candidature Finanziate (1.4.4 Digital Identity Adoption)</dct:title>
     <dct:title xml:lang="en">Accepted Funding Requests (1.4.4 Adozione Identità Digitale)</dct:title>
@@ -848,7 +848,7 @@
     <dct:format rdf:resource="JSON"/>
 
     <dct:description xml:lang="en">List of all funding request, related to 1.4.4 Digital Identity Adoption, which have been confirmed by financing decree on PA digitale 2026.</dct:description>
-    <dct:description xml:lang="it">Lista di tutte le candidature, relative alla misura 1.4.3 Adozione Identità Digitale, che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dct:description>
+    <dct:description xml:lang="it">Lista di tutte le candidature, relative alla misura 1.4.4 Adozione Identità Digitale, che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dct:description>
 
     <dct:title xml:lang="it">Candidature Finanziate (1.4.4 Digital Identity Adoption)</dct:title>
     <dct:title xml:lang="en">Accepted Funding Requests (1.4.4 Adozione Identità Digitale)</dct:title>
