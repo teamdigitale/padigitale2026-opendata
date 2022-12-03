@@ -57,6 +57,14 @@ padigitale2026-opendata/
 │   ├── candidature_comuni_finanziate.json
 │   ├── candidature_scuole_finanziate.csv
 │   ├── candidature_scuole_finanziate.json
+│   ├── candidature_finanziate_12.csv
+│   ├── candidature_finanziate_12.json
+│   ├── candidature_finanziate_141.csv
+│   ├── candidature_finanziate_141.json
+│   ├── candidature_finanziate_143.csv
+│   ├── candidature_finanziate_143.json
+│   ├── candidature_finanziate_144.csv
+│   └── candidature_finanziate_144.json
 ├── datapackage.yaml
 ├── ld
 │   └── scuole_pnrr.ttl
@@ -65,6 +73,10 @@ padigitale2026-opendata/
 │   ├── format-pad26-candidature-altrienti-finanziate.md
 │   ├── format-pad26-candidature-comuni-finanziate.md
 │   └── format-pad26-candidature-scuole-finanziate.md
+│   └── format-pad26-candidature-finanziate-12.md
+│   └── format-pad26-candidature-finanziate-141.md
+│   └── format-pad26-candidature-finanziate-143.md
+│   └── format-pad26-candidature-finanziate-144.md
 ├── img
 │   └── site-logo.svg
 ├── ld
