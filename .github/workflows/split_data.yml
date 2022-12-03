@@ -2,7 +2,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'data/candidature_finanziate_*.csv'
+      - 'data/*_finanziate.csv'
 
 concurrency: 
   group: ${{ github.ref }}
