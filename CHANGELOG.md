@@ -5,13 +5,15 @@ Il file di Changelog raccoglie tutte le modifiche ai file pubblicati e la roadma
 ## Roadmap
 ### Novembre / Dicembre 2022
 - Integrazione dataset su 'candidature non finanziate'
-- Integrazione campo 'numero_decreto' per candidature
+- Integrazione campo 'Nome Decreto' per candidature
+- Integrazione campo 'Descrizione ente'
 - Normalizzazione dataset
-- Integrazione dataset "candidature finanziate" distinti per bando o misura
 - Pubblicazione dataset in formato linked data (RDF)
 - Rimozione file superflui dalla repository (cartella dati + data/test_batch_01.json)
 
 ## Aggiornamenti passati
+- *03/12/2022*
+	* Integrazione dataset "candidature finanziate" distinti misura
 - *12/11/2022*
 	* Integrazione campo 'stato_candidatura' per specificare lo stato attuale della candidatura (ad es. eventuali rinunce )
 	* Integrazione codice ISTAT 'cod_comune' per comuni
