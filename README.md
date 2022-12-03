@@ -126,6 +126,10 @@ I file di configurazione impiegati si possono trovare nella cartella /assets/ld
 # Changelog
 
 Le modifiche alla repository saranno tracciate in dettaglio nel file di changelog al fine di essere trasparenti riguardo l'evoluzione del contenuto e della struttura della repository. Per completezza, nel file è specificata anche la lista delle integrazioni future pianificate. 
+
+## Ultimo aggiornamento (03/12/2022)
+
+* Integrazione dataset "candidature finanziate" distinti misura
  
 # Licenza
 
