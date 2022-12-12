@@ -30,6 +30,7 @@ jobs:
             run: |
               mkdir ld || true 
               mv -f candidature_scuole_finanziate.ttl ld/
+              git config --global --add safe.directory /__w/padigitale2026-opendata/padigitale2026-opendata
           - name: Commit
             uses: EndBug/add-and-commit@v9
             with:
