@@ -227,7 +227,7 @@ orfap_sv,Savona,009056,SV,009,Liguria,07,14000.0,1.4.4 Adozione SPID CIE-Amminis
 odfpp_pz,Potenza,076063,PZ,076,Basilicata,17,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-07T11:06:40.000+0000,2022-11-11,E31F22003130006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
 a9_tv,Treviso,026086,TV,026,Veneto,05,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-08T13:56:00.000+0000,2022-11-11,I91F22002540006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
 ordfa_so,Sondrio,014061,SO,014,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-07T14:11:20.000+0000,2022-11-11,C71F22002490006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
-cciaa_bo,Bologna,037006,BO,037,Emilia-Romagna,08,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-08T15:45:00.000+0000,2022-11-11,J31f22003000006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
+cciaa_bo,Bologna,037006,BO,037,Emilia-Romagna,08,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-08T15:45:00.000+0000,2022-11-11,J31F22003000006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
 odfp_005,Asti,005005,AT,005,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-07T17:18:00.000+0000,2022-11-11,J31F22003010006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
 iove_pd,Padova,028060,PD,028,Veneto,05,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-09T08:29:15.000+0000,2022-11-11,J91F22002290006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
 odapl,Latina,059011,LT,059,Lazio,12,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-07T16:24:55.000+0000,2022-11-11,F21F22002800006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
@@ -358,7 +358,7 @@ orfap_fr,Frosinone,060038,FR,060,Lazio,12,14000.0,1.4.4 Adozione SPID CIE-Ammini
 oddcdni,Nocera Inferiore,065078,SA,065,Campania,15,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-06-17T16:20:05.000+0000,2022-11-08,D31F22001440006,1.0,49.0,A,1.4.4 Adozione identità digitale,Comune
 oddc_054,Perugia,054039,PG,054,Umbria,10,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-07-21T13:57:16.000+0000,2022-12-12,G91E22000180005,2.0,49.0,A,1.4.4 Adozione identità digitale,Comune
 cpipr_an,Osimo,042034,AN,042,Marche,11,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-08-30T07:34:45.000+0000,2022-11-11,E81F22002650002,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
-cciaa_ag,Agrigento,084001,AG,084,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-07T10:59:36.000+0000,2022-11-11,f41f22002230006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
+cciaa_ag,Agrigento,084001,AG,084,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-07T10:59:36.000+0000,2022-11-11,F41F22002230006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
 unical,Rende,078102,CS,078,Calabria,18,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-09T14:59:01.000+0000,2022-11-11,H21F22002810006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
 cpit_to,Torino,001272,TO,001,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-08-29T15:53:10.000+0000,2022-11-11,I11F22003110006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
 cciaatb,Treviso,026086,TV,026,Veneto,05,14000.0,1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022,2022-09-09T08:25:24.000+0000,2022-11-11,I91F22002520006,3.0,49.0,A,1.4.4 Adozione identità digitale,Comune
@@ -896,7 +896,7 @@ c_e415,Lainate,015116,MI,015,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Com
 c_d915,Garda,023036,VR,023,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-03T06:21:30.000+0000,2022-08-02,J21F22000110006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 cb417,Callabiana,096008,BI,096,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-25T12:07:38.000+0000,2022-08-02,D81F22002310006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_g161,Osnago,097061,LC,097,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-03T09:58:19.000+0000,2022-08-02,G21F22000040006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_d421,Erbusco,017069,BS,017,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-02T13:28:59.000+0000,2022-08-02,h31f22000190007,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_d421,Erbusco,017069,BS,017,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-02T13:28:59.000+0000,2022-08-02,H31F22000190007,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_c580,Cessalto,026015,TV,026,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-02T18:30:38.000+0000,2022-08-02,D51F22000130006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_m212,Ladispoli,058116,RM,058,Lazio,12,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-04T11:08:18.000+0000,2022-08-02,E61F22000980006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_f116,Silea,026081,TV,026,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-02T16:32:04.000+0000,2022-08-02,F81F22000110006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -1082,7 +1082,7 @@ c_g856,Ponte San Pietro,016170,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID C
 c_g252,Palagiano,073021,TA,073,Puglia,16,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-31T12:37:30.000+0000,2022-08-02,E81F22001320006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a261,Ameglia,011001,SP,011,Liguria,07,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-04T07:20:29.000+0000,2022-08-02,J87H22002120006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b717,Caraffa di Catanzaro,079017,CZ,079,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-29T09:49:26.000+0000,2022-08-02,C91F22000040006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_c926,Comignago,003052,NO,003,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-30T10:32:01.000+0000,2022-08-02,j11f22000810006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_c926,Comignago,003052,NO,003,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-30T10:32:01.000+0000,2022-08-02,J11F22000810006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e230,Gualdo Tadino,054023,PG,054,Umbria,10,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-21T13:27:47.000+0000,2022-08-02,I21F22001520006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_b345,Cadoneghe,028016,PD,028,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-03T09:44:03.000+0000,2022-08-02,B11F22000100006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_d195,Cuccaro Vetere,065049,SA,065,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-29T10:22:04.000+0000,2022-08-02,H11F22000030006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -1277,7 +1277,7 @@ c_d757,Fraine,069034,CH,069,Abruzzo,13,14000.0,1.4.4 Adozione SPID CIE  - Comuni
 c_e164,Gremiasco,006083,AL,006,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-30T13:45:57.000+0000,2022-11-30,B21F22002420006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_d110,Costa di Mezzate,016084,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-26T14:11:54.000+0000,2022-11-30,I71F22002340006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e4557,Casciana Terme Lari,050040,PI,050,Toscana,09,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-07T08:59:47.000+0000,2022-08-02,B11F22000200006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_h561,Rosazza,096055,BI,096,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-11T08:15:50.000+0000,2022-08-02,h11f22000090006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_h561,Rosazza,096055,BI,096,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-11T08:15:50.000+0000,2022-08-02,H11F22000090006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e216,Grugliasco,001120,TO,001,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-10T11:56:19.000+0000,2022-08-02,J21F22001010006,2.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_l498,Urbania,041066,PU,041,Marche,11,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-26T11:05:30.000+0000,2022-11-30,I21F22002260006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a526,Azzanello,019004,CR,019,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-26T11:15:44.000+0000,2022-11-30,D51F22002590006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -1307,7 +1307,7 @@ c_c750,Città Sant'Angelo,068012,PE,068,Abruzzo,13,14000.0,1.4.4 Adozione SPID C
 c_c205,Castelmagno,004053,CN,004,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-11T09:09:08.000+0000,2022-11-30,B41F22002790006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e737,Lumarzo,010031,GE,010,Liguria,07,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-11T08:26:23.000+0000,2022-11-30,C91F22002730006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b389,Calceranica al Lago,022032,TN,022,Trentino-Alto Adige/Südtirol,04,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-20T13:26:47.000+0000,2022-11-30,C41F22002750006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_c279,Castelvecchio Subequo,066031,AQ,066,Abruzzo,13,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-19T07:56:23.000+0000,2022-11-30,h11f22002580006,4.0,25.0,R,1.4.4 Adozione identità digitale,Comune
+c_c279,Castelvecchio Subequo,066031,AQ,066,Abruzzo,13,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-19T07:56:23.000+0000,2022-11-30,H11F22002580006,4.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_d737,Fossalto,070024,CB,070,Molise,14,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-07T08:37:03.000+0000,2022-08-02,J31F22000030006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_f558,Montemale di Cuneo,004138,CN,004,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-11T10:35:48.000+0000,2022-11-30,E81F22002710006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 C_D976,Locri,080043,RC,080,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-11T09:12:41.000+0000,2022-08-02,F11F22000820006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -1501,7 +1501,7 @@ c_l295,Torricella Sicura,067043,TE,067,Abruzzo,13,14000.0,1.4.4 Adozione SPID CI
 c_d617,Fiumalbo,036014,MO,036,Emilia-Romagna,08,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-13T07:25:35.000+0000,2022-08-02,E91F22001640006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_l944,Villafranca Sicula,084043,AG,084,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-13T14:03:55.000+0000,2022-08-02,H11F22002310006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b111,Bra,004029,CN,004,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-06T07:02:17.000+0000,2022-08-02,G71F22000890006,2.0,25.0,R,1.4.4 Adozione identità digitale,Comune
-c_g894,Portacomaro,005087,AT,005,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-31T07:25:40.000+0000,2022-08-02,d41f22000970006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_g894,Portacomaro,005087,AT,005,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-31T07:25:40.000+0000,2022-08-02,D41F22000970006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_f817,Muro Lucano,076053,PZ,076,Basilicata,17,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-05T08:54:48.000+0000,2022-08-02,F81F22000190006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_i594,Selva di Progno,023080,VR,023,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-13T10:57:16.000+0000,2022-08-02,I11F22001990006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_l881,Vignale Monferrato,006179,AL,006,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-13T10:33:59.000+0000,2022-08-02,C81F22001700006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -1679,7 +1679,7 @@ c_d473,Falconara Albanese,078052,CS,078,Calabria,18,14000.0,1.4.4 Adozione SPID 
 c_m100,Vizzini,087054,CT,087,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-17T09:36:38.000+0000,2022-08-02,B91F22001280006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_h940,San Gregorio di Catania,087042,CT,087,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-09T09:29:30.000+0000,2022-08-02,J61F22001240006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b349,Caerano di San Marco,026006,TV,026,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-09T07:14:06.000+0000,2022-08-02,E51F22000890006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_h976,San Mango d'Aquino,079110,CZ,079,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-09T09:09:47.000+0000,2022-08-02,d31f22001120006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_h976,San Mango d'Aquino,079110,CZ,079,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-09T09:09:47.000+0000,2022-08-02,D31F22001120006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_g932,Positano,065100,SA,065,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-09T09:44:12.000+0000,2022-08-02,D71F22001060006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a220,Alonte,024003,VI,024,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-09T09:25:27.000+0000,2022-08-02,H71F22000940006,2.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_g815,Pompiano,017146,BS,017,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-09T07:53:33.000+0000,2022-08-02,E81F22001180006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -1816,7 +1816,7 @@ c_h544,Roncola,016185,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Com
 c_a064,Afragola,063002,,063,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-03T16:56:23.000+0000,2022-08-02,B41F22000680006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b169,Briatico,102003,VV,102,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-10T10:56:32.000+0000,2022-08-02,I51F22002020006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a485,Atessa,069005,CH,069,Abruzzo,13,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-31T08:14:10.000+0000,2022-08-02,J81F22001290006,2.0,25.0,R,1.4.4 Adozione identità digitale,Comune
-c_e040,Gioia dei Marsi,066046,AQ,066,Abruzzo,13,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-07T11:31:46.000+0000,2022-08-02,J79e22000000005,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
+c_e040,Gioia dei Marsi,066046,AQ,066,Abruzzo,13,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-07T11:31:46.000+0000,2022-08-02,J79E22000000005,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_m004,Villareggia,001304,TO,001,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-31T09:11:36.000+0000,2022-08-02,C61F22000820006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e541,Lercara Friddi,082045,PA,082,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-13T11:09:43.000+0000,2022-08-02,F81F22001100006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e425,La Maddalena,090035,SS,090,Sardegna,20,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-15T11:57:02.000+0000,2022-08-02,C61F22001680006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -1918,7 +1918,7 @@ c_h785,San Calogero,102032,VV,102,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  -
 c_i908,Spinea,027038,VE,027,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-31T14:46:48.000+0000,2022-08-02,E31F22001280006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_h536,Ronco Scrivia,010049,GE,010,Liguria,07,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-15T08:38:25.000+0000,2022-08-02,F91F22001660006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_i469,Saviano,063076,,063,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-30T13:53:42.000+0000,2022-11-30,J61F22002780006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_i192,Sant'Agata di Esaro,078131,CS,078,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-12T08:15:06.000+0000,2022-08-02,j41f22001030006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_i192,Sant'Agata di Esaro,078131,CS,078,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-12T08:15:06.000+0000,2022-08-02,J41F22001030006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a444,Arsiero,024007,VI,024,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-12T14:44:29.000+0000,2022-08-02,G21F22000110006,2.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_h589,Rotello,070061,CB,070,Molise,14,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-11T10:05:39.000+0000,2022-08-02,H41F22001040006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b492,Campagna,065022,SA,065,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-12T09:46:19.000+0000,2022-08-02,G11F22000910006,2.0,25.0,R,1.4.4 Adozione identità digitale,Comune
@@ -2121,7 +2121,7 @@ c_d868,Galgagnano,098027,LO,098,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - 
 c_a458,Arzergrande,028007,PD,028,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-13T13:42:05.000+0000,2022-08-02,F11F22000790006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 C_H811,San Damiano d'Asti,005097,AT,005,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-16T08:20:03.000+0000,2022-08-02,G51F22000630006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_c801,Coassolo Torinese,001088,TO,001,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-13T12:58:01.000+0000,2022-08-02,I61F22000790006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_d730,Forte dei Marmi,046013,LU,046,Toscana,09,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-01T08:59:15.000+0000,2022-08-02,f21F22001290006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_d730,Forte dei Marmi,046013,LU,046,Toscana,09,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-01T08:59:15.000+0000,2022-08-02,F21F22001290006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_l696,Vastogirardi,094051,IS,094,Molise,14,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-18T14:26:18.000+0000,2022-08-02,D61F22001220006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_csapz,Castronuovo di Sant'Andrea,076026,PZ,076,Basilicata,17,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-13T13:54:32.000+0000,2022-08-02,F21F22001100006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e485,Laurino,065061,SA,065,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-13T16:42:47.000+0000,2022-08-02,D41F22001040006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -2291,7 +2291,7 @@ c_f751,Morsasco,006112,AL,006,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Com
 c_g523,Pettoranello del Molise,094034,IS,094,Molise,14,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-17T13:46:58.000+0000,2022-08-02,J71F22001030006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a026,Aci Castello,087002,CT,087,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-17T13:52:24.000+0000,2022-08-02,H21F22000910006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a477,Assolo,095008,OR,095,Sardegna,20,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-18T09:23:24.000+0000,2022-11-30,B71F22002330006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_g853,Ponteranica,016169,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-17T13:00:20.000+0000,2022-08-02,b21f22000930006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_g853,Ponteranica,016169,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-17T13:00:20.000+0000,2022-08-02,B21F22000930006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_d531,Fenegrò,013100,CO,013,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-20T08:18:34.000+0000,2022-08-02,H81F22000950006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_g839,Pontecurone,006132,AL,006,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-17T13:25:57.000+0000,2022-08-02,D61F22000950006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b075,Bosconero,001033,TO,001,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-09T07:07:47.000+0000,2022-08-02,J51F22001830006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -2586,7 +2586,7 @@ c_b616,Cannole,075012,LE,075,Puglia,16,14000.0,1.4.4 Adozione SPID CIE  - Comuni
 c_d429,Esanatoglia,043016,MC,043,Marche,11,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-23T15:53:01.000+0000,2022-08-02,E11F22000970006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_c069,Castelcivita,065030,SA,065,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-23T15:08:26.000+0000,2022-08-02,D91F22000950006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a535,Bacoli,063006,,063,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-23T15:06:14.000+0000,2022-08-02,C81F22000890006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_e001,Ghemme,003073,NO,003,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-23T15:21:32.000+0000,2022-08-02,E41f22001110006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_e001,Ghemme,003073,NO,003,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-23T15:21:32.000+0000,2022-08-02,E41F22001110006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e955,Marigliano,063043,,063,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-24T17:52:38.000+0000,2022-08-02,D91F22000880006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e437,Landriano,018078,PV,018,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-10T05:35:48.000+0000,2022-08-02,H51F22002210006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_g927,Portula,096048,BI,096,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-24T09:40:46.000+0000,2022-08-02,B31F22001000006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -2722,7 +2722,7 @@ c_i037,San Michele Mondovì,004210,CN,004,Piemonte,01,14000.0,1.4.4 Adozione SPI
 c_d518,Favignana,081009,TP,081,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-01T10:48:13.000+0000,2022-08-02,F61F22001050006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_l797,Verucchio,099020,RN,099,Emilia-Romagna,08,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-24T14:05:20.000+0000,2022-08-02,D61F22000980006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a014,Acate,088001,RG,088,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-24T14:19:05.000+0000,2022-08-02,F31F22000960006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_a889,Bistagno,006017,AL,006,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-25T10:17:53.000+0000,2022-08-02,f81f22001320006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_a889,Bistagno,006017,AL,006,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-25T10:17:53.000+0000,2022-08-02,F81F22001320006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e973,Marsaglia,004120,CN,004,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-30T14:04:24.000+0000,2022-08-02,H81F22000640006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_f454,Montecassiano,043026,MC,043,Marche,11,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-24T14:35:59.000+0000,2022-08-02,B21F22001080006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_l437,Trivigliano,060081,FR,060,Lazio,12,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-24T14:33:47.000+0000,2022-08-02,C21F22000930006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -2771,7 +2771,7 @@ c_c310,Castiglione della Pescaia,053006,GR,053,Toscana,09,14000.0,1.4.4 Adozione
 c_b805,Caronno Pertusella,012034,VA,012,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-30T13:31:17.000+0000,2022-08-02,F31F22001700006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_f138,Mercato San Severino,065067,SA,065,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-25T08:03:36.000+0000,2022-08-02,J11F22000760006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_c679,Ciconio,001083,TO,001,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-25T09:01:34.000+0000,2022-08-02,D11F22000860006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_g222,Paderno Ponchielli,019065,CR,019,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-25T09:09:26.000+0000,2022-08-02,e31f22001100006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_g222,Paderno Ponchielli,019065,CR,019,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-25T09:09:26.000+0000,2022-08-02,E31F22001100006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_f783,Motta Visconti,015151,MI,015,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-25T11:14:06.000+0000,2022-08-02,C91F22001210006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_l833,Viareggio,046033,LU,046,Toscana,09,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-01T12:56:33.000+0000,2022-08-02,B41F22000700006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b943,Casatenovo,097016,LC,097,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-25T08:29:05.000+0000,2022-08-02,H27H22002120006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -2888,7 +2888,7 @@ c_l035,Talamona,014063,SO,014,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Co
 c_m079,Vistarino,018181,PV,018,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-27T07:36:05.000+0000,2022-08-02,B91F22001300006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_l534,Sciara,082068,PA,082,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-31T10:59:52.000+0000,2022-08-02,H41F22001000006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_h865,San Gervasio Bresciano,017172,BS,017,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-27T09:20:07.000+0000,2022-08-02,H71F22000830006,2.0,25.0,R,1.4.4 Adozione identità digitale,Comune
-c_c262,Castel San Lorenzo,065035,SA,065,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-27T07:50:37.000+0000,2022-08-02,c51f22000850006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_c262,Castel San Lorenzo,065035,SA,065,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-27T07:50:37.000+0000,2022-08-02,C51F22000850006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b808,Carosino,073002,TA,073,Puglia,16,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-27T07:37:35.000+0000,2022-08-02,D71F22001080006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_g159,Osio Sopra,016152,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-27T06:55:18.000+0000,2022-08-02,G31F22001010006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_d111,Costa Serina,016247,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-27T07:29:48.000+0000,2022-08-02,E81F22000930006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -3291,7 +3291,7 @@ c_i117,San Pietro Mussolino,024094,VI,024,Veneto,05,14000.0,1.4.4 Adozione SPID 
 c_a173,Albugnano,005002,AT,005,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-06T15:27:14.000+0000,2022-08-02,C91F22001830006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_g223,Robbiate,097071,LC,097,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-06T16:55:20.000+0000,2022-08-02,H31F22002050006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a129,Albano Sant'Alessandro,016003,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-08T14:59:26.000+0000,2022-08-02,C71F22000610006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_c466,Centallo,004061,CN,004,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-13T15:38:08.000+0000,2022-08-02,I31f22002560006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
+c_c466,Centallo,004061,CN,004,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-13T15:38:08.000+0000,2022-08-02,I31F22002560006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_d677,Fontanigorda,010024,GE,010,Liguria,07,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-06T15:26:02.000+0000,2022-08-02,H21F22002090006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e588,Limana,025029,BL,025,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-08T07:38:24.000+0000,2022-08-02,B81F22002050006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_bu,Bubbio,005011,AT,005,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-13T08:30:06.000+0000,2022-08-02,B91F22002300006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -3471,7 +3471,7 @@ c_c318,Castiglion Fibocchi,051011,AR,051,Toscana,09,14000.0,1.4.4 Adozione SPID 
 c_d686,Fonzaso,025022,BL,025,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-06T10:25:31.000+0000,2022-11-30,D11F22002230006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_d898,Gamberale,069039,CH,069,Abruzzo,13,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-11T10:58:16.000+0000,2022-08-02,C61F22001580006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_d530,Feltre,025021,BL,025,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-09T14:36:35.000+0000,2022-08-02,J91F22001630006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_h276,Ricengo,019079,CR,019,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-11T08:48:14.000+0000,2022-08-02,j81f22001950006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_h276,Ricengo,019079,CR,019,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-11T08:48:14.000+0000,2022-08-02,J81F22001950006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_d679,Fontaniva,028038,PD,028,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-09T15:48:31.000+0000,2022-08-02,C51F22001620006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_h344,Rivarossa,001218,TO,001,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-09T14:53:06.000+0000,2022-08-02,I11F22002190006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_l299,Torrile,034041,PR,034,Emilia-Romagna,08,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-09T14:15:39.000+0000,2022-08-02,F51F22002220006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
@@ -3574,7 +3574,7 @@ c_b425,Calosso,005015,AT,005,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comu
 c_g980,Pralungo,096049,BI,096,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-13T07:26:15.000+0000,2022-08-02,C41F22002230006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_d103,Costa Valle Imagna,016085,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-11T08:34:21.000+0000,2022-08-02,J81F22002550006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b650,Capergnanica,019012,CR,019,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-11T07:18:30.000+0000,2022-08-02,C41F22002080006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_d293,Diano Arentino,008025,IM,008,Liguria,07,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-11T09:32:43.000+0000,2022-08-02,c81f22002180006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_d293,Diano Arentino,008025,IM,008,Liguria,07,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-11T09:32:43.000+0000,2022-08-02,C81F22002180006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_i959,Stimigliano,057066,RI,057,Lazio,12,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-11T10:12:54.000+0000,2022-08-02,C81F22001640006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e114,Gossolengo,033023,PC,033,Emilia-Romagna,08,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-29T08:16:50.000+0000,2022-08-02,B31F22002360006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e593,Limido Comasco,013128,CO,013,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-16T12:37:59.000+0000,2022-08-02,D91F22002100006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -3738,7 +3738,7 @@ c_b542A,Campoli del Monte Taburno,062014,BN,062,Campania,15,14000.0,1.4.4 Adozio
 c_l100,Teolo,028089,PD,028,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-16T07:15:00.000+0000,2022-08-02,H21F22002000006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_i168,Santa Brigida,016191,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-15T09:09:39.000+0000,2022-08-02,F61F22001720006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_l445,Trofarello,001280,TO,001,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-15T10:09:14.000+0000,2022-08-02,I91F22001740006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_h877,Sangineto,078117,CS,078,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-09-02T10:34:27.000+0000,2022-11-30,H81f22002750006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_h877,Sangineto,078117,CS,078,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-09-02T10:34:27.000+0000,2022-11-30,H81F22002750006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_d777,Frassinello Monferrato,006072,AL,006,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-15T10:55:41.000+0000,2022-08-02,C91C22001020006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e843,Malagnino,019056,CR,019,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-15T10:01:20.000+0000,2022-08-02,D31F22001090006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_g196,Oulx,001175,TO,001,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-15T14:24:51.000+0000,2022-08-02,H31F22001740006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
@@ -3917,7 +3917,7 @@ c_d765,Francavilla di Sicilia,083025,ME,083,Sicilia,19,14000.0,1.4.4 Adozione SP
 c_a407,Aritzo,091001,NU,091,Sardegna,20,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-21T17:04:47.000+0000,2022-08-02,B11F22001900006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b235,Bubbiano,015035,MI,015,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-21T19:50:01.000+0000,2022-08-02,E11F22001980006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_d903,Gandellino,016107,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-22T07:33:55.000+0000,2022-08-02,H31F22001720006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_l414,Tribano,028094,PD,028,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-22T06:42:53.000+0000,2022-08-02,j71f22000030006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_l414,Tribano,028094,PD,028,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-22T06:42:53.000+0000,2022-08-02,J71F22000030006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_c780,Civitella d'Agliano,056022,VT,056,Lazio,12,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-30T14:25:25.000+0000,2022-11-30,E71F22002950006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_g030,Olginate,097059,LC,097,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-28T09:16:35.000+0000,2022-11-30,E91F22002310006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_g975,Praia a Mare,078101,CS,078,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-23T08:48:22.000+0000,2022-08-02,E11F22002050006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
@@ -4583,7 +4583,7 @@ C_F988,Nusco,064066,AV,064,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni
 c_f509,Montefortino,109015,FM,109,Marche,11,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-21T09:26:58.000+0000,2022-08-02,B61F22002030006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e487,Lauro,064043,AV,064,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-21T11:07:46.000+0000,2022-08-02,I21F22001780006,3.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_d255,Davagna,010021,GE,010,Liguria,07,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-05T10:47:40.000+0000,2022-11-30,E81F22002520006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_l658,Valverde,087052,CT,087,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-03T07:56:36.000+0000,2022-08-02,i71f22000110006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_l658,Valverde,087052,CT,087,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-03T07:56:36.000+0000,2022-08-02,I71F22000110006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e869,Malvagna,083044,ME,083,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-29T15:14:21.000+0000,2022-08-02,B91F22000160006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_c538,Cerro Veronese,023026,VR,023,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-26T10:11:24.000+0000,2022-08-02,D11F22001040006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_c928,Comitini,084016,AG,084,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-18T08:59:46.000+0000,2022-08-02,D11F22000870006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -4627,7 +4627,7 @@ c_a334,Appignano,043003,MC,043,Marche,11,14000.0,1.4.4 Adozione SPID CIE  - Comu
 c_f781,Motta Sant'Anastasia,087030,CT,087,Sicilia,19,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-20T08:36:30.000+0000,2022-08-02,I31F22000220006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_m288,Castiadas,111011,SU,111,Sardegna,20,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-21T09:03:15.000+0000,2022-11-30,D61F22002590006,4.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_d096,Cossignano,044016,AP,044,Marche,11,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-06-20T11:46:25.000+0000,2022-08-02,E31F22002480006,3.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_a032,Acquafondata,060001,FR,060,Lazio,12,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-21T08:38:13.000+0000,2022-11-30,c31f22002050006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_a032,Acquafondata,060001,FR,060,Lazio,12,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-21T08:38:13.000+0000,2022-11-30,C31F22002050006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a374,Arcole,023004,VR,023,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-28T10:49:29.000+0000,2022-08-02,J61F22001040006,2.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_h764,San Bartolomeo in Galdo,062057,BN,062,Campania,15,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-21T08:36:21.000+0000,2022-11-30,G31F22002470006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_m278,Villaperuccio,111102,SU,111,Sardegna,20,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-21T09:03:42.000+0000,2022-11-30,F71F22002770006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -4812,7 +4812,7 @@ c_f676,Monticiano,052018,SI,052,Toscana,09,14000.0,1.4.4 Adozione SPID CIE  - Co
 c_b954,Casei Gerola,018033,PV,018,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-20T11:57:26.000+0000,2022-11-30,C51F22002220006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b118,Brancaleone,080014,RC,080,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-13T07:50:17.000+0000,2022-11-30,D81F22002510006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_c285,Caulonia,080025,RC,080,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-28T14:03:07.000+0000,2022-11-30,F11F22002230006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_g118,Ornica,016151,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-12T09:06:45.000+0000,2022-11-30,f21f22001840006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_g118,Ornica,016151,BG,016,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-12T09:06:45.000+0000,2022-11-30,F21F22001840006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_f510,Montefranco,055019,TR,055,Umbria,10,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-12T08:47:58.000+0000,2022-11-30,F91C22000780001,4.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_b956,Casella,010012,GE,010,Liguria,07,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-12T07:27:28.000+0000,2022-11-30,G81F22002340006,4.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_i322,Vallefiorita,079151,CZ,079,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-07-12T08:17:32.000+0000,2022-11-30,H81F22002370006,4.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -5201,7 +5201,7 @@ c_a105,Aieta,078005,CS,078,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni
 c_b681,Cappelle sul Tavo,068006,PE,068,Abruzzo,13,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-06T10:41:08.000+0000,2022-08-02,G71F22000080007,1.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_d304,Dipignano,078049,CS,078,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-06T10:39:17.000+0000,2022-08-02,I31F22000260006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_f889,Nichelino,001164,TO,001,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-11T09:37:50.000+0000,2022-08-02,H11F22000000006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_d261,Decollatura,079043,CZ,079,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-31T09:12:26.000+0000,2022-11-30,f81f22003300006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_d261,Decollatura,079043,CZ,079,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-31T09:12:26.000+0000,2022-11-30,F81F22003300006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_f520,Montegiorgio,109017,FM,109,Marche,11,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-06T12:02:28.000+0000,2022-08-02,E81F22000060006,1.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_a987,Bore,034005,PR,034,Emilia-Romagna,08,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-06T13:33:30.000+0000,2022-08-02,G51F22000080006,1.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_l514,Talana,091088,NU,091,Sardegna,20,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-06T18:54:49.000+0000,2022-08-02,G71F22000030006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -5928,7 +5928,7 @@ c_f390,Montafia,005073,AT,005,Piemonte,01,14000.0,1.4.4 Adozione SPID CIE  - Com
 c_g408,Pederobba,026056,TV,026,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-27T06:57:39.000+0000,2022-08-02,B11F22000120006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_h450,Rocca Susella,018126,PV,018,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-27T08:10:20.000+0000,2022-08-02,G81F22000180006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_e107,Goro,038025,FE,038,Emilia-Romagna,08,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-28T09:46:54.000+0000,2022-08-02,B61F22000150006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-C_I256,Sant'Ambrogio sul Garigliano,060065,FR,060,Lazio,12,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-27T11:08:04.000+0000,2022-08-02,i41F22000110006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+C_I256,Sant'Ambrogio sul Garigliano,060065,FR,060,Lazio,12,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-27T11:08:04.000+0000,2022-08-02,I41F22000110006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b201,Broni,018024,PV,018,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-17T17:40:08.000+0000,2022-08-02,G59B22000080005,2.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_d932,Gasperina,079056,CZ,079,Calabria,18,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-04-27T11:20:31.000+0000,2022-08-02,I31F22000300006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_f009,Maser,026039,TV,026,Veneto,05,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-05-03T09:28:48.000+0000,2022-08-02,H21F22000000006,1.0,25.0,A,1.4.4 Adozione identità digitale,Comune
@@ -6059,7 +6059,7 @@ c_b448,Calvignasco,015042,MI,015,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  -
 c_i774,Smerillo,109039,FM,109,Marche,11,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-05T12:59:12.000+0000,2022-11-30,J31F22002850006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_a567,Bagnoli del Trigno,094003,IS,094,Molise,14,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-05T07:53:48.000+0000,2022-11-30,F31F22002690006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_b292,Bussero,015040,MI,015,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-09-01T15:53:31.000+0000,2022-11-30,G61F22002900006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
-c_e875,Manciano,053014,GR,053,Toscana,09,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-08T09:48:36.000+0000,2022-11-30,h81f22002720006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
+c_e875,Manciano,053014,GR,053,Toscana,09,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-08T09:48:36.000+0000,2022-11-30,H81F22002720006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_h521,Ronago,013199,CO,013,Lombardia,03,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-05T07:40:55.000+0000,2022-11-30,J81F22003040006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
 c_l772,Vernasca,033044,PC,033,Emilia-Romagna,08,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-04T14:02:10.000+0000,2022-11-30,I61F22002520006,5.0,25.0,R,1.4.4 Adozione identità digitale,Comune
 c_g493,Pescocostanzo,066070,AQ,066,Abruzzo,13,14000.0,1.4.4 Adozione SPID CIE  - Comuni - Aprile 2022,2022-08-05T15:28:26.000+0000,2022-11-30,C41F22002900006,5.0,25.0,A,1.4.4 Adozione identità digitale,Comune
