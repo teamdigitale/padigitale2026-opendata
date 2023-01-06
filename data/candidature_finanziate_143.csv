@@ -4294,7 +4294,7 @@ c_e498,Laviano,065063,SA,065,Campania,15,11907.0,1.4.3 - app IO - Comuni - April
 c_m069,Virle Piemonte,001310,TO,001,Piemonte,01,1701.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-06-06T13:31:41.000+0000,2022-08-12,G31F22001710006,3.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_m069,Virle Piemonte,001310,TO,001,Piemonte,01,3035.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-06-07T08:21:40.000+0000,2022-09-21,G31F22002030006,3.0,23.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_b962,Scandicci,048041,FI,048,Toscana,09,20031.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-06-30T15:55:41.000+0000,2022-09-21,G71F22001330006,3.0,23.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
-c_h724,Saludecio,099015,RN,099,Emilia-Romagna,08,2916.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-06-03T12:43:35.000+0000,2022-08-12,F17H22002040006,2.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
+c_h724,Saludecio,099015,RN,099,Emilia-Romagna,08,2916.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-06-03T12:43:35.000+0000,2022-08-12,F11F22004150006,2.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_b822,Carpignano Salentino,075015,LE,075,Puglia,16,25494.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-06-03T10:53:39.000+0000,2022-08-02,D61F22000720006,2.0,23.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_e787,Maclodio,017097,BS,017,Lombardia,03,9720.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-06-03T09:49:56.000+0000,2022-08-12,B41F22000750006,2.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_i309,Santa Sofia d'Epiro,078133,CS,078,Calabria,18,29136.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-06-03T10:46:31.000+0000,2022-08-02,B61F22000830006,2.0,23.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
@@ -6332,7 +6332,7 @@ c_l845,Vico Equense,063086,,063,Campania,15,67377.0,1.4.3 - pagoPA - Comuni - Ap
 c_f368,Mongiuffi Melia,083055,ME,083,Sicilia,19,2428.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-05-20T09:46:46.000+0000,2022-08-02,J21F22000770006,2.0,23.0,R,1.4.3 Adozione PagoPA e AppIO,Comune
 c_h333,Rivalba,001213,TO,001,Piemonte,01,1821.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-05-20T10:12:07.000+0000,2022-08-02,C51F22000750006,2.0,23.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_h756,Samugheo,095045,OR,095,Sardegna,20,23066.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-06-21T10:51:07.000+0000,2022-09-21,H81F22001950006,3.0,23.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
-c_e169,Greve in Chianti,048021,FI,048,Toscana,09,3087.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-05-20T10:29:42.000+0000,2022-08-12,I59I22000690005,2.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
+c_e169,Greve in Chianti,048021,FI,048,Toscana,09,3087.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-05-20T10:29:42.000+0000,2022-08-12,I51F23000010006,2.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_g823,Ponso,028067,PD,028,Veneto,05,6075.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-05-26T08:26:18.000+0000,2022-08-12,D71F22001250006,2.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_b393,Calcinate,016043,BG,016,Lombardia,03,21425.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-05-24T09:43:46.000+0000,2022-08-02,D21F22000870006,2.0,23.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_c091,Castel di Iudica,087013,CT,087,Sicilia,19,38848.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-05-20T10:52:02.000+0000,2022-08-02,G41F22001130006,2.0,23.0,R,1.4.3 Adozione PagoPA e AppIO,Comune
@@ -7998,7 +7998,7 @@ c_d665,Fonni,091024,NU,091,Sardegna,20,10692.0,1.4.3 - app IO - Comuni - Aprile 
 c_d156,Crespadoro,024037,VI,024,Veneto,05,7776.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-04-08T11:11:28.000+0000,2022-08-12,J51F22000160006,1.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_h312,Ripacandida,076067,PZ,076,Basilicata,17,12150.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-04-19T09:32:02.000+0000,2022-08-12,I71F22000070006,1.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_a195,Alia,082001,PA,082,Sicilia,19,19424.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-07-08T11:18:18.000+0000,2022-11-11,F91F22002270006,4.0,23.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
-c_m045,Villongo,016242,BG,016,Lombardia,03,1029.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-04-11T14:11:31.000+0000,2022-08-12,I36G22000270005,1.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
+c_m045,Villongo,016242,BG,016,Lombardia,03,1029.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-04-11T14:11:31.000+0000,2022-08-12,I31F22005020006,1.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
 c_d665,Fonni,091024,NU,091,Sardegna,20,12140.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-06-17T09:57:47.000+0000,2022-09-21,I61F22001520006,3.0,23.0,R,1.4.3 Adozione PagoPA e AppIO,Comune
 c_d690,San Giovanni Teatino,069081,CH,069,Abruzzo,13,28281.0,1.4.3 - pagoPA - Comuni - Aprile 2022,2022-06-01T08:28:08.000+0000,2022-08-02,J31F22000800006,2.0,23.0,R,1.4.3 Adozione PagoPA e AppIO,Comune
 c_i905,Spilinga,102042,VV,102,Calabria,18,12150.0,1.4.3 - app IO - Comuni - Aprile 2022,2022-04-08T15:07:29.000+0000,2022-08-12,D81F22000180006,1.0,24.0,A,1.4.3 Adozione PagoPA e AppIO,Comune
