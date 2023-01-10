@@ -496,7 +496,7 @@ codice_ipa,comune,cod_comune,provincia,cod_provincia,regione,cod_regione,importo
 "cmct","Catania","087015","CT","087","Sicilia","19",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-06-14T16:01:01.000+0000","2022-11-08","D61F22001750006",1.0,49.0,"A"
 "aoorm_pu","Pesaro","041044","PU","041","Marche","11",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-09-08T14:07:36.000+0000","2022-11-11","G11F22002590006",3.0,49.0,"A"
 "aoorm_pu","Pesaro","041044","PU","041","Marche","11",295220.0,"1.4.3 - pagoPA - Altri Enti - Maggio 2022","2022-09-08T14:05:57.000+0000","2022-11-02","G11F22002610006",3.0,48.0,"A"
-"aoorm_pu","Pesaro","041044","PU","041","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:07:11.000+0000","2022-11-02","G11F22002600006",3.0,47.0,"A"
+"aoorm_pu","Pesaro","041044","PU","041","Marche","11",35424.0,"1.4.3 - app IO - Altri Enti - Maggio 2022","2022-09-08T14:07:11.000+0000","2022-11-02","G11F22002600006",3.0,47.0,"R"
 "p_ch","Chieti","069022","CH","069","Abruzzo","13",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-07-21T13:43:03.000+0000","2022-12-12","D71F22002110006",2.0,49.0,"A"
 "omceo_rm","Roma","058091","RM","058","Lazio","12",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-09-07T14:13:45.000+0000","2022-11-11","C81F22002710002",3.0,49.0,"A"
 "p_LU","Lucca","046017","LU","046","Toscana","09",14000.0,"1.4.4 Adozione SPID CIE-Amministrazioni diverse da Comuni e Scuole - Maggio 2022","2022-08-31T14:45:00.000+0000","2022-11-11","E61F22002600006",3.0,49.0,"A"
