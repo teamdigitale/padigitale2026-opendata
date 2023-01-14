@@ -33,7 +33,7 @@ cm_076,Potenza,076063,PZ,076,Basilicata,17,10005.0,1.4.3 - app IO - Altri Enti -
 unite,Teramo,067041,TE,067,Abruzzo,13,9825.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-07T13:01:52.000+0000,2022-11-02,C41F22003060006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 unical,Rende,078102,CS,078,Calabria,18,39300.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-09T14:58:29.000+0000,2022-11-02,H21F22002790006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 unical,Rende,078102,CS,078,Calabria,18,81870.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-09T14:35:45.000+0000,2022-11-02,H21F22002800006,3.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
-as_marc,Ancona,042002,AN,042,Marche,11,35424.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-08T14:11:46.000+0000,2022-11-02,F31F22002810006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
+as_marc,Ancona,042002,AN,042,Marche,11,35424.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-08T14:11:46.000+0000,2022-11-02,F31F22002810006,3.0,47.0,R,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 r_lazio,Roma,058091,RM,058,Lazio,12,668988.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-08T12:49:28.000+0000,2022-11-02,F81F22003770006,3.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 r_piemon,Torino,001272,TO,001,Piemonte,01,297328.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-08T11:02:04.000+0000,2022-11-02,J61F22002840006,3.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 csmlc,Mantova,020030,MN,020,Lombardia,03,6003.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-02T08:47:27.000+0000,2022-11-02,E61F22002640006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
@@ -94,7 +94,7 @@ issmg,Cuneo,004078,CN,004,Piemonte,01,16008.0,1.4.3 - app IO - Altri Enti - Magg
 aoorv_pa,Palermo,082053,PA,082,Sicilia,19,118080.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-09T10:57:43.000+0000,2022-11-02,H71F22002380006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 impgbt,Teramo,067041,TE,067,Abruzzo,13,26013.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-07-13T08:23:06.000+0000,2022-11-08,E41F22002170006,2.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 udsa_,L'Aquila,066049,AQ,066,Abruzzo,13,106431.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-07-26T08:46:33.000+0000,2022-08-16,E11F22002250006,2.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
-aoorm_pu,Pesaro,041044,PU,041,Marche,11,295220.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-08T14:05:57.000+0000,2022-11-02,G11F22002610006,3.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
+aoorm_pu,Pesaro,041044,PU,041,Marche,11,295220.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-08T14:05:57.000+0000,2022-11-02,G11F22002610006,3.0,48.0,R,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 aoorm_pu,Pesaro,041044,PU,041,Marche,11,35424.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-08T14:07:11.000+0000,2022-11-02,G11F22002600006,3.0,47.0,R,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 inrca_rm,Ancona,042002,AN,042,Marche,11,265698.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-08T13:38:08.000+0000,2022-11-02,F31F22002840006,3.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 impgbt,Teramo,067041,TE,067,Abruzzo,13,90036.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-07-15T06:38:08.000+0000,2022-08-16,E41F22002180006,2.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
@@ -134,12 +134,12 @@ usc_fr,Cassino,060019,FR,060,Lazio,12,29475.0,1.4.3 - app IO - Altri Enti - Magg
 udsg_ge,Genova,010025,GE,010,Liguria,07,49125.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-08T13:49:52.000+0000,2022-11-02,D31F22003160006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 uni_napa,Napoli,063049,,063,Campania,15,81870.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-07-28T11:41:25.000+0000,2022-08-16,I61F22001960006,2.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 AU2V,Verona,023091,VR,023,Veneto,05,103327.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-08T13:37:44.000+0000,2022-11-02,F61F22002590006,3.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
-p_TN,Trento,022205,TN,022,Trentino-Alto Adige/Südtirol,04,97920.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-07-27T13:45:00.000+0000,2022-08-16,C61F22002160006,2.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
+p_TN,Trento,022205,TN,022,Trentino-Alto Adige/Südtirol,04,97920.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-07-27T13:45:00.000+0000,2022-08-16,C61F22002160006,2.0,48.0,R,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 p_TN,Trento,022205,TN,022,Trentino-Alto Adige/Südtirol,04,48960.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-07-25T14:30:00.000+0000,2022-11-08,C61F22002150006,2.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 uni_moli,Campobasso,070006,CB,070,Molise,14,130992.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-07-21T10:16:15.000+0000,2022-08-16,H31F22002120006,2.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 csmab_ro,Adria,029001,RO,029,Veneto,05,16008.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-07-19T11:07:26.000+0000,2022-11-08,E61F22002010006,2.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 r_lombar,Milano,015146,MI,015,Lombardia,03,297320.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-07-20T14:15:00.000+0000,2022-11-08,E81F22002450006,2.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
-erdsu_to,Torino,001272,TO,001,Piemonte,01,35014.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-06T08:41:34.000+0000,2022-11-02,H19I22000740001,3.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
+erdsu_to,Torino,001272,TO,001,Piemonte,01,35014.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-06T08:41:34.000+0000,2022-11-02,H19I22000740001,3.0,48.0,R,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 asl_bat,Andria,110001,BT,110,Puglia,16,17712.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-09T19:00:37.000+0000,2022-11-02,C85F22001370006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 aslrm,Roma,058091,RM,058,Lazio,12,82656.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-08T10:32:12.000+0000,2022-11-02,J81F22003150006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 csm_acaq,L'Aquila,066049,AQ,066,Abruzzo,13,26013.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-06T10:25:58.000+0000,2022-11-02,D11F22002530006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
@@ -165,7 +165,7 @@ aoup_082,Palermo,082053,PA,082,Sicilia,19,575679.0,1.4.3 - pagoPA - Altri Enti -
 aoup_082,Palermo,082053,PA,082,Sicilia,19,118080.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-08-03T07:59:03.000+0000,2022-11-02,I71F22002870006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 UNSTU_MC,Macerata,043023,MC,043,Marche,11,29475.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-09T14:15:25.000+0000,2022-11-02,D81F22003050006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 a_077,Matera,077014,MT,077,Basilicata,17,17712.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-09-09T11:00:45.000+0000,2022-11-02,D11C22001200001,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
-as_marc,Ancona,042002,AN,042,Marche,11,221415.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-08T14:14:39.000+0000,2022-11-02,F31F22002800006,3.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
+as_marc,Ancona,042002,AN,042,Marche,11,221415.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-09-08T14:14:39.000+0000,2022-11-02,F31F22002800006,3.0,48.0,R,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 aol_087,Catania,087015,CT,087,Sicilia,19,369025.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-08-04T12:08:59.000+0000,2022-11-02,B61F22002990006,3.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 csm_068,Pescara,068028,PE,068,Abruzzo,13,25010.0,1.4.3 - pagoPA - Altri Enti - Maggio 2022,2022-08-08T08:31:03.000+0000,2022-11-02,B21F22002670006,3.0,48.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
 csm_068,Pescara,068028,PE,068,Abruzzo,13,8004.0,1.4.3 - app IO - Altri Enti - Maggio 2022,2022-08-08T08:15:18.000+0000,2022-11-02,B21F22002690006,3.0,47.0,A,1.4.3 Adozione PagoPA e AppIO,Altri Enti
