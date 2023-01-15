@@ -522,6 +522,64 @@
     <dcat:distribution rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_144.json"/>
 </dcatapit:Dataset>
 
+<!-- Dataset: candidature 1.4.5 -->
+<dcatapit:Dataset rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/format/format-pad26-candidature-finanziate-144.md">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+
+    <dct:title xml:lang="it">PA Digitale 2026 PNRR - Candidature Finanziate (1.4.5 Digitalizzazione degli Avvisi Pubblici)</dct:title>
+    <dct:title xml:lang="en">Accepted Funding Requests (1.4.5 Digitalization of Public Notices) - PA Digitale 2026 PNRR</dct:title>
+
+    <dct:description xml:lang="en">List of all funding requests, related to "1.4.5 Digitalization of Public Notices", which have been confirmed by financing decrees on PA digitale 2026.</dct:description>
+    <dct:description xml:lang="it">Lista di tutte le candidature, relative alla misura "1.4.5 Digitalizzazione degli Avvisi Pubblici", che sono state confermate dai rispettivi decreto di finanziamento su PA digitale 2026.</dct:description>
+
+    <dct:identifier>PCM:pad26_fin_145</dct:identifier>
+
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/ECON"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/REGI"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/TECH"/>
+
+    <dct:license/>
+
+    <dct:landingPage rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata"/>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+
+    <dcat:contactPoint rdf:resource="https://padigitale2026.gov.it/opendata"/>
+
+    <dct:rightsHolder>
+        <dcatapit:Agent rdf:about="pcm">
+            <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+            <dct:identifier>pcm</dct:identifier>
+            <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
+        </dcatapit:Agent>
+    </dct:rightsHolder>
+
+    <dct:publisher>
+        <dcatapit:Agent rdf:about="pcm">
+            <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+            <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+            <dct:identifier>pcm</dct:identifier>
+            <foaf:name>PCM - Dipartimento della Trasformazione Digitale</foaf:name>
+        </dcatapit:Agent>
+    </dct:publisher>
+
+    <dct:subject rdf:resource="http://eurovoc.europa.eu/100204"/>
+
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-16</dct:modified>
+    <dct:issue rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-19</dct:issue>
+
+    <dcat:keyword>PNRR</dcat:keyword>
+    <dcat:keyword>PA Digitale 2026</dcat:keyword>
+    <dcat:keyword>Comuni</dcat:keyword>
+    <dcat:keyword>Finanziamenti</dcat:keyword>
+
+    <dcat:distribution rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_145.csv"/>
+    <dcat:distribution rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_145.json"/>
+</dcatapit:Dataset>
+
 <!-- Distribution: avvisi -->
 <dcatapit:Distribution rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.csv">
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.csv"/>
@@ -852,6 +910,47 @@
 
     <dct:title xml:lang="it">Candidature Finanziate (1.4.4 Digital Identity Adoption)</dct:title>
     <dct:title xml:lang="en">Accepted Funding Requests (1.4.4 Adozione Identità Digitale)</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+<!-- Distribution: candidature 1.4.5 finanziate -->
+<dcatapit:Distribution rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_145.csv">
+    <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_145.csv"/>
+    <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_145.csv"/>
+    <dct:license>
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+            <rdf:type rdf:resource="dct:LicenseDocument"/>
+            <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+            <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+        </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+
+    <dct:description xml:lang="en">List of all funding request, related to 1.4.5 Digitalization of Public Notices, which have been confirmed by financing decree on PA digitale 2026.</dct:description>
+    <dct:description xml:lang="it">Lista di tutte le candidature, relative alla misura 1.4.5 Digitalizzazione degli Avvisi pubblici, che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dct:description>
+
+    <dct:title xml:lang="it">Candidature Finanziate (1.4.5 Digitalization of Public Notices)</dct:title>
+    <dct:title xml:lang="en">Accepted Funding Requests (1.4.5 Digitalizzazione degli Avvisi pubblici)</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+<dcatapit:Distribution rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_145.json">
+    <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_145.json"/>
+    <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_145.json"/>
+    <dct:license>
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+            <rdf:type rdf:resource="dct:LicenseDocument"/>
+            <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+            <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+        </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="JSON"/>
+
+    <dct:description xml:lang="en">List of all funding request, related to 1.4.5 Digitalization of Public Notices, which have been confirmed by financing decree on PA digitale 2026.</dct:description>
+    <dct:description xml:lang="it">Lista di tutte le candidature, relative alla misura 1.4.5 Digitalizzazione degli Avvisi pubblici, che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dct:description>
+
+    <dct:title xml:lang="it">Candidature Finanziate (1.4.5 Digitalization of Public Notices)</dct:title>
+    <dct:title xml:lang="en">Accepted Funding Requests (1.4.5 Digitalizzazione degli Avvisi pubblici)</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
