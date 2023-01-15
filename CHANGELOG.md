@@ -3,15 +3,18 @@
 Il file di Changelog raccoglie tutte le modifiche ai file pubblicati e la roadmap prevista in merito alla repository.
 
 ## Roadmap
-### Novembre / Dicembre 2022
+### 2023
 - Integrazione dataset su 'candidature non finanziate'
 - Integrazione campo 'Nome Decreto' per candidature
-- Integrazione campo 'Descrizione ente'
 - Normalizzazione dataset
 - Pubblicazione dataset in formato linked data (RDF)
 - Rimozione file superflui dalla repository (cartella dati + data/test_batch_01.json)
 
 ## Aggiornamenti passati
+- *15/01/2023*
+ 	* Fix stringa titolo avviso nei dataset "candidature finanziate"
+	* aggiunta campo "ente"
+	* Integrazione  
 - *03/12/2022*
 	* Integrazione dataset "candidature finanziate" distinti misura
 - *12/11/2022*

@@ -16,6 +16,7 @@ Il file è strutturato come segue:
 | Campo | Tipo di dati | Descrizione | Formato |
 | --- | --- | --- | --- |
 | codice_ipa | string | Codice identificativo estratto dall'Indice delle Pubbliche Amministrazioni | |
+| ente | string | Nome descrittivo dell'ente | varchar(250) |
 | comune | string | Comune associato alla PA, come riportato in IPA. | |
 | cod_comune | string | Codice ISTAT del comune associata alla PA | |
 | provincia | string | Provincia associata alla PA, come riportato in IPA. | |
