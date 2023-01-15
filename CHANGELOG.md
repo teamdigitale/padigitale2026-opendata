@@ -11,7 +11,7 @@ Il file di Changelog raccoglie tutte le modifiche ai file pubblicati e la roadma
 - Rimozione file superflui dalla repository (cartella dati + data/test_batch_01.json)
 
 ## Aggiornamenti passati
-- *15/01/2022*
+- *15/01/2023*
  	* Fix stringa titolo avviso nei dataset "candidature finanziate"
 	* aggiunta campo "ente"
 	* Integrazione  
