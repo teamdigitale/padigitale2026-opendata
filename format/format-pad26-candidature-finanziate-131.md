@@ -6,10 +6,10 @@
 ## Formato dati
 
 **Reference file:** 
-* candidature_finanziate_143.csv<br>
-* candidature_finanziate_143.json<br>
+* candidature_finanziate_131.csv<br>
+* candidature_finanziate_131.json<br>
 
-Il dataset contiene la lista delle proposte di finanziamento relative alla misura "1.4.3 Adozione PagoPA e App IO" che hanno superato i controlli di ricevibilità e ammissibilità e per le quali gli enti hanno provveduto alla comunicazione del codice CUP. 
+Il dataset contiene la lista delle proposte di finanziamento relative alla misura "1.3.1 Piattaforma Digitale Nazionale Dati" che hanno superato i controlli di ricevibilità e ammissibilità e per le quali gli enti hanno provveduto alla comunicazione del codice CUP.
 
 Il file è strutturato come segue:
 

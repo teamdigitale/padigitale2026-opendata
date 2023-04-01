@@ -139,6 +139,8 @@ resources:
           type: number
         - name: numero_di_protocollo
           type: number
+        - name: decreto_finanziamento
+          type: string
         - name: stato_candidatura
           type: string
           enum:
@@ -220,6 +222,8 @@ resources:
           type: number
           constraint:
             minimum: 0
+        - name: decreto_finanziamento
+          type: string
         - name: stato_candidatura
           type: string
           enum:
@@ -302,6 +306,8 @@ resources:
           type: number
           constraint:
             minimum: 0
+        - name: decreto_finanziamento
+          type: string
         - name: stato_candidatura
           type: string
           enum:
@@ -384,6 +390,8 @@ resources:
           type: number
           constraint:
             minimum: 0
+        - name: decreto_finanziamento
+          type: string
         - name: stato_candidatura
           type: string
           enum:
@@ -474,6 +482,8 @@ resources:
           type: number
           constraint:
             minimum: 0
+        - name: decreto_finanziamento
+          type: string
         - name: stato_candidatura
           type: string
           enum:
@@ -564,6 +574,8 @@ resources:
           type: number
           constraint:
             minimum: 0
+        - name: decreto_finanziamento
+          type: string
         - name: stato_candidatura
           type: string
           enum:
@@ -654,6 +666,8 @@ resources:
           type: number
           constraint:
             minimum: 0
+        - name: decreto_finanziamento
+          type: string
         - name: stato_candidatura
           type: string
           enum:
@@ -744,6 +758,8 @@ resources:
           type: number
           constraint:
             minimum: 0
+        - name: decreto_finanziamento
+          type: string
         - name: stato_candidatura
           type: string
           enum:
