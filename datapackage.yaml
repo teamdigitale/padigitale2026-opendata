@@ -737,7 +737,7 @@ resources:
           type: string
           constraints:
             minLength: 15
-            maxLength: 15
+            maxLength: 16
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
