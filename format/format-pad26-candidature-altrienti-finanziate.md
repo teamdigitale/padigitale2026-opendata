@@ -31,6 +31,7 @@ I file sono tutti strutturati nella seguente maniera:
 | codice_cup| string | Codice CUP, trasmesso dalla PA, associato al progetto della candidatura. | |
 | numero_finestra_temporale | integer | Progessivo numerico indicativo della finestra temporale in cui la PA si è candidata al rispettivo avviso. | |
 | numero_di_protocollo | integer | Progressivo numerico relativo al decreto di finanziamento in cui alla candidatura è stato assegnato il finanziamento.| |
+| decreto_finanziamento | string | Riferimento del decreto di finanziamento tramite cui sono state confermate le candidature assegnatarie di un finanziamento.| |
 | stato_candidatura | string | Stato aggiornato della candidatura. Al momento può assumere i seguenti valori: 'A', se la candidatura risulta assegnataria di un finanziamento; 'R', se è stata decretata la richiesta di rinuncia fatta dell'ente.  | |
 
 Questi dati sono disponibili anche in formato json.

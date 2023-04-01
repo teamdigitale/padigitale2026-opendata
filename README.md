@@ -59,6 +59,8 @@ padigitale2026-opendata/
 │   ├── candidature_scuole_finanziate.json
 │   ├── candidature_finanziate_12.csv
 │   ├── candidature_finanziate_12.json
+│   ├── candidature_finanziate_131.csv
+│   ├── candidature_finanziate_131.json
 │   ├── candidature_finanziate_141.csv
 │   ├── candidature_finanziate_141.json
 │   ├── candidature_finanziate_143.csv
@@ -76,6 +78,7 @@ padigitale2026-opendata/
 │   ├── format-pad26-candidature-comuni-finanziate.md
 │   ├── format-pad26-candidature-scuole-finanziate.md
 │   ├── format-pad26-candidature-finanziate-12.md
+│   ├── format-pad26-candidature-finanziate-131.md
 │   ├── format-pad26-candidature-finanziate-141.md
 │   ├── format-pad26-candidature-finanziate-143.md
 │   ├── format-pad26-candidature-finanziate-144.md
@@ -130,10 +133,11 @@ I file di configurazione impiegati si possono trovare nella cartella /assets/ld
 
 Le modifiche alla repository saranno tracciate in dettaglio nel file di changelog al fine di essere trasparenti riguardo l'evoluzione del contenuto e della struttura della repository. Per completezza, nel file è specificata anche la lista delle integrazioni future pianificate. 
 
-## Ultimo aggiornamento (15/01/2023)
+## Ultimo aggiornamento (01/04/2023)
 
-* Integrazione campo "ente"
-* Fix minori per integrazione dati relativi alla misura 1.4.5
+* Aggiornamento Metadati
+* Integrazione campo 'Decreto Finanziamento' nei dataset 'Candidature'
+* Fix minori
  
 # Licenza
 

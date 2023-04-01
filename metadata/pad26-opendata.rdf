@@ -790,6 +790,47 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
+<!-- Distribution: candidature 1.3.1 finanziate -->
+<dcatapit:Distribution rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_131.csv">
+    <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_131.csv"/>
+    <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_131.csv"/>
+    <dct:license>
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+            <rdf:type rdf:resource="dct:LicenseDocument"/>
+            <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+            <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+        </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="CSV"/>
+
+    <dct:description xml:lang="en">List of all funding request, related to 1.3.1 Piattaforma Digitale Nazionale Dati, which have been confirmed by financing decree on PA digitale 2026.</dct:description>
+    <dct:description xml:lang="it">Lista di tutte le candidature, relative alla misura 1.3.1 Piattaforma Digitale Nazionale Dati, che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dct:description>
+
+    <dct:title xml:lang="it">Candidature Finanziate (1.3.1 Piattaforma Digitale Nazionale Dati)</dct:title>
+    <dct:title xml:lang="en">Accepted Funding Requests (1.3.1 Piattaforma Digitale Nazionale Dati)</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+<dcatapit:Distribution rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_131.json">
+    <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_131.json"/>
+    <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_131.json"/>
+    <dct:license>
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+            <rdf:type rdf:resource="dct:LicenseDocument"/>
+            <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+            <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+        </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="JSON"/>
+
+    <dct:description xml:lang="en">List of all funding request, related to 1.3.1 Piattaforma Digitale Nazionale Dati, which have been confirmed by financing decree on PA digitale 2026.</dct:description>
+    <dct:description xml:lang="it">Lista di tutte le candidature, relative alla misura 1.3.1 Piattaforma Digitale Nazionale Dati, che sono state confermate dal rispettivo decreto di finanziamento su PA digitale 2026.</dct:description>
+
+    <dct:title xml:lang="it">Candidature Finanziate (1.3.1 Piattaforma Digitale Nazionale Dati)</dct:title>
+    <dct:title xml:lang="en">Accepted Funding Requests (1.3.1 Piattaforma Digitale Nazionale Dati)</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
 <!-- Distribution: candidature 1.4.1 finanziate -->
 <dcatapit:Distribution rdf:about="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_141.csv">
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_141.csv"/>
