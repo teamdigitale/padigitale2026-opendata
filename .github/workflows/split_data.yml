@@ -21,7 +21,10 @@ jobs:
         - name: Install deps
           working-directory: .
           run: pip install -r assets/requirements.txt
-        - name: Execute script
+        - name: Execute script Split
+          working-directory: .
+          run: python assets/script/split_avvisi.py
+        - name: Execute script KPI
           working-directory: .
           run: python assets/script/split_avvisi.py
         - name: Commit
