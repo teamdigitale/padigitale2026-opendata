@@ -49,6 +49,7 @@ padigitale2026-opendata/
 ├── AUTHORS
 ├── CHANGELOG.md
 ├── data
+|   ├── KPI
 │   ├── avvisi.csv
 │   ├── avvisi.json
 │   ├── candidature_altrienti_finanziate.csv
@@ -94,6 +95,8 @@ padigitale2026-opendata/
 ```
 Nella cartella /data sono raccolti tutti i dataset che costituiscono la repository. 
 
+Nella cartella /data/KPI sono raccolte alcuni dataset con KPI aggregati su base geografica o per misura. 
+
 Nella cartella /ld sono raccolte le distribuzioni linked data dei dati in /data.
 
 Nella cartella /assets sono raccolti file di supporto, come gli script utilizzati per la generazione delle distribuzioni linked data.
@@ -120,6 +123,7 @@ Al momento su OpenCUP non sono pubblicate tutte le nature progettuali, ma soltan
 # Aggiornamento Dati
 
 Dati Candidature Finanziate: ogni giorno alle 2:00 (UTC).
+Ad ogni aggiornamento effettivo relativo alle candidature finanziate, vengono automaticamente generati tramite GitHub Action i dati divisi per Misura e i dati aggregati presenti nella cartella KPI.
 
 # Linked data
 

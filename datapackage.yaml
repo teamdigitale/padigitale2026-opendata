@@ -78,6 +78,8 @@ resources:
           type: string
         - name: ente
           type: string
+        - name: tipologia_ente
+          type: string
         - name: comune
           type: string
         - name: cod_comune
@@ -146,6 +148,10 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
+        - name: misura
+          type: string
     scheme: file
   - path: data/candidature_scuole_finanziate.csv
     encoding: utf-8
@@ -158,6 +164,8 @@ resources:
         - name: codice_ipa
           type: string
         - name: ente
+          type: string
+        - name: tipologia_ente
           type: string
         - name: comune
           type: string
@@ -229,6 +237,10 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
+        - name: misura
+          type: string
     scheme: file
   - path: data/candidature_altrienti_finanziate.csv
     encoding: utf-8
@@ -243,6 +255,8 @@ resources:
           type: string
         - name: ente
           type: string
+        - name: tipologia_ente
+          type: string
         - name: comune
           type: string
         - name: cod_comune
@@ -313,6 +327,10 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
+        - name: misura
+          type: string
     scheme: file
   - path: data/candidature_finanziate_12.csv
     encoding: utf-8
@@ -327,6 +345,8 @@ resources:
           type: string
         - name: ente
           type: string
+        - name: tipologia_ente
+          type: string
         - name: comune
           type: string
         - name: cod_comune
@@ -397,14 +417,10 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
         - name: misura
           type: string
-        - name: tipologia_ente
-          type: string
-          enum:
-            - 'Comune'
-            - 'Scuole'
-            - 'Altri Enti'
     scheme: file
   - path: data/candidature_finanziate_141.csv
     encoding: utf-8
@@ -419,6 +435,8 @@ resources:
           type: string
         - name: ente
           type: string
+        - name: tipologia_ente
+          type: string
         - name: comune
           type: string
         - name: cod_comune
@@ -489,14 +507,10 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
         - name: misura
           type: string
-        - name: tipologia_ente
-          type: string
-          enum:
-            - 'Comune'
-            - 'Scuole'
-            - 'Altri Enti'
     scheme: file
   - path: data/candidature_finanziate_143.csv
     encoding: utf-8
@@ -511,6 +525,8 @@ resources:
           type: string
         - name: ente
           type: string
+        - name: tipologia_ente
+          type: string
         - name: comune
           type: string
         - name: cod_comune
@@ -581,14 +597,10 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
         - name: misura
           type: string
-        - name: tipologia_ente
-          type: string
-          enum:
-            - 'Comune'
-            - 'Scuole'
-            - 'Altri Enti'
     scheme: file
   - path: data/candidature_finanziate_144.csv
     encoding: utf-8
@@ -603,6 +615,8 @@ resources:
           type: string
         - name: ente
           type: string
+        - name: tipologia_ente
+          type: string
         - name: comune
           type: string
         - name: cod_comune
@@ -673,14 +687,10 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
         - name: misura
           type: string
-        - name: tipologia_ente
-          type: string
-          enum:
-            - 'Comune'
-            - 'Scuole'
-            - 'Altri Enti'
     scheme: file
   - path: data/candidature_finanziate_145.csv
     encoding: utf-8
@@ -695,6 +705,8 @@ resources:
           type: string
         - name: ente
           type: string
+        - name: tipologia_ente
+          type: string
         - name: comune
           type: string
         - name: cod_comune
@@ -765,12 +777,8 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
         - name: misura
           type: string
-        - name: tipologia_ente
-          type: string
-          enum:
-            - 'Comune'
-            - 'Scuole'
-            - 'Altri Enti'
     scheme: file

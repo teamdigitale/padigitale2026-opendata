@@ -8,6 +8,11 @@ Il file di Changelog raccoglie tutte le modifiche ai file pubblicati e la roadma
 - Rimozione file e cartelle superflue dalla repository (cartella dati + data/test_batch_01.json)
 
 ## Aggiornamenti passati
+- *05/06/2023*
+	* Introduzione KPI pre-calcolati
+	* Aggiornamento Metadati
+	* Integrazione campo 'Data Stato Candidatura'
+	* Fix minori
 
 - *01/04/2023*
 	* Aggiornamento Metadati

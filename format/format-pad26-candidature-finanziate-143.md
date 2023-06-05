@@ -17,6 +17,7 @@ Il file è strutturato come segue:
 | --- | --- | --- | --- |
 | codice_ipa | string | Codice identificativo estratto dall'Indice delle Pubbliche Amministrazioni | |
 | ente | string | Nome descrittivo dell'ente | varchar(250) |
+| tipologia_ente | string | Tipologia dell'ente tra le platee destinatarie degli avvisi  | Comune, Scuole, Altri Enti |
 | comune | string | Comune associato alla PA, come riportato in IPA. | |
 | cod_comune | string | Codice ISTAT del comune associata alla PA | |
 | provincia | string | Provincia associata alla PA, come riportato in IPA. | |
@@ -31,8 +32,8 @@ Il file è strutturato come segue:
 | numero_finestra_temporale | integer | Progessivo numerico indicativo della finestra temporale in cui la PA si è candidata al rispettivo avviso. | |
 | numero_di_protocollo | integer | Progressivo numerico relativo al decreto di finanziamento in cui alla candidatura è stato assegnato il finanziamento.| |
 | decreto_finanziamento | string | Riferimento del decreto di finanziamento tramite cui sono state confermate le candidature assegnatarie di un finanziamento.| |
-| stato_candidatura | string | Stato aggiornato della candidatura. Al momento può assumere i seguenti valori: 'A', se la candidatura risulta assegnataria di un finanziamento; 'R', se è stata decretata la richiesta di rinuncia fatta dell'ente.  | |
+| stato_candidatura | string | Stato aggiornato della candidatura. Al momento può assumere i seguenti valori: 'A', se la candidatura risulta assegnataria di un finanziamento; 'R', se è stata decretata la richiesta di rinuncia fatta dell'ente; 'E', se è stato erogato il finanziamento in seguito all'asseverazione del progetto.  | |
+| data_stato_candidatura | string | Data di riferimento dello stato aggiornato della candidatura. Equivale a: data del decreto di finanziamento se 'A'; data di rinuncia se 'R'; data di erogazione del finanziamento se 'E' | |
 | misura | string | Misura di riferimento dell'avviso a cui l'ente si è candidato  | |
-| tipologia_ente | string | Tipologia dell'ente tra le platee destinatarie degli avvisi  | Comune, Scuole, Altri Enti |
 
 Questi dati sono disponibili anche in formato json.
