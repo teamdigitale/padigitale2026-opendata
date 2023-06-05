@@ -32,6 +32,7 @@ I file sono tutti strutturati nella seguente maniera:
 | numero_finestra_temporale | integer | Progessivo numerico indicativo della finestra temporale in cui la PA si è candidata al rispettivo avviso. | |
 | numero_di_protocollo | integer | Progressivo numerico relativo al decreto di finanziamento in cui alla candidatura è stato assegnato il finanziamento.| |
 | decreto_finanziamento | string | Riferimento del decreto di finanziamento tramite cui sono state confermate le candidature assegnatarie di un finanziamento.| |
-| stato_candidatura | string | Stato aggiornato della candidatura. Al momento può assumere i seguenti valori: 'A', se la candidatura risulta assegnataria di un finanziamento; 'R', se è stata decretata la richiesta di rinuncia fatta dell'ente.  | |
+| stato_candidatura | string | Stato aggiornato della candidatura. Al momento può assumere i seguenti valori: 'A', se la candidatura risulta assegnataria di un finanziamento; 'R', se è stata decretata la richiesta di rinuncia fatta dell'ente; 'E', se è stato erogato il finanziamento in seguito all'asseverazione del progetto.  | |
+| data_stato_candidatura | string | Data di riferimento dello stato aggiornato della candidatura. Equivale a: data del decreto di finanziamento se 'A'; data di rinuncia se 'R'; data di erogazione del finanziamento se 'E' | |
 
 Questi dati sono disponibili anche in formato json.
