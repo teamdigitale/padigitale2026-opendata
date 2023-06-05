@@ -26,7 +26,7 @@ jobs:
           run: python assets/script/split_avvisi.py
         - name: Execute script KPI
           working-directory: .
-          run: python assets/script/split_avvisi.py
+          run: python assets/script/build_kpis.py
         - name: Commit
           uses: EndBug/add-and-commit@v9
           with:
