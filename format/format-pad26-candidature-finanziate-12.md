@@ -17,6 +17,7 @@ Il file è strutturato come segue:
 | --- | --- | --- | --- |
 | codice_ipa | string | Codice identificativo estratto dall'Indice delle Pubbliche Amministrazioni | |
 | ente | string | Nome descrittivo dell'ente | varchar(250) |
+| tipologia_ente | string | Tipologia dell'ente tra le platee destinatarie degli avvisi  | Comune, Scuole, Altri Enti |
 | comune | string | Comune associato alla PA, come riportato in IPA. | |
 | cod_comune | string | Codice ISTAT del comune associata alla PA | |
 | provincia | string | Provincia associata alla PA, come riportato in IPA. | |

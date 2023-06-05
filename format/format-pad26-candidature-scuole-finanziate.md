@@ -18,6 +18,7 @@ I file sono tutti strutturati nella seguente maniera:
 | --- | --- | --- | --- |
 | codice_ipa | string | Codice identificativo estratto dall'Indice delle Pubbliche Amministrazioni | |
 | ente | string | Nome descrittivo dell'ente | varchar(250) |
+| tipologia_ente | string | Tipologia dell'ente tra le platee destinatarie degli avvisi  | Comune, Scuole, Altri Enti |
 | comune | string | Comune associato alla PA, come riportato in IPA. | |
 | cod_comune | string | Codice ISTAT del comune associata alla PA | |
 | provincia | string | Provincia associata alla PA, come riportato in IPA. | |
@@ -33,5 +34,6 @@ I file sono tutti strutturati nella seguente maniera:
 | decreto_finanziamento | string | Riferimento del decreto di finanziamento tramite cui sono state confermate le candidature assegnatarie di un finanziamento.| |
 | numero_di_protocollo | integer | Progressivo numerico relativo al decreto di finanziamento in cui alla candidatura è stato assegnato il finanziamento.| |
 | stato_candidatura | string | Stato aggiornato della candidatura. Al momento può assumere i seguenti valori: 'A', se la candidatura risulta assegnataria di un finanziamento; 'R', se è stata decretata la richiesta di rinuncia fatta dell'ente.  | |
+| misura | string | Misura di riferimento a cui appartiene la candidatura | |
 
 Questi dati sono disponibili anche in formato json.
