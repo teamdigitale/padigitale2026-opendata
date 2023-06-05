@@ -49,6 +49,7 @@ padigitale2026-opendata/
 ├── AUTHORS
 ├── CHANGELOG.md
 ├── data
+|   ├── KPI
 │   ├── avvisi.csv
 │   ├── avvisi.json
 │   ├── candidature_altrienti_finanziate.csv
