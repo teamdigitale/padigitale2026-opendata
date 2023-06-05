@@ -146,6 +146,8 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
     scheme: file
   - path: data/candidature_scuole_finanziate.csv
     encoding: utf-8
@@ -229,6 +231,8 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
     scheme: file
   - path: data/candidature_altrienti_finanziate.csv
     encoding: utf-8
@@ -313,6 +317,8 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
     scheme: file
   - path: data/candidature_finanziate_12.csv
     encoding: utf-8
@@ -397,6 +403,8 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
         - name: misura
           type: string
         - name: tipologia_ente
@@ -489,6 +497,8 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
         - name: misura
           type: string
         - name: tipologia_ente
@@ -581,6 +591,8 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
         - name: misura
           type: string
         - name: tipologia_ente
@@ -673,6 +685,8 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
         - name: misura
           type: string
         - name: tipologia_ente
@@ -765,6 +779,8 @@ resources:
           enum:
             - A
             - R
+        - name: data_stato_candidatura
+          type: date
         - name: misura
           type: string
         - name: tipologia_ente
