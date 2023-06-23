@@ -1,3 +1,5 @@
+name: add_datasets
+
 on:
   workflow_dispatch:
   push:

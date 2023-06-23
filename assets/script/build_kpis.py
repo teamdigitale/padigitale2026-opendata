@@ -36,6 +36,8 @@ df_fin_agg = df_finanziate.groupby(['avviso','stato_candidatura']).importo_finan
 KPI_1 = df_fin_agg.merge(
     df_avvisi,left_on='avviso',right_on='titolo',how='left',validate='m:1'
     ).where(df_fin_agg.stato_candidatura!='R').groupby(['misura']).agg({'importo_finanziamento':'sum','totale_importo_misura':'max'}).T
+tmp_KPI = df_fin_agg.merge(df_avvisi,left_on='avviso',right_on='titolo',how='left',validate='m:1').where(df_fin_agg.stato_candidatura=='E').groupby(['misura']).agg({'importo_finanziamento':'sum'}).rename(columns={'importo_finanziamento':'importo_erogato'}).T
+KPI_1 = pd.concat([KPI_1,tmp_KPI], axis=0).fillna(0)
 KPI_1.index.name = 'Misura'
 KPI_1.astype(int).to_csv(KPI_FOLDER+'totale_per_misura.csv')
 

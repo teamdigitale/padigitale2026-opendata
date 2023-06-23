@@ -15,5 +15,5 @@
 | Importi per Misura | importi_per_misura.csv | Aggregato su base misura e regionale degli importi erogati agli enti. |
 | Importi per Tipologia | importo_per_tipologia.csv | Aggregato su base regionale e tipologia ente (Comuni, Scuole, ASL e altri enti) degli importi erogati agli enti. |
 | Partecipanti per Tipologia | partecipanti_per_tipologia.csv | Numero distinto degli enti, divisi per tipologia, che hanno partecipato agli avvisi di PA digitale 2026. |
-| Totale per Misura | totale_per_misura.csv | Importi decretati e budget territorializzabile previsto per ogni misura. |
+| Totale per Misura | totale_per_misura.csv | Importi decretati, erogati e budget territorializzabile previsto per ogni misura. |
 | Totale risorse | totale_risorse.csv | Totale aggregate del budget allocabile, delle risorse decretate e di quelle erogate. |
