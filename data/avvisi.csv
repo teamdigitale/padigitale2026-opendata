@@ -27,3 +27,5 @@ titolo,misura,data_inizio_bando,data_fine_bando,stato,totale_importo_stanziato,t
 "1.4.3 - pagoPA - Altri Enti - Maggio 2022","1.4.3 Adozione PagoPA e AppIO","2022-05-30","2022-09-09","TERMINATO",80000000.0,508000000.0,"ASL;Enti Regionali;Università;Istituti di ricerca e AFAM;Aziende Ospedaliere;Agenzie Regionali Sanitarie"
 "1.4.5 'Piattaforma Notifiche Digitali' Comuni (Settembre 2022)","1.4.5 Digitalizzazione degli avvisi pubblici","2022-09-12","2022-11-11","TERMINATO",200000000.0,245000000.0,"Comuni"
 "1.1 Infrastrutture digitali - Altre PAC - gugno 2023","1.1 Infrastrutture digitali","2023-07-03","2023-09-15","PUBBLICATO",280000000.0,526200000.0,"PA Centrali"
+"1.1 e 1.2 'Infrastrutture digitali e abilitazione al cloud' - ASL/AO -marzo 2023 (quota 1.2)","1.2 Abilitazione e facilitazione migrazione al Cloud","2023-03-14","2023-07-21","PUBBLICATO",150000000.0,987000000,"ASL;Aziende Ospedaliere"
+"1.1 e 1.2 'Infrastrutture digitali e abilitazione al cloud' - ASL/AO -marzo 2023 (quota 1.1)","1.1 Infrastrutture Digitali","2023-03-14","2023-07-21","PUBBLICATO",150000000.0,900000000,"ASL;Aziende Ospedaliere"
