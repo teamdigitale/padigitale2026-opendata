@@ -24,10 +24,12 @@ def main():
             return 'Comune'
         elif 'Scuole' in funding_program:
             return 'Scuole'
+        elif 'ASL/AO' in funding_program:
+            return 'ASL/AO'
         else:
             return 'Altri Enti'
     
-    df['tipologia_ente'] = df['avviso'].map(lambda x: extract_tipologia(x))
+    # df['tipologia_ente'] = df['avviso'].map(lambda x: extract_tipologia(x))
 
     for misura in set(mapping_dict.values()):
         tmp_df = df[df['misura']==misura]
