@@ -65,7 +65,7 @@ KPI_3.rename(columns={'tipologia_ente':'Tipologia Ente'}).to_csv(KPI_FOLDER+'pan
 
 ### KPI_4: andamento importi
 
-df_finanziate['Data invio'] = pd.to_datetime(df_finanziate.data_invio_candidatura, errors='ignore').fillna(pd.Timestamp('20220401')).dt.date
+df_finanziate['Data invio'] = pd.to_datetime(df_finanziate.data_invio_candidatura.ffill(), errors='ignore').dt.date
 inviate = df_finanziate.groupby('Data invio').importo_finanziamento.sum().reset_index()
 inviate['evento'] = 'Invio Candidatura'
 inviate.columns=['Data','Importo Finanziamento','Evento']
