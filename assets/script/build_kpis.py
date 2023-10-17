@@ -13,7 +13,8 @@ df_finanziate = pd.concat(
         pd.read_csv(TEMPLATE_URL.replace('TEMPLATE',code), dtype={'cod_comune':str,'importo_finanziamento': int}) for code in ('comuni','scuole','altrienti')
         ]
     )
-
+# step added to momentarily fix missing dates in 'data_invio_candidatura'
+df_finanziate['data_invio_candidatura'] = df_finanziate['data_invio_candidatura'].fillna(df_finanziate['data_finanziamento'])
 print('Loaded Datasets!')
 
 ### KPI_0: importi complessivi
