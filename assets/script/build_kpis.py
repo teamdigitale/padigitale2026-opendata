@@ -12,9 +12,8 @@ df_finanziate = pd.concat(
     [
         pd.read_csv(TEMPLATE_URL.replace('TEMPLATE',code), dtype={'cod_comune':str,'importo_finanziamento': int}) for code in ('comuni','scuole','altrienti')
         ]
-    )
+    )   
 # step added to momentarily fix missing dates in 'data_invio_candidatura'
-df_finanziate['data_invio_candidatura'] = df_finanziate['data_invio_candidatura'].fillna('2022-04-01T00:00:10.000+0000')
 print('Loaded Datasets!')
 
 ### KPI_0: importi complessivi
@@ -66,7 +65,7 @@ KPI_3.rename(columns={'tipologia_ente':'Tipologia Ente'}).to_csv(KPI_FOLDER+'pan
 
 ### KPI_4: andamento importi
 
-df_finanziate['Data invio'] = pd.to_datetime(df_finanziate.data_invio_candidatura).dt.date
+df_finanziate['Data invio'] = pd.to_datetime(df_finanziate.data_invio_candidatura, errors='ignore').fillna(pd.Timestamp('20220401')).dt.date
 inviate = df_finanziate.groupby('Data invio').importo_finanziamento.sum().reset_index()
 inviate['evento'] = 'Invio Candidatura'
 inviate.columns=['Data','Importo Finanziamento','Evento']
