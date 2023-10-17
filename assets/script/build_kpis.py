@@ -14,7 +14,7 @@ df_finanziate = pd.concat(
         ]
     )
 # step added to momentarily fix missing dates in 'data_invio_candidatura'
-df_finanziate['data_invio_candidatura'] = df_finanziate['data_invio_candidatura'].fillna(df_finanziate['data_finanziamento'])
+df_finanziate['data_invio_candidatura'] = df_finanziate['data_invio_candidatura'].fillna('2022-04-01T00:00:10.000+0000')
 print('Loaded Datasets!')
 
 ### KPI_0: importi complessivi
