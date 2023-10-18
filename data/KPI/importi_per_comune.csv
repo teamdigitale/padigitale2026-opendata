@@ -266,7 +266,7 @@ Strambinello,171801
 Strambino,383536
 Susa,430599
 Tavagnasco,177506
-Torino,9718164
+Torino,12092040
 Torrazza Piemonte,203606
 Torre Canavese,204416
 Torre Pellice,255798
@@ -1173,7 +1173,7 @@ Vogogna,83511
 Borgomezzavalle,42824
 Allein,172528
 Antey-Saint-André,57599
-Aosta,1978293
+Aosta,4352169
 Arnad,201747
 Arvier,0
 Avise,0
@@ -2749,7 +2749,7 @@ Appiano sulla strada del vino/Eppan an der Weinstraße,167320
 Avelengo/Hafling,165889
 Badia/Abtei,192162
 Barbiano/Barbian,177461
-Bolzano/Bozen,7300458
+Bolzano/Bozen,7290392
 Braies/Prags,113241
 Brennero/Brenner,163218
 Bressanone/Brixen,720446
@@ -2792,7 +2792,7 @@ Marebbe/Enneberg,167704
 Marlengo/Marling,172605
 Martello/Martell,141164
 Meltina/Mölten,140314
-Merano/Meran,729294
+Merano/Meran,739360
 Monguelfo-Tesido,169526
 Montagna/Montan,158858
 Moso in Passiria/Moos in Passeier,141528
@@ -3423,7 +3423,7 @@ Spinea,546340
 Stra,214744
 Teglio Veneto,108225
 Torre di Mosto,212185
-Venezia,9798108
+Venezia,12171984
 Vigonovo,319283
 Cavallino-Treporti,215468
 Abano Terme,693024
@@ -3741,8 +3741,8 @@ Duino Aurisina-Devin Nabreina,341884
 Monrupino-Repentabor,41657
 Muggia,333850
 San Dorligo della Valle-Dolina,199574
-Sgonico-Zgonik,3035
-Trieste,2498932
+Sgonico-Zgonik,445579
+Trieste,4928126
 Andreis,79922
 Arba,90094
 Aviano,196783
@@ -4209,7 +4209,7 @@ Anzola dell'Emilia,373134
 Argelato,308097
 Baricella,367985
 Bentivoglio,279708
-Bologna,10699807
+Bologna,13073683
 Borgo Tossignano,178610
 Budrio,398963
 Calderara di Reno,370031
@@ -4434,7 +4434,7 @@ Certaldo,309670
 Dicomano,352083
 Empoli,663679
 Fiesole,394632
-Firenze,13298188
+Firenze,15672064
 Firenzuola,219960
 Fucecchio,693809
 Gambassi Terme,214022
@@ -5165,7 +5165,7 @@ Roccagiovine,189246
 Rocca Priora,336021
 Rocca Santo Stefano,64829
 Roiate,65072
-Roma,50304599
+Roma,59037367
 Roviano,95266
 Sacrofano,363242
 Sambuci,185017
@@ -5630,7 +5630,7 @@ Baranello,199473
 Bojano,340634
 Bonefro,72920
 Busso,184631
-Campobasso,2856753
+Campobasso,5230629
 Campochiaro,206847
 Campodipietra,200202
 Campolieto,243269
@@ -5965,7 +5965,7 @@ Casamicciola Terme,200768
 Casandrino,366913
 Casavatore,218107
 Casola di Napoli,136388
-Casoria,1167994
+Casoria,1180825
 Castellammare di Stabia,743604
 Castello di Cisterna,363694
 Cercola,418043
@@ -5990,8 +5990,8 @@ Massa Lubrense,410856
 Melito di Napoli,706122
 Meta,410439
 Monte di Procida,388629
-Mugnano di Napoli,646981
-Napoli,19969543
+Mugnano di Napoli,634150
+Napoli,23520275
 Nola,750019
 Ottaviano,696147
 Palma Campania,276387
@@ -6376,7 +6376,7 @@ Acquaviva delle Fonti,715354
 Adelfia,385495
 Alberobello,408541
 Altamura,1132789
-Bari,11237388
+Bari,13611264
 Binetto,182440
 Bitetto,430007
 Bitonto,1198495
@@ -6860,7 +6860,7 @@ Botricello,198439
 Caraffa di Catanzaro,171675
 Cardinale,114536
 Carlopoli,239020
-Catanzaro,3198799
+Catanzaro,3990091
 Cenadi,202715
 Centrache,174668
 Cerva,101207
