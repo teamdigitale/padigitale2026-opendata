@@ -38,7 +38,7 @@ Brozolo,101777
 Bruino,245477
 Brusasco,218367
 Bruzolo,47427
-Buriasco,160349
+Buriasco,149423
 Burolo,177062
 Busano,180663
 Bussoleno,380964
@@ -46,11 +46,11 @@ Buttigliera Alta,354778
 Cafasse,191138
 Caluso,407247
 Cambiano,260050
-Campiglione Fenile,154952
+Campiglione Fenile,147419
 Candia Canavese,209396
 Candiolo,274687
 Canischio,199318
-Cantalupa,250066
+Cantalupa,237916
 Cantoira,0
 Caprie,23147
 Caravino,202718
@@ -62,7 +62,7 @@ Cascinette d'Ivrea,103397
 Caselette,7301
 Caselle Torinese,375658
 Castagneto Po,160668
-Castagnole Piemonte,187263
+Castagnole Piemonte,177057
 Castellamonte,395843
 Castelnuovo Nigra,148936
 Castiglione Torinese,366769
@@ -107,7 +107,7 @@ Foglizzo,198226
 Forno Canavese,242767
 Frassinetto,168522
 Front,175200
-Frossasco,196727
+Frossasco,191138
 Garzigliana,203891
 Gassino Torinese,242502
 Germagnano,73300
@@ -155,7 +155,7 @@ Moncalieri,1105138
 Moncenisio,125946
 Montaldo Torinese,47427
 Montalenghe,178816
-Montalto Dora,198914
+Montalto Dora,191138
 Montanaro,358400
 Monteu da Po,42899
 Moriondo Torinese,60540
@@ -184,7 +184,7 @@ Perrero,109846
 Pertusio,174593
 Pessinetto,0
 Pianezza,421898
-Pinasca,167910
+Pinasca,127241
 Pinerolo,825693
 Pino Torinese,334136
 Piobesi Torinese,171819
@@ -235,7 +235,7 @@ San Carlo Canavese,225903
 San Colombano Belmonte,184304
 San Didero,47427
 San Francesco al Campo,243024
-Sangano,205465
+Sangano,203278
 San Germano Chisone,195916
 San Gillio,230515
 San Giorgio Canavese,240758
@@ -266,7 +266,7 @@ Strambinello,171801
 Strambino,383536
 Susa,430599
 Tavagnasco,177506
-Torino,12032316
+Torino,11734988
 Torrazza Piemonte,203606
 Torre Canavese,204416
 Torre Pellice,255798
@@ -394,7 +394,7 @@ Cellio con Breia,132918
 Agrate Conturbia,74176
 Ameno,160668
 Armeno,160762
-Arona,342058
+Arona,336913
 Barengo,19752
 Bellinzago Novarese,236324
 Biandrate,117642
@@ -421,7 +421,7 @@ Cavallirio,98388
 Cerano,337671
 Colazza,174668
 Comignago,175409
-Cressa,138777
+Cressa,135132
 Cureggio,176068
 Divignano,189239
 Dormelletto,88683
@@ -440,7 +440,7 @@ Lesa,154641
 Maggiora,143147
 Mandello Vitta,172492
 Marano Ticino,155959
-Massino Visconti,206242
+Massino Visconti,194092
 Meina,140641
 Mezzomerico,156566
 Miasino,160668
@@ -509,7 +509,7 @@ Bra,578472
 Briaglia,79922
 Briga Alta,137521
 Brondello,10172
-Brossasco,141243
+Brossasco,104094
 Busca,229468
 Camerana,118421
 Canale,230635
@@ -527,7 +527,7 @@ Castelletto Stura,214626
 Castelletto Uzzone,132585
 Castellinaldo d'Alba,109001
 Castellino Tanaro,10172
-Castelmagno,103780
+Castelmagno,91630
 Castelnuovo di Ceva,46631
 Castiglione Falletto,143023
 Castiglione Tinella,160668
@@ -553,9 +553,9 @@ Costigliole Saluzzo,217288
 Cravanzana,119271
 Crissolo,90314
 Cuneo,1729757
-Demonte,246687
+Demonte,198734
 Diano d'Alba,129128
-Dogliani,234395
+Dogliani,222245
 Dronero,367843
 Elva,195913
 Entracque,10172
@@ -582,7 +582,7 @@ Lagnasco,79922
 La Morra,38703
 Lequio Berria,112475
 Lequio Tanaro,207940
-Lesegno,198344
+Lesegno,194699
 Levice,125341
 Limone Piemonte,0
 Lisio,61427
@@ -609,7 +609,7 @@ Monesiglio,171808
 Monforte d'Alba,142055
 Montà,100581
 Montaldo di Mondovì,19752
-Montaldo Roero,83161
+Montaldo Roero,61427
 Montanera,93922
 Montelupo Albese,80097
 Montemale di Cuneo,91630
@@ -655,7 +655,7 @@ Priola,0
 Prunetto,147396
 Racconigi,326996
 Revello,228221
-Rifreddo,207451
+Rifreddo,180743
 Rittana,171594
 Roaschia,0
 Roascio,115839
@@ -707,7 +707,7 @@ Torresina,135263
 Treiso,151521
 Trezzo Tinella,24172
 Trinità,160668
-Valdieri,214168
+Valdieri,194131
 Valgrana,105630
 Valloriate,163703
 Venasca,159879
@@ -716,7 +716,7 @@ Vernante,86335
 Verzuolo,361485
 Vezza d'Alba,0
 Vicoforte,0
-Vignolo,209055
+Vignolo,205167
 Villafalletto,111216
 Villanova Mondovì,36631
 Villanova Solaro,163542
@@ -730,7 +730,7 @@ Antignano,87209
 Aramengo,55822
 Asti,1274941
 Azzano d'Asti,108343
-Baldichieri d'Asti,43114
+Baldichieri d'Asti,38740
 Belveglio,52743
 Berzano di San Pietro,181104
 Bruno,182708
@@ -795,7 +795,7 @@ Moncalvo,165120
 Moncucco Torinese,197979
 Mongardino,86534
 Montabone,151521
-Montafia,201020
+Montafia,191057
 Montaldo Scarampi,42421
 Montechiaro d'Asti,127801
 Montegrosso d'Asti,163054
@@ -816,7 +816,7 @@ Robella,195306
 Rocca d'Arazzo,104094
 Roccaverano,112011
 Rocchetta Palafea,170708
-Rocchetta Tanaro,94701
+Rocchetta Tanaro,87897
 San Damiano d'Asti,368757
 San Giorgio Scarampi,82163
 San Martino Alfieri,132083
@@ -901,7 +901,7 @@ Coniolo,94514
 Conzano,186081
 Costa Vescovato,87988
 Cremolino,133313
-Denice,192839
+Denice,160668
 Dernice,146458
 Fabbrica Curone,193489
 Felizzano,211442
@@ -915,7 +915,7 @@ Frugarolo,83739
 Fubine Monferrato,114594
 Gabiano,100380
 Gamalero,157314
-Garbagna,164840
+Garbagna,163382
 Gavi,209191
 Giarole,87226
 Gremiasco,193006
@@ -944,7 +944,7 @@ Montechiaro d'Acqui,219960
 Montegioco,84836
 Montemarzino,87381
 Morano sul Po,163703
-Morbello,111987
+Morbello,94746
 Mornese,157921
 Morsasco,154522
 Murisengo,187056
@@ -999,7 +999,7 @@ Silvano d'Orba,44352
 Solero,181912
 Solonghello,85560
 Spigno Monferrato,140839
-Spineto Scrivia,149180
+Spineto Scrivia,146993
 Stazzano,160174
 Strevi,137246
 Tagliolo Monferrato,137441
@@ -1044,7 +1044,7 @@ Cavaglià,116417
 Cerrione,201297
 Coggiola,180131
 Cossato,259579
-Crevacuore,186809
+Crevacuore,185594
 Curino,28058
 Donato,71599
 Dorzano,151793
@@ -1078,7 +1078,7 @@ Sala Biellese,195189
 Salussola,76143
 Sandigliano,147419
 Sordevolo,185400
-Sostegno,174518
+Sostegno,170387
 Strona,186407
 Tavigliano,140482
 Ternengo,64943
@@ -1089,10 +1089,10 @@ Vallanzengo,74149
 Valle San Nicolao,174668
 Veglio,160748
 Verrone,85080
-Vigliano Biellese,210275
+Vigliano Biellese,203415
 Villa del Bosco,160668
 Villanova Biellese,77062
-Viverone,165970
+Viverone,163054
 Zimone,81313
 Zubiena,19752
 Zumaglia,178917
@@ -1205,7 +1205,7 @@ Gressan,225175
 Gressoney-La-Trinité,189847
 Gressoney-Saint-Jean,196524
 Hône,195068
-Introd,198224
+Introd,180014
 Issime,203931
 Issogne,201747
 Jovençan,195312
@@ -1225,8 +1225,8 @@ Pontey,125343
 Pont-Saint-Martin,98594
 Pré-Saint-Didier,162660
 Quart,248501
-Rhêmes-Notre-Dame,197738
-Rhêmes-Saint-Georges,198224
+Rhêmes-Notre-Dame,179528
+Rhêmes-Saint-Georges,180014
 Roisan,199804
 Saint-Christophe,223839
 Saint-Denis,57599
@@ -1356,7 +1356,7 @@ Rancio Valcuvia,150496
 Ranco,137521
 Saltrio,80084
 Samarate,0
-Saronno,717053
+Saronno,680653
 Sesto Calende,374015
 Solbiate Arno,11725
 Solbiate Olona,371687
@@ -1370,7 +1370,7 @@ Tronzano Lago Maggiore,78883
 Uboldo,374206
 Valganna,100118
 Varano Borghi,189843
-Varese,4058630
+Varese,4034606
 Vedano Olona,356602
 Venegono Inferiore,363871
 Venegono Superiore,386073
@@ -1388,7 +1388,7 @@ Anzano del Parco,160668
 Appiano Gentile,345528
 Argegno,128321
 Arosio,309815
-Asso,125398
+Asso,123211
 Barni,180580
 Bene Lario,51855
 Beregazzo con Figliaro,77897
@@ -1401,18 +1401,18 @@ Brenna,162814
 Brienno,57599
 Brunate,186818
 Bulgarograsso,191138
-Cabiate,407587
+Cabiate,390437
 Cadorago,335167
 Caglio,57139
 Campione d'Italia,77577
 Cantù,725994
 Canzo,277226
-Capiago Intimiano,407165
+Capiago Intimiano,351460
 Carate Urio,150496
 Carbonate,207688
 Carimate,219105
 Carlazzo,203968
-Carugo,395759
+Carugo,381010
 Caslino d'Erba,192396
 Casnate con Bernate,346903
 Cassina Rizzardi,144644
@@ -1432,7 +1432,7 @@ Cucciago,219467
 Cusino,50641
 Dizzasco,84470
 Domaso,164496
-Dongo,226094
+Dongo,220505
 Dosso del Liro,47427
 Erba,451400
 Eupilio,180966
@@ -1458,7 +1458,7 @@ Lipomo,206235
 Livo,154556
 Locate Varesino,207046
 Lomazzo,392374
-Longone al Segrino,90364
+Longone al Segrino,88177
 Luisago,83746
 Lurago d'Erba,411807
 Lurago Marinone,197153
@@ -1471,7 +1471,7 @@ Merone,203148
 Moltrasio,162612
 Monguzzo,137521
 Montano Lucino,344159
-Montemezzo,140680
+Montemezzo,137521
 Montorfano,209534
 Mozzate,361807
 Musso,87609
@@ -1507,7 +1507,7 @@ Stazzona,160668
 Tavernerio,310401
 Torno,160668
 Trezzone,115842
-Turate,389504
+Turate,373383
 Uggiate-Trevano,204020
 Valbrona,134690
 Valmorea,192057
@@ -1535,7 +1535,7 @@ Bema,100903
 Berbenno di Valtellina,199444
 Bianzone,194703
 Bormio,175069
-Buglio in Monte,143779
+Buglio in Monte,141349
 Caiolo,137521
 Campodolcino,139949
 Caspoggio,150979
@@ -1604,7 +1604,7 @@ Vervio,164270
 Villa di Chiavenna,186285
 Villa di Tirano,196997
 Abbiategrasso,676199
-Albairate,86402
+Albairate,77897
 Arconate,10066
 Arese,353261
 Arluno,336093
@@ -1628,11 +1628,11 @@ Calvignasco,166317
 Cambiago,353110
 Canegrate,330159
 Carpiano,227843
-Carugate,390685
+Carugate,387941
 Casarile,115537
 Casorezzo,199451
 Cassano d'Adda,394680
-Cassina de' Pecchi,337890
+Cassina de' Pecchi,321083
 Cassinetta di Lugagnano,141629
 Castano Primo,377400
 Cernusco sul Naviglio,733009
@@ -1655,13 +1655,13 @@ Dairago,410158
 Dresano,228938
 Gaggiano,352968
 Garbagnate Milanese,1788751
-Gessate,387977
+Gessate,372885
 Gorgonzola,684858
 Grezzago,130883
 Gudo Visconti,113256
 Inveruno,200188
 Inzago,389640
-Lacchiarella,391695
+Lacchiarella,383806
 Lainate,760206
 Legnano,2661079
 Liscate,113490
@@ -1749,7 +1749,7 @@ Arcene,182213
 Ardesio,209537
 Arzago d'Adda,228811
 Averara,167268
-Aviatico,187334
+Aviatico,151521
 Azzano San Paolo,375278
 Azzone,173015
 Bagnatica,235434
@@ -1757,7 +1757,7 @@ Barbata,158807
 Bariano,222287
 Barzana,226880
 Bedulita,71599
-Berbenno,69528
+Berbenno,61995
 Bergamo,6925745
 Berzo San Fermo,185594
 Bianzano,0
@@ -1773,7 +1773,7 @@ Bracca,39074
 Branzi,162447
 Brembate,410244
 Brembate di Sopra,373293
-Brignano Gera d'Adda,290946
+Brignano Gera d'Adda,277226
 Brumano,10172
 Brusaporto,311609
 Calcinate,379059
@@ -1783,7 +1783,7 @@ Calvenzano,240354
 Camerata Cornello,218989
 Canonica d'Adda,134648
 Capizzone,142465
-Capriate San Gervasio,412317
+Capriate San Gervasio,395167
 Caprino Bergamasco,43596
 Caravaggio,351460
 Carobbio degli Angeli,111216
@@ -1793,9 +1793,9 @@ Casazza,152526
 Casirate d'Adda,241261
 Casnigo,212428
 Cassiglio,81800
-Castelli Calepio,368610
+Castelli Calepio,351460
 Castel Rozzone,127646
-Castione della Presolana,217045
+Castione della Presolana,205138
 Castro,115030
 Cavernago,212853
 Cazzano Sant'Andrea,0
@@ -1809,7 +1809,7 @@ Cisano Bergamasco,268531
 Ciserano,383859
 Cividate al Piano,372441
 Clusone,429333
-Colere,169006
+Colere,164875
 Cologno al Serio,374293
 Colzate,151225
 Comun Nuovo,217288
@@ -1822,7 +1822,7 @@ Covo,113825
 Credaro,0
 Curno,376166
 Cusio,175078
-Dalmine,872946
+Dalmine,674477
 Dossena,128079
 Endine Gaiano,256498
 Entratico,218138
@@ -1853,7 +1853,7 @@ Grumello del Monte,363451
 Isola di Fondra,205635
 Isso,0
 Lallio,121684
-Leffe,248382
+Leffe,237933
 Lenna,176657
 Levate,132623
 Locatello,189645
@@ -1868,10 +1868,10 @@ Misano di Gera d'Adda,72862
 Moio de' Calvi,111064
 Monasterolo del Castello,165810
 Montello,121971
-Morengo,119393
-Mornico al Serio,187946
+Morengo,98148
+Mornico al Serio,133316
 Mozzanica,129895
-Mozzo,360623
+Mozzo,344159
 Nembro,398377
 Olmo al Brembo,90094
 Oltre il Colle,29924
@@ -1899,8 +1899,8 @@ Pognano,108019
 Ponte Nossa,88600
 Ponteranica,391304
 Ponte San Pietro,353102
-Pontida,238647
-Pontirolo Nuovo,234284
+Pontida,208297
+Pontirolo Nuovo,222134
 Pradalunga,139747
 Predore,184409
 Premolo,193047
@@ -1912,7 +1912,7 @@ Riva di Solto,112310
 Rogno,90094
 Romano di Lombardia,734363
 Roncobello,147840
-Roncola,163542
+Roncola,160626
 Rota d'Imagna,10172
 Rovetta,191711
 San Giovanni Bianco,210688
@@ -1946,7 +1946,7 @@ Torre de' Roveri,181818
 Torre Pallavicina,167531
 Trescore Balneario,235600
 Treviglio,1135587
-Treviolo,314584
+Treviolo,305326
 Ubiale Clanezzo,160021
 Urgnano,365346
 Valbondione,218989
@@ -1961,7 +1961,7 @@ Verdello,379717
 Vertova,273944
 Viadanica,169371
 Vigano San Martino,202713
-Vigolo,96009
+Vigolo,82048
 Villa d'Adda,79718
 Villa d'Almè,304871
 Villa di Serio,405286
@@ -1996,7 +1996,7 @@ Berlingo,48691
 Berzo Demo,212312
 Berzo Inferiore,211826
 Bienno,225554
-Bione,195591
+Bione,153708
 Borgo San Giacomo,294313
 Borgosatollo,389347
 Borno,213397
@@ -2039,7 +2039,7 @@ Collio,217168
 Cologne,401003
 Comezzano-Cizzago,137190
 Concesio,372807
-Corte Franca,358946
+Corte Franca,355859
 Corteno Golgi,197135
 Corzano,167109
 Darfo Boario Terme,443813
@@ -2058,7 +2058,7 @@ Gavardo,392279
 Ghedi,400736
 Gianico,210368
 Gottolengo,247031
-Gussago,422536
+Gussago,353119
 Idro,211309
 Incudine,185603
 Irma,136422
@@ -2234,7 +2234,7 @@ Cilavegna,192577
 Codevilla,190483
 Confienza,166926
 Copiano,183412
-Corana,184229
+Corana,172808
 Corvino San Quirico,90094
 Costa de' Nobili,127349
 Cozzo,141809
@@ -2247,7 +2247,7 @@ Frascarolo,186448
 Galliavola,127167
 Gambarana,147461
 Gambolò,226626
-Garlasco,388070
+Garlasco,383954
 Gerenzago,150496
 Giussago,173700
 Godiasco Salice Terme,216823
@@ -2258,14 +2258,14 @@ Inverno e Monteleone,159659
 Landriano,289842
 Langosco,115020
 Lardirago,109805
-Linarolo,231126
+Linarolo,220920
 Lirio,38280
 Lomello,135550
 Lungavilla,193851
 Magherno,122346
 Marcignago,181955
 Marzano,181952
-Mede,386601
+Mede,379741
 Menconico,194583
 Mezzana Bigli,220957
 Mezzana Rabattone,195072
@@ -2294,7 +2294,7 @@ Pieve del Cairo,184987
 Pieve Porto Morone,119661
 Pinarolo Po,197131
 Pizzale,158933
-Ponte Nizza,236263
+Ponte Nizza,228730
 Portalbera,0
 Rea,0
 Redavalle,164310
@@ -2303,8 +2303,8 @@ Rivanazzano Terme,416602
 Robbio,221738
 Robecco Pavese,127349
 Rocca de' Giorgi,86314
-Rocca Susella,243876
-Rognano,90174
+Rocca Susella,231726
+Rognano,89202
 Romagnese,220800
 Roncaro,0
 Rosasco,195799
@@ -2325,7 +2325,7 @@ San Zenone al Po,160668
 Sartirana Lomellina,161913
 Scaldasole,201750
 Semiana,202113
-Silvano Pietra,198229
+Silvano Pietra,186808
 Siziano,340778
 Sommo,156686
 Spessa,95470
@@ -2388,9 +2388,9 @@ Casaletto Ceredano,193485
 Casaletto di Sopra,67497
 Casaletto Vaprio,186082
 Casalmaggiore,397994
-Casalmorano,144117
+Casalmorano,128942
 Casteldidone,186818
-Castel Gabbiano,195672
+Castel Gabbiano,176855
 Castelleone,345302
 Castelverde,335965
 Castelvisconti,41649
@@ -2404,7 +2404,7 @@ Credera Rubbiano,185838
 Crema,2569349
 Cremona,2947128
 Cremosano,193485
-Crotta d'Adda,170338
+Crotta d'Adda,151521
 Cumignano sul Naviglio,198341
 Derovere,69926
 Dovera,214670
@@ -2414,11 +2414,11 @@ Gabbioneta-Binanuova,160052
 Gadesco-Pieve Delmona,108430
 Genivolta,57599
 Gerre de' Caprioli,171436
-Gombito,179443
+Gombito,151521
 Grontardo,54104
 Grumello Cremonese ed Uniti,194822
 Gussola,194822
-Isola Dovarese,204175
+Isola Dovarese,195913
 Izano,184867
 Madignano,225415
 Malagnino,192032
@@ -2434,13 +2434,13 @@ Paderno Ponchielli,191664
 Palazzo Pignano,197338
 Pandino,393018
 Persico Dosimo,126357
-Pescarolo ed Uniti,178229
-Pessina Cremonese,204175
+Pescarolo ed Uniti,151521
+Pessina Cremonese,195913
 Pianengo,219706
 Pieranica,186324
 Pieve d'Olmi,174668
-Pieve San Giacomo,180657
-Pizzighettone,400394
+Pieve San Giacomo,151521
+Pizzighettone,387703
 Pozzaglio ed Uniti,162699
 Quintano,186445
 Ricengo,184867
@@ -2461,7 +2461,7 @@ Scandolara Ripa d'Oglio,54104
 Sergnano,239085
 Sesto ed Uniti,194966
 Solarolo Rainerio,72355
-Soncino,384889
+Soncino,374599
 Soresina,404260
 Sospiro,99751
 Spinadesco,194699
@@ -2471,9 +2471,9 @@ Stagno Lombardo,168517
 Ticengo,103077
 Torlino Vimercati,194822
 Tornata,111784
-Torre de' Picenardi,203568
+Torre de' Picenardi,195306
 Torricella del Pizzo,151521
-Trescore Cremasco,25915
+Trescore Cremasco,21301
 Trigolo,150066
 Vaiano Cremasco,231731
 Vailate,223471
@@ -2484,7 +2484,7 @@ Acquanegra sul Chiese,130276
 Asola,368172
 Bagnolo San Vito,383465
 Bozzolo,239039
-Canneto sull'Oglio,108529
+Canneto sull'Oglio,105494
 Casalmoro,70025
 Casaloldo,244117
 Casalromano,161893
@@ -2499,7 +2499,7 @@ Commessaggio,183212
 Curtatone,366109
 Dosolo,205138
 Gazoldo degli Ippoliti,16849
-Gazzuolo,217775
+Gazzuolo,205625
 Goito,308430
 Gonzaga,320807
 Guidizzolo,381963
@@ -2508,7 +2508,7 @@ Mantova,2799958
 Marcaria,82674
 Mariana Mantovana,184625
 Marmirolo,394569
-Medole,122785
+Medole,103968
 Moglia,366099
 Monzambano,234274
 Motteggiana,98675
@@ -2517,7 +2517,7 @@ Pegognaga,381614
 Piubega,123884
 Poggio Rusco,335084
 Pomponesco,179430
-Ponti sul Mincio,121522
+Ponti sul Mincio,102705
 Porto Mantovano,365976
 Quingentole,73420
 Quistello,357708
@@ -2535,7 +2535,7 @@ San Martino dall'Argine,201893
 Schivenoglia,156867
 Sermide e Felonica,311331
 Serravalle a Po,165521
-Solferino,122178
+Solferino,103968
 Sustinente,151521
 Suzzara,417534
 Viadana,337846
@@ -2616,15 +2616,15 @@ Rogeno,229361
 Santa Maria Hoè,130565
 Sirone,163730
 Sirtori,217185
-Sueglio,61363
+Sueglio,60634
 Suello,215954
-Taceno,161893
+Taceno,153388
 Valgreghentino,183960
 Valmadrera,361650
 Varenna,160587
 Vercurago,206153
 Viganò,186818
-Verderio,294967
+Verderio,280904
 La Valletta Brianza,176934
 Valvarrone,139951
 Abbadia Cerreto,174650
@@ -2664,7 +2664,7 @@ Marudo,181952
 Massalengo,141202
 Meleti,0
 Merlino,161357
-Montanaso Lombardo,229915
+Montanaso Lombardo,217765
 Mulazzano,379530
 Orio Litta,199563
 Ospedaletto Lodigiano,209267
@@ -2718,7 +2718,7 @@ Lissone,460479
 Macherio,184704
 Meda,741094
 Mezzago,163533
-Misinto,367872
+Misinto,355524
 Monza,2766363
 Muggiò,620120
 Nova Milanese,608386
@@ -2799,7 +2799,7 @@ Moso in Passiria/Moos in Passeier,140556
 Nalles/Nals,163461
 Naturno/Naturns,344168
 Naz-Sciaves/Natz-Schabs,173941
-Nova Levante/Welschnofen,163461
+Nova Levante/Welschnofen,162489
 Nova Ponente/Deutschnofen,207154
 Ora/Auer,133898
 Ortisei/St. Ulrich,210741
@@ -2869,7 +2869,7 @@ Bedollo,104094
 Besenello,104094
 Bieno,104094
 Bleggio Superiore,151521
-Bocenago,109197
+Bocenago,104094
 Bondone,140768
 Borgo Valsugana,342384
 Brentonico,112501
@@ -2958,13 +2958,13 @@ Roncegno Terme,189845
 Ronchi Valsugana,145371
 Ronzone,151521
 Roverè della Luna,133090
-Rovereto,461507
+Rovereto,425107
 Ruffrè-Mendola,151521
 Rumo,142315
 Sagron Mis,104094
 Samone,123846
 San Michele all'Adige,139614
-Sant'Orsola Terme,147399
+Sant'Orsola Terme,142296
 Sanzeno,104094
 Sarnonico,24172
 Scurelle,123846
@@ -3053,7 +3053,7 @@ Costermano sul Garda,214850
 Dolcè,188066
 Erbè,184145
 Erbezzo,123158
-Ferrara di Monte Baldo,113328
+Ferrara di Monte Baldo,104094
 Fumane,247506
 Garda,261087
 Gazzo Veronese,319116
@@ -3170,7 +3170,7 @@ Malo,359846
 Marano Vicentino,312954
 Marostica,224440
 Montebello Vicentino,295034
-Montecchio Maggiore,762980
+Montecchio Maggiore,648640
 Montecchio Precalcino,158964
 Monte di Malo,166784
 Montegalda,216408
@@ -3200,8 +3200,8 @@ Rossano Veneto,346690
 Rotzo,147181
 Salcedo,96957
 Sandrigo,342563
-San Pietro Mussolino,92024
-Santorso,338786
+San Pietro Mussolino,91295
+Santorso,321636
 San Vito di Leguzzano,194141
 Sarcedo,289902
 Sarego,326760
@@ -3218,7 +3218,7 @@ Torri di Quartesolo,335678
 Trissino,390874
 Valdagno,595975
 Valdastico,159783
-Valli del Pasubio,194141
+Valli del Pasubio,181991
 Velo d'Astico,39074
 Vicenza,1775044
 Villaga,170842
@@ -3287,10 +3287,10 @@ Voltago Agordino,151521
 Zoppè di Cadore,151521
 Quero Vas,209011
 Longarone,332206
-Alpago,361143
+Alpago,357543
 Val di Zoldo,194835
 Altivole,376725
-Arcade,230421
+Arcade,222888
 Asolo,351460
 Borso del Grappa,361309
 Breda di Piave,258385
@@ -3341,7 +3341,7 @@ Nervesa della Battaglia,368897
 Oderzo,749397
 Ormelle,202629
 Orsago,212958
-Paese,652055
+Paese,629487
 Pederobba,380415
 Pieve di Soligo,350324
 Ponte di Piave,332775
@@ -3372,12 +3372,12 @@ Spresiano,402199
 Susegana,344820
 Tarzo,200816
 Trevignano,140954
-Treviso,2387610
+Treviso,2351210
 Valdobbiadene,348607
 Vazzola,311455
 Vedelago,181577
 Vidor,205138
-Villorba,213540
+Villorba,206337
 Vittorio Veneto,799312
 Volpago del Montello,336295
 Zenson di Piave,174939
@@ -3410,7 +3410,7 @@ Musile di Piave,340885
 Noale,206710
 Noventa di Piave,311570
 Pianiga,350158
-Portogruaro,702400
+Portogruaro,687112
 Pramaggiore,123366
 Quarto d'Altino,313290
 Salzano,319977
@@ -3426,7 +3426,7 @@ Torre di Mosto,212185
 Venezia,12146546
 Vigonovo,319283
 Cavallino-Treporti,215468
-Abano Terme,693024
+Abano Terme,682104
 Agna,205138
 Albignasego,630721
 Anguillara Veneta,237926
@@ -3453,7 +3453,7 @@ Cartura,198141
 Casale di Scodosia,201333
 Casalserugo,343308
 Castelbaldo,148451
-Cervarese Santa Croce,375904
+Cervarese Santa Croce,367329
 Cinto Euganeo,161970
 Cittadella,433563
 Codevigo,238717
@@ -3488,7 +3488,7 @@ Piacenza d'Adige,197744
 Piazzola sul Brenta,191785
 Piombino Dese,324013
 Piove di Sacco,700258
-Polverara,231370
+Polverara,219706
 Ponso,173233
 Pontelongo,233554
 Ponte San Nicolò,355651
@@ -3543,7 +3543,7 @@ Castelmassa,138251
 Castelnovo Bariano,232945
 Ceneselli,161241
 Ceregnano,209389
-Corbola,153222
+Corbola,151521
 Costa di Rovigo,208093
 Crespino,159535
 Ficarolo,186818
@@ -3566,7 +3566,7 @@ Polesella,215757
 Pontecchio Polesine,171194
 Porto Tolle,357536
 Rosolina,361950
-Rovigo,1665463
+Rovigo,1637071
 Salara,117212
 San Bellino,185236
 San Martino di Venezze,194668
@@ -3575,7 +3575,7 @@ Taglio di Po,378265
 Trecenta,221049
 Villadose,172362
 Villamarzana,194092
-Villanova del Ghebbo,183173
+Villanova del Ghebbo,174668
 Villanova Marchesana,165724
 Porto Viro,384706
 Aiello del Friuli,7301
@@ -3870,7 +3870,7 @@ Balestrino,222024
 Bardineto,153342
 Bergeggi,193608
 Boissano,209509
-Borghetto Santo Spirito,253509
+Borghetto Santo Spirito,241359
 Borgio Verezzi,80746
 Bormida,160668
 Cairo Montenotte,231247
@@ -3907,7 +3907,7 @@ Ortovero,90094
 Osiglia,80746
 Pallare,80746
 Piana Crixia,57599
-Pietra Ligure,378257
+Pietra Ligure,343977
 Plodio,83781
 Pontinvrea,80746
 Quiliano,40443
@@ -3946,7 +3946,7 @@ Chiavari,1723363
 Cicagna,179628
 Cogoleto,324664
 Cogorno,233068
-Coreglia Ligure,92524
+Coreglia Ligure,90094
 Crocefieschi,237806
 Davagna,204174
 Fascia,195070
@@ -3995,7 +3995,7 @@ Uscio,134619
 Valbrevenna,147323
 Vobbia,220810
 Zoagli,138765
-Ameglia,205893
+Ameglia,204678
 Arcola,355576
 Beverino,82067
 Bolano,302951
@@ -4037,7 +4037,7 @@ Cadeo,355310
 Calendasco,142315
 Caorso,219466
 Carpaneto Piacentino,321062
-Castell'Arquato,144131
+Castell'Arquato,133439
 Castel San Giovanni,372028
 Castelvetro Piacentino,250863
 Cerignale,96886
@@ -4045,7 +4045,7 @@ Coli,64829
 Corte Brugnatella,61427
 Cortemaggiore,103962
 Farini,166696
-Ferriere,78966
+Ferriere,78237
 Fiorenzuola d'Arda,394721
 Gazzola,194583
 Gossolengo,311570
@@ -4062,12 +4062,12 @@ Podenzano,366987
 Ponte dell'Olio,133731
 Pontenure,164007
 Rivergaro,333424
-Rottofreno,322987
+Rottofreno,318871
 San Giorgio Piacentino,334888
 San Pietro in Cerro,157131
 Sarmato,214028
 Travo,146918
-Vernasca,98732
+Vernasca,91442
 Vigolzone,198266
 Villanova sull'Arda,208301
 Zerba,17035
@@ -4213,15 +4213,15 @@ Bologna,13038291
 Borgo Tossignano,178610
 Budrio,398963
 Calderara di Reno,358369
-Camugnano,192517
+Camugnano,188629
 Casalecchio di Reno,702852
 Casalfiumanese,167991
 Castel d'Aiano,186808
 Castel del Rio,137521
-Castel di Casio,231826
+Castel di Casio,227452
 Castel Guelfo di Bologna,167991
-Castello d'Argile,283133
-Castel Maggiore,315097
+Castello d'Argile,281761
+Castel Maggiore,304464
 Castel San Pietro Terme,646428
 Castenaso,385756
 Castiglione dei Pepoli,405983
@@ -4229,7 +4229,7 @@ Crevalcore,375346
 Dozza,308742
 Fontanelice,137521
 Gaggio Montano,221494
-Galliera,289484
+Galliera,272334
 Granarolo dell'Emilia,392229
 Grizzana Morandi,216671
 Imola,1726308
@@ -4247,13 +4247,13 @@ Monzuno,375705
 Mordano,167991
 Ozzano dell'Emilia,366236
 Pianoro,390588
-Pieve di Cento,309542
+Pieve di Cento,299595
 Sala Bolognese,365931
 San Benedetto Val di Sambro,223955
-San Giorgio di Piano,303756
+San Giorgio di Piano,289007
 San Giovanni in Persiceto,683302
 San Lazzaro di Savena,785031
-San Pietro in Casale,316010
+San Pietro in Casale,300232
 Sant'Agata Bolognese,380336
 Sasso Marconi,391672
 Vergato,403862
@@ -4261,7 +4261,7 @@ Zola Predosa,327936
 Valsamoggia,695554
 Alto Reno Terme,371952
 Argenta,468321
-Bondeno,346413
+Bondeno,329263
 Cento,783019
 Codigoro,382889
 Comacchio,798268
@@ -4294,10 +4294,10 @@ Lugo,633113
 Massa Lombarda,329454
 Ravenna,3973658
 Riolo Terme,330129
-Russi,399230
+Russi,386882
 Sant'Agata sul Santerno,189669
 Solarolo,171490
-Bagno di Romagna,365297
+Bagno di Romagna,348147
 Bertinoro,158454
 Borghi,72828
 Castrocaro Terme e Terra del Sole,163874
@@ -4312,9 +4312,9 @@ Gambettola,148026
 Gatteo,140725
 Longiano,140725
 Meldola,123011
-Mercato Saraceno,354156
+Mercato Saraceno,337006
 Modigliana,107316
-Montiano,146315
+Montiano,134165
 Portico e San Benedetto,76221
 Predappio,131418
 Premilcuore,79863
@@ -4322,11 +4322,11 @@ Rocca San Casciano,76221
 Roncofreddo,40224
 San Mauro Pascoli,150791
 Santa Sofia,90806
-Sarsina,201467
+Sarsina,189317
 Savignano sul Rubicone,134904
 Sogliano al Rubicone,51949
 Tredozio,76221
-Verghereto,183423
+Verghereto,171273
 Bellaria-Igea Marina,289772
 Cattolica,345490
 Coriano,376905
@@ -4372,7 +4372,7 @@ Zeri,218382
 Altopascio,420030
 Bagni di Lucca,380773
 Barga,348167
-Borgo a Mozzano,324725
+Borgo a Mozzano,314092
 Camaiore,803370
 Camporgiano,163178
 Capannori,757512
@@ -4424,7 +4424,7 @@ Abetone Cutigliano,122899
 San Marcello Piteglio,373417
 Bagno a Ripoli,662868
 Barberino di Mugello,317281
-Borgo San Lorenzo,381061
+Borgo San Lorenzo,363911
 Calenzano,279876
 Campi Bisenzio,665964
 Capraia e Limite,173637
@@ -4478,7 +4478,7 @@ Porto Azzurro,89776
 Portoferraio,416934
 Rosignano Marittimo,776737
 San Vincenzo,398360
-Sassetta,211702
+Sassetta,203197
 Suvereto,219996
 Rio,191973
 Bientina,336564
@@ -4525,7 +4525,7 @@ Bibbiena,204017
 Bucine,163637
 Capolona,190343
 Caprese Michelangelo,114326
-Castel Focognano,118928
+Castel Focognano,111395
 Castel San Niccolò,201301
 Castiglion Fibocchi,153499
 Castiglion Fiorentino,425007
@@ -4536,7 +4536,7 @@ Civitella in Val di Chiana,340225
 Cortona,782353
 Foiano della Chiana,370360
 Loro Ciuffenna,365937
-Lucignano,211982
+Lucignano,205664
 Marciano della Chiana,172791
 Montemignaio,94468
 Monterchi,137521
@@ -4552,7 +4552,7 @@ Subbiano,189578
 Talla,90857
 Terranuova Bracciolini,371297
 Castelfranco Piandiscò,332928
-Pratovecchio Stia,197205
+Pratovecchio Stia,166353
 Laterina Pergine Valdarno,324588
 Abbadia San Salvatore,331737
 Asciano,317336
@@ -4583,7 +4583,7 @@ San Casciano dei Bagni,115337
 San Gimignano,362604
 San Quirico d'Orcia,97486
 Sarteano,236127
-Siena,1922659
+Siena,1847629
 Sinalunga,422678
 Sovicille,371656
 Torrita di Siena,389669
@@ -4665,13 +4665,13 @@ Passignano sul Trasimeno,331093
 Perugia,6020037
 Piegaro,181782
 Pietralunga,99724
-Poggiodomo,98580
+Poggiodomo,92991
 Preci,99268
 San Giustino,274727
 Sant'Anatolia di Narco,138604
 Scheggia e Pascelupo,150496
 Scheggino,94746
-Sellano,172754
+Sellano,169352
 Sigillo,167969
 Spello,320434
 Spoleto,744828
@@ -4680,19 +4680,19 @@ Torgiano,379574
 Trevi,339672
 Tuoro sul Trasimeno,115005
 Umbertide,309897
-Valfabbrica,185933
+Valfabbrica,175970
 Vallo di Nera,47427
 Valtopina,89998
 Acquasparta,202267
-Allerona,74518
-Alviano,79522
+Allerona,70387
+Alviano,71746
 Amelia,376199
 Arrone,204479
 Attigliano,170478
 Baschi,191138
 Calvi dell'Umbria,181229
 Castel Giorgio,146993
-Castel Viscardo,82765
+Castel Viscardo,76690
 Fabro,205293
 Ferentillo,139856
 Ficulle,171539
@@ -4762,7 +4762,7 @@ Sassofeltrio,177825
 Serra Sant'Abbondio,137552
 Tavoleto,42902
 Tavullia,318954
-Urbania,347903
+Urbania,341047
 Urbino,552588
 Vallefoglia,103388
 Colli al Metauro,356047
@@ -4814,7 +4814,7 @@ Serra San Quirico,204479
 Sirolo,138884
 Staffolo,179891
 Trecastelli,279095
-Apiro,220581
+Apiro,190231
 Appignano,227007
 Belforte del Chienti,154556
 Bolognola,154224
@@ -4868,7 +4868,7 @@ Treia,304191
 Urbisaglia,147907
 Ussita,148150
 Visso,152767
-Valfornace,175687
+Valfornace,166696
 Acquasanta Terme,226993
 Acquaviva Picena,185174
 Appignano del Tronto,210004
@@ -4948,7 +4948,7 @@ Bagnoregio,122743
 Barbarano Romano,169599
 Bassano Romano,185862
 Bassano in Teverina,127349
-Blera,238677
+Blera,203471
 Bolsena,189532
 Bomarzo,56532
 Calcata,190450
@@ -5001,7 +5001,7 @@ Vejano,174836
 Vetralla,343394
 Vignanello,210292
 Viterbo,2151701
-Vitorchiano,345594
+Vitorchiano,330159
 Accumoli,100501
 Amatrice,176327
 Antrodoco,176481
@@ -5034,12 +5034,12 @@ Forano,155495
 Frasso Sabino,105431
 Greccio,195235
 Labro,168033
-Leonessa,230930
+Leonessa,218780
 Longone Sabino,154857
 Magliano Sabina,226874
 Marcetelli,187344
 Micigliano,159534
-Mompeo,80977
+Mompeo,75388
 Montasola,186737
 Montebuono,155909
 Monteleone Sabino,24172
@@ -5080,7 +5080,7 @@ Agosta,112116
 Albano Laziale,4587330
 Allumiere,253101
 Anguillara Sabazia,338355
-Anticoli Corrado,105583
+Anticoli Corrado,97321
 Anzio,748857
 Arcinazzo Romano,171300
 Ariccia,397629
@@ -5120,9 +5120,9 @@ Genazzano,350905
 Genzano di Roma,814255
 Gerano,101495
 Gorga,179647
-Grottaferrata,710078
-Guidonia Montecelio,1047726
-Jenne,134653
+Grottaferrata,673678
+Guidonia Montecelio,1011326
+Jenne,90094
 Labico,380178
 Lanuvio,405741
 Licenza,180033
@@ -5141,7 +5141,7 @@ Montelibretti,317116
 Monte Porzio Catone,399283
 Monterotondo,784981
 Montorio Romano,63631
-Moricone,208302
+Moricone,200769
 Morlupo,404945
 Nazzano,211947
 Nemi,202713
@@ -5160,15 +5160,15 @@ Rignano Flaminio,311712
 Riofreddo,0
 Rocca Canterano,136513
 Rocca di Cave,122746
-Rocca di Papa,270301
+Rocca di Papa,197456
 Roccagiovine,189246
-Rocca Priora,336021
+Rocca Priora,318871
 Rocca Santo Stefano,68471
 Roiate,65072
 Roma,73434299
 Roviano,84574
 Sacrofano,422375
-Sambuci,185017
+Sambuci,169842
 San Gregorio da Sassola,127349
 San Polo dei Cavalieri,215325
 Santa Marinella,387558
@@ -5213,7 +5213,7 @@ Minturno,337460
 Monte San Biagio,380737
 Norma,253465
 Pontinia,334402
-Ponza,141233
+Ponza,116953
 Priverno,456652
 Prossedi,167411
 Roccagorga,238525
@@ -5222,7 +5222,7 @@ Roccasecca dei Volsci,192295
 Sabaudia,398999
 San Felice Circeo,129293
 Santi Cosma e Damiano,270365
-Sermoneta,341332
+Sermoneta,324182
 Sezze,856870
 Sonnino,373314
 Sperlonga,234881
@@ -5237,8 +5237,8 @@ Amaseno,275860
 Anagni,801122
 Aquino,252015
 Arce,428257
-Arnara,228094
-Arpino,390056
+Arnara,186818
+Arpino,385940
 Atina,262506
 Ausonia,47427
 Belmonte Castello,222631
@@ -5312,7 +5312,7 @@ Trevi nel Lazio,71540
 Trivigliano,168395
 Vallecorsa,133556
 Vallemaio,181472
-Vallerotonda,87873
+Vallerotonda,79375
 Veroli,427245
 Vicalvi,94315
 Vico nel Lazio,151814
@@ -5324,7 +5324,7 @@ Acciano,106571
 Aielli,120124
 Alfedena,186818
 Anversa degli Abruzzi,189236
-Ateleta,172526
+Ateleta,154923
 Avezzano,456044
 Balsorano,203821
 Barete,76329
@@ -5333,59 +5333,59 @@ Barrea,137521
 Bisegna,52782
 Bugnara,41168
 Cagnano Amiterno,73567
-Calascio,55338
+Calascio,47319
 Campo di Giove,224936
 Campotosto,24901
 Canistro,174668
-Cansano,140165
+Cansano,132146
 Capestrano,174668
 Capistrello,212439
 Capitignano,191791
-Caporciano,187894
-Cappadocia,190296
+Caporciano,176473
+Cappadocia,182520
 Carapelle Calvisio,76329
 Carsoli,361925
 Castel del Monte,80244
-Castel di Ieri,184252
+Castel di Ieri,172831
 Castel di Sangro,382202
 Castellafiume,102637
 Castelvecchio Calvisio,141349
-Castelvecchio Subequo,197007
+Castelvecchio Subequo,185586
 Celano,261248
-Cerchio,137078
+Cerchio,132704
 Civita d'Antino,203928
 Civitella Alfedena,186649
 Civitella Roveto,249189
-Cocullo,204906
+Cocullo,193485
 Collarmele,201992
 Collelongo,150496
-Collepietro,142964
+Collepietro,136403
 Corfinio,174668
 Fagnano Alto,68463
-Fontecchio,158742
-Fossa,217653
-Gagliano Aterno,155100
+Fontecchio,147321
+Fossa,206232
+Gagliano Aterno,143679
 Gioia dei Marsi,163593
-Goriano Sicoli,132153
+Goriano Sicoli,123648
 Introdacqua,142465
-L'Aquila,5614807
+L'Aquila,5347309
 Lecce nei Marsi,139988
 Luco dei Marsi,351460
-Lucoli,156921
+Lucoli,145500
 Magliano de' Marsi,213919
 Massa d'Albe,179285
 Molina Aterno,175990
 Montereale,69619
 Morino,206113
-Navelli,161899
+Navelli,149749
 Ocre,127349
 Ofena,123648
 Opi,100882
 Oricola,71540
-Ortona dei Marsi,162942
+Ortona dei Marsi,151521
 Ortucchio,100501
 Ovindoli,134574
-Pacentro,201983
+Pacentro,174668
 Pereto,186082
 Pescasseroli,180822
 Pescina,205138
@@ -5394,7 +5394,7 @@ Pettorano sul Gizio,178310
 Pizzoli,191959
 Poggio Picenze,186086
 Prata d'Ansidonia,158198
-Pratola Peligna,356472
+Pratola Peligna,352013
 Prezza,199555
 Raiano,217295
 Rivisondoli,147321
@@ -5402,24 +5402,24 @@ Roccacasale,197736
 Rocca di Botte,81606
 Rocca di Cambio,142315
 Rocca di Mezzo,143679
-Rocca Pia,122433
-Roccaraso,237046
+Rocca Pia,112956
+Roccaraso,234616
 San Benedetto dei Marsi,238533
-San Benedetto in Perillis,180610
+San Benedetto in Perillis,169189
 San Demetrio ne' Vestini,111992
 San Pio delle Camere,161840
-Sante Marie,166706
-Sant'Eusanio Forconese,135004
+Sante Marie,154556
+Sant'Eusanio Forconese,123583
 Santo Stefano di Sessanio,178310
 San Vincenzo Valle Roveto,127241
 Scanno,132987
 Scontrone,51936
-Scoppito,184890
+Scoppito,173469
 Scurcola Marsicana,254315
-Secinaro,160579
+Secinaro,149158
 Sulmona,619252
 Tagliacozzo,357627
-Tione degli Abruzzi,135595
+Tione degli Abruzzi,124174
 Tornimparte,231633
 Trasacco,415982
 Villalago,183692
@@ -5427,7 +5427,7 @@ Villa Santa Lucia degli Abruzzi,139349
 Villa Sant'Angelo,76143
 Villavallelonga,90094
 Villetta Barrea,223992
-Vittorito,94062
+Vittorito,89202
 Alba Adriatica,397916
 Ancarano,174668
 Arsita,197130
@@ -5450,7 +5450,7 @@ Colonnella,88069
 Controguerra,197127
 Corropoli,375509
 Cortino,160668
-Crognaleto,208063
+Crognaleto,195913
 Fano Adriano,98592
 Giulianova,706831
 Isola del Gran Sasso d'Italia,252295
@@ -5470,10 +5470,10 @@ Sant'Omero,121992
 Silvi,421524
 Teramo,1834514
 Torano Nuovo,141349
-Torricella Sicura,81194
+Torricella Sicura,75848
 Tortoreto,399452
 Tossicia,160668
-Valle Castellana,181472
+Valle Castellana,174668
 Martinsicuro,215080
 Abbateggio,172531
 Alanno,231703
@@ -5482,19 +5482,19 @@ Brittoli,171782
 Bussi sul Tirino,153465
 Cappelle sul Tavo,191490
 Caramanico Terme,229308
-Carpineto della Nora,97539
+Carpineto della Nora,96567
 Castiglione a Casauria,200163
 Catignano,177461
 Cepagatti,209057
 Città Sant'Angelo,429876
 Civitaquana,147913
-Civitella Casanova,118085
+Civitella Casanova,112739
 Collecorvino,376313
-Corvara,186818
+Corvara,174668
 Cugnoli,181345
 Elice,111987
 Farindola,155895
-Lettomanoppello,243779
+Lettomanoppello,236489
 Loreto Aprutino,35013
 Manoppello,355884
 Montebello di Bertona,155895
@@ -5502,32 +5502,32 @@ Montesilvano,1146038
 Moscufo,217288
 Nocciano,194830
 Penne,394131
-Pescara,3049559
-Pescosansonesco,154710
+Pescara,3014545
+Pescosansonesco,146205
 Pianella,344510
 Picciano,78403
 Pietranico,171780
 Popoli,59019
-Roccamorice,175188
+Roccamorice,164496
 Rosciano,230049
 Salle,167793
 Sant'Eufemia a Maiella,211705
-San Valentino in Abruzzo Citeriore,222428
+San Valentino in Abruzzo Citeriore,215138
 Scafa,209998
-Serramonacesca,200048
+Serramonacesca,191057
 Spoltore,374338
 Tocco da Casauria,174668
 Torre de' Passeri,248826
 Turrivalignani,163301
 Vicoli,97539
 Villa Celiera,155895
-Altino,238282
+Altino,236095
 Archi,195455
 Ari,157131
-Arielli,97103
+Arielli,84953
 Atessa,402866
-Bomba,215347
-Borrello,181229
+Bomba,203197
+Borrello,174668
 Bucchianico,219328
 Montebello sul Sangro,194670
 Canosa Sannita,174668
@@ -5566,7 +5566,7 @@ Giuliano Teatino,195455
 Guardiagrele,382124
 Guilmi,222664
 Lama dei Peligni,166926
-Lanciano,839329
+Lanciano,815305
 Lentella,180131
 Lettopalena,211705
 Liscia,200167
@@ -5574,17 +5574,17 @@ Miglianico,255177
 Montazzoli,212676
 Monteferrante,206236
 Montelapiano,212312
-Montenerodomo,210003
+Montenerodomo,200769
 Monteodorisio,214870
 Mozzagrogna,177341
-Orsogna,217288
+Orsogna,205138
 Ortona,809892
 Paglieta,222963
 Palena,229684
 Palmoli,208666
 Palombaro,133316
 Pennadomo,200162
-Pennapiedimonte,143846
+Pennapiedimonte,138986
 Perano,200162
 Pizzoferrato,221417
 Poggiofiorito,215347
@@ -5595,7 +5595,7 @@ Rapino,211088
 Ripa Teatina,253801
 Roccamontepiano,174668
 Rocca San Giovanni,221781
-Roccascalegna,206842
+Roccascalegna,203197
 Roccaspinalveti,187418
 Roio del Sangro,158805
 Rosello,205625
@@ -5607,7 +5607,7 @@ San Salvo,343046
 Santa Maria Imbaro,215864
 Sant'Eusanio del Sangro,80957
 San Vito Chietino,417239
-Scerni,238789
+Scerni,228826
 Schiavi di Abruzzo,218989
 Taranta Peligna,215954
 Tollo,223762
@@ -5618,7 +5618,7 @@ Torrevecchia Teatina,212185
 Torricella Peligna,188388
 Treglio,176855
 Tufillo,218989
-Vacri,110536
+Vacri,100816
 Vasto,872170
 Villalfonsina,198226
 Villamagna,203712
@@ -5626,13 +5626,13 @@ Villa Santa Maria,201622
 Pietraferrazzana,208060
 Fallo,187672
 Acquaviva Collecroce,201989
-Baranello,216469
+Baranello,205048
 Bojano,340634
 Bonefro,28568
 Busso,174668
 Campobasso,5230629
 Campochiaro,206847
-Campodipietra,222661
+Campodipietra,210511
 Campolieto,243269
 Campomarino,327166
 Casacalenda,200173
@@ -5654,7 +5654,7 @@ Gildone,178229
 Guardialfiera,101423
 Guardiaregia,177703
 Guglionesi,219628
-Jelsi,229944
+Jelsi,188668
 Larino,359716
 Limosano,160512
 Lucito,158346
@@ -5662,11 +5662,11 @@ Lupara,167451
 Macchia Valfortore,170411
 Mafalda,186818
 Matrice,134331
-Mirabello Sannitico,183092
+Mirabello Sannitico,174587
 Molise,77670
-Monacilioni,103049
+Monacilioni,71599
 Montagano,209275
-Montecilfone,194094
+Montecilfone,191664
 Montefalcone nel Sannio,193248
 Montelongo,207454
 Montemitro,214133
@@ -5683,14 +5683,14 @@ Portocannone,207454
 Provvidenti,205633
 Riccia,257619
 Ripabottoni,69203
-Ripalimosani,268089
+Ripalimosani,261042
 Roccavivara,91958
 Rotello,174668
 Salcito,224452
 San Biase,160512
 San Felice del Molise,176486
 San Giacomo degli Schiavoni,203690
-San Giovanni in Galdo,135312
+San Giovanni in Galdo,123648
 San Giuliano del Sannio,180028
 San Giuliano di Puglia,75127
 San Martino in Pensilis,224127
@@ -5711,7 +5711,7 @@ Ururi,139388
 Vinchiaturo,221557
 Acquaviva d'Isernia,211703
 Agnone,207350
-Bagnoli del Trigno,171922
+Bagnoli del Trigno,164875
 Belmonte del Sannio,195437
 Cantalupo nel Sannio,129669
 Capracotta,94746
@@ -5728,13 +5728,13 @@ Civitanova del Sannio,148164
 Colli a Volturno,221202
 Conca Casale,68915
 Filignano,151521
-Forlì del Sannio,183173
+Forlì del Sannio,174668
 Fornelli,214131
 Frosolone,256110
 Isernia,931570
 Longano,125951
 Macchia d'Isernia,210489
-Macchiagodena,29761
+Macchiagodena,24172
 Miranda,201991
 Montaquila,115026
 Montenero Val Cocchiara,126561
@@ -5756,7 +5756,7 @@ Sant'Agapito,195316
 Santa Maria del Molise,174668
 Sant'Angelo del Pesco,151521
 Sant'Elena Sannita,203569
-Scapoli,184751
+Scapoli,176489
 Sessano del Molise,161241
 Sesto Campano,174668
 Vastogirardi,186128
@@ -5775,15 +5775,15 @@ Camigliano,223237
 Cancello ed Arnone,358983
 Capodrise,209938
 Capriati a Volturno,92704
-Capua,457495
+Capua,401790
 Carinaro,414813
 Carinola,402721
-Casagiove,344749
+Casagiove,319896
 Casal di Principe,382319
 Casaluce,399903
-Casapulla,421299
+Casapulla,404149
 Caserta,7071205
-Castel Campagnano,133312
+Castel Campagnano,132097
 Castel di Sasso,142416
 Castello del Matese,98069
 Castel Morrone,148452
@@ -5795,18 +5795,18 @@ Conca della Campania,158977
 Curti,238234
 Dragoni,190171
 Fontegreca,211096
-Formicola,196297
-Francolise,154135
+Formicola,191923
+Francolise,143200
 Frignano,227563
 Gallo Matese,212310
 Galluccio,167755
 Giano Vetusto,201985
 Gioia Sannitica,267915
-Grazzanise,389918
+Grazzanise,384773
 Gricignano di Aversa,218786
 Letino,163384
 Liberi,174668
-Lusciano,372481
+Lusciano,355331
 Macerata Campania,198352
 Maddaloni,495987
 Marcianise,491464
@@ -5876,17 +5876,17 @@ Benevento,3811680
 Bonea,149423
 Bucciano,149180
 Buonalbergo,175883
-Calvi,169494
+Calvi,162447
 Campolattaro,215225
 Campoli del Monte Taburno,215951
 Casalduni,167345
 Castelfranco in Miscano,84574
 Castelpagano,182440
 Castelpoto,218986
-Castelvenere,87142
+Castelvenere,82525
 Castelvetere in Val Fortore,195431
 Cautano,233593
-Ceppaloni,235618
+Ceppaloni,225169
 Cerreto Sannita,278398
 Circello,211095
 Colle Sannita,105692
@@ -5897,7 +5897,7 @@ Faicchio,259363
 Foglianise,247635
 Foiano di Val Fortore,206240
 Forchia,118908
-Fragneto l'Abate,170345
+Fragneto l'Abate,161840
 Fragneto Monforte,134045
 Frasso Telesino,216558
 Ginestra degli Schiavoni,174668
@@ -5905,7 +5905,7 @@ Guardia Sanframondi,235855
 Limatola,178874
 Melizzano,214978
 Moiano,155695
-Molinara,221532
+Molinara,179042
 Montefalcone di Val Fortore,101731
 Montesarchio,443097
 Morcone,263302
@@ -5914,7 +5914,7 @@ Pago Veiano,112111
 Pannarano,186494
 Paolisi,212672
 Paupisi,143632
-Pesco Sannita,221417
+Pesco Sannita,209267
 Pietraroja,323467
 Pietrelcina,234470
 Ponte,137307
@@ -5955,7 +5955,7 @@ Boscotrecase,427924
 Brusciano,283619
 Caivano,536216
 Calvizzano,346182
-Camposano,392439
+Camposano,358159
 Capri,400922
 Carbonara di Nola,180050
 Cardito,488970
@@ -5963,15 +5963,15 @@ Casalnuovo di Napoli,355113
 Casamarciano,223018
 Casamicciola Terme,200768
 Casandrino,366913
-Casavatore,218107
+Casavatore,213822
 Casola di Napoli,58491
 Casoria,704847
 Castellammare di Stabia,730885
-Castello di Cisterna,258394
+Castello di Cisterna,242959
 Cercola,418043
 Cicciano,441407
 Cimitile,131505
-Comiziano,204411
+Comiziano,174668
 Crispano,389365
 Forio,361475
 Frattamaggiore,7279310
@@ -5981,7 +5981,7 @@ Gragnano,663982
 Grumo Nevano,436179
 Ischia,405050
 Lacco Ameno,247168
-Lettere,367679
+Lettere,355331
 Liveri,181958
 Marano di Napoli,1046157
 Mariglianella,264509
@@ -5991,10 +5991,10 @@ Melito di Napoli,706122
 Meta,406015
 Monte di Procida,388629
 Mugnano di Napoli,646981
-Napoli,23437878
+Napoli,23356008
 Nola,770050
 Ottaviano,696147
-Palma Campania,276387
+Palma Campania,259237
 Piano di Sorrento,412986
 Pimonte,341331
 Poggiomarino,778993
@@ -6009,13 +6009,13 @@ Quarto,740464
 Ercolano,965174
 Roccarainola,304871
 San Gennaro Vesuviano,413784
-San Giorgio a Cremano,740165
+San Giorgio a Cremano,719053
 San Giuseppe Vesuviano,408322
 San Paolo Bel Sito,113654
 San Sebastiano al Vesuvio,201111
 Sant'Agnello,411272
 Sant'Anastasia,423906
-Sant'Antimo,733620
+Sant'Antimo,666243
 Sant'Antonio Abate,376878
 San Vitaliano,339687
 Saviano,353573
@@ -6042,10 +6042,10 @@ Aquilonia,167671
 Ariano Irpino,792126
 Atripalda,408166
 Avella,415141
-Avellino,3904248
+Avellino,3884592
 Bagnoli Irpino,242772
 Baiano,252683
-Bisaccia,228204
+Bisaccia,205138
 Bonito,172994
 Cairano,220810
 Calabritto,176410
@@ -6057,17 +6057,17 @@ Carife,185598
 Casalbore,196496
 Cassano Irpino,116195
 Castel Baronia,176029
-Castelfranci,188147
+Castelfranci,174668
 Castelvetere sul Calore,127241
 Cervinara,270725
 Cesinali,205791
-Chianche,158568
+Chianche,151521
 Chiusano di San Domenico,203934
 Contrada,205138
 Conza della Campania,141506
 Domicella,164178
 Flumeri,228104
-Fontanarosa,225829
+Fontanarosa,214651
 Forino,373034
 Frigento,232092
 Gesualdo,116883
@@ -6078,18 +6078,18 @@ Guardia Lombardi,188269
 Lacedonia,190733
 Lapio,191028
 Lauro,183115
-Lioni,424291
+Lioni,407141
 Luogosano,156442
-Manocalzati,257704
+Manocalzati,245554
 Marzano di Nola,77669
 Melito Irpino,182560
 Mercogliano,423875
-Mirabella Eclano,279173
+Mirabella Eclano,269226
 Montaguto,174668
-Montecalvo Irpino,210241
+Montecalvo Irpino,205138
 Montefalcione,205138
 Monteforte Irpino,319948
-Montefredane,191304
+Montefredane,179771
 Montefusco,218379
 Montella,294982
 Montemarano,200201
@@ -6098,10 +6098,10 @@ Monteverde,167065
 Morra De Sanctis,83749
 Moschiano,218379
 Mugnano del Cardinale,345209
-Nusco,241750
-Ospedaletto d'Alpinolo,42610
+Nusco,216863
+Ospedaletto d'Alpinolo,37147
 Pago del Vallo di Lauro,195165
-Parolise,177098
+Parolise,174668
 Paternopoli,62393
 Petruro Irpino,181952
 Pietradefusi,173377
@@ -6110,7 +6110,7 @@ Prata di Principato Ultra,212383
 Pratola Serra,121256
 Quadrelle,200773
 Quindici,162937
-Roccabascerana,223845
+Roccabascerana,211695
 Rocca San Felice,180700
 Rotondi,159757
 Salza Irpina,178070
@@ -6132,13 +6132,13 @@ Scampitella,174668
 Senerchia,176126
 Serino,397638
 Sirignano,245814
-Solofra,433527
+Solofra,416377
 Sorbo Serpico,94746
 Sperone,167991
 Sturno,170421
 Summonte,152187
 Taurano,218136
-Taurasi,200895
+Taurasi,180257
 Teora,174668
 Torella dei Lombardi,192232
 Torre Le Nocelle,186818
@@ -6147,14 +6147,14 @@ Trevico,99849
 Tufo,136734
 Vallata,201322
 Vallesaccarda,156413
-Venticano,162612
+Venticano,160668
 Villamaina,151061
 Villanova del Battista,170571
 Volturara Irpina,188824
 Zungoli,174668
 Montoro,400501
 Acerno,137236
-Agropoli,730993
+Agropoli,658153
 Albanella,357291
 Alfano,167910
 Altavilla Silentina,426417
@@ -6168,24 +6168,24 @@ Auletta,171593
 Baronissi,430000
 Battipaglia,666432
 Bellosguardo,81564
-Bracigliano,232402
+Bracigliano,225199
 Buccino,239749
 Buonabitacolo,233371
 Caggiano,189292
 Calvanico,197130
 Camerota,374140
-Campagna,350697
+Campagna,339556
 Campora,174668
 Cannalonga,194699
-Capaccio Paestum,771312
+Capaccio Paestum,649305
 Casalbuono,174668
 Casaletto Spartano,94746
 Casal Velino,251615
 Caselle in Pittari,196491
 Castelcivita,114413
-Castellabate,372481
-Castelnuovo Cilento,54499
-Castelnuovo di Conza,73848
+Castellabate,355331
+Castelnuovo Cilento,33132
+Castelnuovo di Conza,65829
 Castel San Giorgio,382319
 Castel San Lorenzo,127177
 Castiglione del Genovesi,191666
@@ -6198,9 +6198,9 @@ Cicerale,182560
 Colliano,198585
 Conca dei Marini,151521
 Controne,89934
-Contursi Terme,270292
+Contursi Terme,239942
 Corbara,191057
-Corleto Monforte,81315
+Corleto Monforte,76455
 Cuccaro Vetere,204542
 Eboli,819120
 Felitto,110528
@@ -6209,12 +6209,12 @@ Furore,170469
 Futani,225575
 Giffoni Sei Casali,211962
 Giffoni Valle Piana,415575
-Gioi,229891
+Gioi,217741
 Giungano,200769
 Ispani,151521
 Laureana Cilento,161233
-Laurino,216561
-Laurito,197495
+Laurino,204411
+Laurito,192878
 Laviano,213202
 Lustra,186201
 Magliano Vetere,215345
@@ -6222,17 +6222,17 @@ Maiori,354881
 Mercato San Severino,801508
 Minori,171819
 Moio della Civitella,182560
-Montano Antilia,207446
-Montecorice,216316
+Montano Antilia,174668
+Montecorice,205138
 Montecorvino Pugliano,378111
 Montecorvino Rovella,337801
 Monteforte Cilento,178836
 Monte San Giacomo,154518
 Montesano sulla Marcellana,215692
-Morigerati,181229
+Morigerati,174668
 Nocera Inferiore,914955
 Nocera Superiore,528962
-Novi Velia,49297
+Novi Velia,37147
 Ogliastro Cilento,147411
 Olevano sul Tusciano,379327
 Oliveto Citra,258041
@@ -6246,39 +6246,39 @@ Pellezzano,458375
 Perdifumo,176410
 Perito,192271
 Pertosa,120002
-Petina,155922
+Petina,149847
 Piaggine,233371
 Pisciotta,151521
 Polla,274431
 Pollica,259351
-Pontecagnano Faiano,467454
+Pontecagnano Faiano,431054
 Positano,235813
 Postiglione,180885
 Praiano,121697
 Prignano Cilento,101423
 Ravello,224452
 Ricigliano,183672
-Roccadaspide,344935
-Roccagloriosa,165754
+Roccadaspide,341848
+Roccagloriosa,161380
 Roccapiemonte,22897
 Rofrano,40620
 Romagnano al Monte,208912
 Roscigno,179524
 Rutino,175394
-Sacco,216561
+Sacco,204411
 Sala Consilina,411100
 Salento,218136
 Salerno,9521914
 Salvitelle,186808
 San Cipriano Picentino,331978
-San Giovanni a Piro,177458
+San Giovanni a Piro,167495
 San Gregorio Magno,198403
 San Mango Piemonte,169236
 San Marzano sul Sarno,352763
 San Mauro Cilento,186818
 San Mauro la Bruca,188674
 San Pietro al Tanagro,203929
-San Rufo,196765
+San Rufo,174668
 Santa Marina,212347
 Sant'Angelo a Fasanella,144198
 Sant'Arsenio,232581
@@ -6287,16 +6287,16 @@ Santomenna,105551
 San Valentino Torio,362012
 Sanza,223835
 Sapri,413014
-Sarno,705879
+Sarno,702239
 Sassano,149167
-Scafati,635376
+Scafati,598976
 Scala,150496
 Serramezzana,176410
 Serre,229013
 Sessa Cilento,158199
 Siano,247195
 Sicignano degli Alburni,230271
-Stella Cilento,143172
+Stella Cilento,140742
 Stio,206242
 Teggiano,400474
 Torchiara,202590
@@ -6305,9 +6305,9 @@ Torre Orsaia,165024
 Tortorella,197734
 Tramonti,236606
 Trentinara,190455
-Valle dell'Angelo,210853
+Valle dell'Angelo,201376
 Vallo della Lucania,422272
-Valva,220193
+Valva,174668
 Vibonati,228811
 Vietri sul Mare,362800
 Bellizzi,325416
@@ -6316,7 +6316,7 @@ Alberona,191625
 Anzano di Puglia,89448
 Apricena,361307
 Ascoli Satriano,346947
-Biccari,254224
+Biccari,251065
 Bovino,272384
 Cagnano Varano,214651
 Candela,240354
@@ -6328,17 +6328,17 @@ Casalvecchio di Puglia,165172
 Castelluccio dei Sauri,127026
 Castelluccio Valmaggiore,92994
 Castelnuovo della Daunia,186102
-Celenza Valfortore,248799
+Celenza Valfortore,241023
 Celle di San Vito,196886
 Cerignola,1161668
 Chieuti,137485
-Deliceto,202394
+Deliceto,197291
 Faeto,181468
 Foggia,4358092
 Ischitella,247818
 Isole Tremiti,95419
 Lesina,201414
-Lucera,410135
+Lucera,401399
 Manfredonia,1089629
 Mattinata,171923
 Monteleone di Puglia,127167
@@ -6349,8 +6349,8 @@ Orta Nova,318484
 Panni,181712
 Peschici,147937
 Pietramontecorvino,177112
-Poggio Imperiale,213421
-Rignano Garganico,112745
+Poggio Imperiale,210748
+Rignano Garganico,105212
 Rocchetta Sant'Antonio,207812
 Rodi Garganico,218699
 Roseto Valfortore,121684
@@ -6372,11 +6372,11 @@ Volturara Appula,196036
 Volturino,91251
 Ordona,175897
 Zapponeta,230632
-Acquaviva delle Fonti,754634
+Acquaviva delle Fonti,718234
 Adelfia,359742
 Alberobello,408541
 Altamura,1107351
-Bari,13564812
+Bari,13341816
 Binetto,182440
 Bitetto,430007
 Bitonto,1175822
@@ -6399,7 +6399,7 @@ Molfetta,794198
 Monopoli,823721
 Noci,332357
 Noicattaro,698451
-Palo del Colle,720180
+Palo del Colle,713628
 Poggiorsini,148859
 Polignano a Mare,280848
 Putignano,717558
@@ -6407,17 +6407,17 @@ Rutigliano,404226
 Ruvo di Puglia,788141
 Sammichele di Bari,359585
 Sannicandro di Bari,317116
-Santeramo in Colle,755514
+Santeramo in Colle,738770
 Terlizzi,788846
 Toritto,338223
 Triggiano,725073
 Turi,414764
-Valenzano,256075
+Valenzano,240297
 Avetrana,418000
 Carosino,387765
 Castellaneta,325066
 Crispiano,358145
-Faggiano,212416
+Faggiano,209986
 Fragagnano,344159
 Ginosa,793282
 Grottaglie,778944
@@ -6426,7 +6426,7 @@ Leporano,380418
 Lizzano,219372
 Manduria,765719
 Martina Franca,731926
-Maruggio,423458
+Maruggio,406308
 Massafra,689908
 Monteiasi,377417
 Montemesola,144033
@@ -6434,7 +6434,7 @@ Monteparano,185126
 Mottola,316335
 Palagianello,383347
 Palagiano,396271
-Pulsano,92231
+Pulsano,89830
 Roccaforzata,214976
 San Giorgio Ionico,381486
 San Marzano di San Giuseppe,363216
@@ -6451,7 +6451,7 @@ Erchie,321377
 Fasano,482441
 Francavilla Fontana,917712
 Latiano,358684
-Mesagne,702575
+Mesagne,680007
 Oria,242852
 Ostuni,772817
 San Donaci,259435
@@ -6513,7 +6513,7 @@ Montesano Salentino,225539
 Morciano di Leuca,137366
 Muro Leccese,229805
 Nardò,755893
-Neviano,246161
+Neviano,234011
 Nociglia,95280
 Novoli,328298
 Ortelle,200776
@@ -6542,7 +6542,7 @@ Squinzano,343543
 Sternatia,154929
 Supersano,206927
 Surano,94746
-Surbo,243362
+Surbo,228270
 Taurisano,406486
 Taviano,397741
 Tiggiano,207931
@@ -6557,8 +6557,8 @@ Zollino,174668
 San Cassiano,174668
 Castro,180131
 Porto Cesareo,249426
-Andria,1944322
-Barletta,1180756
+Andria,1907922
+Barletta,1144356
 Bisceglie,1047817
 Canosa di Puglia,655415
 Margherita di Savoia,394767
@@ -6580,7 +6580,7 @@ Baragiano,209677
 Barile,127122
 Bella,220139
 Brienza,227354
-Brindisi Montagna,235378
+Brindisi Montagna,223228
 Calvello,198877
 Calvera,212919
 Campomaggiore,204053
@@ -6632,7 +6632,7 @@ Pignola,403730
 Potenza,6416483
 Rapolla,214605
 Rapone,208303
-Rionero in Vulture,714723
+Rionero in Vulture,697573
 Ripacandida,178888
 Rivello,239504
 Roccanova,213526
@@ -6685,12 +6685,12 @@ Miglionico,169628
 Montalbano Jonico,375870
 Montescaglioso,381020
 Nova Siri,406263
-Oliveto Lucano,201499
+Oliveto Lucano,199555
 Pisticci,365747
 Policoro,223733
 Pomarico,203045
 Rotondella,214133
-Salandra,240846
+Salandra,209889
 San Giorgio Lucano,180102
 San Mauro Forte,193175
 Stigliano,209841
@@ -6698,15 +6698,15 @@ Tricarico,182102
 Tursi,216867
 Valsinni,201875
 Scanzano Jonico,177913
-Acquaformosa,189243
-Acquappesa,121929
-Acri,443238
+Acquaformosa,180738
+Acquappesa,117069
+Acri,426088
 Aiello Calabro,185594
 Aieta,235498
 Albidona,85754
 Alessandria del Carretto,190336
 Altilia,179568
-Altomonte,121015
+Altomonte,111781
 Amantea,348632
 Amendolara,111216
 Aprigliano,207092
@@ -6719,14 +6719,14 @@ Bocchigliero,233547
 Bonifati,198627
 Buonvicino,215468
 Calopezzati,176403
-Caloveto,115121
+Caloveto,104672
 Campana,213040
-Canna,109928
+Canna,101423
 Cariati,294040
 Carolei,7301
 Carpanzano,170085
 Cassano all'Ionio,387056
-Castiglione Cosentino,215587
+Castiglione Cosentino,205138
 Castrolibero,371444
 Castroregio,167715
 Castrovillari,816419
@@ -6734,10 +6734,10 @@ Celico,222788
 Cellara,194708
 Cerchiara di Calabria,120774
 Cerisano,234965
-Cervicati,180822
+Cervicati,171345
 Cerzeto,151521
 Cetraro,402468
-Civita,166986
+Civita,160668
 Cleto,184548
 Colosimi,177827
 Cosenza,3421759
@@ -6777,15 +6777,15 @@ Marzi,207698
 Mendicino,369681
 Mongrassano,153613
 Montalto Uffugo,466556
-Montegiordano,124116
+Montegiordano,117069
 Morano Calabro,144902
 Mormanno,243726
 Mottafollone,200655
 Nocara,112476
-Oriolo,87064
+Oriolo,80746
 Orsomarso,208058
 Paludi,202590
-Panettieri,205026
+Panettieri,195306
 Paola,447566
 Papasidero,202838
 Parenti,129862
@@ -6798,19 +6798,19 @@ Plataci,198711
 Praia a Mare,378388
 Rende,987991
 Rocca Imperiale,204307
-Roggiano Gravina,421103
+Roggiano Gravina,404982
 Rogliano,366505
-Rose,225586
+Rose,214651
 Roseto Capo Spulico,207417
-Rota Greca,204421
+Rota Greca,192271
 Rovito,194697
 San Basile,87754
 San Benedetto Ullano,209031
 San Cosmo Albanese,200171
-San Demetrio Corone,251678
-San Donato di Ninea,162431
+San Demetrio Corone,214651
+San Donato di Ninea,159272
 San Fili,223217
-Sangineto,59459
+Sangineto,47319
 San Giorgio Albanese,195913
 San Giovanni in Fiore,404610
 San Lorenzo Bellizzi,127208
@@ -6824,7 +6824,7 @@ San Pietro in Guarano,142352
 San Sosti,224750
 Santa Caterina Albanese,219109
 Santa Domenica Talao,164496
-Sant'Agata di Esaro,158805
+Sant'Agata di Esaro,127241
 Santa Maria del Cedro,216084
 Santa Sofia d'Epiro,173980
 Santo Stefano di Rogliano,182848
@@ -6842,14 +6842,14 @@ Terravecchia,207781
 Torano Castello,247321
 Tortora,422187
 Trebisacce,379085
-Vaccarizzo Albanese,190607
+Vaccarizzo Albanese,178457
 Verbicaro,222741
-Villapiana,396470
+Villapiana,379663
 Zumpano,194560
 Casali del Manco,382757
-Corigliano-Rossano,1156497
+Corigliano-Rossano,1121898
 Albi,200898
-Amaroni,170948
+Amaroni,167303
 Amato,186123
 Andali,104096
 Argusto,61427
@@ -6873,7 +6873,7 @@ Curinga,401693
 Davoli,345123
 Decollatura,242553
 Falerna,230192
-Feroleto Antico,234164
+Feroleto Antico,222014
 Fossato Serralta,86761
 Gagliato,41276
 Gasperina,170324
@@ -6903,7 +6903,7 @@ Pianopoli,251877
 Platania,182478
 San Floro,181496
 San Mango d'Aquino,201442
-San Pietro a Maida,248235
+San Pietro a Maida,205138
 San Pietro Apostolo,209517
 San Sostene,215954
 Santa Caterina dello Ionio,185134
@@ -6933,9 +6933,9 @@ Agnana Calabra,178556
 Anoia,160035
 Antonimina,111581
 Ardore,137727
-Bagaladi,222994
+Bagaladi,212302
 Bagnara Calabra,271463
-Benestare,203354
+Benestare,191204
 Bianco,216176
 Bivongi,186201
 Bova,102544
@@ -6968,8 +6968,8 @@ Giffone,166182
 Gioia Tauro,322205
 Gioiosa Ionica,429311
 Grotteria,217288
-Laganadi,118544
-Laureana di Borrello,235819
+Laganadi,108225
+Laureana di Borrello,223072
 Locri,436708
 Mammola,203168
 Marina di Gioiosa Ionica,378116
@@ -6983,14 +6983,14 @@ Monasterace,165120
 Montebello Jonico,363664
 Motta San Giovanni,364077
 Oppido Mamertina,183968
-Palizzi,189843
+Palizzi,174668
 Palmi,346458
-Pazzano,198714
+Pazzano,188022
 Placanica,181866
 Platì,220912
 Polistena,423391
 Portigliola,165258
-Reggio di Calabria,6366191
+Reggio di Calabria,5982405
 Riace,132244
 Rizziconi,373277
 Roccaforte del Greco,194094
@@ -7001,7 +7001,7 @@ Samo,156915
 San Giorgio Morgeto,194284
 San Giovanni di Gerace,182099
 San Lorenzo,160626
-San Luca,219172
+San Luca,216013
 San Pietro di Caridà,19752
 San Procopio,202234
 San Roberto,232853
@@ -7017,13 +7017,13 @@ Seminara,68711
 Serrata,170217
 Siderno,257279
 Sinopoli,86655
-Staiti,184026
+Staiti,170065
 Stignano,203961
 Stilo,188179
 Taurianova,402231
 Terranova Sappo Minulio,137521
 Varapodio,180618
-Villa San Giovanni,412075
+Villa San Giovanni,397326
 San Ferdinando,229418
 Belvedere di Spinello,210491
 Caccuri,223700
@@ -7032,7 +7032,7 @@ Casabona,214982
 Castelsilano,192418
 Cerenzia,213526
 Cirò,256974
-Cirò Marina,403112
+Cirò Marina,394537
 Cotronei,398018
 Crotone,2036304
 Crucoli,225165
@@ -7040,10 +7040,10 @@ Cutro,252335
 Isola di Capo Rizzuto,436150
 Melissa,253993
 Mesoraca,291042
-Pallagorio,227487
+Pallagorio,215337
 Petilia Policastro,332598
 Roccabernarda,215604
-Rocca di Neto,262037
+Rocca di Neto,245573
 San Mauro Marchesato,180060
 San Nicola dell'Alto,208059
 Santa Severina,164272
@@ -7074,15 +7074,15 @@ Limbadi,215435
 Maierato,187935
 Mileto,407131
 Mongiana,204431
-Monterosso Calabro,218989
+Monterosso Calabro,206839
 Nardodipace,116833
 Nicotera,345282
 Parghelia,160668
 Pizzo,335588
 Pizzoni,201993
 Polia,215347
-Ricadi,208632
-Rombiolo,197274
+Ricadi,207903
+Rombiolo,146893
 San Calogero,221893
 San Costantino Calabro,167000
 San Gregorio d'Ippona,208822
@@ -7113,7 +7113,7 @@ Erice,833489
 Favignana,195080
 Gibellina,265239
 Marsala,1233263
-Mazara del Vallo,1205183
+Mazara del Vallo,1168783
 Paceco,393231
 Pantelleria,260748
 Partanna,359349
@@ -7189,7 +7189,7 @@ Prizzi,230651
 Roccamena,160668
 Roccapalumba,198270
 San Cipirello,206986
-San Giuseppe Jato,394348
+San Giuseppe Jato,368638
 San Mauro Castelverde,97810
 Santa Cristina Gela,167531
 Santa Flavia,370812
@@ -7197,7 +7197,7 @@ Sciara,93922
 Sclafani Bagni,109528
 Termini Imerese,776697
 Terrasini,436313
-Torretta,125736
+Torretta,115044
 Trabia,373079
 Trappeto,253708
 Ustica,210390
@@ -7209,7 +7209,7 @@ Villafrati,205138
 Scillato,25533
 Blufi,93922
 Alcara li Fusi,224452
-Alì,204340
+Alì,192190
 Alì Terme,217795
 Antillo,152696
 Barcellona Pozzo di Gotto,674256
@@ -7284,7 +7284,7 @@ Roccavaldina,204218
 Roccella Valdemone,184184
 Rodì Milici,216561
 Rometta,346931
-San Filippo del Mela,414024
+San Filippo del Mela,356605
 San Fratello,252494
 San Marco d'Alunzio,214740
 San Pier Niceto,244359
@@ -7319,7 +7319,7 @@ Torrenova,227597
 Agrigento,2867380
 Alessandria della Rocca,202290
 Aragona,114476
-Bivona,252776
+Bivona,221212
 Burgio,31473
 Calamonaci,196310
 Caltabellotta,233677
@@ -7374,7 +7374,7 @@ Mussomeli,422077
 Niscemi,726279
 Resuttano,160668
 Riesi,374802
-San Cataldo,430164
+San Cataldo,398132
 Santa Caterina Villarmosa,112170
 Serradifalco,381314
 Sommatino,248716
@@ -7392,7 +7392,7 @@ Cerami,168559
 Enna,2262324
 Gagliano Castelferrato,153716
 Leonforte,410291
-Nicosia,416970
+Nicosia,399820
 Nissoria,228361
 Piazza Armerina,654367
 Pietraperzia,347042
@@ -7403,7 +7403,7 @@ Valguarnera Caropepe,398420
 Villarosa,242779
 Aci Bonaccorsi,79922
 Aci Castello,355006
-Aci Catena,358299
+Aci Catena,327342
 Acireale,1145642
 Aci Sant'Antonio,424252
 Adrano,768552
@@ -7413,7 +7413,7 @@ Bronte,226965
 Calatabiano,178570
 Caltagirone,842585
 Camporotondo Etneo,325730
-Castel di Iudica,226407
+Castel di Iudica,215715
 Castiglione di Sicilia,181897
 Catania,13361246
 Fiumefreddo di Sicilia,340696
@@ -7440,13 +7440,13 @@ Raddusa,191138
 Ramacca,389746
 Randazzo,395130
 Riposto,352797
-San Cono,215954
+San Cono,203804
 San Giovanni la Punta,623445
 San Gregorio di Catania,305957
 San Michele di Ganzaria,218100
 San Pietro Clarenza,180135
 Sant'Agata li Battiati,363373
-Sant'Alfio,200048
+Sant'Alfio,191057
 Santa Maria di Licodia,367229
 Santa Venerina,208167
 Scordia,391217
@@ -7480,7 +7480,7 @@ Carlentini,341331
 Cassaro,194021
 Ferla,224343
 Floridia,389117
-Francofonte,392532
+Francofonte,378812
 Lentini,561668
 Melilli,194506
 Noto,696029
@@ -7509,7 +7509,7 @@ Bortigiadas,17643
 Borutta,176855
 Bottidda,177365
 Buddusò,200560
-Bultei,172877
+Bultei,167531
 Bulzi,153708
 Burgos,199555
 Calangianus,210673
@@ -7539,23 +7539,23 @@ Nughedu San Nicolò,200162
 Nule,151798
 Nulvi,233062
 Olbia,2281638
-Olmedo,253101
+Olmedo,240951
 Oschiri,223879
 Osilo,253101
 Ossi,410256
 Ozieri,350553
 Padria,141349
 Palau,205379
-Pattada,223955
+Pattada,205138
 Perfugas,181750
 Ploaghe,231361
-Porto Torres,727071
+Porto Torres,710327
 Pozzomaggiore,163799
 Putifigari,77674
 Romana,188753
 Aglientu,47427
 Santa Teresa Gallura,231623
-Sassari,4550165
+Sassari,4475135
 Sedini,171283
 Semestene,141349
 Sennori,342299
@@ -7578,7 +7578,7 @@ Golfo Aranci,136454
 Loiri Porto San Paolo,250674
 Sant'Antonio di Gallura,168713
 Tergu,186818
-Santa Maria Coghinas,176646
+Santa Maria Coghinas,164496
 Erula,192517
 Stintino,206839
 Padru,167377
@@ -7594,7 +7594,7 @@ Belvì,47427
 Birori,142321
 Bitti,184538
 Bolotana,182972
-Borore,65582
+Borore,54890
 Bortigali,35573
 Desulo,182607
 Dorgali,400207
@@ -7612,7 +7612,7 @@ Jerzu,189439
 Lanusei,1330555
 Lei,185791
 Loceri,68474
-Loculi,205660
+Loculi,194239
 Lodè,177223
 Lotzorai,152089
 Lula,161380
@@ -7659,14 +7659,14 @@ Villagrande Strisaili,183976
 Cardedu,89202
 Lodine,193125
 Assemini,604188
-Cagliari,8442621
+Cagliari,8393166
 Capoterra,280720
 Decimomannu,382992
 Maracalagonis,188288
 Pula,385298
 Quartu Sant'Elena,1024947
 Sarroch,383344
-Selargius,960069
+Selargius,738654
 Sestu,679442
 Settimo San Pietro,319370
 Sinnai,340778
@@ -7686,7 +7686,7 @@ Assolo,163567
 Asuni,113880
 Baradili,166091
 Baratili San Pietro,187578
-Baressa,203930
+Baressa,198341
 Bauladu,61427
 Bidonì,91023
 Bonarcado,133250
@@ -7724,10 +7724,10 @@ San Nicolò d'Arcidano,154281
 Santa Giusta,197639
 Villa Sant'Antonio,0
 Santu Lussurgiu,44854
-San Vero Milis,212067
+San Vero Milis,184145
 Scano di Montiferro,80746
 Sedilo,190725
-Seneghe,169617
+Seneghe,160512
 Senis,86921
 Sennariolo,86501
 Siamaggiore,170380
@@ -7736,17 +7736,17 @@ Simala,63977
 Simaxis,148650
 Sini,178068
 Siris,141349
-Solarussa,78030
+Solarussa,76329
 Sorradile,160668
 Tadasuni,161987
 Terralba,333370
-Tramatza,187344
+Tramatza,175194
 Tresnuraghes,164496
 Ulà Tirso,173651
 Uras,211137
 Usellus,175806
 Villanova Truschedu,61427
-Villaurbana,191910
+Villaurbana,188022
 Villa Verde,161241
 Zeddiani,150496
 Zerfaliu,189143
@@ -7762,7 +7762,7 @@ Montresta,141349
 Sagama,141349
 Suni,164496
 Tinnura,141349
-Arbus,347651
+Arbus,344221
 Armungia,162236
 Ballao,149847
 Barrali,101045
@@ -7795,7 +7795,7 @@ Gonnesa,152073
 Gonnosfanadiga,305678
 Guamaggiore,153489
 Guasila,147369
-Guspini,407735
+Guspini,390585
 Iglesias,741078
 Isili,128896
 Las Plassas,154437
@@ -7805,7 +7805,7 @@ Masainas,154703
 Monastir,251519
 Muravera,185333
 Musei,166926
-Narcao,243910
+Narcao,240022
 Nuragus,61427
 Nurallao,174216
 Nuraminis,185506
@@ -7838,7 +7838,7 @@ Segariu,156867
 Selegas,148153
 Senorbì,231868
 Serdiana,183969
-Serramanna,321669
+Serramanna,314123
 Serrenti,93922
 Serri,151521
 Setzu,63857
@@ -7852,7 +7852,7 @@ Soleminis,185911
 Suelli,97822
 Teulada,221173
 Tratalias,200775
-Tuili,76579
+Tuili,73420
 Turri,76363
 Ussana,223495
 Ussaramanna,99476
