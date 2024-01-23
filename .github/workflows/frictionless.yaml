@@ -14,5 +14,5 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Validate data
-        uses: frictionlessdata/repository@v2
+      - name: Frictionless Repository
+        uses: frictionlessdata/frictionless-ci@v2.2.2
