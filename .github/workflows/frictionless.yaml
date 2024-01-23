@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v2
       - name: Frictionless Repository
         uses: frictionlessdata/frictionless-ci@v2.2.2
