@@ -585,7 +585,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.csv"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/avvisi.csv"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -605,7 +605,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/avvisi.json"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/avvisi.json"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -625,7 +625,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_comuni_finanziate.csv"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_comuni_finanziate.csv"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -645,7 +645,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_comuni_finanziate.json"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_comuni_finanziate.json"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -666,7 +666,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_scuole_finanziate.csv"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_scuole_finanziate.csv"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -687,7 +687,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_scuole_finanziate.json"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_scuole_finanziate.json"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -710,7 +710,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_altrienti_finanziate.csv"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_altrienti_finanziate.csv"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -731,7 +731,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_altrienti_finanziate.json"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_altrienti_finanziate.json"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -754,7 +754,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_12.csv"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_12.csv"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -774,7 +774,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_12.json"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_12.json"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -795,7 +795,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_131.csv"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_131.csv"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -815,7 +815,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_131.json"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_131.json"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -836,7 +836,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_141.csv"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_141.csv"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -856,7 +856,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_141.json"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_141.json"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -877,7 +877,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_143.csv"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_143.csv"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -897,7 +897,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_143.json"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_143.json"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -918,7 +918,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_144.csv"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_144.csv"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -938,7 +938,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_144.json"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_144.json"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -959,7 +959,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_145.csv"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_145.csv"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
@@ -979,7 +979,7 @@
     <dcat:accessURL rdf:resource="https://github.com/teamdigitale/padigitale2026-opendata/blob/main/data/candidature_finanziate_145.json"/>
     <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/teamdigitale/padigitale2026-opendata/main/data/candidature_finanziate_145.json"/>
     <dct:license>
-        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21:CCBY40">
+        <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40">
             <rdf:type rdf:resource="dct:LicenseDocument"/>
             <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
             <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
