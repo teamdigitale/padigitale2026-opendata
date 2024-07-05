@@ -10,7 +10,7 @@ df_avvisi = pd.read_csv(AVVISI_URL)
 
 df_finanziate = pd.concat(
     [
-        pd.read_csv(TEMPLATE_URL.replace('TEMPLATE',code), dtype={'cod_comune':str,'importo_finanziamento': int}) for code in ('comuni','scuole','altrienti')
+        pd.read_csv(TEMPLATE_URL.replace('TEMPLATE',code), dtype={'cod_comune':str,'importo_finanziamento': float}) for code in ('comuni','scuole','altrienti')
         ]
     )   
 # step added to momentarily fix missing dates in 'data_invio_candidatura'
