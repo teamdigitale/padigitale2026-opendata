@@ -28,6 +28,7 @@ resources:
           description: Misura del PNRR a cui l'avviso appartiene  
           constraints:
             enum:
+              - "1.1 Infrastrutture digitali"
               - "1.2 Abilitazione e facilitazione migrazione al Cloud"
               - "1.3.1 Piattaforma Digitale Nazionale Dati"
               - "1.4.1 Esperienza del cittadino nei servizi pubblici"
@@ -149,8 +150,6 @@ resources:
             - R
         - name: data_stato_candidatura
           type: date
-        - name: misura
-          type: string
   - path: data/candidature_scuole_finanziate.csv
     encoding: utf-8
     format: csv
