@@ -64,7 +64,6 @@ resources:
           description: Soggetti destinatari dell'avviso che si possono candidare su PA digitale 2026  
       primaryKey: 
         - titolo
-    scheme: file
   - path: data/candidature_comuni_finanziate.csv
     name: candidature_comuni_finanziate
     profile: tabular-data-resource
@@ -152,7 +151,6 @@ resources:
           type: date
         - name: misura
           type: string
-    scheme: file
   - path: data/candidature_scuole_finanziate.csv
     encoding: utf-8
     format: csv
@@ -239,15 +237,12 @@ resources:
             - R
         - name: data_stato_candidatura
           type: date
-        - name: misura
-          type: string
     scheme: file
   - path: data/candidature_altrienti_finanziate.csv
     encoding: utf-8
     format: csv
     hashing: md5
     name: candidature_altrienti_finanziate
-    path: data/candidature_altrienti_finanziate.csv
     profile: tabular-data-resource
     schema:
       fields:
@@ -329,15 +324,12 @@ resources:
             - R
         - name: data_stato_candidatura
           type: date
-        - name: misura
-          type: string
     scheme: file
   - path: data/candidature_finanziate_12.csv
     encoding: utf-8
     format: csv
     hashing: md5
     name: candidature_finanziate_12
-    path: data/candidature_finanziate_12.csv
     profile: tabular-data-resource
     schema:
       fields:
@@ -427,7 +419,6 @@ resources:
     format: csv
     hashing: md5
     name: candidature_finanziate_141
-    path: data/candidature_finanziate_141.csv
     profile: tabular-data-resource
     schema:
       fields:
@@ -517,7 +508,6 @@ resources:
     format: csv
     hashing: md5
     name: candidature_finanziate_143
-    path: data/candidature_finanziate_143.csv
     profile: tabular-data-resource
     schema:
       fields:
@@ -607,7 +597,6 @@ resources:
     format: csv
     hashing: md5
     name: candidature_finanziate_144
-    path: data/candidature_finanziate_144.csv
     profile: tabular-data-resource
     schema:
       fields:
@@ -697,7 +686,6 @@ resources:
     format: csv
     hashing: md5
     name: candidature_finanziate_145
-    path: data/candidature_finanziate_145.csv
     profile: tabular-data-resource
     schema:
       fields:
