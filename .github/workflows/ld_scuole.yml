@@ -12,7 +12,7 @@ jobs:
         name: Compile site assets
         runs-on: ubuntu-latest
         container:
-          image: rmlio/rmlmapper-java
+          image: rmlio/rmlmapper-java:6.2.2
           volumes:
             - ${{ github.workspace }}:/data
         steps:
