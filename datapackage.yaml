@@ -84,6 +84,8 @@ resources:
           type: string
         - name: cod_comune
           type: integer
+          missingValues:
+            - N/D
         - name: provincia
           type: string
           constraints:
@@ -135,8 +137,9 @@ resources:
         - name: codice_cup
           type: string
           constraints:
-            minLength: 0
-            maxLength: 16
+            pattern: "(CANCELLATO_)?[A-Z0-9]{15,16}"
+          missingValues:
+            - None
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
@@ -168,6 +171,8 @@ resources:
           type: string
         - name: cod_comune
           type: integer
+          missingValues:
+            - N/D
         - name: provincia
           type: string
           constraints:
@@ -214,13 +219,16 @@ resources:
           type: string
         - name: data_invio_candidatura
           type: datetime
+          missingValues:
+            - None
         - name: data_finanziamento
           type: date
         - name: codice_cup
           type: string
           constraints:
-            minLength: 0
-            maxLength: 16
+            pattern: "(CANCELLATO_)?[A-Z0-9]{15,16}"
+          missingValues:
+            - None
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
@@ -255,6 +263,8 @@ resources:
           type: string
         - name: cod_comune
           type: integer
+          missingValues:
+            - N/D
         - name: provincia
           type: string
           constraints:
@@ -301,13 +311,16 @@ resources:
           type: string
         - name: data_invio_candidatura
           type: datetime
+          missingValues:
+            - None
         - name: data_finanziamento
           type: date
         - name: codice_cup
           type: string
           constraints:
-            minLength: 0
-            maxLength: 16
+            pattern: "(CANCELLATO_)?[A-Z0-9]{15,16}"
+          missingValues:
+            - None
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
@@ -342,6 +355,8 @@ resources:
           type: string
         - name: cod_comune
           type: integer
+          missingValues:
+            - N/D
         - name: provincia
           type: string
           constraints:
@@ -393,8 +408,10 @@ resources:
         - name: codice_cup
           type: string
           constraints:
-            minLength: 0
-            maxLength: 16
+            pattern: "(CANCELLATO_)?[A-Z0-9]{15,16}"
+          missingValues:
+            - ""
+            - None
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
@@ -431,6 +448,8 @@ resources:
           type: string
         - name: cod_comune
           type: integer
+          missingValues:
+            - N/D
         - name: provincia
           type: string
           constraints:
@@ -482,8 +501,9 @@ resources:
         - name: codice_cup
           type: string
           constraints:
-            minLength: 0
-            maxLength: 16
+            pattern: "(CANCELLATO_)?[A-Z0-9]{15,16}"
+          missingValues:
+            - None
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
@@ -520,6 +540,8 @@ resources:
           type: string
         - name: cod_comune
           type: integer
+          missingValues:
+            - N/D
         - name: provincia
           type: string
           constraints:
@@ -571,8 +593,9 @@ resources:
         - name: codice_cup
           type: string
           constraints:
-            minLength: 0
-            maxLength: 16
+            pattern: "(CANCELLATO_)?[A-Z0-9]{15,16}"
+          missingValues:
+            - None
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
@@ -609,6 +632,8 @@ resources:
           type: string
         - name: cod_comune
           type: integer
+          missingValues:
+            - N/D
         - name: provincia
           type: string
           constraints:
@@ -660,8 +685,9 @@ resources:
         - name: codice_cup
           type: string
           constraints:
-            minLength: 0
-            maxLength: 16
+            pattern: "(CANCELLATO_)?[A-Z0-9]{15,16}"
+          missingValues:
+            - None
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
@@ -698,6 +724,8 @@ resources:
           type: string
         - name: cod_comune
           type: integer
+          missingValues:
+            - N/D
         - name: provincia
           type: string
           constraints:
@@ -749,8 +777,9 @@ resources:
         - name: codice_cup
           type: string
           constraints:
-            minLength: 0
-            maxLength: 16
+            pattern: "(CANCELLATO_)?[A-Z0-9]{15,16}"
+          missingValues:
+            - None
         - name: numero_finestra_temporale
           type: number
         - name: numero_di_protocollo
