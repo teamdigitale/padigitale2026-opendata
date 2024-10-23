@@ -293,7 +293,7 @@ Vialfrè,206117
 Vidracco,211459
 Vigone,381932
 Villafranca Piemonte,204200
-Villanova Canavese,84781
+Villanova Canavese,61634
 Villarbasse,191138
 Villar Dora,231239
 Villareggia,202137
@@ -315,7 +315,7 @@ Alice Castello,190695
 Arborio,178113
 Asigliano Vercellese,194891
 Balmuccia,184711
-Balocco,188629
+Balocco,165482
 Bianzè,174668
 Boccioleto,192912
 Borgo d'Ale,127349
@@ -339,7 +339,7 @@ Crescentino,377213
 Crova,175026
 Desana,77062
 Fobello,181737
-Fontanetto Po,178310
+Fontanetto Po,155163
 Formigliana,137521
 Gattinara,338013
 Ghislarengo,53071
@@ -371,7 +371,7 @@ Roasio,127349
 Ronsecco,186567
 Rossa,165124
 Rovasenda,63034
-Salasco,174668
+Salasco,151521
 Sali Vercellese,109923
 Saluggia,205867
 San Germano Vercellese,70574
@@ -921,7 +921,7 @@ Giarole,64079
 Gremiasco,193006
 Grognardo,134595
 Grondona,88233
-Guazzora,158994
+Guazzora,135847
 Isola Sant'Antonio,167062
 Lerma,71599
 Malvicino,191666
@@ -1015,7 +1015,7 @@ Valmacca,85450
 Vignale Monferrato,122443
 Vignole Borbera,88477
 Viguzzolo,235455
-Villadeati,184388
+Villadeati,161241
 Villalvernia,182104
 Villamiroglio,71599
 Villanova Monferrato,57032
@@ -1428,7 +1428,7 @@ Colonno,141349
 Como,3305288
 Corrido,50641
 Cremia,109804
-Cucciago,209755
+Cucciago,186608
 Cusino,50641
 Dizzasco,81311
 Domaso,164496
@@ -2220,7 +2220,7 @@ Castana,160668
 Casteggio,357364
 Castelletto di Branduzzo,86291
 Castello d'Agogna,91251
-Castelnovetto,174208
+Castelnovetto,151061
 Cava Manara,217162
 Cecima,154680
 Ceranova,133301
@@ -3406,7 +3406,7 @@ Martellago,692741
 Meolo,232898
 Mira,249191
 Mirano,692368
-Musile di Piave,377345
+Musile di Piave,344756
 Noale,206710
 Noventa di Piave,370726
 Pianiga,359041
@@ -3950,7 +3950,7 @@ Coreglia Ligure,127811
 Crocefieschi,237806
 Davagna,204174
 Fascia,186808
-Favale di Malvaro,175640
+Favale di Malvaro,152493
 Fontanigorda,187539
 Genova,17853073
 Gorreto,47427
@@ -4610,7 +4610,7 @@ Orbetello,390919
 Pitigliano,125663
 Roccalbegna,47427
 Roccastrada,144952
-Santa Fiora,155064
+Santa Fiora,131917
 Scansano,207168
 Scarlino,111817
 Seggiano,178882
@@ -5433,7 +5433,7 @@ Ancarano,180257
 Arsita,173983
 Atri,419678
 Basciano,160668
-Bellante,399017
+Bellante,366428
 Bisenti,184625
 Campli,340778
 Canzano,62296
@@ -5456,7 +5456,7 @@ Giulianova,700195
 Isola del Gran Sasso d'Italia,251566
 Montefino,186808
 Montorio al Vomano,345529
-Morro d'Oro,228811
+Morro d'Oro,205664
 Mosciano Sant'Angelo,363731
 Nereto,383504
 Notaresco,204288
@@ -5482,9 +5482,9 @@ Brittoli,147667
 Bussi sul Tirino,185360
 Cappelle sul Tavo,194406
 Caramanico Terme,174668
-Carpineto della Nora,107745
+Carpineto della Nora,84598
 Castiglione a Casauria,200163
-Catignano,175640
+Catignano,152493
 Cepagatti,209057
 Città Sant'Angelo,317256
 Civitaquana,147913
@@ -5657,7 +5657,7 @@ Guglionesi,260668
 Jelsi,218417
 Larino,361158
 Limosano,130688
-Lucito,162963
+Lucito,139816
 Lupara,171582
 Macchia Valfortore,151152
 Mafalda,225059
@@ -5965,7 +5965,7 @@ Casamicciola Terme,182089
 Casandrino,362489
 Casavatore,218281
 Casola di Napoli,144903
-Casoria,1152594
+Casoria,1092628
 Castellammare di Stabia,728008
 Castello di Cisterna,364951
 Cercola,362869
@@ -6218,7 +6218,7 @@ Laurito,180743
 Laviano,236349
 Lustra,192762
 Magliano Vetere,215345
-Maiori,411084
+Maiori,378495
 Mercato San Severino,784253
 Minori,171819
 Moio della Civitella,186934
@@ -6243,7 +6243,7 @@ Padula,229610
 Pagani,798553
 Palomonte,228820
 Pellezzano,458375
-Perdifumo,133918
+Perdifumo,110771
 Perito,198832
 Pertosa,120002
 Petina,155922
@@ -6577,7 +6577,7 @@ Avigliano,392139
 Balvano,174389
 Banzi,180709
 Baragiano,209677
-Barile,93355
+Barile,70208
 Bella,212838
 Brienza,149457
 Brindisi Montagna,219352
@@ -6742,7 +6742,7 @@ Cleto,207695
 Colosimi,224566
 Cosenza,3172228
 Cropalati,201854
-Crosia,402282
+Crosia,369693
 Diamante,418579
 Dipignano,143178
 Domanico,194221
@@ -6834,7 +6834,7 @@ Scala Coeli,193164
 Scalea,391066
 Scigliano,166229
 Serra d'Aiello,186957
-Spezzano Albanese,426556
+Spezzano Albanese,393967
 Spezzano della Sila,255451
 Tarsia,127966
 Terranova da Sibari,237541
@@ -6983,7 +6983,7 @@ Monasterace,197142
 Montebello Jonico,363664
 Motta San Giovanni,364077
 Oppido Mamertina,226622
-Palizzi,174668
+Palizzi,151521
 Palmi,346458
 Pazzano,191667
 Placanica,181866
@@ -7062,7 +7062,7 @@ Dasà,201285
 Dinami,140342
 Drapia,135942
 Fabrizia,208948
-Filadelfia,150120
+Filadelfia,126973
 Filandari,185594
 Filogaso,214250
 Francavilla Angitola,209311
