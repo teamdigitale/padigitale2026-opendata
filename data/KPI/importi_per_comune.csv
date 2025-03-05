@@ -1674,7 +1674,7 @@ Mediglia,312638
 Melegnano,367969
 Melzo,255820
 Mesero,77897
-Milano,25658030
+Milano,25644030
 Morimondo,199723
 Motta Visconti,405803
 Nerviano,370090
@@ -1976,7 +1976,7 @@ Algua,205782
 Cornalba,47427
 Medolago,67507
 Solza,23147
-Sant'Omobono Terme,99198
+Sant'Omobono Terme,85198
 Val Brembilla,247385
 Acquafredda,128531
 Adro,337460
@@ -2534,7 +2534,7 @@ San Giovanni del Dosso,189774
 San Martino dall'Argine,201893
 Schivenoglia,183942
 Sermide e Felonica,343920
-Serravalle a Po,193042
+Serravalle a Po,179042
 Solferino,103968
 Sustinente,177584
 Suzzara,433223
@@ -3220,7 +3220,7 @@ Valdagno,681143
 Valdastico,197784
 Valli del Pasubio,213643
 Velo d'Astico,66149
-Vicenza,3336343
+Vicenza,3322343
 Villaga,197917
 Villaverla,327408
 Zanè,297570
@@ -3423,7 +3423,7 @@ Spinea,636044
 Stra,223723
 Teglio Veneto,173521
 Torre di Mosto,212185
-Venezia,12983319
+Venezia,12969319
 Vigonovo,367368
 Cavallino-Treporti,261108
 Abano Terme,672035
@@ -4139,7 +4139,7 @@ Gattatico,222075
 Gualtieri,429413
 Guastalla,422765
 Luzzara,384273
-Montecchio Emilia,248906
+Montecchio Emilia,234906
 Novellara,395568
 Poviglio,414750
 Quattro Castella,211332
@@ -4180,7 +4180,7 @@ Maranello,388742
 Marano sul Panaro,353672
 Medolla,381647
 Mirandola,622919
-Modena,8518689
+Modena,8504689
 Montecreto,193541
 Montefiorino,194119
 Montese,234377
@@ -4273,7 +4273,7 @@ Masi Torello,199074
 Mesola,405869
 Ostellato,253126
 Poggio Renatico,386501
-Portomaggiore,276461
+Portomaggiore,262461
 Vigarano Mainarda,339431
 Voghiera,210983
 Goro,213886
@@ -4292,7 +4292,7 @@ Faenza,1250505
 Fusignano,379499
 Lugo,740555
 Massa Lombarda,383713
-Ravenna,4705767
+Ravenna,4691767
 Riolo Terme,386709
 Russi,279077
 Sant'Agata sul Santerno,227737
@@ -4434,7 +4434,7 @@ Certaldo,352897
 Dicomano,398075
 Empoli,791510
 Fiesole,385231
-Firenze,16884422
+Firenze,16870422
 Firenzuola,214617
 Fucecchio,739775
 Gambassi Terme,237169
@@ -4505,7 +4505,7 @@ Peccioli,156817
 Pisa,6905291
 Pomarance,344519
 Ponsacco,398725
-Pontedera,814843
+Pontedera,800843
 Riparbella,201018
 San Giuliano Terme,631532
 San Miniato,367955
@@ -4623,7 +4623,7 @@ Montemurlo,374095
 Poggio a Caiano,178361
 Prato,1745279
 Vaiano,184503
-Vernio,182955
+Vernio,168955
 Assisi,564014
 Bastia Umbra,717502
 Bettona,77897
@@ -6042,7 +6042,7 @@ Aquilonia,194746
 Ariano Irpino,825070
 Atripalda,404848
 Avella,424120
-Avellino,4214363
+Avellino,4200363
 Bagnoli Irpino,251277
 Baiano,174786
 Bisaccia,244231
@@ -6680,7 +6680,7 @@ Gorgoglione,170199
 Grassano,218497
 Grottole,53394
 Irsina,224589
-Matera,2601497
+Matera,2587497
 Miglionico,146481
 Montalbano Jonico,373105
 Montescaglioso,397300
@@ -7659,7 +7659,7 @@ Villagrande Strisaili,223988
 Cardedu,53422
 Lodine,193125
 Assemini,604188
-Cagliari,9465828
+Cagliari,9451828
 Capoterra,284038
 Decimomannu,365842
 Maracalagonis,234940
