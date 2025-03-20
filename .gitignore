@@ -1,3 +1,5 @@
 template/
 .DS_store
 notebook/
+/.direnv
+/.venv
