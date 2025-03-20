@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "jsforce": "npm:jsforce@^3.6.6"
+  }
+}
