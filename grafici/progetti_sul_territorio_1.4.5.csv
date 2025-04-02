@@ -1,0 +1,21 @@
+Regione__c,count(Id)
+Emilia-Romagna,402
+Sardegna,308
+Campania,545
+Puglia,263
+Lombardia,1440
+Friuli-Venezia Giulia,188
+Molise,143
+Piemonte,1136
+Umbria,82
+Toscana,265
+Sicilia,367
+Basilicata,127
+Veneto,579
+Abruzzo,328
+Calabria,393
+Trentino-Alto Adige/Südtirol,295
+Marche,212
+Lazio,347
+Liguria,224
+Valle d'Aosta/Vallée d'Aoste,63
