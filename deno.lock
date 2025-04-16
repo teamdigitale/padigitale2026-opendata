@@ -1,8 +1,21 @@
 {
   "version": "4",
   "specifiers": {
+    "jsr:@std/csv@*": "1.0.5",
+    "jsr:@std/streams@^1.0.8": "1.0.9",
     "npm:jsforce@*": "3.6.6",
     "npm:jsforce@^3.6.6": "3.6.6"
+  },
+  "jsr": {
+    "@std/csv@1.0.5": {
+      "integrity": "02006ffd77e84b2bf01968d4e792f0b5cba057c73dc6a89accb96d803493675f",
+      "dependencies": [
+        "jsr:@std/streams"
+      ]
+    },
+    "@std/streams@1.0.9": {
+      "integrity": "a9d26b1988cdd7aa7b1f4b51e1c36c1557f3f252880fa6cc5b9f37078b1a5035"
+    }
   },
   "npm": {
     "@babel/runtime-corejs3@7.26.10": {
