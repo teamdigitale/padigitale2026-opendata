@@ -17,6 +17,7 @@
       in {
         devShells.default = pkgs.mkShell {
           packages = [
+            pkgs.deno
             (pkgs.python3.withPackages (python-pkgs: [
               python-pkgs.numpy
               python-pkgs.pandas

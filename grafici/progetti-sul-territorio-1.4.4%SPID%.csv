@@ -1,4 +1,4 @@
-Regione__c,count(Id)
+Regione__c,expr0
 Emilia-Romagna,422
 Sardegna,478
 Campania,625
