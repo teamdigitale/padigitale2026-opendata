@@ -1173,7 +1173,7 @@ Vogogna,87439
 Borgomezzavalle,69899
 Allein,199603
 Antey-Saint-André,74881
-Aosta,4580127
+Aosta,4590132
 Arnad,205675
 Arvier,59853
 Avise,56211
@@ -3742,7 +3742,7 @@ Monrupino-Repentabor,46213
 Muggia,333850
 San Dorligo della Valle-Dolina,235593
 Sgonico-Zgonik,442544
-Trieste,4862981
+Trieste,4889181
 Andreis,106997
 Arba,140098
 Aviano,216101
@@ -4434,7 +4434,7 @@ Certaldo,352897
 Dicomano,398075
 Empoli,801669
 Fiesole,394210
-Firenze,17076465
+Firenze,17170929
 Firenzuola,220790
 Fucecchio,753805
 Gambassi Terme,243342
@@ -4502,7 +4502,7 @@ Montopoli in Val d'Arno,398358
 Orciano Pisano,90773
 Palaia,240578
 Peccioli,156817
-Pisa,7013990
+Pisa,7096646
 Pomarance,401775
 Ponsacco,398725
 Pontedera,814873
@@ -4519,7 +4519,7 @@ Volterra,438199
 Casciana Terme Lari,394308
 Crespina Lorenzana,318794
 Anghiari,397979
-Arezzo,3755380
+Arezzo,3802612
 Badia Tedalda,180564
 Bibbiena,236421
 Bucine,178146
@@ -4583,7 +4583,7 @@ San Casciano dei Bagni,115413
 San Gimignano,360439
 San Quirico d'Orcia,103659
 Sarteano,242300
-Siena,2869545
+Siena,2893161
 Sinalunga,431657
 Sovicille,411012
 Torrita di Siena,434002
@@ -5178,7 +5178,7 @@ San Vito Romano,146152
 Saracinesco,154989
 Segni,419595
 Subiaco,419586
-Tivoli,2965821
+Tivoli,3024861
 Tolfa,245069
 Torrita Tiberina,155969
 Trevignano Romano,426919
@@ -5206,7 +5206,7 @@ Fondi,659641
 Formia,841688
 Gaeta,416441
 Itri,412522
-Latina,7283519
+Latina,7354367
 Lenola,203486
 Maenza,248852
 Minturno,394431
@@ -5542,7 +5542,7 @@ Castel Frentano,254720
 Castelguidone,184425
 Castiglione Messer Marino,212232
 Celenza sul Trigno,210775
-Chieti,2252604
+Chieti,2305740
 Civitaluparella,190877
 Civitella Messer Raimondo,186853
 Colledimacine,238100
@@ -5782,7 +5782,7 @@ Casagiove,349857
 Casal di Principe,246329
 Casaluce,365839
 Casapulla,402268
-Caserta,8644540
+Caserta,8709484
 Castel Campagnano,189041
 Castel di Sasso,178698
 Castello del Matese,124901
@@ -5974,7 +5974,7 @@ Cimitile,197184
 Comiziano,173521
 Crispano,403433
 Forio,413349
-Frattamaggiore,7803801
+Frattamaggiore,7910073
 Frattaminore,415593
 Giugliano in Campania,2188173
 Gragnano,717502
@@ -5991,7 +5991,7 @@ Melito di Napoli,719599
 Meta,418312
 Monte di Procida,400591
 Mugnano di Napoli,732770
-Napoli,27312298
+Napoli,27825946
 Nola,736860
 Ottaviano,773389
 Palma Campania,285618
@@ -6268,7 +6268,7 @@ Rutino,179322
 Sacco,218059
 Sala Consilina,415655
 Salento,227773
-Salerno,11867720
+Salerno,11956280
 Salvitelle,185076
 San Cipriano Picentino,416690
 San Giovanni a Piro,253216
@@ -6334,7 +6334,7 @@ Cerignola,1186606
 Chieuti,140441
 Deliceto,241622
 Faeto,185396
-Foggia,5435649
+Foggia,5488229
 Ischitella,224823
 Isole Tremiti,121402
 Lesina,269889
@@ -6376,7 +6376,7 @@ Acquaviva delle Fonti,738851
 Adelfia,385780
 Alberobello,417520
 Altamura,1135903
-Bari,15129664
+Bari,15208264
 Binetto,186368
 Bitetto,420989
 Bitonto,1208133
@@ -6439,7 +6439,7 @@ Roccaforzata,211869
 San Giorgio Ionico,378471
 San Marzano di San Giuseppe,372748
 Sava,237260
-Taranto,3801985
+Taranto,3813793
 Torricella,206416
 Statte,213136
 Brindisi,1591091
@@ -6629,10 +6629,10 @@ Picerno,377632
 Pietragalla,233048
 Pietrapertosa,208349
 Pignola,378429
-Potenza,7291402
+Potenza,7466112
 Rapolla,218566
 Rapone,212231
-Rionero in Vulture,904687
+Rionero in Vulture,916495
 Ripacandida,182816
 Rivello,245677
 Roccanova,217454
@@ -6680,7 +6680,7 @@ Gorgoglione,195086
 Grassano,233168
 Grottole,110111
 Irsina,246544
-Matera,2587497
+Matera,2634729
 Miglionico,150409
 Montalbano Jonico,382084
 Montescaglioso,397300
@@ -7178,7 +7178,7 @@ Monreale,654676
 Montelepre,368788
 Montemaggiore Belsito,147952
 Palazzo Adriano,205314
-Palermo,20115255
+Palermo,20256861
 Partinico,861384
 Petralia Soprana,246527
 Petralia Sottana,255116
@@ -7255,7 +7255,7 @@ Malvagna,223845
 Mandanici,192528
 Mazzarrà Sant'Andrea,194956
 Merì,228380
-Messina,6743822
+Messina,6861902
 Milazzo,798364
 Militello Rosmarino,228987
 Mirto,227166
@@ -7362,7 +7362,7 @@ Villafranca Sicula,178596
 Acquaviva Platani,89691
 Bompensiere,152081
 Butera,233655
-Caltanissetta,2909054
+Caltanissetta,2944478
 Campofranco,223090
 Delia,244613
 Gela,1255416
@@ -7415,7 +7415,7 @@ Caltagirone,861039
 Camporotondo Etneo,342255
 Castel di Iudica,221790
 Castiglione di Sicilia,211217
-Catania,14126508
+Catania,14178908
 Fiumefreddo di Sicilia,349675
 Giarre,855448
 Grammichele,394552
