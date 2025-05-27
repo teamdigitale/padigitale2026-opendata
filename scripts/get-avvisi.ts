@@ -3,21 +3,13 @@ import { PaDigitale2026 } from "./schema.d.ts";
 
 const conn = new jsforce.Connection<PaDigitale2026>();
 
-const username = Deno.env.get("SF_USERNAME");
-const password = Deno.env.get("SF_PASSWORD");
-const securityToken = Deno.env.get("SF_SECURITY_TOKEN");
+const username = Deno.env.get("SF_USERNAME") || "";
+const password = Deno.env.get("SF_PASSWORD") || "";
+const securityToken = Deno.env.get("SF_SECURITY_TOKEN") || "";
 
 const avvisiJson = "dati/avvisi.json";
 
 try {
-  if (
-    typeof username === "undefined" ||
-    typeof password === "undefined" ||
-    typeof securityToken === "undefined"
-  ) {
-    throw new Error("missing credentials");
-  }
-
   await conn.login(username, password + securityToken);
 
   const records = await conn
@@ -26,7 +18,7 @@ try {
     .autoFetch(true);
 
   const misure = records.filter(
-    (r) => r.outfunds__Parent_Funding_Program__c === null
+    (r) => r.outfunds__Parent_Funding_Program__c === null,
   );
 
   const avvisi = records
@@ -46,7 +38,7 @@ try {
       plateaPotenziale: r.Platea_potenziale__c,
       oggettoBando: r.Oggetto_Bando__c,
       misura: misure.find(
-        ({ Id }) => r.outfunds__Parent_Funding_Program__c === Id
+        ({ Id }) => r.outfunds__Parent_Funding_Program__c === Id,
       )?.Name,
     }));
 
