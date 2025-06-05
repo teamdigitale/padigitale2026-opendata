@@ -770,7 +770,7 @@ Corsione,99939
 Cortandone,199362
 Cortanze,173095
 Cortazzone,193166
-Cortiglione,100161
+Cortiglione,97731
 Cossombrato,178548
 Costigliole d'Asti,224123
 Cunico,196199
@@ -835,7 +835,7 @@ Vesime,158269
 Viale,196324
 Viarigi,190982
 Vigliano d'Asti,176745
-Villafranca d'Asti,163488
+Villafranca d'Asti,159600
 Villanova d'Asti,276424
 Villa San Secondo,153859
 Vinchio,105442
@@ -846,7 +846,7 @@ Alessandria,2861878
 Alfiano Natta,61527
 Alice Bel Colle,84674
 Altavilla Monferrato,160066
-Alzano Scrivia,112882
+Alzano Scrivia,107779
 Arquata Scrivia,409188
 Avolasca,197415
 Balzola,86479
@@ -902,7 +902,7 @@ Conzano,190009
 Costa Vescovato,119923
 Cremolino,184668
 Denice,176129
-Dernice,176949
+Dernice,168930
 Fabbrica Curone,191468
 Felizzano,219987
 Fraconalto,195367
@@ -941,8 +941,8 @@ Montaldeo,80257
 Montaldo Bormida,159057
 Montecastello,193408
 Montechiaro d'Acqui,223888
-Montegioco,111911
-Montemarzino,119316
+Montegioco,106565
+Montemarzino,114456
 Morano sul Po,167631
 Morbello,110330
 Mornese,161849
@@ -1795,7 +1795,7 @@ Casnigo,221755
 Cassiglio,85728
 Castelli Calepio,382273
 Castel Rozzone,133819
-Castione della Presolana,219330
+Castione della Presolana,211311
 Castro,128421
 Cavernago,219026
 Cazzano Sant'Andrea,76932
@@ -1974,7 +1974,7 @@ Zogno,191286
 Costa Serina,218989
 Algua,209710
 Cornalba,47427
-Medolago,71435
+Medolago,69977
 Solza,27075
 Sant'Omobono Terme,91371
 Val Brembilla,253558
@@ -2244,7 +2244,7 @@ Ferrera Erbognone,98674
 Filighera,172129
 Fortunago,172246
 Frascarolo,167229
-Galliavola,131095
+Galliavola,122590
 Gambarana,190237
 Gambolò,235605
 Garlasco,389663
@@ -2343,7 +2343,7 @@ Trivolzio,86217
 Tromello,137644
 Trovo,178486
 Val di Nizza,164596
-Valeggio,170022
+Valeggio,163947
 Valle Lomellina,200819
 Valle Salimbene,188237
 Varzi,257928
@@ -2353,7 +2353,7 @@ Verretto,207371
 Verrua Po,84674
 Vidigulfo,326095
 Vigevano,779889
-Villa Biscossi,100058
+Villa Biscossi,90095
 Villanova d'Ardenghi,209320
 Villanterio,243385
 Vistarino,207129
@@ -4474,7 +4474,7 @@ Livorno,2710502
 Marciana,164596
 Marciana Marina,209194
 Piombino,805746
-Porto Azzurro,166151
+Porto Azzurro,154001
 Portoferraio,441677
 Rosignano Marittimo,783485
 San Vincenzo,402880
@@ -4543,7 +4543,7 @@ Monterchi,141449
 Monte San Savino,308867
 Montevarchi,840736
 Ortignano Raggiolo,193412
-Pieve Santo Stefano,199501
+Pieve Santo Stefano,194398
 Poppi,363196
 San Giovanni Valdarno,397593
 Sansepolcro,424901
@@ -4554,13 +4554,13 @@ Terranuova Bracciolini,412865
 Castelfranco Piandiscò,374496
 Pratovecchio Stia,224204
 Laterina Pergine Valdarno,366156
-Abbadia San Salvatore,392607
+Abbadia San Salvatore,384718
 Asciano,376044
 Buonconvento,201139
 Casole d'Elsa,191740
 Castellina in Chianti,227492
 Castelnuovo Berardenga,430005
-Castiglione d'Orcia,191792
+Castiglione d'Orcia,183773
 Cetona,179863
 Chianciano Terme,410355
 Chiusdino,191341
@@ -4977,7 +4977,7 @@ Latera,211991
 Lubriano,154284
 Marta,241211
 Montalto di Castro,338920
-Montefiascone,376916
+Montefiascone,372800
 Monte Romano,154424
 Monterosi,212547
 Nepi,345775
@@ -5085,7 +5085,7 @@ Anzio,859446
 Arcinazzo Romano,175228
 Ariccia,382671
 Arsoli,160452
-Artena,250564
+Artena,233414
 Bellegra,65807
 Bracciano,327435
 Camerata Nuova,173530
@@ -5240,7 +5240,7 @@ Arce,428666
 Arnara,232629
 Arpino,353351
 Atina,261389
-Ausonia,118216
+Ausonia,106066
 Belmonte Castello,218668
 Boville Ernica,375737
 Broccostella,253204
@@ -5270,7 +5270,7 @@ Frosinone,3359887
 Fumone,207976
 Gallinaro,176736
 Giuliano di Roma,178596
-Guarcino,237932
+Guarcino,225782
 Isola del Liri,447645
 Monte San Giovanni Campano,377700
 Morolo,257695
@@ -5320,7 +5320,7 @@ Villa Latina,227773
 Villa Santa Lucia,256239
 Villa Santo Stefano,186027
 Viticuso,201018
-Acciano,139195
+Acciano,129718
 Aielli,124052
 Alfedena,212559
 Anversa degli Abruzzi,193164
@@ -5444,7 +5444,7 @@ Castiglione Messer Raimondo,118536
 Castilenti,193530
 Cellino Attanasio,146641
 Cermignano,175039
-Civitella del Tronto,225033
+Civitella del Tronto,224304
 Colledara,151841
 Colonnella,113715
 Controguerra,210046
@@ -5492,7 +5492,7 @@ Civitella Casanova,182267
 Collecorvino,425067
 Corvara,180705
 Cugnoli,158198
-Elice,196324
+Elice,194380
 Farindola,166500
 Lettomanoppello,230527
 Loreto Aprutino,198573
@@ -5525,7 +5525,7 @@ Altino,246885
 Archi,199383
 Ari,161748
 Arielli,122477
-Atessa,435678
+Atessa,431905
 Bomba,225101
 Borrello,223038
 Bucchianico,225501
@@ -5968,7 +5968,7 @@ Casola di Napoli,143775
 Casoria,1180593
 Castellammare di Stabia,901335
 Castello di Cisterna,387307
-Cercola,371848
+Cercola,354698
 Cicciano,410517
 Cimitile,197184
 Comiziano,173521
@@ -6514,7 +6514,7 @@ Morciano di Leuca,172068
 Muro Leccese,239849
 Nardò,766052
 Neviano,252334
-Nociglia,99149
+Nociglia,89429
 Novoli,377608
 Ortelle,204704
 Otranto,337253
@@ -6795,7 +6795,7 @@ Piane Crati,192153
 Pietrafitta,170751
 Pietrapaola,206886
 Plataci,189281
-Praia a Mare,387710
+Praia a Mare,380164
 Rende,1315947
 Rocca Imperiale,210480
 Roggiano Gravina,424251
@@ -6860,7 +6860,7 @@ Botricello,206433
 Caraffa di Catanzaro,198750
 Cardinale,122312
 Carlopoli,212598
-Catanzaro,3952357
+Catanzaro,3834277
 Cenadi,206643
 Centrache,212838
 Cerva,105135
@@ -6978,7 +6978,7 @@ Martone,148884
 Melicuccà,130662
 Melicucco,240655
 Melito di Porto Salvo,331806
-Molochio,181998
+Molochio,178596
 Monasterace,203315
 Montebello Jonico,374855
 Motta San Giovanni,373056
@@ -7100,7 +7100,7 @@ Vallelonga,212418
 Vazzano,129271
 Vibo Valentia,2026652
 Zaccanopoli,192803
-Zambrone,180178
+Zambrone,172159
 Zungri,179671
 Alcamo,790418
 Buseto Palizzolo,223218
@@ -7140,7 +7140,7 @@ Bolognetta,213841
 Bompietro,168424
 Borgetto,408082
 Caccamo,355013
-Caltavuturo,216151
+Caltavuturo,210562
 Campofelice di Fitalia,207377
 Campofelice di Roccella,378281
 Campofiorito,131550
@@ -7199,7 +7199,7 @@ Termini Imerese,808094
 Terrasini,433294
 Torretta,125591
 Trabia,389261
-Trappeto,242885
+Trappeto,230735
 Ustica,224937
 Valledolmo,246523
 Ventimiglia di Sicilia,199847
@@ -7388,7 +7388,7 @@ Barrafranca,295190
 Calascibetta,238877
 Catenanuova,222144
 Centuripe,353981
-Cerami,159284
+Cerami,154424
 Enna,2486454
 Gagliano Castelferrato,153819
 Leonforte,422837
@@ -7565,7 +7565,7 @@ Tempio Pausania,410321
 Thiesi,220302
 Tissi,198473
 Torralba,197787
-Trinità d'Agultu e Vignola,166564
+Trinità d'Agultu e Vignola,165349
 Tula,196806
 Uri,119561
 Usini,233775
