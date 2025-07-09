@@ -3,10 +3,11 @@ import type { Item } from "@datocms/cma-client/dist/types/generated/SimpleSchema
 import axios from "axios";
 import Papa from "papaparse";
 
+const log = process.env.LOG ? true : false;
 const apiToken = process.env.DATOCMS_API_TOKEN || "";
 const environment = process.env.DATOCMS_ENV || "";
 const buildTriggerId = process.env.DATOCMS_BUILD_TRIGGHER || "";
-const logLevel = LogLevel.NONE;
+const logLevel = log ? LogLevel.BASIC : LogLevel.NONE;
 const client = buildClient({ apiToken, environment, logLevel });
 
 const OPENDATA_BASEURL = process.env.RAW_REPO_URL;
@@ -99,7 +100,19 @@ async function processRecord(item: Item, recordType: string) {
   //GET FRESH DATA
   const parsedData = await getOpendataFile(open_data_path as string);
 
-  if (!parsedData) return false;
+  if (!parsedData) {
+    if (log) {
+      console.log(
+        "no data found",
+        recordType,
+        ":",
+        item.id,
+        "-",
+        open_data_path
+      );
+    }
+    return false;
+  }
 
   //UPDATE DATA
   if (recordType === KPI) {
@@ -128,24 +141,27 @@ async function processRecords(recordType = DATAVIZ) {
       ids.push(r.id);
     }
   }
+
   return ids;
 }
 (async () => {
-  // const start = Date.now();
+  const start = Date.now();
   const charts_ids = await processRecords(DATAVIZ);
+  if (log) console.log("charts_ids", charts_ids.length);
   const kpis_ids = await processRecords(KPI);
+  if (log) console.log("kpis_ids", kpis_ids.length);
   const ids = [...charts_ids, ...kpis_ids];
-  // console.log("UPDATES:", ids);
+  if (log) console.log("UPDATES:", ids);
   if (ids.length > 0) {
     //BULK PUBLISH
-    // console.log("PUBLISH!");
+    if (log) console.log("PUBLISH!");
     await bulkPublish(ids);
     //TRIGGHER BUILD
     if (buildTriggerId) {
-      // console.log("BUILD!");
+      if (log) console.log("BUILD!");
       await client.buildTriggers.trigger(buildTriggerId);
     }
   }
-  // const elapsed = Math.ceil((Date.now() - start) / 60000);
-  // console.log("finished in", elapsed, "secs");
+  const elapsed = Math.ceil((Date.now() - start) / 60000);
+  if (log) console.log("finished in", elapsed, "secs");
 })();
