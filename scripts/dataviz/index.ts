@@ -86,21 +86,28 @@ async function updateChartRecord(itemId: string, data: object) {
 
   return item;
 }
+async function updateKpiRecord(itemId: string, newValue: string) {
+  const item = await client.items.update(itemId, {
+    value: newValue,
+  });
 
-async function processRecord(item: Item, type: string) {
-  const { id, chart_data, open_data_path } = item;
-  const prevData = JSON.parse(chart_data as string);
-  // console.log("prev data", prevData.data);
+  return item;
+}
+
+async function processRecord(item: Item, recordType: string) {
+  const { id, open_data_path } = item;
   //GET FRESH DATA
   const parsedData = await getOpendataFile(open_data_path as string);
-  // console.log("new data", parsedData);
-  // TODO string to numbers
+
   if (!parsedData) return false;
-  if (type === KPI) {
-    // const newValue = parsedData[1]
-    console.log("parsedData", parsedData);
+
+  //UPDATE DATA
+  if (recordType === KPI) {
+    const prevValue = (item.value as string) || "";
+    const newValue = (parsedData as [string[]]).flat()[1] || prevValue;
+    await updateKpiRecord(id, newValue);
   } else {
-    //UPDATE DATA
+    const prevData = JSON.parse(item.chart_data as string);
     const newData = {
       ...prevData,
       data: parsedData,
@@ -116,7 +123,7 @@ async function processRecords(recordType = DATAVIZ) {
   );
   const ids = [];
   for (const r of records) {
-    const result = await processRecord(r);
+    const result = await processRecord(r, recordType);
     if (result) {
       ids.push(r.id);
     }
@@ -124,19 +131,21 @@ async function processRecords(recordType = DATAVIZ) {
   return ids;
 }
 (async () => {
-  const start = Date.now();
-  const ids = await processRecords(DATAVIZ);
-  console.log("UPDATES:", ids);
+  // const start = Date.now();
+  const charts_ids = await processRecords(DATAVIZ);
+  const kpis_ids = await processRecords(KPI);
+  const ids = [...charts_ids, ...kpis_ids];
+  // console.log("UPDATES:", ids);
   if (ids.length > 0) {
     //BULK PUBLISH
-    console.log("PUBLISH");
+    // console.log("PUBLISH!");
     await bulkPublish(ids);
     //TRIGGHER BUILD
     if (buildTriggerId) {
-      console.log("BUILD");
+      // console.log("BUILD!");
       await client.buildTriggers.trigger(buildTriggerId);
     }
   }
-  const elapsed = Math.ceil((Date.now() - start) / 60000);
-  console.log("finished in", elapsed, "secs");
+  // const elapsed = Math.ceil((Date.now() - start) / 60000);
+  // console.log("finished in", elapsed, "secs");
 })();
