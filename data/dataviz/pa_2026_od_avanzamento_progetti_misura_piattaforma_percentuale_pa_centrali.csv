@@ -1,3 +1,4 @@
-tipologia_ente;progetto;in corso;completato
-PA Centrali;1.1 Infrastrutture digitali;64.28571428571429;35.71428571428571
-PA Centrali;1.4.4 Adozione identità digitale - SPID/CIE;0.0;100.0
+tipologia_ente;PA Centrali;PA Centrali
+progetto;1.1 Infrastrutture digitali;1.4.4 Adozione identità digitale - SPID/CIE
+in corso;64.29;0.0
+completato;35.71;100.0

@@ -1,5 +1,4 @@
-tipologia_ente;progetto;in corso;completato
-PROVINCE AUTONOME;1.3.1 Piattaforma Digitale Nazionale Dati;100.0;0.0
-PROVINCE AUTONOME;1.4.3 Adozione AppIO;0.0;100.0
-PROVINCE AUTONOME;1.4.3 Adozione PagoPA;0.0;100.0
-PROVINCE AUTONOME;1.4.4 Adozione identità digitale - SPID/CIE;100.0;0.0
+tipologia_ente;PROVINCE AUTONOME;PROVINCE AUTONOME;PROVINCE AUTONOME;PROVINCE AUTONOME
+progetto;1.3.1 Piattaforma Digitale Nazionale Dati;1.4.3 Adozione AppIO;1.4.3 Adozione PagoPA;1.4.4 Adozione identità digitale - SPID/CIE
+in corso;100.0;0.0;0.0;100.0
+completato;0.0;100.0;100.0;0.0

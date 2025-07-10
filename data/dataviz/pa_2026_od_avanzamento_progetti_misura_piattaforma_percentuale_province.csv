@@ -1,3 +1,4 @@
-tipologia_ente;progetto;in corso;completato
-PROVINCE;1.2 Abilitazione e facilitazione migrazione al Cloud;100.0;0.0
-PROVINCE;1.4.4 Adozione identità digitale - SPID/CIE;23.333333333333332;76.66666666666666
+tipologia_ente;PROVINCE;PROVINCE
+progetto;1.2 Abilitazione e facilitazione migrazione al Cloud;1.4.4 Adozione identità digitale - SPID/CIE
+in corso;100.0;23.33
+completato;0.0;76.67
