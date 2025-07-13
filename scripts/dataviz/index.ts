@@ -1,6 +1,5 @@
 import { buildClient, LogLevel } from "@datocms/cma-client-node";
 import type { Item } from "@datocms/cma-client/dist/types/generated/SimpleSchemaTypes";
-import axios from "axios";
 import Papa from "papaparse";
 
 const log = process.env.LOG ? true : false;
@@ -10,20 +9,8 @@ const buildTriggerId = process.env.DATOCMS_BUILD_TRIGGHER || "";
 const logLevel = log ? LogLevel.BASIC : LogLevel.NONE;
 const client = buildClient({ apiToken, environment, logLevel });
 
-const OPENDATA_BASEURL = process.env.RAW_REPO_URL;
 const DATAVIZ = "dataviz";
 const KPI = "kpi_element";
-
-async function readCsv(url: string) {
-  try {
-    axios.defaults.timeout = 5000;
-    const response = await axios.get(url);
-    // console.log("response.data", response.data);
-    return response.data;
-  } catch (err) {
-    console.log(err);
-  }
-}
 
 async function getRecords(type = DATAVIZ) {
   const records = await client.items.list({
@@ -51,8 +38,8 @@ function parse(data: any) {
 }
 
 async function getOpendataFile(fileName: string) {
-  const url = `${OPENDATA_BASEURL}/dataviz/${fileName}`;
-  const data = await readCsv(url);
+  const pathname = `../../data/dataviz/${fileName}`;
+  const data = await Bun.file(pathname).text();
   return parse(data);
 }
 

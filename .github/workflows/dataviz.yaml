@@ -21,4 +21,3 @@ jobs:
         run: bun run index.ts
         env:
           DATOCMS_API_TOKEN: ${{ secrets.DATOCMS_API_TOKEN }}
-          RAW_REPO_URL: ${{ secrets.RAW_REPO_URL }}

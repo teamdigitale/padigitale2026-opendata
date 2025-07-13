@@ -13,7 +13,6 @@
   "dependencies": {
     "@datocms/cma-client": "^4.0.2",
     "@datocms/cma-client-node": "^4.0.2",
-    "axios": "^1.10.0",
     "papaparse": "^5.5.3"
   }
 }
