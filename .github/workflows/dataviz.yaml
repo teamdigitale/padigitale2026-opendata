@@ -1,0 +1,23 @@
+name: Dataviz
+
+defaults:
+  run:
+    working-directory: scripts/dataviz
+
+on:
+  schedule:
+    - cron: 10 2 * * *
+  workflow_dispatch:
+
+jobs:
+  dataviz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: oven-sh/setup-bun@v2
+      - name: Install dependencies
+        run: bun install
+      - name: Run DatoCMS updater script
+        run: bun run index.ts
+        env:
+          DATOCMS_API_TOKEN: ${{ secrets.DATOCMS_API_TOKEN }}
+          RAW_REPO_URL: ${{ secrets.RAW_REPO_URL }}
