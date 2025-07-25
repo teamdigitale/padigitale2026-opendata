@@ -1,21 +1,21 @@
-nome_misura;regione;numero progetti
-1.2 Abilitazione e facilitazione migrazione al Cloud;Abruzzo;461
-1.2 Abilitazione e facilitazione migrazione al Cloud;Basilicata;214
-1.2 Abilitazione e facilitazione migrazione al Cloud;Calabria;621
-1.2 Abilitazione e facilitazione migrazione al Cloud;Campania;1247
-1.2 Abilitazione e facilitazione migrazione al Cloud;Emilia-Romagna;676
-1.2 Abilitazione e facilitazione migrazione al Cloud;Friuli-Venezia Giulia;191
-1.2 Abilitazione e facilitazione migrazione al Cloud;Lazio;852
-1.2 Abilitazione e facilitazione migrazione al Cloud;Liguria;336
-1.2 Abilitazione e facilitazione migrazione al Cloud;Lombardia;2300
-1.2 Abilitazione e facilitazione migrazione al Cloud;Marche;389
-1.2 Abilitazione e facilitazione migrazione al Cloud;Molise;180
-1.2 Abilitazione e facilitazione migrazione al Cloud;Piemonte;1511
-1.2 Abilitazione e facilitazione migrazione al Cloud;Puglia;689
-1.2 Abilitazione e facilitazione migrazione al Cloud;Sardegna;537
-1.2 Abilitazione e facilitazione migrazione al Cloud;Sicilia;897
-1.2 Abilitazione e facilitazione migrazione al Cloud;Toscana;691
-1.2 Abilitazione e facilitazione migrazione al Cloud;Trentino-Alto Adige/Südtirol;374
-1.2 Abilitazione e facilitazione migrazione al Cloud;Umbria;192
-1.2 Abilitazione e facilitazione migrazione al Cloud;Valle d'Aosta/Vallée d'Aoste;101
-1.2 Abilitazione e facilitazione migrazione al Cloud;Veneto;990
+regione;numero progetti
+Abruzzo;461
+Basilicata;215
+Calabria;619
+Campania;1247
+Emilia-Romagna;676
+Friuli-Venezia Giulia;191
+Lazio;849
+Liguria;336
+Lombardia;2299
+Marche;388
+Molise;180
+Piemonte;1511
+Puglia;689
+Sardegna;537
+Sicilia;897
+Toscana;691
+Trentino-Alto Adige/Südtirol;374
+Umbria;192
+Valle d'Aosta/Vallée d'Aoste;100
+Veneto;989

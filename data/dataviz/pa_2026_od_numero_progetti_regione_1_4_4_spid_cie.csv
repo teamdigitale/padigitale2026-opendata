@@ -1,21 +1,21 @@
-nome_misura;regione;numero progetti
-1.4.4 Adozione identità digitale - SPID/CIE;Abruzzo;317
-1.4.4 Adozione identità digitale - SPID/CIE;Basilicata;116
-1.4.4 Adozione identità digitale - SPID/CIE;Calabria;403
-1.4.4 Adozione identità digitale - SPID/CIE;Campania;553
-1.4.4 Adozione identità digitale - SPID/CIE;Emilia-Romagna;357
-1.4.4 Adozione identità digitale - SPID/CIE;Friuli-Venezia Giulia;30
-1.4.4 Adozione identità digitale - SPID/CIE;Lazio;356
-1.4.4 Adozione identità digitale - SPID/CIE;Liguria;182
-1.4.4 Adozione identità digitale - SPID/CIE;Lombardia;1229
-1.4.4 Adozione identità digitale - SPID/CIE;Marche;244
-1.4.4 Adozione identità digitale - SPID/CIE;Molise;148
-1.4.4 Adozione identità digitale - SPID/CIE;Piemonte;914
-1.4.4 Adozione identità digitale - SPID/CIE;Puglia;255
-1.4.4 Adozione identità digitale - SPID/CIE;Sardegna;372
-1.4.4 Adozione identità digitale - SPID/CIE;Sicilia;434
-1.4.4 Adozione identità digitale - SPID/CIE;Toscana;290
-1.4.4 Adozione identità digitale - SPID/CIE;Trentino-Alto Adige/Südtirol;187
-1.4.4 Adozione identità digitale - SPID/CIE;Umbria;73
-1.4.4 Adozione identità digitale - SPID/CIE;Valle d'Aosta/Vallée d'Aoste;64
-1.4.4 Adozione identità digitale - SPID/CIE;Veneto;620
+regione;numero progetti
+Abruzzo;317
+Basilicata;116
+Calabria;403
+Campania;553
+Emilia-Romagna;357
+Friuli-Venezia Giulia;30
+Lazio;356
+Liguria;182
+Lombardia;1229
+Marche;244
+Molise;148
+Piemonte;914
+Puglia;255
+Sardegna;372
+Sicilia;434
+Toscana;290
+Trentino-Alto Adige/Südtirol;187
+Umbria;73
+Valle d'Aosta/Vallée d'Aoste;64
+Veneto;620

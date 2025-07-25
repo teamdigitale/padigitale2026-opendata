@@ -1,20 +1,20 @@
-nome_misura;regione;numero progetti
-1.1 Infrastrutture digitali;Abruzzo;9
-1.1 Infrastrutture digitali;Basilicata;6
-1.1 Infrastrutture digitali;Calabria;12
-1.1 Infrastrutture digitali;Campania;27
-1.1 Infrastrutture digitali;Emilia-Romagna;14
-1.1 Infrastrutture digitali;Friuli-Venezia Giulia;6
-1.1 Infrastrutture digitali;Lazio;88
-1.1 Infrastrutture digitali;Liguria;12
-1.1 Infrastrutture digitali;Lombardia;19
-1.1 Infrastrutture digitali;Marche;12
-1.1 Infrastrutture digitali;Molise;3
-1.1 Infrastrutture digitali;Piemonte;17
-1.1 Infrastrutture digitali;Puglia;14
-1.1 Infrastrutture digitali;Sardegna;17
-1.1 Infrastrutture digitali;Sicilia;25
-1.1 Infrastrutture digitali;Toscana;20
-1.1 Infrastrutture digitali;Trentino-Alto Adige/Südtirol;4
-1.1 Infrastrutture digitali;Umbria;7
-1.1 Infrastrutture digitali;Veneto;13
+regione;numero progetti
+Abruzzo;9
+Basilicata;6
+Calabria;12
+Campania;27
+Emilia-Romagna;14
+Friuli-Venezia Giulia;6
+Lazio;88
+Liguria;12
+Lombardia;19
+Marche;12
+Molise;3
+Piemonte;21
+Puglia;14
+Sardegna;17
+Sicilia;25
+Toscana;20
+Trentino-Alto Adige/Südtirol;4
+Umbria;7
+Veneto;14
