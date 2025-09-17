@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "datocms-structured-text-to-plain-text": "npm:datocms-structured-text-to-plain-text@5.1.1",
+    "jsforce": "npm:jsforce@3.10.7"
+  }
+}
