@@ -87,7 +87,7 @@ Ciriè,438097
 Claviere,208339
 Coassolo Torinese,213041
 Coazze,234991
-Collegno,1087955
+Collegno,1190105
 Colleretto Castelnuovo,176214
 Colleretto Giacosa,198754
 Condove,173265
@@ -266,7 +266,7 @@ Strambinello,175729
 Strambino,390801
 Susa,446781
 Tavagnasco,204581
-Torino,16095471
+Torino,16197621
 Torrazza Piemonte,232926
 Torre Canavese,208344
 Torre Pellice,261971
@@ -479,7 +479,7 @@ Vicolungo,164596
 Vinzaglio,186490
 Acceglio,204580
 Aisone,170059
-Alba,804645
+Alba,848910
 Albaretto della Torre,203245
 Alto,74502
 Argentera,191786
@@ -728,7 +728,7 @@ Agliano Terme,137023
 Albugnano,129469
 Antignano,161711
 Aramengo,82897
-Asti,2332457
+Asti,2366507
 Azzano d'Asti,176260
 Baldichieri d'Asti,91865
 Belveglio,112312
@@ -842,7 +842,7 @@ Vinchio,105442
 Montiglio Monferrato,222917
 Acqui Terme,446999
 Albera Ligure,125952
-Alessandria,3793590
+Alessandria,3861690
 Alfiano Natta,65853
 Alice Bel Colle,84674
 Altavilla Monferrato,164392
@@ -1585,7 +1585,7 @@ Samolaco,205282
 San Giacomo Filippo,141449
 Sernio,167026
 Sondalo,174861
-Sondrio,5332279
+Sondrio,5366329
 Spriana,164596
 Talamona,212948
 Tartano,89203
@@ -2749,7 +2749,7 @@ Appiano sulla strada del vino/Eppan an der Weinstraße,215247
 Avelengo/Hafling,174143
 Badia/Abtei,195360
 Barbiano/Barbian,181389
-Bolzano/Bozen,7342465
+Bolzano/Bozen,7444615
 Braies/Prags,136921
 Brennero/Brenner,167146
 Bressanone/Brixen,743982
@@ -3372,7 +3372,7 @@ Spresiano,416666
 Susegana,393591
 Tarzo,230136
 Trevignano,155022
-Treviso,3451878
+Treviso,3758328
 Valdobbiadene,366049
 Vazzola,356796
 Vedelago,329664
@@ -3482,7 +3482,7 @@ Montagnana,373819
 Montegrotto Terme,378163
 Noventa Padovana,359162
 Ospedaletto Euganeo,351696
-Padova,7010001
+Padova,7377441
 Pernumia,226572
 Piacenza d'Adige,205998
 Piazzola sul Brenta,309826
@@ -5000,7 +5000,7 @@ Vasanello,135002
 Vejano,178764
 Vetralla,352373
 Vignanello,216465
-Viterbo,2493692
+Viterbo,3784187
 Vitorchiano,371923
 Accumoli,146393
 Amatrice,229103
@@ -5106,7 +5106,7 @@ Cervara di Roma,166744
 Cerveteri,742846
 Ciciliano,162146
 Cineto Romano,195062
-Civitavecchia,1056934
+Civitavecchia,2347429
 Civitella San Paolo,182215
 Colleferro,872935
 Colonna,242715
@@ -5165,7 +5165,7 @@ Roccagiovine,197500
 Rocca Priora,379529
 Rocca Santo Stefano,72399
 Roiate,78712
-Roma,100688898
+Roma,103930723
 Roviano,106838
 Sacrofano,428183
 Sambuci,196109
@@ -5266,7 +5266,7 @@ Filettino,192066
 Fiuggi,384075
 Fontana Liri,265421
 Fontechiari,72600
-Frosinone,2697602
+Frosinone,3909782
 Fumone,207976
 Gallinaro,184990
 Giuliano di Roma,178596
@@ -6384,7 +6384,7 @@ Bitritto,393128
 Capurso,351511
 Casamassima,420990
 Cassano delle Murge,391800
-Castellana Grotte,920384
+Castellana Grotte,940012
 Cellamare,420583
 Conversano,747593
 Corato,874115
@@ -6629,10 +6629,10 @@ Picerno,387138
 Pietragalla,224088
 Pietrapertosa,212675
 Pignola,378429
-Potenza,6132492
+Potenza,6645552
 Rapolla,218566
 Rapone,212231
-Rionero in Vulture,685939
+Rionero in Vulture,764451
 Ripacandida,182816
 Rivello,245677
 Roccanova,221780
@@ -6680,7 +6680,7 @@ Gorgoglione,199412
 Grassano,233168
 Grottole,110111
 Irsina,246544
-Matera,2593668
+Matera,2729868
 Miglionico,150409
 Montalbano Jonico,372571
 Montescaglioso,400065
