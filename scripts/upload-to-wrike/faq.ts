@@ -50,7 +50,7 @@ export async function getFaq(): Promise<string> {
 
 ${render(body[0].content)}
 
-${slug}
+https://padigitale2026.gov.it/${slug}
 `
   ).join(`\n---\n\n`);
 }

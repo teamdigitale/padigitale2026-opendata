@@ -21,6 +21,12 @@ export async function getAvvisi() {
       `${r.Name}
 
 ${r.Oggetto_Avviso__c}
+
+Pubblicazione: ${r.outfunds__Start_Date__c}
+
+Scadenza: ${r.outfunds__End_Date__c}
+
+URL: https://areariservata.padigitale2026.gov.it/Pa_digitale2026_dettagli_avviso?id=${r.Id}
 `
     );
 
