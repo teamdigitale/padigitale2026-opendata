@@ -266,7 +266,7 @@ Strambinello,175729
 Strambino,390801
 Susa,446781
 Tavagnasco,204581
-Torino,16593267
+Torino,16589396
 Torrazza Piemonte,232926
 Torre Canavese,208344
 Torre Pellice,261971
@@ -948,7 +948,7 @@ Morbello,114656
 Mornese,166175
 Morsasco,162776
 Murisengo,189240
-Novi Ligure,821382
+Novi Ligure,814746
 Occimiano,197492
 Odalengo Grande,206479
 Odalengo Piccolo,118530
@@ -1027,7 +1027,7 @@ Voltaggio,124778
 Cassano Spinola,168922
 Alluvioni Piovera,186003
 Ailoche,112394
-Andorno Micca,212809
+Andorno Micca,208938
 Benna,104746
 Biella,1456440
 Bioglio,70104
@@ -1647,7 +1647,7 @@ Colturano,195272
 Corbetta,303849
 Cormano,792742
 Cornaredo,716107
-Corsico,678725
+Corsico,675960
 Cuggiono,255450
 Cusago,131389
 Cusano Milanino,234970
@@ -1655,7 +1655,7 @@ Dairago,419137
 Dresano,239437
 Gaggiano,360274
 Garbagnate Milanese,1812287
-Gessate,381073
+Gessate,378308
 Gorgonzola,788280
 Grezzago,220299
 Gudo Visconti,144657
@@ -1945,7 +1945,7 @@ Torre de' Busi,14247
 Torre de' Roveri,223045
 Torre Pallavicina,171459
 Trescore Balneario,248905
-Treviglio,1163169
+Treviglio,1161510
 Treviolo,314305
 Ubiale Clanezzo,191422
 Urgnano,374325
@@ -2694,7 +2694,7 @@ Arcore,373990
 Barlassina,413551
 Bellusco,325544
 Bernareggio,399791
-Besana in Brianza,430909
+Besana in Brianza,425932
 Biassono,239755
 Bovisio-Masciago,406125
 Briosco,368936
@@ -3294,7 +3294,7 @@ Arcade,235865
 Asolo,372157
 Borso del Grappa,394325
 Breda di Piave,271690
-Caerano di San Marco,390544
+Caerano di San Marco,385567
 Cappella Maggiore,239129
 Carbonera,349161
 Casale sul Sile,391153
@@ -3389,7 +3389,7 @@ Camponogara,310649
 Caorle,333664
 Cavarzere,249178
 Ceggia,391014
-Chioggia,722762
+Chioggia,718891
 Cinto Caomaggiore,190103
 Cona,236493
 Concordia Sagittaria,392027
@@ -3781,7 +3781,7 @@ Sacile,333331
 San Giorgio della Richinvelda,109242
 San Martino al Tagliamento,122123
 San Quirino,119414
-San Vito al Tagliamento,388055
+San Vito al Tagliamento,385290
 Sequals,71903
 Sesto al Reghena,316578
 Spilimbergo,316603
@@ -3952,7 +3952,7 @@ Davagna,212428
 Fascia,192194
 Favale di Malvaro,165603
 Fontanigorda,191467
-Genova,19089684
+Genova,19083048
 Gorreto,78828
 Isola del Cantone,205701
 Lavagna,260551
@@ -3976,7 +3976,7 @@ Propata,188219
 Rapallo,769425
 Recco,437884
 Rezzoaglio,184772
-Ronco Scrivia,248311
+Ronco Scrivia,247758
 Rondanina,97645
 Rossiglione,184004
 Rovegno,89000
@@ -4151,7 +4151,7 @@ Rubiera,374887
 San Martino in Rio,365318
 San Polo d'Enza,239036
 Sant'Ilario d'Enza,238406
-Scandiano,713241
+Scandiano,711029
 Toano,227915
 Vetto,201132
 Vezzano sul Crostolo,141665
@@ -4361,7 +4361,7 @@ Filattiera,222387
 Fivizzano,366017
 Fosdinovo,273152
 Licciana Nardi,158447
-Massa,2041361
+Massa,2038043
 Montignoso,244898
 Mulazzo,216435
 Podenzana,221780
@@ -4675,7 +4675,7 @@ Sellano,179112
 Sigillo,171897
 Spello,343035
 Spoleto,772871
-Todi,452537
+Todi,449772
 Torgiano,393929
 Trevi,236165
 Tuoro sul Trasimeno,114685
@@ -5130,7 +5130,7 @@ Magliano Romano,195430
 Mandela,222875
 Manziana,334474
 Marano Equo,159284
-Marcellina,403015
+Marcellina,398591
 Marino,785851
 Mazzano Romano,221955
 Mentana,792019
@@ -5542,7 +5542,7 @@ Castel Frentano,259046
 Castelguidone,188751
 Castiglione Messer Marino,216558
 Celenza sul Trigno,215101
-Chieti,3256443
+Chieti,3252572
 Civitaluparella,205409
 Civitella Messer Raimondo,186853
 Colledimacine,242426
@@ -5622,7 +5622,7 @@ Vacri,111986
 Vasto,914703
 Villalfonsina,206480
 Villamagna,211966
-Villa Santa Maria,217593
+Villa Santa Maria,213722
 Pietraferrazzana,216314
 Fallo,209525
 Acquaviva Collecroce,210243
@@ -5976,7 +5976,7 @@ Crispano,407759
 Forio,422855
 Frattamaggiore,7919579
 Frattaminore,435053
-Giugliano in Campania,2225281
+Giugliano in Campania,2220304
 Gragnano,727008
 Grumo Nevano,416020
 Ischia,455576
@@ -5991,7 +5991,7 @@ Melito di Napoli,729105
 Meta,418312
 Monte di Procida,400591
 Mugnano di Napoli,742276
-Napoli,30088664
+Napoli,30083687
 Nola,747555
 Ottaviano,799015
 Palma Campania,304608
@@ -6334,7 +6334,7 @@ Cerignola,1222056
 Chieuti,144767
 Deliceto,251128
 Faeto,189722
-Foggia,6462580
+Foggia,6452073
 Ischitella,240502
 Isole Tremiti,121402
 Lesina,279395
@@ -6485,7 +6485,7 @@ Collepasso,407829
 Copertino,732421
 Corigliano d'Otranto,389512
 Corsano,375377
-Cursi,245464
+Cursi,239934
 Cutrofiano,210336
 Diso,258943
 Gagliano del Capo,212256
