@@ -800,7 +800,7 @@ Montaldo Scarampi,110945
 Montechiaro d'Asti,154876
 Montegrosso d'Asti,201756
 Montemagno,0
-Nizza Monferrato,421276
+Nizza Monferrato,415102
 Olmo Gentile,173171
 Passerano Marmorito,153996
 Penango,103715
@@ -1173,7 +1173,7 @@ Vogogna,91765
 Borgomezzavalle,69899
 Allein,199603
 Antey-Saint-André,74881
-Aosta,4995179
+Aosta,4983371
 Arnad,205675
 Arvier,59853
 Avise,56211
@@ -1364,7 +1364,7 @@ Somma Lombardo,278542
 Sumirago,282834
 Taino,178490
 Ternate,190375
-Tradate,410942
+Tradate,406140
 Travedona-Monate,220368
 Tronzano Lago Maggiore,105958
 Uboldo,380210
@@ -1842,7 +1842,7 @@ Gandino,130401
 Gandosso,66427
 Gaverina Terme,91866
 Gazzaniga,254107
-Ghisalba,402265
+Ghisalba,397120
 Gorlago,276859
 Gorle,374347
 Gorno,132916
@@ -2681,7 +2681,7 @@ Senna Lodigiana,199645
 Somaglia,227530
 Sordio,244779
 Tavazzano con Villavesco,363664
-Terranova dei Passerini,184816
+Terranova dei Passerini,181171
 Turano Lodigiano,194987
 Valera Fratta,212304
 Villanova del Sillaro,98264
@@ -2763,7 +2763,7 @@ Castelbello-Ciardes/Kastelbell-Tschars,172322
 Castelrotto/Kastelruth,317153
 Cermes/Tscherms,173536
 Chienes/Kiens,205887
-Chiusa/Klausen,378291
+Chiusa/Klausen,376233
 Cornedo all'Isarco/Karneid,214253
 Cortaccia sulla strada del vino/Kurtatsch an der Weinstraße,134064
 Cortina sulla strada del vino/Kurtinig an der Weinstraße,81892
@@ -2778,7 +2778,7 @@ Funes/Villnöß,126451
 Gais/Gais,116400
 Gargazzone/Gargazon,171472
 Glorenza/Glurns,174872
-Laces/Latsch,180483
+Laces/Latsch,178768
 Lagundo/Algund,360730
 Laion/Lajen,201561
 Laives/Leifers,346755
@@ -2804,7 +2804,7 @@ Nova Ponente/Deutschnofen,217653
 Ora/Auer,136563
 Ortisei/St. Ulrich,213939
 Parcines/Partschins,204187
-Perca/Percha,173900
+Perca/Percha,173171
 Plaus/Plaus,114940
 Ponte Gardena/Waidbruck,19752
 Postal/Burgstall,166869
@@ -2989,7 +2989,7 @@ Tione di Trento,179019
 Ton,185595
 Torcegno,175119
 Trambileno,181269
-Trento,9669152
+Trento,9633728
 Valfloriana,153223
 Vallarsa,149591
 Vermiglio,153594
@@ -3389,7 +3389,7 @@ Camponogara,310649
 Caorle,333664
 Cavarzere,249178
 Ceggia,391014
-Chioggia,722762
+Chioggia,703834
 Cinto Caomaggiore,190103
 Cona,236493
 Concordia Sagittaria,392027
@@ -3537,7 +3537,7 @@ Bergantino,203324
 Bosaro,205751
 Calto,182221
 Canaro,242839
-Canda,182727
+Canda,178596
 Castelguglielmo,196282
 Castelmassa,225522
 Castelnovo Bariano,243444
@@ -3960,7 +3960,7 @@ Leivi,107046
 Lorsica,102354
 Lumarzo,179141
 Masone,177113
-Mele,224745
+Mele,221100
 Mezzanego,97416
 Mignanego,126074
 Moconesi,172750
@@ -4001,7 +4001,7 @@ Beverino,85995
 Bolano,307506
 Bonassola,145775
 Borghetto di Vara,201065
-Brugnato,173782
+Brugnato,168922
 Calice al Cornoviglio,141449
 Carro,164596
 Carrodano,78828
@@ -4054,7 +4054,7 @@ Gropparello,202839
 Lugagnano Val d'Arda,226245
 Monticelli d'Ongina,363945
 Morfasso,171558
-Ottone,88057
+Ottone,85870
 Piacenza,3970344
 Pianello Val Tidone,220106
 Piozzano,87571
@@ -4174,7 +4174,7 @@ Fiorano Modenese,394396
 Fiumalbo,198784
 Formigine,725977
 Frassinoro,195072
-Guiglia,224743
+Guiglia,223528
 Lama Mocogno,256006
 Maranello,416711
 Marano sul Panaro,372119
@@ -4768,7 +4768,7 @@ Vallefoglia,129174
 Colli al Metauro,372327
 Terre Roveresche,187892
 Agugliano,191465
-Ancona,9927724
+Ancona,9905713
 Arcevia,230780
 Barbara,159566
 Belvedere Ostrense,131903
@@ -4943,7 +4943,7 @@ Servigliano,194092
 Smerillo,147201
 Torre San Patrizio,103404
 Acquapendente,383020
-Arlena di Castro,152033
+Arlena di Castro,149603
 Bagnoregio,139317
 Barbarano Romano,196670
 Bassano Romano,241402
@@ -5116,7 +5116,7 @@ Formello,245673
 Frascati,723048
 Gallicano nel Lazio,366235
 Gavignano,215221
-Genazzano,369243
+Genazzano,367185
 Genzano di Roma,839450
 Gerano,102993
 Gorga,187901
@@ -5244,7 +5244,7 @@ Ausonia,110392
 Belmonte Castello,218668
 Boville Ernica,380063
 Broccostella,257530
-Campoli Appennino,211940
+Campoli Appennino,207809
 Casalattico,201260
 Casalvieri,92319
 Cassino,913628
@@ -5255,7 +5255,7 @@ Castro dei Volsci,192530
 Ceccano,773045
 Ceprano,391012
 Cervaro,434915
-Colfelice,189888
+Colfelice,187701
 Collepardo,207337
 Colle San Magno,198020
 Coreno Ausonio,184020
@@ -5275,7 +5275,7 @@ Isola del Liri,456045
 Monte San Giovanni Campano,391005
 Morolo,262021
 Paliano,166331
-Pastena,214216
+Pastena,199879
 Patrica,167649
 Pescosolido,121788
 Picinisco,199699
@@ -5368,7 +5368,7 @@ Gagliano Aterno,159954
 Gioia dei Marsi,184271
 Goriano Sicoli,151940
 Introdacqua,161411
-L'Aquila,8879068
+L'Aquila,8862693
 Lecce nei Marsi,175924
 Luco dei Marsi,373816
 Lucoli,150568
@@ -5484,7 +5484,7 @@ Cappelle sul Tavo,200093
 Caramanico Terme,199311
 Carpineto della Nora,115999
 Castiglione a Casauria,218129
-Catignano,179568
+Catignano,178596
 Cepagatti,225883
 Città Sant'Angelo,452591
 Civitaquana,156167
@@ -6062,7 +6062,7 @@ Castelvetere sul Calore,196534
 Cervinara,289210
 Cesinali,239437
 Chianche,191225
-Chiusano di San Domenico,208551
+Chiusano di San Domenico,197130
 Contrada,185803
 Conza della Campania,158258
 Domicella,184895
@@ -6430,7 +6430,7 @@ Maruggio,441096
 Massafra,793954
 Monteiasi,414655
 Montemesola,164738
-Monteparano,196243
+Monteparano,195514
 Mottola,408551
 Palagianello,397303
 Palagiano,356682
@@ -6469,7 +6469,7 @@ Andrano,231552
 Aradeo,430993
 Arnesano,230329
 Bagnolo del Salento,201016
-Botrugno,230537
+Botrugno,220817
 Calimera,408786
 Campi Salentina,212365
 Cannole,200530
@@ -7106,7 +7106,7 @@ Alcamo,861284
 Buseto Palizzolo,232724
 Calatafimi-Segesta,409300
 Campobello di Mazara,466439
-Castellammare del Golfo,396666
+Castellammare del Golfo,393236
 Castelvetrano,533930
 Custonaci,431365
 Erice,873810
@@ -7139,7 +7139,7 @@ Bisacquino,178855
 Bolognetta,218167
 Bompietro,177930
 Borgetto,417588
-Caccamo,209864
+Caccamo,204719
 Caltavuturo,217946
 Campofelice di Fitalia,211703
 Campofelice di Roccella,387787
@@ -7338,7 +7338,7 @@ Joppolo Giancaxio,187340
 Lampedusa e Linosa,355691
 Licata,783327
 Lucca Sicula,194983
-Menfi,377139
+Menfi,374052
 Montallegro,206868
 Montevago,188812
 Naro,444046
@@ -7432,7 +7432,7 @@ Mirabella Imbaccari,265234
 Misterbianco,796374
 Motta Sant'Anastasia,377856
 Nicolosi,404382
-Palagonia,406249
+Palagonia,393558
 Paternò,791556
 Pedara,404292
 Piedimonte Etneo,249356
