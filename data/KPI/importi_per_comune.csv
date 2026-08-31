@@ -1,6 +1,6 @@
 name,importo_finanziamento
 Agliè,205571
-Airasca,235005
+Airasca,247283
 Ala di Stura,229183
 Albiano d'Ivrea,192102
 Almese,405074
@@ -185,7 +185,7 @@ Pertusio,205994
 Pessinetto,96239
 Pianezza,435203
 Pinasca,162020
-Pinerolo,897661
+Pinerolo,885383
 Pino Torinese,376323
 Piobesi Torinese,221493
 Piossasco,448755
@@ -501,7 +501,7 @@ Belvedere Langhe,202108
 Bene Vagienna,269967
 Benevello,82046
 Bergolo,186267
-Bernezzo,254509
+Bernezzo,247208
 Bonvicino,134187
 Borgomale,136121
 Borgo San Dalmazzo,235612
@@ -541,7 +541,7 @@ Celle di Macra,208787
 Centallo,302730
 Ceresole Alba,84674
 Cerretto Langhe,198716
-Cervasca,191205
+Cervasca,198506
 Cervere,189139
 Ceva,425708
 Cherasco,432368
@@ -3731,12 +3731,12 @@ Soragna,233923
 Terenzo,192680
 Tizzano Val Parma,192642
 Tornolo,137730
-Torrile,389986
+Torrile,401711
 Traversetolo,396594
 Valmozzola,105428
 Varano de' Melegari,214954
 Varsi,184914
-Sissa Trecasali,358359
+Sissa Trecasali,346634
 Polesine Zibello,197311
 Sorbolo Mezzani,305350
 Albinea,210084
@@ -3756,7 +3756,7 @@ Castelnovo di Sotto,268024
 Castelnovo ne' Monti,431611
 Cavriago,238749
 Canossa,143915
-Correggio,733902
+Correggio,726601
 Fabbrico,372710
 Gattatico,237034
 Gualtieri,438919
@@ -3767,7 +3767,7 @@ Novellara,405074
 Poviglio,424256
 Quattro Castella,229817
 Reggiolo,395421
-Reggio nell'Emilia,5665422
+Reggio nell'Emilia,5672723
 Rio Saliceto,312704
 Rolo,224135
 Rubiera,374887
@@ -4155,9 +4155,9 @@ Tresana,154901
 Villafranca in Lunigiana,289964
 Zeri,230885
 Altopascio,438515
-Bagni di Lucca,404788
+Bagni di Lucca,391957
 Barga,363887
-Borgo a Mozzano,371166
+Borgo a Mozzano,383997
 Camaiore,862345
 Camporgiano,194579
 Capannori,812521
@@ -4172,17 +4172,17 @@ Lucca,2612807
 Massarosa,760359
 Minucciano,211991
 Molazzana,183699
-Montecarlo,251656
+Montecarlo,236613
 Pescaglia,194063
 Piazza al Serchio,217167
-Pietrasanta,645955
+Pietrasanta,638654
 Pieve Fosciana,202719
-Porcari,394837
+Porcari,409880
 San Romano in Garfagnana,198510
 Seravezza,200662
 Stazzema,190502
 Vagli Sotto,117815
-Viareggio,1118357
+Viareggio,1125658
 Villa Basilica,178582
 Villa Collemandina,161248
 Fabbriche di Vergemoli,178596
@@ -4212,7 +4212,7 @@ Barberino di Mugello,390233
 Borgo San Lorenzo,399322
 Calenzano,413425
 Campi Bisenzio,709603
-Capraia e Limite,209031
+Capraia e Limite,205160
 Castelfiorentino,205935
 Cerreto Guidi,372157
 Certaldo,353450
@@ -4244,7 +4244,7 @@ Sesto Fiorentino,728020
 Signa,391658
 Vaglia,370666
 Vicchio,368995
-Vinci,384669
+Vinci,388540
 Figline e Incisa Valdarno,699267
 Scarperia e San Piero,396343
 Barberino Tavarnelle,408574
@@ -4360,13 +4360,13 @@ Monticiano,189748
 Murlo,193371
 Piancastagnaio,234108
 Pienza,202353
-Poggibonsi,757020
+Poggibonsi,768192
 Radda in Chianti,135318
 Radicofani,211335
 Radicondoli,211001
 Rapolano Terme,333543
 San Casciano dei Bagni,119341
-San Gimignano,364310
+San Gimignano,353138
 San Quirico d'Orcia,107985
 Sarteano,251806
 Siena,3843863
@@ -4423,8 +4423,8 @@ Deruta,286007
 Foligno,1054251
 Fossato di Vico,201139
 Fratta Todina,170394
-Giano dell'Umbria,181686
-Gualdo Cattaneo,200711
+Giano dell'Umbria,188987
+Gualdo Cattaneo,193410
 Gualdo Tadino,409364
 Gubbio,808968
 Lisciano Niccone,107093
@@ -4879,7 +4879,7 @@ Alvignano,213611
 Arienzo,436458
 Aversa,1293432
 Baia e Latina,72680
-Bellona,363441
+Bellona,352822
 Caianello,103029
 Caiazzo,381239
 Calvi Risorta,245610
@@ -4946,7 +4946,7 @@ Roccamonfina,163175
 Roccaromana,188631
 Rocchetta e Croce,206399
 Ruviano,192636
-San Cipriano d'Aversa,365213
+San Cipriano d'Aversa,354594
 San Felice a Cancello,445595
 San Gregorio Matese,202348
 San Marcellino,317012
@@ -4972,10 +4972,10 @@ Valle Agricola,184663
 Valle di Maddaloni,238678
 Villa di Briano,436387
 Villa Literno,207950
-Vitulazio,218906
+Vitulazio,229525
 Falciano del Massico,123353
 Cellole,437366
-Casapesenna,365908
+Casapesenna,376527
 San Marco Evangelista,363284
 Airola,438569
 Amorosi,276040
@@ -7233,7 +7233,7 @@ Cattolica,397910
 Coriano,395390
 Gemmano,208059
 Misano Adriatico,402257
-Mondaino,214845
+Mondaino,204779
 Montefiore Conca,205630
 Montegridolfo,212186
 Morciano di Romagna,436683
@@ -7241,7 +7241,7 @@ Riccione,703451
 Rimini,3225910
 Saludecio,242715
 San Clemente,372166
-San Giovanni in Marignano,159497
+San Giovanni in Marignano,169563
 Santarcangelo di Romagna,743763
 Verucchio,385131
 Casteldelci,183894
@@ -7563,11 +7563,11 @@ Pattada,253446
 Perfugas,209212
 Ploaghe,241860
 Porto Torres,804501
-Pozzomaggiore,203024
+Pozzomaggiore,214196
 Putifigari,89284
 Romana,197007
 Santa Maria Coghinas,184900
-Sassari,7048230
+Sassari,7037058
 Sedini,175211
 Semestene,145277
 Sennori,403375
@@ -7637,14 +7637,14 @@ Mamoiada,189992
 Meana Sardo,131277
 Noragugume,81068
 Nuoro,5305522
-Oliena,379681
+Oliena,390853
 Ollolai,189964
 Olzai,195739
 Onanì,199953
 Onifai,37465
 Oniferi,190736
 Orani,154396
-Orgosolo,217989
+Orgosolo,206817
 Orosei,176247
 Orotelli,178832
 Ortueri,179032
@@ -7751,21 +7751,21 @@ Villaurbana,191950
 Zeddiani,171497
 Zerfaliu,164496
 Arzana,208057
-Bari Sardo,245877
+Bari Sardo,253178
 Baunei,162585
 Cardedu,79279
 Elini,79275
 Gairo,182922
 Girasole,27033
-Ilbono,200500
+Ilbono,193199
 Jerzu,195612
-Lanusei,1611221
+Lanusei,1618522
 Loceri,115657
 Lotzorai,156017
 Osini,114460
 Perdasdefogu,201666
 Talana,179598
-Tertenia,239658
+Tertenia,232357
 Tortolì,1342064
 Triei,193896
 Ulassai,154382
